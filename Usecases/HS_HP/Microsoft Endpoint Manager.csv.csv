@@ -1,0 +1,72 @@
+Category,Short Description,Description
+Microsoft Endpoint Manager,Automate device enrollment,Automate the enrollment of devices into Intune using Autopilot or bulk enrollment methods.
+Microsoft Endpoint Manager,Configure compliance policies,Automate the creation and deployment of compliance policies to ensure devices meet security and organizational standards.
+Microsoft Endpoint Manager,Deploy security baselines,Automate the deployment of Microsoft-recommended security baselines to devices for consistent security configurations.
+Microsoft Endpoint Manager,Automate app deployment,Automate the deployment of applications to devices using Intune’s app management capabilities.
+Microsoft Endpoint Manager,Configure device restrictions,"Automate the configuration of device restriction policies to control features like camera, Bluetooth, and USB access."
+Microsoft Endpoint Manager,Automate Windows updates,Automate the deployment of Windows updates to ensure devices are running the latest patches and security updates.
+Microsoft Endpoint Manager,Monitor device compliance,Automate the monitoring of device compliance status and generate reports for non-compliant devices.
+Microsoft Endpoint Manager,Automate BitLocker encryption,Automate the configuration and enforcement of BitLocker encryption on Windows devices for data protection.
+Microsoft Endpoint Manager,Configure conditional access,Automate the setup of conditional access policies to restrict access to corporate resources based on device compliance.
+Microsoft Endpoint Manager,Automate app updates,Automate the deployment of application updates to ensure users have the latest versions of installed apps.
+Microsoft Endpoint Manager,Configure Wi-Fi profiles,Automate the deployment of Wi-Fi profiles to devices for seamless connectivity to corporate networks.
+Microsoft Endpoint Manager,Configure VPN profiles,Automate the deployment of VPN profiles to devices for secure remote access to corporate resources.
+Microsoft Endpoint Manager,Automate device tagging,Automate the tagging of devices based on their compliance status or other attributes for easier management.
+Microsoft Endpoint Manager,Deploy PowerShell scripts,Automate the execution of PowerShell scripts on devices to configure settings or perform maintenance tasks.
+Microsoft Endpoint Manager,Automate device retirement,Automate the retirement or wiping of devices that are no longer in use or have been decommissioned.
+Microsoft Endpoint Manager,Configure email profiles,Automate the deployment of email profiles to devices for seamless access to corporate email accounts.
+Microsoft Endpoint Manager,Automate device inventory tracking,Automate the collection and reporting of device inventory data for asset management.
+Microsoft Endpoint Manager,Configure endpoint protection,Automate the deployment of endpoint protection policies to secure devices against malware and other threats.
+Microsoft Endpoint Manager,Automate certificate deployment,Automate the deployment of certificates to devices for secure authentication and encryption.
+Microsoft Endpoint Manager,Configure kiosk mode,Automate the setup of kiosk mode on devices for single-app or multi-app configurations.
+Microsoft Endpoint Manager,Automate device compliance alerts,Automate the generation of alerts for non-compliant devices to notify administrators.
+Microsoft Endpoint Manager,Configure shared device policies,Automate the deployment of shared device policies for devices used by multiple users.
+Microsoft Endpoint Manager,Automate device reset,Automate the remote reset of devices to factory settings for troubleshooting or repurposing.
+Microsoft Endpoint Manager,Configure app protection policies,Automate the deployment of app protection policies to secure corporate data within applications.
+Microsoft Endpoint Manager,Automate device health monitoring,"Automate the monitoring of device health metrics like battery status, disk space, and performance."
+Microsoft Endpoint Manager,Configure Windows Hello for Business,Automate the setup of Windows Hello for Business for secure and passwordless authentication.
+Microsoft Endpoint Manager,Automate device compliance remediation,Automate the remediation of non-compliant devices by applying corrective actions.
+Microsoft Endpoint Manager,Configure device lock policies,Automate the deployment of policies to lock devices after a period of inactivity.
+Microsoft Endpoint Manager,Automate device enrollment restrictions,Automate the configuration of enrollment restrictions to control which devices can be enrolled.
+Microsoft Endpoint Manager,Configure app uninstall policies,Automate the removal of unauthorized or unused applications from devices.
+Microsoft Endpoint Manager,Automate device location tracking,Automate the tracking of device locations for asset management and security purposes.
+Microsoft Endpoint Manager,Configure data loss prevention (DLP),Automate the deployment of DLP policies to prevent unauthorized sharing of sensitive data.
+Microsoft Endpoint Manager,Automate device compliance reporting,Automate the generation of compliance reports for audits and management reviews.
+Microsoft Endpoint Manager,Configure device enrollment tokens,Automate the creation and distribution of enrollment tokens for bulk device enrollment.
+Microsoft Endpoint Manager,Automate device firmware updates,Automate the deployment of firmware updates to ensure devices are running the latest versions.
+Microsoft Endpoint Manager,Configure device restart policies,Automate the scheduling of device restarts to apply updates or resolve issues.
+Microsoft Endpoint Manager,Automate device quarantine,Automate the quarantine of devices that fail compliance checks or exhibit suspicious behavior.
+Microsoft Endpoint Manager,Configure device backup policies,Automate the deployment of backup policies to ensure critical data is regularly backed up.
+Microsoft Endpoint Manager,Automate device enrollment via Azure AD,Automate the enrollment of devices into Intune through Azure Active Directory integration.
+Microsoft Endpoint Manager,Configure device compliance actions,Automate the configuration of actions to be taken when devices become non-compliant.
+Microsoft Endpoint Manager,Automate device enrollment via Autopilot,Automate the setup of Windows Autopilot for zero-touch device provisioning.
+Microsoft Endpoint Manager,Configure device encryption policies,Automate the deployment of encryption policies to secure data on devices.
+Microsoft Endpoint Manager,Automate device inventory exports,Automate the export of device inventory data to external systems for analysis.
+Microsoft Endpoint Manager,Configure device lockout policies,Automate the deployment of lockout policies to protect devices from unauthorized access.
+Microsoft Endpoint Manager,Automate device enrollment via QR codes,Automate the generation and distribution of QR codes for device enrollment.
+Microsoft Endpoint Manager,Configure device compliance thresholds,Automate the setup of compliance thresholds to define acceptable device configurations.
+Microsoft Endpoint Manager,Automate device enrollment via NFC,Automate the enrollment of devices using NFC-based provisioning methods.
+Microsoft Endpoint Manager,Configure device compliance dashboards,Automate the creation of dashboards to visualize device compliance data.
+Microsoft Endpoint Manager,Automate device enrollment via USB,Automate the enrollment of devices using USB provisioning methods.
+Microsoft Endpoint Manager,Configure device compliance rules,Automate the creation of custom compliance rules to enforce organizational policies.
+Microsoft Endpoint Manager,Automate device enrollment via email,Automate the enrollment of devices using email-based provisioning methods.
+Microsoft Endpoint Manager,Configure device compliance notifications,Automate the setup of notifications to inform users about compliance issues.
+Microsoft Endpoint Manager,Automate device enrollment via SMS,Automate the enrollment of devices using SMS-based provisioning methods.
+Microsoft Endpoint Manager,Configure device compliance thresholds,Automate the setup of compliance thresholds to define acceptable device configurations.
+Microsoft Endpoint Manager,Automate device enrollment via NFC,Automate the enrollment of devices using NFC-based provisioning methods.
+Microsoft Endpoint Manager,Configure device compliance dashboards,Automate the creation of dashboards to visualize device compliance data.
+Microsoft Endpoint Manager,Automate device enrollment via USB,Automate the enrollment of devices using USB provisioning methods.
+Microsoft Endpoint Manager,Configure device compliance rules,Automate the creation of custom compliance rules to enforce organizational policies.
+Microsoft Endpoint Manager,Automate device enrollment via email,Automate the enrollment of devices using email-based provisioning methods.
+Microsoft Endpoint Manager,Configure device compliance notifications,Automate the setup of notifications to inform users about compliance issues.
+Microsoft Endpoint Manager,Automate device enrollment via SMS,Automate the enrollment of devices using SMS-based provisioning methods.
+Microsoft Endpoint Manager,Configure device compliance thresholds,Automate the setup of compliance thresholds to define acceptable device configurations.
+Microsoft Endpoint Manager,Automate device enrollment via NFC,Automate the enrollment of devices using NFC-based provisioning methods.
+Microsoft Endpoint Manager,Configure device compliance dashboards,Automate the creation of dashboards to visualize device compliance data.
+Microsoft Endpoint Manager,Automate device enrollment via USB,Automate the enrollment of devices using USB provisioning methods.
+Microsoft Endpoint Manager,Configure device compliance rules,Automate the creation of custom compliance rules to enforce organizational policies.
+Microsoft Endpoint Manager,Automate device enrollment via email,Automate the enrollment of devices using email-based provisioning methods.
+Microsoft Endpoint Manager,Configure device compliance notifications,Automate the setup of notifications to inform users about compliance issues.
+Microsoft Endpoint Manager,Automate device enrollment via SMS,Automate the enrollment of devices using SMS-based provisioning methods.
+Microsoft Endpoint Manager,Configure device compliance thresholds,Automate the setup of compliance thresholds to define acceptable device configurations.
+,,

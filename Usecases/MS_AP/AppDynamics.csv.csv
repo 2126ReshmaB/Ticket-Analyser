@@ -1,0 +1,75 @@
+Category,Short Description,Description
+AppDynamics,Automate Dashboard Creation,"Use scripts to create custom dashboards programmatically for specific teams or applications, ensuring consistent monitoring views."
+AppDynamics,Alert Configuration Automation,"Automate the setup of alerts for key metrics or specific conditions, reducing manual configuration time."
+AppDynamics,Automated Health Rule Creation,"Script health rules for applications, tiers, and nodes to monitor the performance of specific components."
+AppDynamics,Log Integration Setup,Automate integration with logging tools like Splunk or ELK to forward logs for centralized analysis.
+AppDynamics,Baseline Alert Setup,Automate baseline alert configurations to detect anomalies based on historical performance patterns.
+AppDynamics,Synthetic Monitoring Deployment,Use scripts to set up synthetic monitoring to check application availability and response times.
+AppDynamics,Application Performance Comparison,Automate the comparison of application performance before and after deployments using historical data.
+AppDynamics,Automated Metric Aggregation,Aggregate metrics across multiple application tiers automatically for better insights.
+AppDynamics,Dynamic Tagging for Applications,"Automate tagging of applications with metadata like environment, region, or business unit for better filtering and organization."
+AppDynamics,Service Dependency Mapping,Script the generation of service dependency maps to visualize component interactions.
+AppDynamics,Automated Alert Suppression,Suppress alerts automatically during maintenance windows or known outages.
+AppDynamics,API Key Rotation,Automate periodic rotation of API keys for enhanced security.
+AppDynamics,Anomaly Detection Setup,Automate the setup of anomaly detection algorithms to identify deviations in application behavior.
+AppDynamics,Automated SLA Monitoring,Use scripts to monitor SLA compliance for applications and services automatically.
+AppDynamics,Error Rate Monitoring,Automate the setup of error rate monitoring for critical transactions or services.
+AppDynamics,Deployment Marker Automation,Add deployment markers automatically to correlate performance changes with software releases.
+AppDynamics,Automated Report Scheduling,Script the generation and distribution of performance reports to stakeholders.
+AppDynamics,Custom Metric Collection,Use scripts to collect and report custom business metrics into AppDynamics for enhanced monitoring.
+AppDynamics,Integration Deployment Automation,"Automate the deployment of integrations with tools like ServiceNow, PagerDuty, or Slack for streamlined workflows."
+AppDynamics,Application Flow Map Optimization,Automate the optimization of application flow maps to ensure accurate representation of services.
+AppDynamics,Health Rule Maintenance,Script updates to health rules based on changing application architecture or performance needs.
+AppDynamics,Automated User Session Tracking,Automate the setup of real user session monitoring to track user behavior and resolve issues.
+AppDynamics,Database Performance Monitoring,Use scripts to automate the setup of database performance monitoring for query optimization.
+AppDynamics,Alert Noise Reduction,Group related alerts automatically to reduce noise and focus on critical incidents.
+AppDynamics,Custom Event Tracking,"Automate the tracking of custom events, such as sales conversions or feature usage, for business insights."
+AppDynamics,Automated Health Rule Auditing,Script regular audits of health rules to ensure compliance with performance standards.
+AppDynamics,Automated Alert Escalation,Use scripts to escalate unresolved alerts to higher priority teams or management based on severity.
+AppDynamics,Automated Log Forwarding,Forward logs automatically to external systems for centralized management and analysis.
+AppDynamics,Business Transaction Grouping,"Automate the grouping of business transactions based on specific rules, simplifying management."
+AppDynamics,Application Inventory Management,"Script the management of applications, tiers, and nodes to keep inventory up to date."
+AppDynamics,Workload Automation,Automate workload distribution across application servers to optimize performance.
+AppDynamics,Synthetic Test Maintenance,Script updates to synthetic tests as application endpoints or APIs change.
+AppDynamics,Automated Dependency Discovery,Use scripts to discover and map application dependencies automatically.
+AppDynamics,Alert Priority Management,Automate alert prioritization based on business impact or criticality of the application.
+AppDynamics,Automated Log Parsing,Parse logs automatically to extract meaningful insights for troubleshooting.
+AppDynamics,Automated Capacity Planning,Use scripts to forecast capacity needs based on historical data and usage trends.
+AppDynamics,Automated Metric Cleanup,Clean up unused or irrelevant metrics automatically to optimize performance.
+AppDynamics,Dynamic Alert Thresholds,Automate the adjustment of alert thresholds based on historical trends or seasonal patterns.
+AppDynamics,Automated Alert Routing,Route alerts automatically to the appropriate teams or individuals based on predefined rules.
+AppDynamics,Application Health Check Automation,Script periodic health checks for applications to ensure they are functioning as expected.
+AppDynamics,Real-Time Performance Analysis,Automate real-time performance analysis using AppDynamics APIs and custom scripts.
+AppDynamics,Automated Log Sampling,Sample logs automatically to minimize storage costs while retaining critical data.
+AppDynamics,Cloud Cost Monitoring,Automate tracking of cloud costs and resource usage using AppDynamics metrics.
+AppDynamics,Synthetic Location Management,Automate the setup and maintenance of synthetic monitoring locations for global performance testing.
+AppDynamics,Automated Alert History Analysis,Analyze alert history automatically to identify recurring patterns or issues.
+AppDynamics,Application Release Validation,Automate validation of application performance post-release using baseline metrics.
+AppDynamics,Automated Root Cause Analysis,Script root cause analysis for performance issues using transaction snapshots.
+AppDynamics,Automated KPI Monitoring,Use scripts to monitor key performance indicators (KPIs) for business-critical applications.
+AppDynamics,Automated SLA Reporting,Script the generation of SLA reports for compliance and stakeholder communication.
+AppDynamics,Automated Metric Correlation,Correlate metrics automatically to identify relationships between performance indicators.
+AppDynamics,Alert Suppression Policy Management,Automate the management of alert suppression policies to minimize unnecessary notifications.
+AppDynamics,Dynamic Resource Allocation,Script dynamic resource allocation for applications based on real-time performance data.
+AppDynamics,Automated Integration Testing,Automate testing of integrations with AppDynamics to ensure they are functioning correctly.
+AppDynamics,Automated Log Retention Policy,Enforce log retention policies automatically to comply with organizational or regulatory requirements.
+AppDynamics,Automated Error Budget Tracking,Track and report error budgets automatically for critical services.
+AppDynamics,Application Tier Management,"Automate tier management for applications, including creation, updates, and removal."
+AppDynamics,Automated Performance Testing,Integrate performance testing tools with AppDynamics and automate test result analysis.
+AppDynamics,Automated Custom Visualization,Use scripts to create custom visualizations for specific monitoring needs.
+AppDynamics,Automated Real User Monitoring,Script the setup of Real User Monitoring (RUM) to track end-user experience automatically.
+AppDynamics,Automated Alert De-duplication,De-duplicate alerts automatically to avoid redundant notifications and improve incident response.
+AppDynamics,Automated Log Indexing,Index logs automatically to improve search and analysis efficiency.
+AppDynamics,Automated Alert Acknowledgment,Acknowledge alerts automatically based on predefined conditions or logic.
+AppDynamics,Automated Metric Export,Export metrics to external systems like AWS S3 or Azure Blob Storage for further analysis.
+AppDynamics,Automated Alert Workflow,"Create automated workflows for handling specific types of alerts, such as triggering remediation scripts."
+AppDynamics,Automated SLA Breach Notifications,"Notify stakeholders automatically about SLA breaches, including detailed performance reports."
+AppDynamics,Automated Incident Escalation,Escalate unresolved incidents automatically to higher-level teams based on severity.
+AppDynamics,Automated Performance Forecasting,Use scripts to forecast future application performance trends based on historical data.
+AppDynamics,Automated Alert Resolution,Resolve alerts automatically based on predefined conditions or remediation scripts.
+AppDynamics,Automated Log Analysis,"Analyze logs automatically to identify patterns, anomalies, or issues."
+AppDynamics,Automated Application Discovery,Discover applications automatically and onboard them into AppDynamics for monitoring.
+AppDynamics,Automated Synthetic Test Rotation,Rotate synthetic test configurations automatically to match testing schedules.
+AppDynamics,Automated Application Restart Alerts,Use scripts to monitor and alert when applications or services are restarted unexpectedly.
+AppDynamics,Automated Application Scaling,Automate scaling of applications based on performance data and thresholds.
+AppDynamics,Automated Maintenance Window Setup,Automate the creation of maintenance windows to suppress alerts during planned outages.

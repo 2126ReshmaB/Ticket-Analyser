@@ -1,0 +1,50 @@
+Category,Short Description,Description
+Trello,Auto-Add Members to New Cards,Automatically assign specific team members to newly created cards on a board based on predefined rules.
+Trello,Auto-Move Cards to Lists,Automatically move cards to specific lists when a due date is reached or when certain labels are applied.
+Trello,Auto-Archive Completed Cards,"Automatically archive cards in the ""Done"" list after a specified period to keep boards clean and organized."
+Trello,Auto-Create Cards from Forms,"Create Trello cards automatically from form submissions (e.g., Google Forms, Typeform)."
+Trello,Create Recurring Tasks,"Automate the creation of recurring cards for tasks that need to be repeated daily, weekly, or monthly."
+Trello,Auto-Set Due Dates,Automatically set due dates for new cards based on their creation date or a predefined workflow.
+Trello,Notify Team on Card Updates,Send automated notifications to team members when a card is updated or moved to a specific list.
+Trello,Auto-Assign Labels to Cards,Automatically assign labels to cards based on the list they are added to or the keywords in their title or description.
+Trello,Create Cards from Emails,Automatically create Trello cards when an email is sent to a designated Trello email address.
+Trello,Auto-Update Card Checklists,Automatically add or update checklists on cards based on templates or predefined rules.
+Trello,Auto-Assign Cards Based on Labels,Assign cards to specific team members based on the labels applied to the card.
+Trello,Auto-Sort Cards in Lists,"Automatically sort cards in a list by due date, priority, or labels."
+Trello,Auto-Move Overdue Cards,"Automatically move overdue cards to a specific ""Overdue"" list for better visibility."
+Trello,Auto-Copy Cards to Other Boards,Automatically copy cards to another board when they are moved to a specific list.
+Trello,Notify on Due Date Changes,Send notifications to card members whenever a due date is changed.
+Trello,Auto-Create Cards for New Projects,Automatically create a set of predefined cards for new projects using templates.
+Trello,Notify on Card Comments,Notify team members when a new comment is added to a card they are assigned to.
+Trello,Auto-Link Cards to Related Cards,Automatically link cards that share the same label or keyword in their title.
+Trello,Auto-Create Sub-Tasks as Cards,Automatically create sub-tasks as linked cards in another list or board.
+Trello,Auto-Flag High-Priority Cards,"Automatically flag high-priority cards by changing their label or moving them to a ""High Priority"" list."
+Trello,Auto-Move Cards on Checklist Completion,Move cards to a specific list when all items in a checklist are completed.
+Trello,Auto-Notify on Card Assignments,Notify team members when they are assigned to a card.
+Trello,Auto-Notify on List Updates,Notify team members when a new card is added to a specific list.
+Trello,Auto-Create Cards for Bug Reports,Automatically create cards for bug reports submitted through external tools like GitHub or JIRA.
+Trello,Auto-Archive Old Cards,Automatically archive cards that have been inactive for a specified period.
+Trello,Auto-Assign Cards Based on Keywords,Assign cards to specific team members based on keywords in the card title or description.
+Trello,Auto-Generate Meeting Agendas,Automatically generate meeting agenda cards from templates.
+Trello,Auto-Notify on Checklist Changes,"Notify team members when a checklist is added, updated, or completed."
+Trello,Auto-Update Card Descriptions,Automatically update card descriptions with additional information from external systems or templates.
+Trello,Auto-Notify on Due Date Approaching,"Send reminders to card members when a due date is approaching (e.g., 24 hours before)."
+Trello,Auto-Create Cards for New Clients,"Automatically create new cards for onboarding new clients, including predefined checklists and tasks."
+Trello,Automatically Reopen Archived Cards,"Automatically reopen archived cards when a specific trigger is met (e.g., a comment is added)."
+Trello,Notify on Card Movement,Send notifications to team members when a card is moved to a specific list.
+Trello,Auto-Create Cards for Feedback,Automatically create cards for user feedback submitted through forms or surveys.
+Trello,Auto-Generate Weekly Reports,Automatically create a summary card or checklist with completed tasks for the week.
+Trello,Auto-Assign Cards for New Hires,"Automatically create and assign onboarding cards for new hires, including tasks and checklists."
+Trello,Auto-Create Cards for Social Media Posts,Automatically create cards for scheduled social media posts using templates.
+Trello,Auto-Notify on Checklist Overdue Items,Notify card members when items in a checklist are overdue.
+Trello,Auto-Link Cards to Documents,Automatically attach relevant documents or links to cards based on keywords or labels.
+Trello,Auto-Create Cards for New Leads,Automatically create sales lead cards when new leads are added to a CRM or spreadsheet.
+Trello,Auto-Close Completed Tasks,"Automatically move completed cards to an archived ""Completed"" list."
+Trello,Notify on Checklist Progress,Send notifications to team members when the progress of a checklist reaches a certain percentage.
+Trello,Auto-Notify on Card Creation,Notify specific team members when a card is created in a specific list or board.
+Trello,Auto-Create Cards from Calendar Events,Automatically create cards for calendar events using integrations like Google Calendar.
+Trello,Auto-Sync Cards Between Boards,Automatically sync cards between boards to keep information consistent across teams.
+Trello,Auto-Create Cards for Deadlines,Automatically create cards for upcoming deadlines from external systems.
+Trello,Auto-Notify on Attachments Added,Notify team members when an attachment is added to a card.
+Trello,Notify on Card Label Changes,Send notifications when a card's label is updated or removed.
+Trello,Auto-Update Card Members,Automatically update card members when a card is moved to a specific list.

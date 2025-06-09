@@ -1,0 +1,61 @@
+Category,Short Description,Description
+BMC Helix ITSM,Auto-Assign Incidents to Teams,Automatically assign incidents to the appropriate support team based on predefined rules such as category or priority.
+BMC Helix ITSM,Notify on SLA Breach,Send automated notifications to stakeholders when an SLA is about to breach or has breached.
+BMC Helix ITSM,Auto-Close Resolved Incidents,"Automatically close incidents that have been in the ""Resolved"" state for a specified number of days."
+BMC Helix ITSM,Escalate Overdue Incidents,Automatically escalate incidents that exceed SLA time to higher-level support teams or managers.
+BMC Helix ITSM,Auto-Assign Priority to Incidents,Automatically set incident priority based on keywords in the description or the reporter's profile.
+BMC Helix ITSM,Notify Users of Incident Updates,Automatically notify users when their incident status or priority changes.
+BMC Helix ITSM,Reopen Incidents on User Response,Automatically reopen incidents when a user responds to a closed or resolved incident.
+BMC Helix ITSM,Notify on High-Priority Incidents,Send alerts to agents and managers when high-priority incidents are logged.
+BMC Helix ITSM,Auto-Create Incidents from Emails,Automatically generate incidents from emails sent to the support mailbox.
+BMC Helix ITSM,Assign Incidents Based on Skills,Automatically route incidents to agents with the required skills for resolving the issue.
+BMC Helix ITSM,Send Satisfaction Surveys After Resolution,Automatically send customer satisfaction surveys to users after their incidents are resolved.
+BMC Helix ITSM,Generate Weekly SLA Reports,Automate the creation and distribution of weekly SLA performance reports for stakeholders.
+BMC Helix ITSM,Auto-Categorize Incidents,Automatically categorize incidents based on keywords in the description or predefined rules.
+BMC Helix ITSM,Notify on Major Incidents,Automatically notify all impacted users and stakeholders when a major incident is logged.
+BMC Helix ITSM,Monitor Agent Workload,Automatically track and report agent workloads to ensure balanced ticket distribution.
+BMC Helix ITSM,Notify on VIP User Incidents,Send alerts to agents or managers when an incident is submitted by a VIP user.
+BMC Helix ITSM,Archive Old Incidents,Automatically archive incidents that have been resolved or closed for a specified timeframe.
+BMC Helix ITSM,Auto-Resolve Duplicate Incidents,Automatically identify and resolve duplicate incidents by linking them to the primary incident.
+BMC Helix ITSM,Notify on Incident Escalation,Send real-time notifications to stakeholders when an incident is escalated.
+BMC Helix ITSM,Assign Incidents During After-Hours,Automatically assign incidents to on-call staff during non-business hours.
+BMC Helix ITSM,Create Problem Records from Repeated Incidents,Automatically generate a problem record when multiple incidents with the same issue are logged.
+BMC Helix ITSM,Auto-Close Incidents Without User Response,"Automatically close incidents if the user does not respond within a set period after the status changes to ""Waiting for Customer."""
+BMC Helix ITSM,Generate Daily Incident Activity Reports,"Automate the creation of daily reports summarizing incident creation, resolution, and pending issues."
+BMC Helix ITSM,Notify Users of Scheduled Maintenance,Automatically send notifications to users about scheduled system or service maintenance.
+BMC Helix ITSM,Auto-Assign Incidents to Groups,Automatically route incidents to specific groups based on the issue type or request category.
+BMC Helix ITSM,Monitor SLA Compliance,Track SLA compliance and send alerts for potential violations or breaches.
+BMC Helix ITSM,Auto-Tag Incidents for Reporting,"Add relevant tags to incidents automatically for easier categorization, tracking, and reporting."
+BMC Helix ITSM,Notify on Low CSAT Scores,Automatically notify managers when customer satisfaction scores fall below a specific threshold.
+BMC Helix ITSM,Auto-Generate Knowledge Base Articles,Automatically create knowledge base articles from resolved incidents to document frequently asked questions or solutions.
+BMC Helix ITSM,Create Onboarding Tasks for New Employees,"Automatically generate onboarding tasks for new employees, such as setting up accounts or provisioning hardware."
+BMC Helix ITSM,Notify on High-Traffic Categories,Send alerts when specific incident categories receive a high volume of requests in a short period.
+BMC Helix ITSM,Update Incident Status on Dependency Completion,Automatically update an incident's status when its dependent tasks or subtasks are completed.
+BMC Helix ITSM,Monitor Asset Warranty Expiry,Automatically notify the asset management team when an asset's warranty is about to expire.
+BMC Helix ITSM,Escalate VIP Incidents,Automatically escalate incidents filed by VIP users to a higher priority or senior agents.
+BMC Helix ITSM,Assign Incidents Based on Location,Automatically assign incidents to agents or teams based on the reporter's geographic location.
+BMC Helix ITSM,Generate Monthly Performance Dashboards,"Automate the creation of dashboards summarizing key metrics for the month, such as incident volume, resolution time, and SLA adherence."
+BMC Helix ITSM,Notify on Outdated Knowledge Articles,Send reminders to update or retire knowledge base articles that have not been reviewed for a long time.
+BMC Helix ITSM,Monitor Integration Failures,Automatically detect and raise alerts or incidents for failures in third-party integrations.
+BMC Helix ITSM,Notify on Critical Asset Downtime,Send alerts to the IT team when critical assets experience downtime or performance degradation.
+BMC Helix ITSM,Auto-Assign Change Requests,Automatically route change requests to the appropriate change manager or team based on the type of change.
+BMC Helix ITSM,Track SLA Success Rates,Automatically track SLA success rates and generate reports for analysis.
+BMC Helix ITSM,Auto-Categorize Change Requests,Categorize change requests automatically based on keywords or related services.
+BMC Helix ITSM,Generate Asset Inventory Reports,Automate the generation of detailed asset inventory reports for IT teams.
+BMC Helix ITSM,Notify on License Expiry,Automatically alert relevant teams when software licenses are nearing their expiration dates.
+BMC Helix ITSM,Schedule Recurring Maintenance Tasks,Automatically create recurring tasks for routine maintenance or system audits.
+BMC Helix ITSM,Monitor Disk Space Usage,Automatically generate alerts or incidents when server disk space usage exceeds a predefined threshold.
+BMC Helix ITSM,Notify on Major Incident Resolution,Notify all stakeholders when a major incident is resolved and provide a summary of the resolution.
+BMC Helix ITSM,Escalate Incidents for Negative Feedback,Automatically escalate incidents that receive negative feedback from customers.
+BMC Helix ITSM,Monitor API Usage Limits,Send alerts when API usage approaches predefined thresholds to prevent service interruptions.
+BMC Helix ITSM,Auto-Create Incidents for Social Media Requests,Automatically generate incidents for customer requests or complaints received through integrated social media platforms.
+BMC Helix ITSM,Generate Compliance Reports,Automate the creation of compliance reports for audits or regulatory requirements.
+BMC Helix ITSM,Notify Users of Agent Assignments,Automatically notify users when an agent is assigned to their incident.
+BMC Helix ITSM,Auto-Renew Expiring Contracts,Automatically renew service contracts nearing expiry based on predefined business rules.
+BMC Helix ITSM,Link Related Incidents Automatically,Automatically link incidents that are related to the same root cause for better incident management.
+BMC Helix ITSM,Generate Incident Trend Reports,Automate the analysis of incident trends over time and generate reports for insights.
+BMC Helix ITSM,Notify on Failed Scheduled Jobs,Automatically notify administrators when recurring scheduled jobs fail to execute successfully.
+BMC Helix ITSM,Track Patch Deployment Status,Automatically monitor patch deployment progress and create incidents for any failed deployments.
+BMC Helix ITSM,Notify on Unauthorized Access Attempts,Send alerts to security teams when an unauthorized access attempt is detected in the system.
+BMC Helix ITSM,Monitor SLA Timer Resets,Automatically notify managers when SLA timers are reset due to incident status changes.
+BMC Helix ITSM,Auto-Assign,

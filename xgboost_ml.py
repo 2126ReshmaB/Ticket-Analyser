@@ -78,7 +78,7 @@ print("Label Mapping: ", label_map)
 mapping_dict = {
     'general': 'Rubbish',
     'Access': 'ITO',
-    'Administrative rights': 'ITO',
+    'Administrative rights': 'Non ITO',
     'HR Support': 'Non ITO',
     'Hardware': 'ITO',
     'Internal Project': 'Non ITO',
@@ -87,9 +87,10 @@ mapping_dict = {
     'Storage': 'ITO'
 }
 
-df = pd.read_excel('Usecases/AM_AT/Asset Panda.xlsx')
+
+df = pd.read_csv('ito_nonito_dataset.csv')
 for index, row in df.iterrows():
-    new_ticket = row['Short Description']
+    new_ticket = row['Description']
     predicted_lable_num = pipeline.predict([new_ticket])[0]
 
     predicted_lable_name = encoder.inverse_transform([predicted_lable_num])[0]

@@ -1,0 +1,63 @@
+Category,Short Description,Description
+Okta,Automate User Provisioning,Automatically create user accounts in connected applications when a new user is added to Okta.
+Okta,Automate User Deprovisioning,Automatically deactivate user accounts in connected applications when a user is removed from Okta.
+Okta,Automate Group Membership Updates,Automatically update group memberships based on user attributes or roles.
+Okta,Automate Password Resets,Enable users to reset their passwords automatically through self-service portals.
+Okta,Automate MFA Enrollment,Automatically enroll users in Multi-Factor Authentication (MFA) based on predefined policies.
+Okta,Automate Application Assignments,Automatically assign applications to users based on their roles or group memberships.
+Okta,Automate Role-Based Access Control,"Automatically assign roles to users based on their department, location, or other attributes."
+Okta,Automate Lifecycle Notifications,"Send automated notifications for lifecycle events such as user onboarding, offboarding, or role changes."
+Okta,Automate API Token Management,Automatically rotate API tokens to enhance security and reduce manual effort.
+Okta,Automate Security Policy Enforcement,Automatically enforce security policies such as password complexity or session timeouts.
+Okta,Automate User Attribute Updates,Automatically update user attributes in connected applications when changes are made in Okta.
+Okta,Automate Compliance Reporting,Generate and distribute compliance reports automatically based on user activity and access logs.
+Okta,Automate Access Reviews,Schedule and automate periodic access reviews to ensure compliance with security policies.
+Okta,Automate Event-Based Workflows,"Trigger automated workflows based on specific events, such as user creation or group membership changes."
+Okta,Automate Threat Detection Responses,"Automatically respond to detected threats, such as disabling compromised accounts or enforcing MFA."
+Okta,Automate Integration with HR Systems,Sync user data between Okta and HR systems to automate onboarding and offboarding processes.
+Okta,Automate Application Access Requests,Automatically approve or deny application access requests based on predefined rules.
+Okta,Automate Session Management,Automatically terminate inactive or suspicious sessions to enhance security.
+Okta,Automate User Onboarding,Automatically provision new users with access to required applications and resources on their first day.
+Okta,Automate User Offboarding,Automatically revoke access to applications and resources when a user leaves the organization.
+Okta,Automate Password Expiry Notifications,Notify users automatically when their passwords are about to expire.
+Okta,Automate Adaptive MFA Policies,Automatically adjust MFA requirements based on user behavior or risk level.
+Okta,Automate Directory Sync,Sync user data between Okta and on-premises directories such as Active Directory or LDAP.
+Okta,Automate Custom Attribute Mapping,Automatically map custom attributes between Okta and connected applications.
+Okta,Automate Audit Log Analysis,Analyze audit logs automatically to identify anomalies or potential security risks.
+Okta,Automate API Access Management,Automatically manage API access permissions based on user roles or group memberships.
+Okta,Automate Application Deprovisioning,Automatically remove user access to applications when they are no longer needed.
+Okta,Automate Risk-Based Authentication,Automatically enforce additional authentication steps for high-risk login attempts.
+Okta,Automate User Account Recovery,Enable automated account recovery processes for users who lose access to their accounts.
+Okta,Automate Group-Based Policies,Automatically apply security policies to users based on their group memberships.
+Okta,Automate Event Hooks,Trigger external workflows automatically using event hooks for specific Okta events.
+Okta,Automate Custom Notifications,Send custom notifications automatically for specific user or system events.
+Okta,Automate Application Usage Analytics,Automatically generate reports on application usage to identify underutilized resources.
+Okta,Automate User Consent Management,Automatically manage user consent for data sharing with connected applications.
+Okta,Automate API Rate Limiting,Automatically enforce API rate limits to prevent abuse or overuse.
+Okta,Automate User Status Monitoring,Monitor user status automatically and trigger actions for inactive or suspended accounts.
+Okta,Automate Password Policy Updates,Automatically update password policies across connected applications.
+Okta,Automate Application Health Monitoring,Monitor the health of connected applications automatically and notify administrators of issues.
+Okta,Automate User Role Audits,Schedule and automate audits of user roles and permissions.
+Okta,Automate Access Certification,Automatically certify user access to applications and resources periodically.
+Okta,Automate User Behavior Analytics,Analyze user behavior automatically to detect anomalies or potential security risks.
+Okta,Automate Integration with ITSM Tools,Integrate with ITSM tools like ServiceNow to automate incident and request management.
+Okta,Automate Custom Workflow Creation,Create and deploy custom workflows automatically using Okta Workflows.
+Okta,Automate Application Discovery,Automatically discover and integrate new applications into Okta.
+Okta,Automate User Access Requests,Enable users to request access to applications and resources through automated workflows.
+Okta,Automate API Endpoint Monitoring,Monitor API endpoints automatically and notify administrators of issues.
+Okta,Automate Security Incident Responses,"Automatically respond to security incidents, such as locking accounts or resetting passwords."
+Okta,Automate User Attribute Validation,Validate user attributes automatically to ensure data accuracy and consistency.
+Okta,Automate Application Role Management,Automatically manage application roles based on user attributes or group memberships.
+Okta,Automate Compliance Policy Enforcement,Automatically enforce compliance policies across connected applications.
+Okta,Automate User Login Analytics,Analyze user login data automatically to identify trends or potential issues.
+Okta,Automate Integration with Monitoring Tools,Integrate with monitoring tools to automatically create alerts or incidents based on Okta events.
+Okta,Automate User Account Lockouts,Automatically lock user accounts after multiple failed login attempts.
+Okta,Automate Application Access Reviews,Schedule and automate reviews of user access to applications.
+Okta,Automate User Attribute Sync,Sync user attributes automatically between Okta and connected applications.
+Okta,Automate Risk Scoring,Automatically calculate risk scores for user activities based on predefined criteria.
+Okta,Automate Integration with DevOps Tools,Integrate with DevOps tools to automate identity and access management for development environments.
+Okta,Automate User Account Reconciliation,Reconcile user accounts automatically between Okta and connected applications.
+Okta,Automate Application Role Audits,Schedule and automate audits of application roles and permissions.
+Okta,Automate User Session Analytics,Analyze user session data automatically to identify trends or potential issues.
+Okta,Automate Integration with Cloud Platforms,Integrate with cloud platforms like AWS or Azure to automate identity and access management.
+Okta,Automate User Account Expiry Notifications,Notify users automatically when their accounts are about to expire.

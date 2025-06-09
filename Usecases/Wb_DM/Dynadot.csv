@@ -1,0 +1,50 @@
+Category,Short Description,Description
+Dynadot,Automate domain registration,Use scripts to register domains automatically with predefined TLDs and configurations.
+Dynadot,Schedule domain renewal reminders,Automate reminders for domain renewals to avoid expiration and downtime.
+Dynadot,Automate WHOIS privacy setup,Use scripts to enable WHOIS privacy protection for domains during or after registration.
+Dynadot,Monitor domain expiration dates,Automate the monitoring of domain expiration dates and send alerts for upcoming renewals.
+Dynadot,Automate bulk domain registration,Use scripts to register multiple domains in bulk with predefined settings.
+Dynadot,Automate DNS record updates,"Automate the updating of DNS records, such as A, CNAME, MX, and TXT records, for domains."
+Dynadot,Automate domain transfer initiation,Use scripts to initiate domain transfers between registrars through Dynadot's API.
+Dynadot,Monitor domain transfer status,Automate the tracking of domain transfer statuses and send alerts for completed or failed transfers.
+Dynadot,Automate domain tagging,Use scripts to tag domains for better organization and categorization in your Dynadot account.
+Dynadot,Automate SSL certificate purchases,Use scripts to purchase SSL certificates for domains and automate their installation.
+Dynadot,Monitor SSL certificate expiration,Automate the monitoring of SSL certificate expiration dates and send reminders for renewal.
+Dynadot,Automate domain availability checks,Use scripts to check the availability of specific domains and send alerts for newly available domains.
+Dynadot,Automate domain deletion,Use scripts to delete expired or unused domains from your Dynadot account.
+Dynadot,Automate domain portfolio valuation,Use scripts to calculate the valuation of your domain portfolio based on market trends.
+Dynadot,Automate domain auction tracking,Use scripts to track domain auctions and send alerts for bids or price changes.
+Dynadot,Automate bulk domain renewals,Use scripts to renew multiple domains in bulk with a single command.
+Dynadot,Automate registrar account management,"Use scripts to manage registrar account details, such as updating contact information or payment methods."
+Dynadot,Automate DNS zone file imports,Use scripts to import DNS zone files into Dynadot for centralized DNS management.
+Dynadot,Automate DNS zone file exports,Use scripts to export DNS zone files from Dynadot for backup or migration purposes.
+Dynadot,Automate domain forwarding setup,Use scripts to configure domain forwarding for specific domains.
+Dynadot,Automate subdomain creation,Use scripts to create and manage subdomains for your registered domains.
+Dynadot,Automate domain ownership verification,Use scripts to verify domain ownership using DNS or email-based verification methods.
+Dynadot,Automate domain renewal payments,Use scripts to automate domain renewal payments through Dynadot's API.
+Dynadot,Automate registrar API integration,Use scripts to integrate Dynadot's API with other tools for seamless domain management.
+Dynadot,Automate domain lifecycle tracking,"Use scripts to track the lifecycle of domains, from registration to expiration."
+Dynadot,Automate domain cost tracking,Use scripts to track domain registration and renewal costs in your Dynadot account.
+Dynadot,Automate domain transfer approvals,Use scripts to approve or reject domain transfer requests automatically.
+Dynadot,Automate bulk domain tagging,Use scripts to apply tags to multiple domains in bulk for better organization.
+Dynadot,Automate domain registrar switching,Use scripts to switch domain registrars for cost savings or better service.
+Dynadot,Automate domain portfolio reports,"Use scripts to generate detailed reports of your domain portfolio, including expiration dates, registrars, and costs."
+Dynadot,Automate domain auction participation,Use scripts to place bids on domain auctions automatically based on predefined criteria.
+Dynadot,Automate domain backordering,Use scripts to backorder domains that are about to expire and become available.
+Dynadot,Automate domain acquisition tracking,Use scripts to track the acquisition of new domains and update your Dynadot records.
+Dynadot,Automate registrar account audits,Use scripts to audit registrar accounts for unused domains or discrepancies.
+Dynadot,Automate domain registrar API testing,Use scripts to test Dynadot's API integrations for functionality and reliability.
+Dynadot,Automate domain registrar API updates,Use scripts to update API credentials in Dynadot for secure integrations.
+Dynadot,Automate domain registrar API logs,Use scripts to monitor and log API activity for auditing purposes.
+Dynadot,Automate domain registrar API alerts,Use scripts to send alerts for API errors or downtime.
+Dynadot,Automate domain registrar API retries,Use scripts to retry failed API requests automatically.
+Dynadot,Automate domain registrar API limits,Use scripts to monitor API usage limits and send alerts for approaching limits.
+Dynadot,Automate domain registrar API caching,Use scripts to cache API responses for faster domain data retrieval.
+Dynadot,Automate domain registrar API pagination,Use scripts to handle pagination in API responses for large domain portfolios.
+Dynadot,Automate domain registrar API filtering,Use scripts to filter API responses for specific domain attributes.
+Dynadot,Automate domain registrar API sorting,Use scripts to sort API responses by attributes like expiration date or cost.
+Dynadot,Automate domain registrar API grouping,Use scripts to group API responses by registrar or domain category.
+Dynadot,Automate domain registrar API merging,Use scripts to merge API responses with existing Dynadot records.
+Dynadot,Automate domain registrar API throttling,Use scripts to implement API request throttling for registrar integrations.
+Dynadot,Automate domain registrar API monitoring,Use scripts to monitor API performance and send alerts for slow or failed requests.
+Dynadot,Automate domain registrar API analytics,Use scripts to generate analytics reports based on API activity and domain data.

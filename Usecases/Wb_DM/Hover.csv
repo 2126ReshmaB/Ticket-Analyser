@@ -1,0 +1,62 @@
+Category,Short Description,Description
+Hover,Automate domain registration,Use scripts to register domains automatically with predefined TLDs and configurations in Hover.
+Hover,Bulk domain registration,Automate the bulk registration of multiple domains with a single configuration file or script.
+Hover,Schedule domain renewal reminders,Use scripts to schedule reminders for domain renewals to avoid accidental expiration.
+Hover,Monitor domain expiration dates,Automate the monitoring of domain expiration dates and send alerts before they expire.
+Hover,Automate WHOIS privacy setup,Use scripts to enable or disable WHOIS privacy for domains to protect sensitive information.
+Hover,Bulk enable WHOIS privacy,Apply WHOIS privacy to multiple domains at once through automation.
+Hover,Automate DNS record updates,"Use scripts to update DNS records like A, CNAME, TXT, and MX for domains managed in Hover."
+Hover,Bulk DNS record updates,Automate updating DNS records for multiple domains simultaneously.
+Hover,Automate domain forwarding setup,Automate the configuration of domain forwarding to redirect traffic to another domain or URL.
+Hover,Automate subdomain creation,Automate the creation and management of subdomains for registered domains.
+Hover,Automate domain transfer initiation,Use scripts to initiate domain transfers from or to Hover.
+Hover,Monitor domain transfer status,Automate the tracking of domain transfer statuses and send alerts for completed or failed transfers.
+Hover,Automate domain tagging,Use scripts to apply tags to domains for better organization and categorization.
+Hover,Automate domain availability checks,Automate periodic checks for domain availability and send notifications when desired domains become available.
+Hover,Bulk domain renewals,Use scripts to renew multiple domains in bulk with predefined configurations.
+Hover,Automate SSL certificate purchases,Use scripts to purchase and configure SSL certificates for domains.
+Hover,Monitor SSL certificate expiration,Automate the monitoring of SSL certificate expiration dates and send renewal reminders.
+Hover,Automate DNS zone file imports,Import DNS zone files into Hover using scripts for centralized DNS management.
+Hover,Automate DNS zone file exports,Use scripts to export DNS zone files for backup or migration purposes.
+Hover,Automate bulk domain deletions,Automate the deletion of expired or unused domains in bulk from your Hover account.
+Hover,Update registrar account details,Use scripts to update Hover account details such as contact information or payment methods.
+Hover,Monitor domain usage,Automate monitoring of domain traffic and usage statistics for analysis.
+Hover,Automate domain lifecycle tracking,"Use scripts to track the lifecycle of domains, from registration to expiration."
+Hover,Automate cost tracking,"Automate the tracking of domain registration, renewal, and management costs."
+Hover,Automate bulk WHOIS lookups,Perform WHOIS lookups for multiple domains simultaneously using scripts.
+Hover,Automate domain forwarding removal,Use scripts to remove forwarding configurations for specific domains.
+Hover,Automate domain transfer approvals,Use scripts to approve or reject domain transfer requests automatically.
+Hover,Automate domain registrar switching,Automate the transfer of domains between registrars for better pricing or service.
+Hover,Generate domain portfolio reports,"Automate the generation of detailed domain portfolio reports, including expiration dates, registrars, and costs."
+Hover,Automate domain acquisition tracking,Use scripts to track newly acquired domains and update their details in the portfolio.
+Hover,Automate auction bidding,Automate domain auction participation by placing bids based on predefined criteria.
+Hover,Automate domain backordering,Automate the backordering of domains that are about to expire and become available.
+Hover,Automate registrar account audits,Use scripts to audit registrar accounts for unused domains or discrepancies.
+Hover,Automate registrar API integration,Use scripts to integrate Hover's API with other tools for seamless domain management.
+Hover,Automate registrar API updates,Update registrar API credentials automatically for secure integrations.
+Hover,Automate bulk tagging,Add or update tags for multiple domains in bulk using scripts.
+Hover,Automate registrar API logging,Automate the monitoring and logging of API activity for auditing purposes.
+Hover,Automate API request retries,Use scripts to retry failed API requests automatically.
+Hover,Monitor API usage,Automate the monitoring of Hover API usage and send alerts for approaching limits.
+Hover,Automate API analytics,Use scripts to generate analytics reports based on API usage and domain performance.
+Hover,Automate registrar account backups,Use scripts to back up registrar account details stored in Hover.
+Hover,Monitor domain auction activity,Use scripts to track domain auction activities and send alerts for bids or price changes.
+Hover,Automate domain redirection,Use scripts to configure domain redirection for specific domains.
+Hover,Automate bulk subdomain deletions,Automate the deletion of subdomains in bulk for multiple domains.
+Hover,Apply DNS templates,Use scripts to apply predefined DNS templates to multiple domains for faster provisioning.
+Hover,Automate DNS propagation monitoring,Automate the monitoring of DNS propagation for newly created or updated DNS records.
+Hover,Automate domain renewal discounts,Use scripts to track and apply renewal discounts or promotions automatically.
+Hover,Automate registrar syncing,Use scripts to synchronize domain details between Hover and other registrars.
+Hover,Automate SSL installation,Use scripts to automate the installation of SSL certificates for domains hosted on Hover.
+Hover,Automate billing alerts,Automate alerts for upcoming charges or billing anomalies in your Hover account.
+Hover,Automate registrar cost comparison,Use scripts to compare domain registration and renewal costs across registrars.
+Hover,Automate DNSSEC setup,Use scripts to enable DNSSEC for domains to improve security.
+Hover,Automate DNS redundancy,Use scripts to configure redundant DNS servers for critical domains.
+Hover,Automate domain renewal cost optimization,Use scripts to analyze and optimize renewal costs by identifying domains with high renewal fees.
+Hover,Automate advanced DNS configuration,"Automate advanced DNS configurations, such as TTL changes or specific record prioritization."
+Hover,Monitor domain security,"Automate the monitoring of domain security settings, including DNSSEC and WHOIS privacy."
+Hover,Automate account activity logs,Use scripts to collect and review activity logs for domain management in Hover.
+Hover,Automate registrar account expiration alerts,Use scripts to send alerts if payment methods or accounts are nearing expiration.
+Hover,Automate domain renewal batch processing,Use scripts to process domain renewals in batches for efficiency.
+Hover,Automate registrar account reconciliation,"Use scripts to reconcile account-level details, including domain counts and costs."
+Hover,Automate account-level permissions,Use scripts to manage and audit account-level permissions for secure access.

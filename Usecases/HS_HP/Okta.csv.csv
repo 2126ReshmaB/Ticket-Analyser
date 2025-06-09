@@ -1,0 +1,68 @@
+Category,Short Description,Description
+Okta,Automate user onboarding,Automate the provisioning of user accounts and application access for new employees based on their roles and departments.
+Okta,Automate user offboarding,Automate the deprovisioning of user accounts and revocation of access for employees leaving the organization.
+Okta,Manage group memberships,Automate the addition and removal of users from groups based on role changes or department updates.
+Okta,Configure SSO for applications,Automate the setup of Single Sign-On (SSO) for enterprise applications using Okta’s pre-built integrations.
+Okta,Automate MFA enrollment,Automate the enrollment process for Multi-Factor Authentication (MFA) for new users.
+Okta,Monitor login activity,Automate the tracking and reporting of user login activity to detect unusual patterns or potential security threats.
+Okta,Automate password resets,"Automate the password reset process for users, including self-service options and administrator-initiated resets."
+Okta,Manage API tokens,"Automate the creation, rotation, and revocation of API tokens for secure application integrations."
+Okta,Automate compliance reporting,"Automate the generation of compliance reports for audits, including user access and authentication logs."
+Okta,Automate role-based access control,Automate the implementation of role-based access control (RBAC) for applications and resources.
+Okta,Automate app provisioning,Automate the provisioning of user accounts in third-party applications using SCIM or API integrations.
+Okta,Automate app deprovisioning,Automate the removal of user accounts from third-party applications when access is no longer required.
+Okta,Automate access reviews,Automate periodic access reviews to ensure that users have appropriate access to applications and resources.
+Okta,Automate security alerts,Automate the generation and distribution of security alerts for suspicious login attempts or account activity.
+Okta,Automate session management,Automate the termination of active sessions for users flagged for suspicious activity or policy violations.
+Okta,Automate user profile updates,Automate the synchronization of user profile updates across connected applications and directories.
+Okta,Automate directory integration,Automate the integration of Okta with on-premises directories like Active Directory or LDAP.
+Okta,Automate app discovery,Automate the discovery of new applications being used within the organization through Okta’s integrations.
+Okta,Automate adaptive MFA policies,Automate the configuration of adaptive MFA policies based on user behavior and risk levels.
+Okta,Automate device trust policies,Automate the enforcement of device trust policies to ensure only trusted devices can access corporate resources.
+Okta,Automate user lifecycle management,"Automate the entire user lifecycle, from onboarding to offboarding, including role changes and access updates."
+Okta,Automate group-based provisioning,Automate the provisioning of applications and resources based on group memberships.
+Okta,Automate app access requests,Automate the approval and provisioning process for user access requests to specific applications.
+Okta,Automate password policy enforcement,"Automate the enforcement of password policies, including complexity, expiration, and history requirements."
+Okta,Automate login risk analysis,Automate the analysis of login risks using Okta’s Identity Threat Protection (ITP) features.
+Okta,Automate user account recovery,Automate the account recovery process for users who are locked out or have forgotten their credentials.
+Okta,Automate API access management,Automate the management of API access policies and permissions for developers and applications.
+Okta,Automate app integration testing,Automate the testing of new application integrations to ensure proper SSO and provisioning functionality.
+Okta,Automate audit log exports,Automate the export of audit logs to external systems for analysis and compliance purposes.
+Okta,Automate custom workflows,Automate custom workflows for identity and access management using Okta Workflows.
+Okta,Automate user inactivity monitoring,Automate the detection and deactivation of inactive user accounts to reduce security risks.
+Okta,Automate app usage analytics,Automate the collection and analysis of application usage data to optimize license allocation.
+Okta,Automate identity governance,"Automate identity governance processes, including access certifications and policy enforcement."
+Okta,Automate privileged access management,Automate the management of privileged access for administrators and high-risk accounts.
+Okta,Automate app renewal reminders,Automate reminders for upcoming application subscription renewals to avoid service interruptions.
+Okta,Automate app license tracking,Automate the tracking of application licenses to ensure compliance and cost optimization.
+Okta,Automate app security audits,Automate security audits for applications integrated with Okta to identify vulnerabilities.
+Okta,Automate app compliance checks,Automate compliance checks for applications to ensure they meet regulatory requirements.
+Okta,Automate app contract management,Automate the tracking and management of application contracts and agreements.
+Okta,Automate app spend analysis,Automate the analysis of application spending to identify cost-saving opportunities.
+Okta,Automate app usage benchmarking,Automate the benchmarking of application usage against industry standards.
+Okta,Automate app lifecycle management,"Automate the entire lifecycle management of applications, from onboarding to decommissioning."
+Okta,Automate app discovery via SSO,Automate the discovery of applications integrated with Okta’s Single Sign-On (SSO) platform.
+Okta,Automate app discovery via API,Automate the discovery of applications using Okta’s API integrations.
+Okta,Automate app discovery via logs,Automate the discovery of applications by analyzing Okta’s authentication and access logs.
+Okta,Automate app discovery via user activity,Automate the discovery of applications based on user activity and access patterns.
+Okta,Automate app discovery via integrations,Automate the discovery of applications through integrations with other IT management tools.
+Okta,Automate app discovery via HR systems,Automate the discovery of applications linked to HR management systems.
+Okta,Automate app discovery via finance systems,Automate the discovery of applications linked to financial systems and expense reports.
+Okta,Automate app discovery via IT systems,Automate the discovery of applications linked to IT management systems.
+Okta,Automate app discovery via marketing systems,Automate the discovery of applications linked to marketing platforms and tools.
+Okta,Automate app discovery via sales systems,Automate the discovery of applications linked to sales platforms and tools.
+Okta,Automate app discovery via engineering systems,Automate the discovery of applications linked to engineering and development tools.
+Okta,Automate app discovery via operations systems,Automate the discovery of applications linked to operations management tools.
+Okta,Automate app discovery via analytics systems,Automate the discovery of applications linked to analytics and business intelligence platforms.
+Okta,Automate app discovery via security systems,Automate the discovery of applications linked to security and compliance tools.
+Okta,Automate app discovery via compliance systems,Automate the discovery of applications linked to compliance management tools.
+Okta,Automate app discovery via ITSM systems,Automate the discovery of applications linked to IT service management (ITSM) platforms.
+Okta,Automate app discovery via DevOps systems,Automate the discovery of applications linked to DevOps tools and workflows.
+Okta,Automate app discovery via data science systems,Automate the discovery of applications linked to data science and machine learning platforms.
+Okta,Automate app discovery via R\&D systems,Automate the discovery of applications linked to research and development tools.
+Okta,Automate app discovery via education systems,Automate the discovery of applications linked to education and training platforms.
+Okta,Automate app discovery via healthcare systems,Automate the discovery of applications linked to healthcare management systems.
+Okta,Automate app discovery via government systems,Automate the discovery of applications linked to government and public sector platforms.
+Okta,Automate app discovery via non-profit systems,Automate the discovery of applications linked to non-profit management tools.
+Okta,Automate app discovery via retail systems,Automate the discovery of applications linked to retail management platforms.
+Okta,Automate app discovery via manufacturing,

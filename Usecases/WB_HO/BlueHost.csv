@@ -1,0 +1,71 @@
+Category,Short Description,Description
+Bluehost,Automate website backups,Automatically create backups of your website files and databases on a set schedule to avoid data loss and ensure recovery in case of issues.
+Bluehost,Monitor website uptime,Use a script to regularly check website uptime and send alerts if the site goes offline.
+Bluehost,SSL certificate renewal automation,Automatically check SSL certificate expiry dates and renew them before they expire to ensure uninterrupted secure connections.
+Bluehost,Email account creation,Automate the creation of new email accounts within the hosting environment for new users or employees.
+Bluehost,Domain renewal reminders,Create a script to send reminders or automatically renew domains before their expiration dates.
+Bluehost,DNS record updates,"Automate updates to DNS records, such as adding or editing A, CNAME, or TXT records."
+Bluehost,Database optimization,Automate database optimization by running cleaning scripts to remove unnecessary data or optimize tables.
+Bluehost,WordPress plugin updates,Automatically check for and update WordPress plugins to their latest versions to ensure security and functionality.
+Bluehost,WordPress theme updates,Automate the process of updating WordPress themes to their latest versions.
+Bluehost,Site performance monitoring,"Use scripts to monitor website performance metrics (e.g., load times) and send reports or alerts if performance deteriorates."
+Bluehost,Automated malware scanning,Schedule and run automated malware scans for websites hosted on Bluehost to enhance security.
+Bluehost,File permission correction,Automate the correction of file and folder permissions to ensure security and proper functioning of the website.
+Bluehost,Create staging environments,Automate the creation of staging environments for WordPress or other sites to test updates or changes before pushing them live.
+Bluehost,Scheduled file cleanup,Use a script to delete old or unused files from your hosting account to free up space.
+Bluehost,Automated error log monitoring,Monitor error logs and send alerts or reports when certain error patterns are identified.
+Bluehost,Email forwarder setup,Automate the setup of email forwarders to redirect emails from one account to another.
+Bluehost,Email autoresponders,Set up automated email autoresponders for specific email accounts.
+Bluehost,Database backups,"Automate database backups on a daily, weekly, or monthly schedule, and store them in a secure location."
+Bluehost,Restore backups,Automate the process of restoring backups from stored files or databases in case of emergencies.
+Bluehost,Subdomain creation,"Automate the creation of subdomains for specific purposes, such as creating test environments or microsites."
+Bluehost,Domain redirection setup,"Automate the redirection of domains or subdomains to other URLs, such as for parked or expired domains."
+Bluehost,Disk space monitoring,Use a script to monitor disk space utilization and send alerts when usage exceeds a certain threshold.
+Bluehost,Bandwidth monitoring,Automate bandwidth usage monitoring and send alerts if usage approaches the plan’s limits.
+Bluehost,Cron job creation,Automate the creation and management of cron jobs to run specific tasks on a schedule.
+Bluehost,WordPress installation,Automate fresh WordPress installations using Bluehost’s APIs or CLI tools.
+Bluehost,WordPress user management,"Automate the creation, removal, or role assignment of WordPress users."
+Bluehost,Multi-site WordPress setup,Automate the setup of WordPress multisite networks for managing multiple websites.
+Bluehost,Cache clearing,Automate the clearing of cache for WordPress or other platforms to ensure real-time updates are visible.
+Bluehost,Redirect broken links,Automate the detection of broken links and set up 301 redirects to improve SEO and user experience.
+Bluehost,Generate XML sitemaps,Use a script to automatically generate XML sitemaps for websites to improve search engine indexing.
+Bluehost,Manage FTP accounts,"Automate the creation, modification, or deletion of FTP accounts for users."
+Bluehost,Install SSL certificates,"Automate the installation of SSL certificates, including Let’s Encrypt or third-party certificates."
+Bluehost,Automated file uploads,Use scripts to upload files to specific directories on the hosting account automatically.
+Bluehost,Error page customization,"Automate the customization of 404, 403, and other error pages for a better user experience."
+Bluehost,Monitor email deliverability,"Use scripts to check email deliverability and identify issues with SPF, DKIM, and DMARC configurations."
+Bluehost,Automated site cloning,Clone websites hosted on Bluehost to create duplicates for testing or migration.
+Bluehost,Log file rotation,Automate the rotation and archival of log files to prevent excessive disk space usage.
+Bluehost,Install CMS platforms,"Automate the installation of other CMS platforms like Joomla, Drupal, or Magento."
+Bluehost,Generate analytics reports,"Use scripts to generate custom analytics reports, such as traffic or sales data, from website logs."
+Bluehost,Enforce HTTPS redirects,Automate the setup of HTTPS redirects to ensure all traffic is routed over secure connections.
+Bluehost,Scheduled script execution,Automate the execution of custom scripts at specific intervals using cron jobs.
+Bluehost,Domain WHOIS data monitoring,Monitor changes to WHOIS data for domains and send alerts if ownership or settings are modified.
+Bluehost,Export email accounts list,Automate the export of email account details for documentation or migration purposes.
+Bluehost,Automated email signature setup,Automate the configuration of email signatures across multiple accounts.
+Bluehost,File compression for download,Automate the compression of large files or folders for easier downloads and storage.
+Bluehost,Automated website migration,Use scripts to migrate websites between Bluehost accounts or from other providers.
+Bluehost,Change PHP version,Automate the process of changing the PHP version for specific domains or websites.
+Bluehost,Automated IP whitelisting,Use scripts to whitelist specific IP addresses for security or access control.
+Bluehost,Block suspicious IPs,Automate the blocking of suspicious or malicious IP addresses based on security logs.
+Bluehost,Monitor website traffic spikes,Detect traffic spikes and send alerts to prevent server overload or downtime.
+Bluehost,Restore deleted files,Automate the recovery of accidentally deleted files from backups.
+Bluehost,Manage custom error reporting,Automate the configuration of custom error reporting settings for PHP or other services.
+Bluehost,Install third-party apps,"Automate the installation of third-party applications, such as analytics tools or marketing platforms."
+Bluehost,Redirect HTTP traffic to HTTPS,Automate the redirection of all HTTP traffic to HTTPS for consistent secure browsing.
+Bluehost,Optimize images,Use a script to compress and optimize images on the server to improve website performance.
+Bluehost,Automated server resource scaling,"Automate the scaling of server resources (e.g., RAM, CPU) based on traffic demand."
+Bluehost,Monitor plugin conflicts,Detect conflicts between WordPress plugins and send alerts when issues arise.
+Bluehost,Manage CDN integration,Automate the setup and management of Content Delivery Networks (CDNs) for faster content delivery.
+Bluehost,Automate database migrations,Automate the migration of databases between servers or hosting accounts.
+Bluehost,Configure custom 404 pages,Set up and automate the implementation of custom-designed 404 error pages.
+Bluehost,Manage parked domains,Automate the addition or removal of parked domains in Bluehost accounts.
+Bluehost,Enable hotlink protection,Automate the configuration of hotlink protection to prevent unauthorized use of hosted media files.
+Bluehost,Schedule maintenance mode,Automate the enabling and disabling of maintenance mode for websites during updates or repairs.
+Bluehost,Clear server cache,Use scripts to clear server-side cache to resolve performance or display issues.
+Bluehost,Monitor MySQL queries,Automate the monitoring of MySQL queries to identify slow or inefficient database operations.
+Bluehost,Set up email spam filters,Automate the configuration of spam filters for email accounts hosted on Bluehost.
+Bluehost,Track website visitor activity,Automate the collection of visitor activity logs and generate periodic reports.
+Bluehost,Generate PCI compliance reports,Automate the generation of PCI compliance reports for e-commerce websites.
+Bluehost,Scheduled database imports,Automate the import of database files on a set schedule.
+Bluehost,Monitor file changes,Use scripts to detect and log changes to important files on the server.

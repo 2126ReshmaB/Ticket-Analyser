@@ -1,0 +1,55 @@
+Category,Short Description,Description
+DigitalOcean,Automate Droplet creation,"Use scripts to create DigitalOcean Droplets with predefined configurations like size, region, and operating system."
+DigitalOcean,Schedule Droplet start/stop,Automate the starting and stopping of Droplets based on a schedule to optimize resource usage and reduce costs.
+DigitalOcean,Monitor Droplet health,Automate health checks for Droplets and send alerts if a Droplet becomes unresponsive or unhealthy.
+DigitalOcean,Automate Droplet resizing,"Use scripts to resize Droplets dynamically based on workload requirements, such as increasing CPU or memory."
+DigitalOcean,Delete unused Droplets,Automate the identification and deletion of unused or idle Droplets to save costs.
+DigitalOcean,Automate Droplet backups,Schedule automated backups for Droplets to ensure data recovery in case of accidental loss or errors.
+DigitalOcean,Restore Droplet backups,Automate the restoration of Droplet backups to recover from data loss or accidental deletions.
+DigitalOcean,Automate Droplet snapshots,Use scripts to create snapshots of Droplets for backup or replication purposes.
+DigitalOcean,Delete old snapshots,Automate the deletion of old or unused snapshots to optimize storage usage and reduce costs.
+DigitalOcean,Automate Droplet tagging,Use scripts to tag Droplets for better organization and management of resources.
+DigitalOcean,Monitor Droplet resource usage,"Automate the monitoring of Droplet resource usage, such as CPU, memory, and disk, and send alerts for anomalies."
+DigitalOcean,Automate firewall rule creation,Use scripts to create and manage firewall rules to control network traffic to and from Droplets.
+DigitalOcean,Monitor firewall activity,Automate the monitoring of firewall activity and send alerts for suspicious traffic or blocked requests.
+DigitalOcean,Automate load balancer setup,Use scripts to provision and configure load balancers for distributing traffic across multiple Droplets.
+DigitalOcean,Monitor load balancer health,Automate the monitoring of load balancer health and send alerts for unhealthy backend Droplets.
+DigitalOcean,Automate domain management,"Use scripts to create and manage domains in DigitalOcean, including DNS records like A, CNAME, and TXT."
+DigitalOcean,Monitor DNS record changes,Automate the monitoring of DNS record changes and send alerts for unauthorized modifications.
+DigitalOcean,Automate Kubernetes cluster creation,Use scripts to create and configure Kubernetes clusters in DigitalOcean with predefined node pools and settings.
+DigitalOcean,Scale Kubernetes clusters,Automate the scaling of Kubernetes clusters based on workload demand or resource utilization.
+DigitalOcean,Monitor Kubernetes pod health,Automate the monitoring of Kubernetes pod health and send alerts for failed or unhealthy pods.
+DigitalOcean,Automate container image deployment,Use scripts to deploy container images to DigitalOcean Container Registry or Kubernetes clusters.
+DigitalOcean,Automate database cluster creation,"Use scripts to create managed database clusters with predefined configurations for MySQL, PostgreSQL, or MongoDB."
+DigitalOcean,Backup managed databases,Automate the backup of managed database clusters to ensure data recovery and compliance.
+DigitalOcean,Monitor database performance,"Automate the monitoring of database performance metrics like CPU, memory, and query execution time, and send alerts for anomalies."
+DigitalOcean,Automate database scaling,Use scripts to scale managed database clusters vertically or horizontally based on workload requirements.
+DigitalOcean,Automate Spaces bucket creation,Use scripts to create Spaces buckets for object storage with predefined settings like region and access policies.
+DigitalOcean,Backup data to Spaces,"Automate the backup of files, databases, or application data to DigitalOcean Spaces."
+DigitalOcean,Delete old objects in Spaces,Automate the deletion of old or unused objects in Spaces based on lifecycle policies or custom rules.
+DigitalOcean,Monitor Spaces usage,Use scripts to monitor storage usage in Spaces and send alerts when buckets exceed storage limits or thresholds.
+DigitalOcean,Automate VPC network creation,"Use scripts to create and configure Virtual Private Cloud (VPC) networks with subnets, firewall rules, and route tables."
+DigitalOcean,Monitor VPC traffic,Automate the monitoring of VPC traffic using Flow Logs and trigger alerts for unusual traffic patterns.
+DigitalOcean,Automate floating IP assignment,Use scripts to assign or reassign floating IPs to Droplets for high availability or failover scenarios.
+DigitalOcean,Monitor floating IP usage,Automate the monitoring of floating IP usage and send alerts for unused or misconfigured IPs.
+DigitalOcean,Automate CI/CD pipelines,"Use scripts to integrate DigitalOcean with CI/CD tools like CircleCI, GitHub Actions, or Jenkins for automated deployments."
+DigitalOcean,Automate Terraform deployments,Use Terraform scripts to automate the provisioning and management of DigitalOcean infrastructure as code.
+DigitalOcean,Automate Ansible playbooks,Use Ansible playbooks to automate server configuration and application deployment on DigitalOcean Droplets.
+DigitalOcean,Automate serverless function deployment,Use scripts to deploy serverless functions to DigitalOcean Functions with predefined triggers and runtime configurations.
+DigitalOcean,Monitor serverless function execution,"Automate the monitoring of serverless function execution time, memory usage, and error rates, and send alerts for anomalies."
+DigitalOcean,Automate billing alerts,Use scripts to create billing alerts to monitor account usage and avoid unexpected charges.
+DigitalOcean,Generate billing reports,Automate the generation of detailed billing reports for cost analysis and optimization.
+DigitalOcean,Automate API token rotation,Use scripts to rotate API tokens periodically to improve security and comply with best practices.
+DigitalOcean,Monitor API usage,Automate the monitoring of API usage and send alerts for unauthorized or excessive requests.
+DigitalOcean,Automate monitoring alert setup,"Use scripts to create monitoring alerts for specific metrics like CPU usage, memory, or disk space."
+DigitalOcean,Create monitoring dashboards,Automate the creation of monitoring dashboards to visualize key infrastructure metrics.
+DigitalOcean,Automate log rotation,Use scripts to rotate and archive logs to optimize storage usage and minimize costs.
+DigitalOcean,Automate team member management,"Use scripts to add, remove, or update team members and their roles in DigitalOcean projects."
+DigitalOcean,Automate project creation,Use scripts to create and manage projects in DigitalOcean for better organization of resources.
+DigitalOcean,Automate SSH key management,"Use scripts to add, remove, or update SSH keys for secure access to Droplets."
+DigitalOcean,Automate snapshot replication,Use scripts to replicate snapshots across regions for disaster recovery or compliance.
+DigitalOcean,Automate CDN setup,Use scripts to configure DigitalOcean CDN for faster content delivery and improved website performance.
+DigitalOcean,Monitor CDN traffic,Automate the monitoring of CDN traffic and send alerts for unusual patterns or high usage.
+DigitalOcean,Automate webhook creation,Use scripts to create and manage webhooks for triggering actions based on events in DigitalOcean.
+DigitalOcean,Automate backup policy enforcement,Use scripts to enforce backup policies across all Droplets and managed databases.
+DigitalOcean,Automate resource tagging,"Use scripts to tag resources like Droplets, databases, and Spaces for better organization and cost tracking."

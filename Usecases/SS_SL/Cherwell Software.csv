@@ -1,0 +1,94 @@
+Category,Short Description,Description
+Cherwell Software,IT Service Management (ITSM),Manage IT services with streamlined workflows and automated processes.
+Cherwell Software,Incident Management,"Track, manage, and resolve IT incidents efficiently using automation."
+Cherwell Software,Change Management,Implement and track changes to IT systems while minimizing disruptions.
+Cherwell Software,Problem Management,Identify root causes of recurring incidents and implement long-term solutions.
+Cherwell Software,Asset Management,"Track and manage IT assets, including hardware and software, throughout their lifecycle."
+Cherwell Software,Service Request Management,Automate and streamline service request processes to improve response times.
+Cherwell Software,Knowledge Management,Centralize and share knowledge articles to improve service outcomes.
+Cherwell Software,Configuration Management Database (CMDB),Maintain a centralized repository of IT assets and their relationships.
+Cherwell Software,Incident Prioritization,Categorize and prioritize incidents for faster resolution of critical issues.
+Cherwell Software,Self-Service Portal,Create a user-friendly portal for employees to log tickets and track requests.
+Cherwell Software,SLA Management,Track and enforce service level agreements to ensure compliance with commitments.
+Cherwell Software,Workflow Automation,Automate repetitive tasks and workflows to improve efficiency.
+Cherwell Software,IT Operations Management,Monitor IT operations to identify and resolve performance issues proactively.
+Cherwell Software,Multi-Department Service Requests,"Manage service requests for multiple departments beyond IT, such as HR or Facilities."
+Cherwell Software,Release Management,"Plan, schedule, and track software releases to minimize risks."
+Cherwell Software,Mobile Service Desk Access,Enable technicians to access the service desk from mobile devices for on-the-go support.
+Cherwell Software,Customizable Dashboards,Build personalized dashboards to track key performance indicators and metrics.
+Cherwell Software,Integration with Third-Party Tools,Connect Cherwell Software with other enterprise tools like Slack or Microsoft Teams.
+Cherwell Software,Service Catalog Management,Build and maintain a catalog of available IT services for employees.
+Cherwell Software,Root Cause Analysis,Perform detailed root cause analysis to prevent recurring issues.
+Cherwell Software,Ticket Escalation Workflows,Create automated workflows to escalate tickets based on predefined rules.
+Cherwell Software,IT Governance Reporting,"Generate reports on IT compliance, performance, and risks for governance purposes."
+Cherwell Software,Onboarding and Offboarding Management,Automate employee onboarding and offboarding processes across departments.
+Cherwell Software,Facilities Management Integration,Manage facilities-related service requests and asset tracking.
+Cherwell Software,Real-Time Incident Notifications,Send real-time alerts for high-priority incidents to relevant teams.
+Cherwell Software,Incident Resolution Time Tracking,Track resolution times for incidents to improve service efficiency.
+Cherwell Software,IT Service Cost Tracking,Monitor and allocate costs associated with IT services and resources.
+Cherwell Software,Customer Support Ticketing,Manage external customer support tickets with customizable workflows.
+Cherwell Software,HR Service Delivery,"Automate HR-related service requests, such as leave approvals and benefits inquiries."
+Cherwell Software,Business Continuity Planning,Track and implement business continuity plans for disaster recovery.
+Cherwell Software,Real-Time SLA Breach Alerts,Notify teams when SLAs are at risk of being breached to enable proactive action.
+Cherwell Software,IT Asset Discovery,Automatically discover and add IT assets to the CMDB for accurate tracking.
+Cherwell Software,Security Incident Management,Track and manage security incidents to minimize risks and breaches.
+Cherwell Software,Vendor Management,Track vendor performance and contracts to ensure timely service delivery.
+Cherwell Software,Multi-Tenant Support,Manage service requests across multiple business units or tenants.
+Cherwell Software,Event Correlation and Analysis,Analyze and correlate events to identify trends and prevent incidents.
+Cherwell Software,Audit Trail for Compliance,Maintain a detailed audit trail of changes and actions for compliance purposes.
+Cherwell Software,Service Health Monitoring,Monitor the health of critical services and systems in real time.
+Cherwell Software,Custom Form Creation,Design custom forms to collect specific data for unique business needs.
+Cherwell Software,Knowledge Base Analytics,Track knowledge base usage and identify gaps to improve content.
+Cherwell Software,Password Reset Automation,Automate employee password reset requests to reduce help desk workload.
+Cherwell Software,Chatbot Integration,Integrate chatbots to provide automated assistance and resolve common queries.
+Cherwell Software,IT Financial Management,Track IT expenses and allocate budgets effectively.
+Cherwell Software,Proactive Problem Identification,Use data analytics to identify potential problems before they occur.
+Cherwell Software,Incident Categorization,Automate incident categorization for faster triaging and resolution.
+Cherwell Software,Multi-Channel Support Integration,"Manage service requests from multiple channels, including email, chat, and phone."
+Cherwell Software,Service Desk Ticket Templates,Create ticket templates to standardize issue reporting processes.
+Cherwell Software,Custom Reporting Tools,Generate custom reports to meet specific business requirements.
+Cherwell Software,Employee Feedback Collection,Collect feedback on IT services to identify areas for improvement.
+Cherwell Software,License Management,Track software licenses to ensure compliance and optimize usage.
+Cherwell Software,Asset Depreciation Tracking,Monitor asset depreciation for financial reporting and planning.
+Cherwell Software,Service Delivery Analytics,Analyze service delivery metrics to improve IT performance.
+Cherwell Software,Integration with Cloud Platforms,Connect with cloud platforms like AWS and Azure for asset and service management.
+Cherwell Software,Facilities Maintenance Tracking,Track maintenance requests and schedules for facilities assets.
+Cherwell Software,CMDB Relationship Mapping,Map relationships between assets in the CMDB for impact analysis.
+Cherwell Software,Incident Impact Analysis,Analyze the impact of incidents on business operations to prioritize fixes.
+Cherwell Software,Asset Ownership Tracking,Assign and track ownership of IT and non-IT assets.
+Cherwell Software,Software Deployment Tracking,Monitor the deployment of software across devices for compliance.
+Cherwell Software,Multi-Language Support,Provide support in multiple languages for global teams and clients.
+Cherwell Software,SLA Performance Dashboards,Visualize SLA performance metrics to identify trends and areas for improvement.
+Cherwell Software,Backup and Restore Management,Track and automate backup and restore operations for critical systems.
+Cherwell Software,IT Risk Management,Identify and mitigate IT risks to prevent disruptions.
+Cherwell Software,Asset Warranty Tracking,Track warranties for hardware and software assets to plan replacements.
+Cherwell Software,IT Service Dependency Mapping,Map dependencies between IT services to assess risks and impacts.
+Cherwell Software,Service Cost Allocation,Allocate IT service costs to departments or projects for budgeting purposes.
+Cherwell Software,Notifications for Critical Changes,Send automated notifications for critical system or service changes.
+Cherwell Software,Operational Reporting,Generate operational reports to track team performance and efficiency.
+Cherwell Software,Knowledge Article Version Control,Track versions of knowledge articles to maintain accuracy and relevance.
+Cherwell Software,Custom SLA Definitions,Define custom SLAs to meet unique business needs.
+Cherwell Software,User Access Management,Track and manage access requests across systems and applications.
+Cherwell Software,Integration with Monitoring Tools,Connect with monitoring tools to automate incident creation and escalation.
+Cherwell Software,Proactive Maintenance Scheduling,Schedule maintenance activities to prevent unexpected downtime.
+Cherwell Software,IT Service Delivery Roadmaps,Create roadmaps for IT service improvement and long-term planning.
+Cherwell Software,Enterprise Service Management,Extend ITSM principles to enterprise-wide service management initiatives.
+Cherwell Software,Project Portfolio Management,Track and manage IT projects alongside operational services.
+Cherwell Software,ITIL Process Implementation,Implement and manage ITIL-compliant processes for service management.
+Cherwell Software,Disaster Recovery Planning,Manage disaster recovery plans and test scenarios for critical systems.
+Cherwell Software,IT Policy Enforcement,Track and enforce IT policies to ensure compliance.
+Cherwell Software,Real-Time Performance Metrics,Monitor real-time performance metrics for services and assets.
+Cherwell Software,Integration with DevOps Tools,Connect with DevOps tools to streamline development and operations workflows.
+Cherwell Software,Incident Trend Analysis,Analyze incident trends to identify recurring issues for resolution.
+Cherwell Software,Customizable Service Catalog,Build a service catalog tailored to organizational needs and services.
+Cherwell Software,IT Resource Capacity Planning,Plan IT resource allocation based on current and forecasted demand.
+Cherwell Software,Employee Self-Service Analytics,Analyze self-service portal usage to improve user experience.
+Cherwell Software,Real-Time Incident Heatmaps,Visualize the distribution of incidents across systems or locations.
+Cherwell Software,IT Resource Utilization Reporting,Track and report on the utilization of IT resources for optimization.
+Cherwell Software,Multi-Platform Integration,Integrate Cherwell Software with multiple enterprise platforms for seamless workflows.
+Cherwell Software,IT Knowledge Gap Analysis,Identify gaps in knowledge articles to expand the knowledge base.
+Cherwell Software,Service Request Approval Workflows,Automate approval workflows for service requests to reduce delays.
+Cherwell Software,Continuous Service Improvement Tracking,Track progress on continuous improvement initiatives for IT services.
+Cherwell Software,System Downtime Reporting,Generate detailed reports on system downtimes and their business impacts.
+Cherwell Software,Service Desk Agent Performance Analytics,Track and analyze performance metrics for service desk agents.
+Cherwell Software,CMDB Change Impact,

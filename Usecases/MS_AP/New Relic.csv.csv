@@ -1,0 +1,112 @@
+Category,Short Description,Description
+New Relic,Alert Policy Automation,"Automate the creation and management of alert policies using NerdGraph API. This includes setting up threshold-based alerts and configuring notification channels for different teams [\[1\]](https://docs.newrelic.com/docs/apis/intro-apis/introduction-new-relic-apis/#:~:text=New%20Relic%20offers%20a,SDKs%20you%20can%20use) [\[2\]](https://docs.newrelic.com/docs/alerts/scale-automate/rest-api/rest-api-calls-alerts/#:~:text=Our%20REST%20API%20is,about%20NerdGraph%2C%20our%20preferred)."
+New Relic,Dynamic Dashboard Creation,"Script the creation of dashboards programmatically using APIs to ensure consistency across teams and reduce manual effort in dashboard setup [\[3\]](https://newrelic.com/blog/best-practices/best-practices-automating-monitoring#:~:text=Automate%20it%20%234%3A%20Use,DSLs%20for%20dashboards%20and)."
+New Relic,OpenAI Performance Monitoring,"Automate the monitoring of OpenAI model usage and performance metrics. This helps track API calls, response times, and costs associated with AI model implementations [\[4\]](https://newrelic.com/blog/nerdlog/ai-integrations#:~:text=New%20Relic%20introduced%20the,usage%2C%20analyze%20model%20performance%2C)."
+New Relic,Log Forwarding Setup,"Automate the configuration of log forwarding from various sources to New Relic using the Log API. This ensures consistent log collection and analysis across all applications [\[5\]](https://docs.newrelic.com/docs/logs/log-api/introduction-log-api/#:~:text=If%20our%20log%20forwarding,Relic%20via%20an%20HTTP)."
+New Relic,Synthetic Monitor Deployment,"Create and manage synthetic monitoring tests programmatically to check application endpoints and API performance regularly [\[3\]](https://newrelic.com/blog/best-practices/best-practices-automating-monitoring#:~:text=Automate%20it%20%234%3A%20Use,DSLs%20for%20dashboards%20and)."
+New Relic,Infrastructure Agent Installation,"Automate the deployment and configuration of New Relic infrastructure agents across multiple servers and environments [\[6\]](https://github.com/newrelic/infrastructure-agent#:~:text=The%20infrastructure%20agent%20%28infra%2Dagent%29,to%20the%20New%20Relic)."
+New Relic,JIRA Integration Setup,"Automate the integration between New Relic and Jira for incident tracking and management. This enables automatic creation of Jira tickets based on New Relic alerts [\[7\]](https://www.apmdigest.com/new-relic-and-atlassian-introduce-observability-integration-for-incidents-tab-in-jira#:~:text=New%20Relic%20announced%20a,to%20track%20incidents%20in)."
+New Relic,Baseline Alert Configuration,"Script the setup of dynamic baseline alerts using NRQL to detect anomalies based on historical performance patterns [\[8\]](https://drdroid.io/engineering-tools/guide-for-new-relic-alerting#:~:text=Dynamic%20baseline%20alerting%20in,are%20only%20triggered%20when)."
+New Relic,APM Agent Deployment,"Automate the installation and configuration of APM agents across applications in your CI/CD pipeline [\[9\]](https://newrelic.com/blog/best-practices/best-practices-automating-monitoring#:~:text=%2D%20Use%20APIs%20and,DSLs%20for%20dashboarding%20and)."
+New Relic,Custom Metric Collection,Script the collection and submission of custom metrics to New Relic using APIs for business-specific monitoring needs.
+New Relic,Alert Channel Management,Automate the creation and maintenance of notification channels for different teams and escalation levels [\[10\]](https://newrelic.com/platform/applied-intelligence/features#:~:text=Easy%20Integration%20With%20Incident%20Management).
+New Relic,Dashboard Template Deployment,Create and deploy standardized dashboard templates across multiple teams and applications automatically.
+New Relic,Service Level Objective (SLO) Setup,"Automate the creation and monitoring of SLOs for critical services and applications [\[11\]](https://www.frugaltesting.com/blog/new-relics-advanced-applied-intelligence-capabilities-for-modern-software-stack#:~:text=In%20contrast%2C%20AI%2Dpowered%20monitoring,role%20of%20AI%20in)."
+New Relic,Cross-Account Configuration,Script the deployment of consistent monitoring configurations across multiple New Relic accounts.
+New Relic,Automated Tagging,Implement automated tagging of entities based on predefined rules and application characteristics.
+New Relic,Query Performance Monitoring,"Automate the monitoring and alerting of database query performance using Database Performance Monitoring [\[12\]](https://newrelic.com/blog/nerdlog/new-relic-now-2025-innovation-roundup#:~:text=New%20Relic%20Database%20Performance,equips%20you%20to%20quickly)."
+New Relic,Message Queue Monitoring,"Set up automated monitoring for message queues and streams with producer-consumer relationship tracking [\[13\]](https://newrelic.com/blog/nerdlog/new-relic-now-2025-innovation-roundup#:~:text=New%20Relic%20Queues%20and,distinctive%20bi%2Ddirectional%20drill%2Ddown%20capability)."
+New Relic,Transaction Trace Analysis,"Automate the analysis of transaction traces to identify performance bottlenecks using Transaction 360 [\[14\]](https://newrelic.com/blog/nerdlog/new-relic-now-2025-innovation-roundup#:~:text=Transaction%20360%20is%20the,services%20for%20each%20transaction.)."
+New Relic,Alert Noise Reduction,Script the implementation of alert grouping and correlation to reduce notification noise [\[10\]](https://newrelic.com/platform/applied-intelligence/features#:~:text=Easy%20Integration%20With%20Incident%20Management).
+New Relic,Deployment Marker Creation,"Automate the creation of deployment markers in New Relic for better correlation of changes with performance impacts [\[15\]](https://github.com/newrelic/newrelic-cli#:~:text=The%20New%20Relic%20CLI,part%20of%20the%20Developer)."
+New Relic,Custom Dashboard Sharing,Script the sharing of dashboards with specific teams or stakeholders based on roles and responsibilities.
+New Relic,Error Rate Monitoring,Automate the setup of error rate monitoring and alerting across different services and applications.
+New Relic,Resource Usage Tracking,Create automated tracking of resource usage patterns and cost allocation across cloud services.
+New Relic,API Performance Monitoring,Set up automated monitoring of API endpoints for performance and availability metrics.
+New Relic,Log Pattern Detection,"Implement automated detection of specific patterns or anomalies in application logs [\[5\]](https://docs.newrelic.com/docs/logs/log-api/introduction-log-api/#:~:text=If%20our%20log%20forwarding,Relic%20via%20an%20HTTP)."
+New Relic,Incident Response Automation,Script automated incident response workflows including notification and escalation procedures [\[10\]](https://newrelic.com/platform/applied-intelligence/features#:~:text=Easy%20Integration%20With%20Incident%20Management).
+New Relic,Synthetic Browser Testing,Automate the creation and maintenance of synthetic browser tests for web applications.
+New Relic,Alert Policy Migration,Script the migration of alert policies between different New Relic accounts or environments.
+New Relic,Custom Visualization Creation,Automate the creation of custom visualizations for specific monitoring needs using New Relic APIs.
+New Relic,Service Map Generation,Script the generation and maintenance of service dependency maps for complex applications.
+New Relic,Performance Baseline Creation,"Automate the creation of performance baselines for new services and applications [\[8\]](https://drdroid.io/engineering-tools/guide-for-new-relic-alerting#:~:text=Dynamic%20baseline%20alerting%20in,are%20only%20triggered%20when)."
+New Relic,Alert Condition Templates,Create and manage reusable alert condition templates for consistent monitoring across services.
+New Relic,Automated Report Generation,Script the generation and distribution of performance reports to stakeholders.
+New Relic,Integration Health Monitoring,"Automate the monitoring of integration health between New Relic and third-party tools [\[16\]](https://www.zigiwave.com/apps/new-relic-integrations#:~:text=With%20the%20power%20of,using.%20You%20can%20transfer)."
+New Relic,Custom Metric Aggregation,Script the aggregation of custom metrics for business-specific KPI monitoring.
+New Relic,Alert History Analysis,Automate the analysis of alert history to identify patterns and improve alert configurations.
+New Relic,Dashboard Version Control,Implement version control for dashboards using API-based configuration management.
+New Relic,Capacity Planning Automation,Script capacity planning calculations based on historical performance data.
+New Relic,User Session Monitoring,Automate the setup and maintenance of user session monitoring configurations.
+New Relic,Custom Event Tracking,Script the tracking and analysis of custom business events using New Relic APIs.
+New Relic,Alert Suppression Management,Automate the management of alert suppressions during maintenance windows.
+New Relic,Performance Testing Integration,"Script the integration between performance testing tools and New Relic monitoring [\[17\]](https://help.blazemeter.com/docs/answers/answers-integration-new-relic-reporting.html#:~:text=integration%20lets%20you%20view,this%20data%20after%20testing)."
+New Relic,Automated Workload Management,Create automated workload management configurations based on application demands.
+New Relic,Log Retention Configuration,Automate the setup and maintenance of log retention policies across applications.
+New Relic,Custom Monitor Creation,Script the creation of custom monitors for specific application requirements.
+New Relic,Alert Policy Auditing,Automate regular audits of alert policies to ensure compliance with standards.
+New Relic,Service Level Reporting,Script the generation of service level reports for compliance and stakeholder review.
+New Relic,Integration Configuration,"Automate the configuration of integrations with various third-party tools [\[18\]](https://newrelic.com/platform#:~:text=50%2B%20capabilities%3B%20780%2B%20integrations,bring%20telemetry%20into%20the)."
+New Relic,Custom Dashboard Updates,Script regular updates to dashboards based on changing monitoring requirements.
+New Relic,Alert Threshold Optimization,Automate the optimization of alert thresholds based on historical data analysis.
+New Relic,Performance Anomaly Detection,"Script the setup of automated anomaly detection for application performance [\[11\]](https://www.frugaltesting.com/blog/new-relics-advanced-applied-intelligence-capabilities-for-modern-software-stack#:~:text=In%20contrast%2C%20AI%2Dpowered%20monitoring,role%20of%20AI%20in)."
+New Relic,Custom Metric Cleanup,Automate the cleanup of unused or obsolete custom metrics.
+New Relic,Alert Channel Rotation,Script the rotation of alert notification channels based on on-call schedules.
+New Relic,Dashboard Access Management,Automate the management of dashboard access permissions across teams.
+New Relic,Synthetic Location Management,Script the management of synthetic monitoring locations for global applications.
+New Relic,Error Budget Tracking,Automate the tracking and reporting of error budgets for critical services.
+New Relic,Custom Alert Workflows,Create automated workflows for specific types of alerts and incidents.
+New Relic,Performance Trend Analysis,Script the analysis of performance trends for capacity planning.
+New Relic,Integration Health Checks,Automate regular health checks for New Relic integrations.
+New Relic,Alert Configuration Backup,Script regular backups of alert configurations and policies.
+New Relic,Custom Dashboard Templates,Create and maintain templates for different types of monitoring dashboards.
+New Relic,Metric Correlation Analysis,Automate the analysis of correlated metrics for problem detection.
+New Relic,Alert Response Automation,Script automated responses to specific types of alerts.
+New Relic,Performance Report Scheduling,Automate the scheduling and distribution of performance reports.
+New Relic,Custom Monitor Maintenance,Script the maintenance of custom monitoring configurations.
+New Relic,Alert Policy Versioning,Implement version control for alert policies using APIs.
+New Relic,Integration Performance Monitoring,Automate monitoring of integration performance metrics.
+New Relic,Custom Dashboard Rotation,Script the rotation of dashboard views based on team focus.
+New Relic,Alert Channel Testing,Automate regular testing of alert notification channels.
+New Relic,Performance Baseline Updates,Script regular updates to performance baselines.
+New Relic,Custom Metric Validation,Automate validation of custom metrics for accuracy.
+New Relic,Alert History Cleanup,Script the cleanup of old alert history data.
+New Relic,Dashboard Performance Optimization,Automate optimization of dashboard performance.
+New Relic,Integration Configuration Backup,Script backups of integration configurations.
+New Relic,Custom Monitor Testing,Automate testing of custom monitoring solutions.
+New Relic,Alert Policy Documentation,Script generation of alert policy documentation.
+New Relic,Performance Data Export,Automate export of performance data for external analysis.
+New Relic,Custom Dashboard Archival,Script archival of unused or outdated dashboards.
+New Relic,Alert Channel Verification,Automate verification of alert channel configurations.
+New Relic,Integration Access Management,Script management of integration access permissions.
+New Relic,Custom Metric Archival,Automate archival of unused custom metrics.
+New Relic,Alert Policy Testing,Script testing of alert policy configurations.
+New Relic,Dashboard Data Validation,Automate validation of dashboard data accuracy.
+New Relic,Integration Usage Reporting,Script generation of integration usage reports.
+New Relic,Custom Monitor Rotation,Automate rotation of custom monitoring schedules.
+New Relic,Alert Channel Documentation,Script generation of alert channel documentation.
+New Relic,Performance Data Cleanup,Automate cleanup of old performance data.
+New Relic,Custom Dashboard Validation,Script validation of dashboard configurations.
+New Relic,Alert Policy Rotation,Automate rotation of alert policies based on schedules.
+New Relic,Integration Performance Testing,Script testing of integration performance.
+New Relic,Custom Metric Documentation,Automate documentation of custom metrics.
+New Relic,Alert Channel Cleanup,Script cleanup of unused alert channels.
+New Relic,Dashboard Access Rotation,Automate rotation of dashboard access permissions.
+New Relic,Integration Configuration Testing,Script testing of integration configurations.
+New Relic,Custom Monitor Documentation,Automate documentation of custom monitors.
+New Relic,Alert Policy Maintenance,Script maintenance of alert policy configurations.
+New Relic,Performance Baseline Documentation,Automate documentation of performance baselines.
+New Relic,Custom Dashboard Maintenance,Script maintenance of custom dashboards.
+New Relic,Alert Channel Rotation Testing,Automate testing of alert channel rotations.
+New Relic,Integration Access Rotation,Script rotation of integration access permissions.
+New Relic,Custom Metric Testing,Automate testing of custom metric collection.
+New Relic,Alert Policy Access Management,Script management of alert policy access.
+New Relic,Dashboard Template Testing,Automate testing of dashboard templates.
+New Relic,Integration Documentation,Script generation of integration documentation.
+New Relic,Custom Monitor Access Management,Automate management of custom monitor access.
+New Relic,Alert Channel Template Management,Script management of alert channel templates.
+New Relic,Performance Data Validation,Automate validation of performance data accuracy.
+New Relic,Custom Dashboard Testing,Script testing of custom dashboard configurations.
+New Relic,Alert Policy Template Testing,Automate testing of alert policy templates.
+New Relic,Integration Maintenance,Script maintenance of integration configurations.
+New Relic,Custom Metric Template Management,Automate management of custom metric templates.

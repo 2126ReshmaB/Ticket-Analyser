@@ -1,0 +1,72 @@
+Category,Short Description,Description
+Microsoft Endpoint Manager,Auto-Enroll Devices in Intune,Automatically enroll new devices into Intune for management based on predefined policies.
+Microsoft Endpoint Manager,Deploy Software Updates,Automate the deployment of software updates to managed devices to ensure compliance and security.
+Microsoft Endpoint Manager,Enforce Password Policies,Automatically enforce password complexity and expiration policies on managed devices.
+Microsoft Endpoint Manager,Remove Devices from Intune,Automatically remove devices from Intune when they are no longer in use or decommissioned.
+Microsoft Endpoint Manager,Monitor Compliance Policies,Automatically track and report compliance with security and device configuration policies.
+Microsoft Endpoint Manager,Assign Apps to User Groups,Automate app assignments to user groups based on department or role.
+Microsoft Endpoint Manager,Block Non-Compliant Devices,Automatically block non-compliant devices from accessing corporate resources.
+Microsoft Endpoint Manager,Reset Device Passwords,Automate the process of resetting passwords for managed devices.
+Microsoft Endpoint Manager,Deploy Security Baselines,Automatically deploy security baselines to ensure consistent security configurations across devices.
+Microsoft Endpoint Manager,Schedule Device Scans,Automate the scheduling of antivirus and malware scans on managed devices.
+Microsoft Endpoint Manager,Monitor Device Encryption Status,Automatically monitor and report on device encryption status to ensure compliance with security policies.
+Microsoft Endpoint Manager,Configure Wi-Fi Profiles,"Automatically deploy Wi-Fi configurations to devices, including SSID and authentication settings."
+Microsoft Endpoint Manager,Auto-Assign Devices to Groups,Automatically assign newly enrolled devices to specific groups based on tags or attributes.
+Microsoft Endpoint Manager,Deploy Certificates,Automate the deployment of certificates for secure communication and authentication.
+Microsoft Endpoint Manager,Monitor App Installation Status,Automatically track the installation status of applications on managed devices.
+Microsoft Endpoint Manager,Notify on Compliance Violations,Send automated notifications to administrators when devices violate compliance policies.
+Microsoft Endpoint Manager,Wipe Lost or Stolen Devices,Automate the process of remotely wiping lost or stolen devices to protect corporate data.
+Microsoft Endpoint Manager,Configure VPN Profiles,Automatically deploy and configure VPN profiles for secure remote access.
+Microsoft Endpoint Manager,Deploy Conditional Access Policies,Automate the deployment of conditional access policies to control access to corporate resources.
+Microsoft Endpoint Manager,Monitor Patch Compliance,Automatically monitor the patch compliance status of managed devices.
+Microsoft Endpoint Manager,Deploy Office 365 Applications,Automate the deployment of Office 365 apps to managed devices.
+Microsoft Endpoint Manager,Enforce Device Lock Settings,"Automatically enforce device lock settings, such as inactivity timeouts."
+Microsoft Endpoint Manager,Monitor Device Inventory,"Automatically track and report device inventory information, including hardware and software details."
+Microsoft Endpoint Manager,Configure Email Profiles,Automatically deploy email configurations to devices for secure access to corporate email systems.
+Microsoft Endpoint Manager,Auto-Update Managed Applications,Automate the process of updating managed applications to the latest versions.
+Microsoft Endpoint Manager,Manage BitLocker Recovery Keys,Automatically retrieve and store BitLocker recovery keys for encrypted devices.
+Microsoft Endpoint Manager,Restrict Access to USB Devices,Automate the enforcement of policies to restrict or block USB device access.
+Microsoft Endpoint Manager,Notify on New Device Enrollment,Send automated notifications to administrators when new devices are enrolled.
+Microsoft Endpoint Manager,Deploy Device Configuration Profiles,Automate the deployment of configuration profiles to ensure standardized settings across devices.
+Microsoft Endpoint Manager,Configure Windows Hello for Business,Automatically enable and configure Windows Hello for Business to enforce biometric authentication.
+Microsoft Endpoint Manager,Monitor Device Health,"Automatically track and report on device health metrics, such as CPU usage or disk space availability."
+Microsoft Endpoint Manager,Auto-Retire Inactive Devices,Automatically retire devices that have been inactive for a specified period.
+Microsoft Endpoint Manager,Manage Device Firmware Updates,Automate the deployment and monitoring of firmware updates for managed devices.
+Microsoft Endpoint Manager,Configure Kiosk Mode,Automatically configure devices to operate in kiosk mode for specific use cases.
+Microsoft Endpoint Manager,Deploy PowerShell Scripts,Automate the deployment of PowerShell scripts to perform specific tasks on managed devices.
+Microsoft Endpoint Manager,Enforce Disk Encryption,Automatically ensure that all managed devices have disk encryption enabled.
+Microsoft Endpoint Manager,Monitor Application Usage,Track and report on application usage to ensure compliance with licensing policies.
+Microsoft Endpoint Manager,Notify on Security Threats,Automatically notify administrators when security threats or vulnerabilities are detected on managed devices.
+Microsoft Endpoint Manager,Deploy OneDrive Configuration,"Automate the deployment of OneDrive settings, such as folder redirection and sync policies."
+Microsoft Endpoint Manager,Configure Windows Updates,Automatically configure Windows Update policies to ensure timely patching and updates.
+Microsoft Endpoint Manager,Auto-Remove Unauthorized Applications,Automatically detect and remove unauthorized or blacklisted applications from devices.
+Microsoft Endpoint Manager,Deploy Company Portal App,Automate the deployment of the Company Portal app to devices for self-service access to apps and resources.
+Microsoft Endpoint Manager,Enable Remote Desktop Access,Automatically enable and configure remote desktop access on managed devices.
+Microsoft Endpoint Manager,Configure Endpoint Protection Policies,"Automate the deployment of endpoint protection policies, such as antivirus and firewall settings."
+Microsoft Endpoint Manager,Notify on Device Non-Compliance,Automatically alert users and administrators when a device becomes non-compliant.
+Microsoft Endpoint Manager,Deploy Dynamic Device Groups,Automatically create and manage dynamic device groups based on specific attributes or conditions.
+Microsoft Endpoint Manager,Restrict App Store Access,Automate the restriction of app store access to prevent unauthorized app downloads.
+Microsoft Endpoint Manager,Configure Data Loss Prevention Policies,Automatically deploy data loss prevention (DLP) policies to secure sensitive information.
+Microsoft Endpoint Manager,Block Jailbroken or Rooted Devices,Automatically block access to corporate resources for jailbroken or rooted devices.
+Microsoft Endpoint Manager,Enable Multi-Factor Authentication,Automate the enforcement of multi-factor authentication (MFA) for secure access to corporate data.
+Microsoft Endpoint Manager,Monitor Device Enrollment Status,Automatically track and report on the enrollment status of devices in Intune.
+Microsoft Endpoint Manager,Deploy Custom Device Policies,Automate the deployment of custom policies tailored to specific organizational needs.
+Microsoft Endpoint Manager,Auto-Revoke Access for Terminated Employees,Automatically revoke access to corporate resources for terminated employees.
+Microsoft Endpoint Manager,Configure Microsoft Defender Policies,"Automatically deploy Microsoft Defender settings for antivirus, firewall, and endpoint protection."
+Microsoft Endpoint Manager,Notify on Device Enrollment Failures,Automatically alert administrators when device enrollment fails.
+Microsoft Endpoint Manager,Monitor Device Storage Utilization,Automatically track and report on storage utilization across managed devices.
+Microsoft Endpoint Manager,Enforce Auto-Lock Policies,Automatically enforce auto-lock policies for devices to ensure security.
+Microsoft Endpoint Manager,Configure Shared Device Mode,"Automatically configure settings for devices used by multiple users, such as shared tablets or kiosks."
+Microsoft Endpoint Manager,Deploy Browser Security Settings,"Automate the deployment of browser security policies, such as blocking malicious websites or enforcing safe browsing."
+Microsoft Endpoint Manager,Notify on App Installation Failures,Automatically send alerts when application installations fail on managed devices.
+Microsoft Endpoint Manager,Configure Conditional Wi-Fi Access,Automatically enforce conditional Wi-Fi access based on device compliance.
+Microsoft Endpoint Manager,Deploy Remote Assistance Tools,Automate the deployment of remote assistance tools for IT support teams.
+Microsoft Endpoint Manager,Track Device Warranty Information,Automatically track and report on the warranty status of managed devices.
+Microsoft Endpoint Manager,Block Legacy Authentication Methods,Automatically enforce the use of modern authentication methods and block legacy protocols.
+Microsoft Endpoint Manager,Configure Backup Policies,Automatically deploy backup policies to ensure critical data is regularly backed up on managed devices.
+Microsoft Endpoint Manager,Deploy Custom Branding to Devices,"Automatically deploy custom branding, such as wallpapers or lock screen images, to managed devices."
+Microsoft Endpoint Manager,Notify on Device Enrollment Approvals,Automatically notify administrators when new device enrollments require approval.
+Microsoft Endpoint Manager,Configure Secure Boot Settings,Automatically enforce secure boot settings for managed devices.
+Microsoft Endpoint Manager,Deploy Printer Configurations,Automate the deployment of printer settings and configurations to devices.
+Microsoft Endpoint Manager,Restrict Device Camera Access,Automatically restrict or disable camera access on managed devices.
+Microsoft Endpoint Manager,Notify on Compliance Policy Updates,Automatically notify users when compliance policies are

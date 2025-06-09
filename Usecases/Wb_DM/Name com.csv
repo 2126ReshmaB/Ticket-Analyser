@@ -1,0 +1,78 @@
+Category,Short Description,Description
+Name.com,Domain Registration Automation,Automate the process of registering new domains using Name.com's API.
+Name.com,Domain Renewal Automation,Automatically renew domains before expiration to avoid service interruptions.
+Name.com,Domain Transfer Automation,Automate the transfer of domains between registrars using Name.com's API.
+Name.com,DNS Record Management,"Automate the creation, updating, and deletion of DNS records (A, CNAME, TXT, etc.) for domains."
+Name.com,WHOIS Privacy Enablement,Automate enabling WHOIS privacy for domains to protect personal information.
+Name.com,Bulk Domain Registration,Automate the registration of multiple domains in bulk using a script.
+Name.com,Bulk Domain Renewal,Automate the renewal of multiple domains at once to save time.
+Name.com,Domain Availability Check,Automate checking the availability of domains for registration.
+Name.com,Domain Expiry Notifications,Automate sending notifications for upcoming domain expirations.
+Name.com,Subdomain Creation,Automate the creation of subdomains for specific use cases.
+Name.com,DNS Zone File Export,Automate exporting DNS zone files for backup or migration purposes.
+Name.com,DNS Zone File Import,Automate importing DNS zone files to configure DNS settings quickly.
+Name.com,Domain Locking,Automate enabling or disabling domain locking to prevent unauthorized transfers.
+Name.com,SSL Certificate Purchase,Automate the purchase of SSL certificates for domains.
+Name.com,SSL Certificate Renewal,Automate the renewal of SSL certificates to maintain secure connections.
+Name.com,Domain Forwarding Setup,Automate the setup of domain forwarding to redirect traffic to another URL.
+Name.com,Email Forwarding Setup,Automate the configuration of email forwarding for domains.
+Name.com,Bulk DNS Record Updates,Automate updating DNS records for multiple domains simultaneously.
+Name.com,Domain Portfolio Management,"Automate the management of a portfolio of domains, including renewals and DNS updates."
+Name.com,Domain Status Monitoring,"Automate monitoring the status of domains (active, expired, etc.)."
+Name.com,Domain Expiry Report Generation,Automate generating reports of domains nearing expiration.
+Name.com,Domain Transfer Status Check,Automate checking the status of domain transfers in progress.
+Name.com,API Token Management,Automate the creation and revocation of API tokens for secure access to Name.com's API.
+Name.com,Domain Name Suggestions,Automate generating domain name suggestions based on keywords.
+Name.com,TLD Price Retrieval,Automate retrieving the pricing for different TLDs (Top-Level Domains).
+Name.com,Domain Auction Monitoring,Automate monitoring domain auctions for specific keywords or TLDs.
+Name.com,Domain Auction Bidding,Automate placing bids on domain auctions.
+Name.com,Domain Ownership Verification,Automate verifying domain ownership using DNS or email methods.
+Name.com,DNSSEC Configuration,Automate enabling and managing DNSSEC for domains to enhance security.
+Name.com,Domain Contact Information Updates,Automate updating contact information for domain registrations.
+Name.com,Domain Transfer Authorization,Automate generating and managing domain transfer authorization codes (EPP codes).
+Name.com,Domain Deletion,Automate deleting domains that are no longer needed.
+Name.com,Domain Parking Setup,Automate setting up domain parking for unused domains.
+Name.com,Domain Redirection Rules,Automate creating redirection rules for domains to specific URLs.
+Name.com,Subdomain Redirection Rules,Automate creating redirection rules for subdomains.
+Name.com,Bulk WHOIS Privacy Updates,Automate enabling or disabling WHOIS privacy for multiple domains.
+Name.com,Domain Renewal Notifications,Automate sending reminders for domain renewals to administrators.
+Name.com,Domain Expiry Grace Period Alerts,Automate alerts for domains in the expiry grace period.
+Name.com,Domain Transfer Grace Period Alerts,Automate alerts for domains in the transfer grace period.
+Name.com,Domain Ownership Change Automation,Automate the process of changing domain ownership between accounts.
+Name.com,Domain Portfolio Analytics,"Automate generating analytics reports for domain portfolios, including traffic and DNS usage."
+Name.com,Domain Traffic Monitoring,Automate monitoring traffic to domains using DNS query logs.
+Name.com,Domain Traffic Reports,Automate generating traffic reports for domains.
+Name.com,Domain Keyword Monitoring,Automate monitoring domains containing specific keywords for availability or auction.
+Name.com,Domain Expiry Grace Period Extensions,Automate requesting extensions for domains in the expiry grace period.
+Name.com,Domain Transfer Grace Period Extensions,Automate requesting extensions for domains in the transfer grace period.
+Name.com,Domain Name Filtering,"Automate filtering domain names based on specific criteria (length, TLD, etc.)."
+Name.com,Domain Name Sorting,"Automate sorting domain names in a portfolio based on expiration date, TLD, or other attributes."
+Name.com,Domain Name Categorization,Automate categorizing domain names in a portfolio for better organization.
+Name.com,Domain Name Tagging,Automate tagging domain names with custom labels for easier identification.
+Name.com,Domain Name Search Automation,Automate searching for domain names based on specific criteria.
+Name.com,Domain Name Watchlist Management,Automate managing a watchlist of domain names for availability or auction updates.
+Name.com,Domain Name Backordering,Automate placing backorders for domain names that are about to expire.
+Name.com,Domain Name Drop Catching,Automate catching domain names that are dropped by their previous owners.
+Name.com,Domain Name Auction Participation,Automate participating in domain name auctions.
+Name.com,Domain Name Auction Alerts,Automate receiving alerts for domain name auctions matching specific criteria.
+Name.com,Domain Name Auction Bidding Automation,Automate placing bids on domain name auctions.
+Name.com,Domain Name Auction Results Retrieval,Automate retrieving results of domain name auctions.
+Name.com,Domain Name Auction History Retrieval,Automate retrieving the history of domain name auctions for specific domains.
+Name.com,Domain Name Auction Price Tracking,Automate tracking the prices of domain names in auctions.
+Name.com,Domain Name Auction Price Alerts,Automate receiving alerts for domain name auctions exceeding or falling below specific price thresholds.
+Name.com,Domain Name Auction Price Analysis,Automate analyzing the prices of domain names in auctions.
+Name.com,Domain Name Auction Price Predictions,Automate predicting the prices of domain names in auctions based on historical data.
+Name.com,Domain Name Auction Price Trends,Automate tracking trends in domain name auction prices.
+Name.com,Domain Name Auction Price Comparisons,Automate comparing the prices of domain names in auctions.
+Name.com,Domain Name Auction Price Benchmarks,Automate creating benchmarks for domain name auction prices.
+Name.com,Domain Name Auction Price Forecasts,Automate forecasting the prices of domain names in auctions.
+Name.com,Domain Name Auction Price Projections,Automate projecting the prices of domain names in auctions.
+Name.com,Domain Name Auction Price Estimates,Automate estimating the prices of domain names in auctions.
+Name.com,Domain Name Auction Price Calculations,Automate calculating the prices of domain names in auctions.
+Name.com,Domain Name Auction Price Evaluations,Automate evaluating the prices of domain names in auctions.
+Name.com,Domain Name Auction Price Assessments,Automate assessing the prices of domain names in auctions.
+Name.com,Domain Name Auction Price Reviews,Automate reviewing the prices of domain names in auctions.
+Name.com,Domain Name Auction Price Summaries,Automate summarizing the prices of domain names in auctions.
+Name.com,Domain Name Auction Price Reports,Automate generating reports on the prices of domain names in auctions.
+Name.com,Domain Name Auction Price Insights,Automate providing insights into the prices of domain names in auctions.
+Name.com,Domain Name Auction Price Recommendations,Automate recommending prices for domain names in auctions.

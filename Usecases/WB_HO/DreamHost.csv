@@ -1,0 +1,65 @@
+Category,Short Description,Description
+DreamHost,Automate website backups,Automate the process to create backups of website files and databases regularly to ensure data recovery in case of issues.
+DreamHost,Schedule database backups,"Set up automated scripts to back up databases daily, weekly, or monthly and store them securely."
+DreamHost,Monitor website uptime,Use a script to check website uptime periodically and send alerts if the site goes offline.
+DreamHost,SSL certificate renewal automation,Automate SSL certificate renewals before they expire to maintain secure connections on the website.
+DreamHost,Create email accounts,Automate the creation of email accounts for new users or team members in the DreamHost hosting environment.
+DreamHost,Send domain renewal reminders,Create a script to send automated reminders for domain renewals or renew them automatically before expiration.
+DreamHost,Update DNS records,"Automate the update of DNS records, such as adding or modifying A, CNAME, or TXT records."
+DreamHost,Optimize databases,"Automate database optimization by cleaning up unused data, removing overhead, and optimizing tables."
+DreamHost,Update WordPress plugins,Use a script to automatically check for and update WordPress plugins to the latest versions.
+DreamHost,Update WordPress themes,Automate the process of updating WordPress themes to ensure the latest security and design features.
+DreamHost,Monitor website performance,"Use scripts to track website performance metrics like page speed and load times, and send alerts if performance drops."
+DreamHost,Perform malware scans,Automate regular scans for malware and vulnerabilities to protect your site from security threats.
+DreamHost,Fix file permissions,Automatically correct file and folder permissions to ensure security and proper functionality of the website.
+DreamHost,Create staging environments,Automate the creation of staging environments for testing updates and changes before deploying them to the live site.
+DreamHost,Automate file cleanup,Use scripts to delete unnecessary or old files from the hosting environment to free up storage space.
+DreamHost,Monitor error logs,Automate the monitoring of server error logs and set up alerts for specific error codes or patterns.
+DreamHost,Create email forwarders,Automate the creation of email forwarders to redirect messages from one account to another.
+DreamHost,Set up email autoresponders,Automate the configuration of email autoresponders for users.
+DreamHost,Automate backup restoration,Use a script to restore backups of website files or databases in case of emergencies.
+DreamHost,Create subdomains,"Automate the creation of subdomains for testing, staging, or specific user purposes."
+DreamHost,Automate domain redirects,Automate the redirection of domains or subdomains to other URLs.
+DreamHost,Monitor disk space usage,Use a script to monitor disk space usage and send alerts when usage exceeds a set threshold.
+DreamHost,Track bandwidth usage,Automate bandwidth monitoring and send alerts when usage approaches limits.
+DreamHost,Schedule cron jobs,Automate the creation and management of cron jobs to run specific tasks on a schedule.
+DreamHost,Install WordPress,Use scripts to automate the installation of WordPress for new websites.
+DreamHost,Configure WordPress multisite,Automate the setup of WordPress multisite installations to manage multiple sites under one network.
+DreamHost,Clear website cache,Automate the clearing of website cache to ensure updates are visible immediately.
+DreamHost,Detect and fix broken links,Use a script to detect broken links and automatically set up 301 redirects to fix them.
+DreamHost,Generate XML sitemaps,Automate the creation of XML sitemaps and upload them to improve search engine indexing.
+DreamHost,Manage FTP user accounts,"Automate the creation, modification, or deletion of FTP accounts for users."
+DreamHost,Install SSL certificates,"Automate the installation of SSL certificates, including Let's Encrypt or custom SSLs, for websites."
+DreamHost,Upload files automatically,Use a script to upload files or folders to the server automatically.
+DreamHost,Customize error pages,Automate the creation of custom error pages like 404 or 403 to improve the user experience.
+DreamHost,Monitor email deliverability,"Automate email deliverability checks and identify issues with SPF, DKIM, or DMARC records."
+DreamHost,Clone websites,"Automate the cloning of websites for testing, staging, or migration purposes."
+DreamHost,Schedule log file rotation,Automate the rotation and archival of log files to prevent excessive disk space usage.
+DreamHost,Install CMS platforms,"Automate the installation of CMS platforms like Joomla, Drupal, or Magento on DreamHost."
+DreamHost,Generate website analytics reports,Use a script to generate periodic analytics reports for website traffic and performance.
+DreamHost,Redirect HTTP to HTTPS,Automate the process of redirecting HTTP traffic to HTTPS for secure browsing.
+DreamHost,Import databases automatically,Automate the import of databases from SQL files to the server.
+DreamHost,Monitor WHOIS data changes,Use a script to monitor changes to WHOIS data for domains and send alerts if changes occur.
+DreamHost,Export email account details,Automate the export of email account details for documentation or migration purposes.
+DreamHost,Configure email signatures,Automate the setup of email signatures for users across an organization.
+DreamHost,Compress files for download,Automate file compression to make large files easier to download and store.
+DreamHost,Automate website migrations,Automate the migration of websites between DreamHost accounts or from other hosting providers.
+DreamHost,Change PHP versions,Automate the process of switching PHP versions for specific domains or applications.
+DreamHost,Whitelist IP addresses,Automate the whitelisting of specific IP addresses for secure access to the website or server.
+DreamHost,Block unauthorized IPs,Automate the blocking of suspicious or malicious IP addresses to prevent unauthorized access.
+DreamHost,Detect traffic spikes,Automate the detection of traffic spikes and send alerts to prevent server overload.
+DreamHost,Restore deleted files,Automate the restoration of deleted website files from previous backups.
+DreamHost,Set up custom error reporting,Automate the configuration of custom error reporting for PHP or other platforms.
+DreamHost,Install third-party tools,"Automate the installation of third-party tools and apps, such as analytics platforms or marketing tools."
+DreamHost,Optimize website images,Automate the compression and optimization of images to improve website performance.
+DreamHost,Scale server resources,"Automate the scaling of server resources, such as CPU and RAM, to meet traffic demands."
+DreamHost,Detect plugin conflicts,Automate the detection of plugin conflicts in WordPress and send alerts for troubleshooting.
+DreamHost,Manage CDN integration,Automate the setup and management of a Content Delivery Network (CDN) for faster website load times.
+DreamHost,Automate database exports,Use a script to export databases periodically for backup or migration purposes.
+DreamHost,Enable hotlink protection,Automate the setup of hotlink protection to prevent unauthorized use of hosted media files.
+DreamHost,Schedule maintenance mode,Automate the enabling and disabling of maintenance mode for websites during updates or server work.
+DreamHost,Monitor MySQL query performance,Automate the monitoring of MySQL queries to identify and optimize slow or inefficient queries.
+DreamHost,Configure spam filters,Automate the configuration of spam filters to reduce unwanted emails in hosted accounts.
+DreamHost,Track visitor activity,Automate the tracking of visitor activity on websites and generate periodic reports.
+DreamHost,Generate PCI compliance reports,Automate the generation of PCI compliance reports for websites handling sensitive customer data.
+DreamHost,Detect unauthorized file changes,Use a script to monitor and log unauthorized changes to files on the server.

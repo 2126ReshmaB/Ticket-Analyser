@@ -1,0 +1,67 @@
+Category,Short Description,Description
+SolarWinds,Monitor network performance,"Automate the monitoring of network devices to track latency, packet loss, and bandwidth usage."
+SolarWinds,Configure alert notifications,Automate the setup of alerts for critical network or system issues and send notifications via email or SMS.
+SolarWinds,Automate backup of configurations,Automate the backup of network device configurations to ensure quick recovery in case of failure.
+SolarWinds,Track bandwidth usage,Automate the collection and reporting of bandwidth utilization across network interfaces.
+SolarWinds,Automate IP address management,"Automate the management of IP addresses, including allocation, deallocation, and subnet tracking."
+SolarWinds,Monitor server health,"Automate the monitoring of server health metrics such as CPU, memory, disk usage, and temperature."
+SolarWinds,Automate application monitoring,Automate the tracking of application performance metrics to identify bottlenecks or failures in real time.
+SolarWinds,Configure SNMP monitoring,Automate the setup of SNMP polling to collect performance data from network devices.
+SolarWinds,Generate network topology maps,Automate the creation of visual network topology maps to identify device relationships and dependencies.
+SolarWinds,Monitor database performance,"Automate the monitoring of database performance, including query execution times and resource utilization."
+SolarWinds,Automate SLA tracking,Automate the measurement and reporting of SLA compliance for network and application performance.
+SolarWinds,Manage firewall rules,Automate the management and auditing of firewall rules to ensure compliance and security.
+SolarWinds,Configure syslog monitoring,Automate the collection and analysis of syslog messages to detect unusual activity or errors.
+SolarWinds,Monitor virtualization environments,Automate the monitoring of virtual machines and hypervisors to track resource usage and performance issues.
+SolarWinds,Automate patch management,Automate the deployment of patches to systems to ensure compliance and security.
+SolarWinds,Monitor cloud infrastructure,"Automate the monitoring of cloud resources like EC2 instances, S3 buckets, or Azure VMs for performance and availability."
+SolarWinds,Configure NetFlow monitoring,Automate the setup of NetFlow to analyze network traffic patterns and detect anomalies.
+SolarWinds,Monitor VoIP performance,"Automate the tracking of VoIP metrics like jitter, latency, and MOS to ensure call quality."
+SolarWinds,Automate compliance audits,"Automate compliance reporting for industry standards like PCI-DSS, HIPAA, or SOX using configuration and performance data."
+SolarWinds,Monitor wireless networks,"Automate the monitoring of wireless access points and clients to track signal strength, bandwidth usage, and connectivity."
+SolarWinds,Automate hardware health checks,"Automate the monitoring of hardware components like fans, power supplies, and temperature sensors."
+SolarWinds,Monitor storage performance,"Automate the tracking of storage devices for IOPS, throughput, and capacity utilization."
+SolarWinds,Generate automated reports,Automate the creation of performance and availability reports for network and system metrics.
+SolarWinds,Monitor website uptime,Automate the monitoring of website uptime and page load times to ensure availability and performance.
+SolarWinds,Configure user access control,Automate the management of user access to SolarWinds tools and dashboards.
+SolarWinds,Automate DNS resolution checks,Automate the monitoring of DNS resolution times and ensure DNS server availability.
+SolarWinds,Monitor Active Directory health,"Automate the tracking of Active Directory replication, authentication, and overall health."
+SolarWinds,Automate event log monitoring,Automate the collection and analysis of Windows Event Logs to detect security incidents or system issues.
+SolarWinds,Monitor API performance,Automate the monitoring of API response times and availability for critical services.
+SolarWinds,Automate disaster recovery testing,Automate the testing of disaster recovery processes to validate failover readiness.
+SolarWinds,Monitor container environments,Automate the tracking of container performance metrics for Kubernetes or Docker environments.
+SolarWinds,Automate network device onboarding,Automate the discovery and onboarding of new network devices into the monitoring system.
+SolarWinds,Monitor process-level performance,Automate the tracking of individual processes on servers to identify resource-intensive tasks.
+SolarWinds,Detect unauthorized devices,Automate the detection of unauthorized devices or endpoints connected to the network.
+SolarWinds,Automate threshold-based alerts,"Automate the setup of alerts based on performance thresholds for CPU, memory, or bandwidth usage."
+SolarWinds,Monitor hybrid cloud environments,Automate the monitoring of hybrid infrastructures spanning on-premises and cloud environments.
+SolarWinds,Configure automated backups,Automate the scheduling of backups for network devices and critical systems.
+SolarWinds,Automate service dependency mapping,Automate the mapping of service dependencies to understand the impact of failures on connected systems.
+SolarWinds,Monitor remote sites,Automate the tracking of performance and availability for remote office network connections.
+SolarWinds,Automate device firmware upgrades,Automate the deployment of firmware updates for network devices to ensure compatibility and security.
+SolarWinds,Monitor certificate expiration,Automate the tracking of SSL/TLS certificate expiration dates to prevent service disruptions.
+SolarWinds,Track network latency,Automate the collection of latency metrics to identify slow connections and optimize performance.
+SolarWinds,Monitor data center power usage,Automate the tracking of power consumption for data center devices to optimize energy efficiency.
+SolarWinds,Automate capacity planning,Automate the analysis of historical performance data to predict future resource needs.
+SolarWinds,Monitor backup job status,Automate the tracking of backup job success or failure to ensure data integrity.
+SolarWinds,Detect rogue DHCP servers,Automate the detection of unauthorized DHCP servers to prevent IP conflicts.
+SolarWinds,Monitor file integrity,Automate the tracking of file changes to detect unauthorized modifications.
+SolarWinds,Configure automated failover,Automate the setup of failover mechanisms to ensure high availability for critical systems.
+SolarWinds,Monitor ERP system performance,Automate the tracking of ERP system performance metrics to ensure business process continuity.
+SolarWinds,Automate log file rotation,Automate the rotation and archiving of log files to manage disk space and retain critical data.
+SolarWinds,Monitor IoT devices,Automate the tracking of IoT device performance and connectivity in the network.
+SolarWinds,Automate service-level reports,Automate the generation of SLA compliance reports for network and application performance.
+SolarWinds,Monitor software license usage,Automate the tracking of software license usage to ensure compliance and avoid over-provisioning.
+SolarWinds,Monitor QoS policies,Automate the tracking of Quality of Service (QoS) policies to ensure consistent network performance.
+SolarWinds,Automate access point monitoring,Automate the tracking of wireless access points for performance and client connectivity.
+SolarWinds,Monitor printer usage,Automate the tracking of printer performance and usage metrics in the network.
+SolarWinds,Monitor storage array health,"Automate the tracking of storage array health, including disk failures and performance metrics."
+SolarWinds,Detect port flapping,Automate the detection of port flapping on switches to prevent network instability.
+SolarWinds,Monitor disk IOPS,Automate the tracking of disk Input/Output Operations Per Second (IOPS) to detect storage bottlenecks.
+SolarWinds,Automate patch audit reports,Automate the generation of patch compliance reports for auditing purposes.
+SolarWinds,Monitor latency-sensitive applications,Automate the tracking of latency-sensitive applications like VoIP and video conferencing for performance optimization.
+SolarWinds,Detect duplicate IPs,Automate the detection of duplicate IP addresses to prevent network conflicts.
+SolarWinds,Monitor email server health,"Automate the tracking of email server performance, including SMTP, IMAP, and POP3 services."
+SolarWinds,Monitor SAN performance,Automate the tracking of Storage Area Network (SAN) performance metrics like throughput and latency.
+SolarWinds,Monitor virtual desktop performance,"Automate the tracking of virtual desktop infrastructure performance, including latency and resource utilization."
+SolarWinds,Autom,

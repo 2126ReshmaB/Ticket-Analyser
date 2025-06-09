@@ -1,0 +1,65 @@
+Category,Short Description,Description
+JIRA Service Management,Auto-Assign Tickets to Agents,"Automatically assign incoming tickets to agents based on their expertise, skills, or availability."
+JIRA Service Management,Notify on SLA Breach,Send automated notifications to agents and managers when an SLA is about to breach or has breached.
+JIRA Service Management,Auto-Close Resolved Tickets,"Automatically close tickets that have been in the ""Resolved"" state for a predefined number of days."
+JIRA Service Management,Escalate Overdue Tickets,Automatically escalate tickets that exceed SLA time to higher-level support teams or managers.
+JIRA Service Management,Auto-Assign Priority to Tickets,"Automatically set ticket priority based on keywords in the summary, description, or the reporter's profile."
+JIRA Service Management,Notify Users of Ticket Updates,Automatically notify users when their ticket status or priority changes.
+JIRA Service Management,Reopen Tickets on User Response,Reopen tickets automatically when a user comments or responds after the ticket is closed.
+JIRA Service Management,Notify on High-Priority Tickets,Send alerts to agents and managers when high-priority or critical tickets are logged.
+JIRA Service Management,Auto-Create Tickets from Emails,Automatically generate tickets from emails sent to the support mailbox.
+JIRA Service Management,Assign Tickets Based on Components,Automatically route tickets to specific agents or teams based on the associated components defined in the ticket.
+JIRA Service Management,Send Satisfaction Surveys After Resolution,Automatically send post-resolution satisfaction surveys to users for feedback collection.
+JIRA Service Management,Generate Weekly SLA Reports,Automate the creation and distribution of weekly SLA performance reports for stakeholders.
+JIRA Service Management,Auto-Categorize Tickets,Automatically assign categories to tickets based on keywords or predefined rules.
+JIRA Service Management,Notify on Major Incidents,Automatically notify all affected users and stakeholders when a major incident is logged.
+JIRA Service Management,Monitor Agent Workload,Automatically track and report agent workloads to ensure balanced ticket distribution.
+JIRA Service Management,Notify on VIP User Tickets,Send alerts to agents or managers when a ticket is submitted by a VIP user.
+JIRA Service Management,Archive Old Tickets,Automatically archive tickets that have been resolved or closed for a specified timeframe.
+JIRA Service Management,Auto-Resolve Duplicate Tickets,Automatically identify and resolve duplicate tickets by linking them to the primary ticket.
+JIRA Service Management,Notify on Ticket Escalation,Send real-time notifications to stakeholders when a ticket is escalated.
+JIRA Service Management,Assign Tickets During After-Hours,Automatically assign tickets to on-call staff during non-business hours.
+JIRA Service Management,Create Problem Records from Repeated Incidents,Automatically generate a problem record when multiple tickets with the same issue are logged.
+JIRA Service Management,Auto-Close Tickets Without User Response,"Automatically close tickets if the user does not respond within a set period after the status changes to ""Waiting for Customer."""
+JIRA Service Management,Generate Daily Ticket Activity Reports,"Automate the creation of daily reports summarizing ticket creation, resolution, and pending issues."
+JIRA Service Management,Notify Users of Scheduled Maintenance,Automatically send notifications to users about scheduled system or service maintenance.
+JIRA Service Management,Auto-Assign Tickets to Groups,Automatically route tickets to specific groups based on the issue type or request category.
+JIRA Service Management,Monitor SLA Compliance,Track SLA compliance and send alerts for potential violations or breaches.
+JIRA Service Management,Auto-Tag Tickets for Reporting,"Add relevant tags to tickets automatically for easier categorization, tracking, and reporting."
+JIRA Service Management,Notify on Low CSAT Scores,Automatically notify managers when customer satisfaction scores fall below a specific threshold.
+JIRA Service Management,Auto-Generate Knowledge Base Articles,Automatically create knowledge base articles from resolved tickets to document frequently asked questions or solutions.
+JIRA Service Management,Create Onboarding Tasks for New Employees,"Automatically generate onboarding tasks for new employees, such as setting up accounts or provisioning hardware."
+JIRA Service Management,Notify on High-Traffic Categories,Send alerts when specific ticket categories receive a high volume of requests in a short period.
+JIRA Service Management,Update Ticket Status on Dependency Completion,Automatically update a ticket's status when its dependent tasks or subtasks are completed.
+JIRA Service Management,Monitor Asset Warranty Expiry,Automatically notify the asset management team when an asset's warranty is about to expire.
+JIRA Service Management,Escalate VIP Tickets,Automatically escalate tickets filed by VIP users to a higher priority or senior agents.
+JIRA Service Management,Assign Tickets Based on Location,Automatically assign tickets to agents or teams based on the reporter's geographic location.
+JIRA Service Management,Generate Monthly Performance Dashboards,"Automate the creation of dashboards summarizing key metrics for the month, such as ticket volume, resolution time, and SLA adherence."
+JIRA Service Management,Notify on Outdated Knowledge Articles,Send reminders to update or retire knowledge base articles that have not been reviewed for a long time.
+JIRA Service Management,Monitor Integration Failures,Automatically detect and raise alerts or tickets for failures in third-party integrations.
+JIRA Service Management,Notify on Critical Asset Downtime,Send alerts to the IT team when critical assets experience downtime or performance degradation.
+JIRA Service Management,Auto-Assign Change Requests,Automatically route change requests to the appropriate change manager or team based on the type of change.
+JIRA Service Management,Track SLA Success Rates,Automatically track SLA success rates and generate reports for analysis.
+JIRA Service Management,Auto-Categorize Change Requests,Categorize change requests automatically based on keywords or related services.
+JIRA Service Management,Generate Asset Inventory Reports,Automate the generation of detailed asset inventory reports for IT teams.
+JIRA Service Management,Notify on License Expiry,Automatically alert relevant teams when software licenses are nearing their expiration dates.
+JIRA Service Management,Schedule Recurring Maintenance Tasks,Automatically create recurring tasks for routine maintenance or system audits.
+JIRA Service Management,Monitor Disk Space Usage,Automatically generate alerts or tickets when server disk space usage exceeds a predefined threshold.
+JIRA Service Management,Notify on Major Incident Resolution,Notify all stakeholders when a major incident is resolved and provide a summary of the resolution.
+JIRA Service Management,Escalate Tickets for Negative Feedback,Automatically escalate tickets that receive negative feedback from customers.
+JIRA Service Management,Monitor API Usage Limits,Send alerts when API usage approaches predefined thresholds to prevent service interruptions.
+JIRA Service Management,Auto-Create Tickets for Social Media Requests,Automatically generate tickets for customer requests or complaints received through integrated social media platforms.
+JIRA Service Management,Generate Compliance Reports,Automate the creation of compliance reports for audits or regulatory requirements.
+JIRA Service Management,Notify Users of Agent Assignments,Automatically notify users when an agent is assigned to their ticket.
+JIRA Service Management,Auto-Renew Expiring Contracts,Automatically renew service contracts nearing expiry based on predefined business rules.
+JIRA Service Management,Link Related Incidents Automatically,Automatically link incidents that are related to the same root cause for better incident management.
+JIRA Service Management,Generate Incident Trend Reports,Automate the analysis of incident trends over time and generate reports for insights.
+JIRA Service Management,Notify on Failed Scheduled Jobs,Automatically notify administrators when recurring scheduled jobs fail to execute successfully.
+JIRA Service Management,Track Patch Deployment Status,Automatically monitor patch deployment progress and create tickets for any failed deployments.
+JIRA Service Management,Notify on Unauthorized Access Attempts,Send alerts to security teams when an unauthorized access attempt is detected in the system.
+JIRA Service Management,Monitor SLA Timer Resets,Automatically notify managers when SLA timers are reset due to ticket status changes.
+JIRA Service Management,Auto-Assign Tickets by Time Zone,Automatically assign tickets to agents based on the customer's time zone for faster response times.
+JIRA Service Management,Notify on High-Traffic Service Requests,Alert managers when specific service request types experience an unusual increase in volume.
+JIRA Service Management,Auto-Categorize Incident Types,Automatically categorize incidents based on related services or keywords for better tracking and reporting.
+JIRA Service Management,Schedule Regular System Health Checks,Automate the creation of recurring tickets for system health checks to ensure consistent monitoring.
+JIRA Service Management,Monitor SLA Success by Agent,

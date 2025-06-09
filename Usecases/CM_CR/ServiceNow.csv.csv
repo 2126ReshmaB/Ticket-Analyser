@@ -1,0 +1,59 @@
+Category,Short Description,Description
+ServiceNow,Automated Incident Creation,Automatically create incidents when an event is triggered in monitoring tools or external systems.
+ServiceNow,Auto-Assign Incidents,"Assign incidents to teams or individuals based on predefined business rules, such as location, category, or priority."
+ServiceNow,Auto-Close Resolved Incidents,"Automatically close incidents that have been in a ""Resolved"" state for a specified period."
+ServiceNow,SLA Breach Notifications,Send automated notifications to stakeholders when an SLA is about to breach or has been breached.
+ServiceNow,Change Request Approval Workflow,"Automate the approval process for change requests, including multi-level approvals and escalations."
+ServiceNow,Incident Priority Automation,Automatically set or update the priority of an incident based on its impact and urgency.
+ServiceNow,Service Request Fulfillment Workflow,Automate the fulfillment of service requests using predefined workflows and scripting.
+ServiceNow,Auto-Create Problem Records,Automatically create problem records from recurring incidents or based on specific triggers.
+ServiceNow,CMDB Updates from Discovery,Automate updates to the Configuration Management Database (CMDB) using data collected from Discovery tools.
+ServiceNow,Auto-Assign Change Requests,Assign change requests to the appropriate team or individual based on predefined rules.
+ServiceNow,Knowledge Article Auto-Suggestion,Suggest relevant knowledge articles to agents or end-users based on incident or request details.
+ServiceNow,Email Notifications for Task Updates,"Send automated email notifications when a task is assigned, updated, or completed."
+ServiceNow,Auto-Create Incidents from Emails,Automatically create incidents when an email is received in a monitored mailbox.
+ServiceNow,Integration with Monitoring Tools,"Automate the creation of incidents or alerts from monitoring tools like SolarWinds, Nagios, or Splunk."
+ServiceNow,User Onboarding Automation,"Automate user onboarding tasks, such as creating accounts, assigning roles, and provisioning access to systems."
+ServiceNow,User Offboarding Automation,"Automate user offboarding tasks, such as disabling accounts, revoking access, and updating records."
+ServiceNow,Asset Management Updates,Automate updates to asset records when changes are made to the CMDB or when assets are retired.
+ServiceNow,Incident Escalation Rules,Automatically escalate incidents to higher-level support teams based on SLA or priority.
+ServiceNow,Auto-Resolve Low-Priority Incidents,"Automatically resolve incidents that match predefined conditions, such as low-priority alerts from monitoring tools."
+ServiceNow,Password Reset Automation,"Automate the process of password resets for users, including notifications and validations."
+ServiceNow,Scheduled Job for Data Cleanup,"Automate the cleanup of old records, such as incidents, tasks, or logs, based on retention policies."
+ServiceNow,Integration with Active Directory,"Automate user account creation, updates, and deactivation by integrating with Active Directory."
+ServiceNow,Incident Notification to Teams,Send automated notifications to specific teams when incidents are created in their queue.
+ServiceNow,Change Request Risk Assessment,Automate the risk assessment process for change requests based on predefined criteria.
+ServiceNow,Auto-Update CMDB Relationships,Automatically update relationships between CI (Configuration Items) in the CMDB based on discovery data.
+ServiceNow,Problem Record Escalations,Automate the escalation of problem records based on priority or SLA.
+ServiceNow,Approval Delegation Automation,Enable automated delegation of approvals when the primary approver is unavailable.
+ServiceNow,Incident Categorization,Automatically categorize incidents based on keywords or predefined conditions.
+ServiceNow,Task Assignment Based on Workload,Assign tasks to agents or teams with the least workload to balance the workload.
+ServiceNow,Service Catalog Item Approval Workflow,"Automate the approval process for service catalog items, such as hardware or software requests."
+ServiceNow,Incident Duplication Check,Automatically identify and merge duplicate incidents to avoid redundant work.
+ServiceNow,Auto-Create Child Incidents,Automatically create child incidents for major incidents to track related issues.
+ServiceNow,Auto-Close Completed Tasks,"Automatically close tasks that are marked as ""Completed"" for a specified period."
+ServiceNow,Integration with DevOps Tools,"Automate the creation of change requests or incidents from tools like Jenkins, GitHub, or Azure DevOps."
+ServiceNow,Notification on CI Changes,Send automated notifications to stakeholders when critical changes are made to specific CIs in the CMDB.
+ServiceNow,SLA Compliance Reporting,Automate the generation and distribution of SLA compliance reports to stakeholders.
+ServiceNow,Auto-Create Knowledge Articles,Automatically create knowledge articles from resolved incidents or completed tasks.
+ServiceNow,Change Request Dependency Mapping,Automate the identification and mapping of dependencies between change requests.
+ServiceNow,Integration with Slack or Teams,Automate incident or task notifications to collaboration tools like Slack or Microsoft Teams.
+ServiceNow,Auto-Assign Problems Based on CI,Assign problem records to teams or individuals based on the associated Configuration Item (CI).
+ServiceNow,Approval Workflow Notifications,Send automated notifications to approvers when a task or change request is awaiting their approval.
+ServiceNow,Auto-Create Tasks for Change Requests,Automatically create implementation or validation tasks when a change request is approved.
+ServiceNow,Incident Resolution Time Tracking,Automate the tracking and reporting of incident resolution times for SLA compliance.
+ServiceNow,Auto-Update Incident Work Notes,Automatically update work notes with log data or comments from external systems.
+ServiceNow,Problem Root Cause Analysis Workflow,Automate the workflow for root cause analysis in problem management.
+ServiceNow,Auto-Notify on Major Incidents,Send automated notifications to stakeholders when a major incident is declared.
+ServiceNow,Integration with Email Notifications,"Automate email notifications for updates, approvals, or escalations in ServiceNow."
+ServiceNow,Auto-Calculate Change Window,Automate the calculation of change windows based on business rules or predefined schedules.
+ServiceNow,Incident Status Update Notifications,Send automated notifications to users when the status of their incident is updated.
+ServiceNow,Knowledge Article Expiry Alerts,"Send alerts when knowledge articles are about to expire, prompting updates or review."
+ServiceNow,Change Request Rollback Automation,Automate the rollback process for failed change requests.
+ServiceNow,Auto-Create Service Catalog Requests,"Automatically create service catalog requests based on specific triggers, such as onboarding new hires."
+ServiceNow,Integration with Reporting Tools,Automate the export of ServiceNow data to reporting tools like Tableau or Power BI for advanced analytics.
+ServiceNow,Auto-Update Incident Fields,"Automatically update incident fields based on changes to other fields, such as updating the priority when the impact or urgency changes."
+ServiceNow,Scheduled Backup of CMDB Data,Automate the backup of CMDB data to external storage or systems on a scheduled basis.
+ServiceNow,SLA Breach Escalation Rules,Automatically escalate incidents or tasks when an SLA breach is imminent.
+ServiceNow,Auto-Notify on Task Reassignments,Notify stakeholders when a task is reassigned to a different team or individual.
+ServiceNow,Auto-Link Incidents to Problems,"Automatically link incidents to problem records based on matching criteria, such as similar symptoms or affected CIs."

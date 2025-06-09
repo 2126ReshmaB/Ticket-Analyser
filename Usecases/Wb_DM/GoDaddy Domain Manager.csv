@@ -1,0 +1,59 @@
+Category,Short Description,Description
+GoDaddy Domain Manager,Automate domain registration,Use scripts to register domains automatically with predefined TLDs and configurations.
+GoDaddy Domain Manager,Bulk domain registration,Automate the bulk registration of multiple domains with a single command or configuration file.
+GoDaddy Domain Manager,Schedule domain renewal reminders,Automate reminders for domain renewals to ensure domains are not accidentally expired.
+GoDaddy Domain Manager,Monitor domain expiration dates,Automate the monitoring of domain expiration dates and send alerts for upcoming renewals.
+GoDaddy Domain Manager,Automate WHOIS privacy setup,Use scripts to enable WHOIS privacy for registered domains to protect sensitive owner information.
+GoDaddy Domain Manager,Bulk enable WHOIS privacy,Automate enabling WHOIS privacy for multiple domains at once to save time.
+GoDaddy Domain Manager,Automate DNS record updates,"Use scripts to update DNS records such as A, CNAME, MX, and TXT for domains managed in GoDaddy Domain Manager."
+GoDaddy Domain Manager,Bulk DNS record updates,Automate updating DNS records for multiple domains at once.
+GoDaddy Domain Manager,Automate domain forwarding setup,Use scripts to configure domain forwarding to redirect traffic to another domain or URL.
+GoDaddy Domain Manager,Automate subdomain creation,Automate the creation and management of subdomains for registered domains.
+GoDaddy Domain Manager,Automate domain transfer initiation,Use scripts to initiate domain transfers between GoDaddy and other registrars.
+GoDaddy Domain Manager,Monitor domain transfer status,Automate the monitoring of domain transfer statuses and send alerts for completed or failed transfers.
+GoDaddy Domain Manager,Automate domain tagging,Use scripts to add tags to domains for better organization.
+GoDaddy Domain Manager,Automate domain availability checks,Use scripts to periodically check the availability of specific domains and send alerts when they become available.
+GoDaddy Domain Manager,Automate bulk domain renewals,Use scripts to renew multiple domains in bulk with predefined settings.
+GoDaddy Domain Manager,Automate SSL certificate purchases,Use scripts to purchase and configure SSL certificates for domains.
+GoDaddy Domain Manager,Monitor SSL certificate expiration,Automate the monitoring of SSL certificate expiration dates and send reminders for renewal.
+GoDaddy Domain Manager,Automate DNS zone file imports,Use scripts to import DNS zone files into GoDaddy Domain Manager for centralized DNS management.
+GoDaddy Domain Manager,Automate DNS zone file exports,Use scripts to export DNS zone files for backup or migration purposes.
+GoDaddy Domain Manager,Automate bulk domain deletions,Use scripts to delete expired or unused domains in bulk from your GoDaddy account.
+GoDaddy Domain Manager,Automate registrar account updates,"Automate the updating of registrar account details, such as contact information or payment methods."
+GoDaddy Domain Manager,Monitor domain usage,Use scripts to monitor domain traffic and usage statistics.
+GoDaddy Domain Manager,Automate domain lifecycle tracking,"Use scripts to track the lifecycle of domains, from registration to expiration."
+GoDaddy Domain Manager,Automate cost tracking,"Use scripts to track domain registration, renewal, and management costs."
+GoDaddy Domain Manager,Automate bulk WHOIS lookups,Use scripts to perform WHOIS lookups for multiple domains at once.
+GoDaddy Domain Manager,Automate domain forwarding removal,Use scripts to remove domain forwarding configurations for specific domains.
+GoDaddy Domain Manager,Automate domain transfer approvals,Use scripts to approve or reject domain transfer requests automatically.
+GoDaddy Domain Manager,Automate domain registrar switching,Use scripts to switch registrars for domains for cost savings or better service.
+GoDaddy Domain Manager,Automate domain portfolio reporting,"Use scripts to generate detailed reports of your domain portfolio, including expiration dates, registrars, and costs."
+GoDaddy Domain Manager,Automate domain acquisition tracking,Use scripts to track newly acquired domains and update their details in the Domain Manager.
+GoDaddy Domain Manager,Automate domain auction participation,Use scripts to participate in domain auctions by placing bids automatically based on predefined criteria.
+GoDaddy Domain Manager,Automate domain backordering,Use scripts to backorder domains that are about to expire and become available.
+GoDaddy Domain Manager,Automate registrar account audits,Automate the auditing of registrar accounts for unused domains or discrepancies.
+GoDaddy Domain Manager,Automate domain registrar API integration,Use scripts to integrate GoDaddy's API with other tools for seamless domain management.
+GoDaddy Domain Manager,Automate domain registrar API updates,Automate the updating of API credentials in GoDaddy for secure integrations.
+GoDaddy Domain Manager,Automate bulk domain tagging,Use scripts to apply tags to multiple domains in bulk for better organization.
+GoDaddy Domain Manager,Automate domain registrar API logs,Use scripts to monitor and log API activity for auditing purposes.
+GoDaddy Domain Manager,Automate domain registrar API retries,Use scripts to retry failed API requests automatically.
+GoDaddy Domain Manager,Automate registrar API usage monitoring,Use scripts to monitor API usage and send alerts for approaching API limits.
+GoDaddy Domain Manager,Automate domain registrar API throttling,Use scripts to throttle API requests to avoid hitting usage limits.
+GoDaddy Domain Manager,Automate domain registrar API analytics,Use scripts to generate analytics reports based on API activity and domain data.
+GoDaddy Domain Manager,Automate registrar account backups,Use scripts to back up registrar account details stored in GoDaddy Domain Manager.
+GoDaddy Domain Manager,Automate domain auction tracking,Use scripts to track domain auctions and send alerts for bids or price changes.
+GoDaddy Domain Manager,Automate bulk subdomain deletion,Use scripts to delete subdomains in bulk from your domain configurations.
+GoDaddy Domain Manager,Automate domain forwarding updates,Use scripts to update forwarding settings for multiple domains at once.
+GoDaddy Domain Manager,Automate registrar account sync,Use scripts to sync registrar account details with other tools for accurate tracking.
+GoDaddy Domain Manager,Automate registrar account expiration alerts,Use scripts to send alerts if registrar accounts or payment methods are nearing expiration.
+GoDaddy Domain Manager,Automate bulk DNS record deletions,Use scripts to delete DNS records in bulk for multiple domains.
+GoDaddy Domain Manager,Automate domain portfolio valuation,Use scripts to calculate the valuation of your domain portfolio based on current market trends.
+GoDaddy Domain Manager,Automate DNS template application,Use scripts to apply predefined DNS templates to multiple domains for faster configuration.
+GoDaddy Domain Manager,Automate domain registrar switching,Use scripts to transfer domains from GoDaddy to another registrar for better pricing or features.
+GoDaddy Domain Manager,Monitor SSL certificate validity,Automate the tracking of SSL certificate validity and send alerts for invalid or expired certificates.
+GoDaddy Domain Manager,Automate bulk SSL certificate management,Use scripts to manage SSL certificates for multiple domains at once.
+GoDaddy Domain Manager,Automate domain redirection,Use scripts to set up redirection for domains or subdomains to specific URLs.
+GoDaddy Domain Manager,Monitor DNS propagation,Automate the monitoring of DNS propagation for newly created or updated DNS records.
+GoDaddy Domain Manager,Automate DNS redundancy setup,Use scripts to configure DNS redundancy for critical domains to ensure high availability.
+GoDaddy Domain Manager,Automate domain renewal cost optimization,Use scripts to analyze and optimize renewal costs by comparing registrar pricing.
+GoDaddy Domain Manager,Automate domain security checks,"Use scripts to perform security checks for domains, such as monitoring DNSSEC and WHOIS privacy settings."

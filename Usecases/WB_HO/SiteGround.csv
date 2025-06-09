@@ -1,0 +1,60 @@
+Category,Short Description,Description
+SiteGround,Automate website backups,Automatically schedule and create backups of your website files and databases to ensure data recovery in case of issues.
+SiteGround,Monitor website uptime,Use a script to regularly check website uptime and send alerts if the site goes offline.
+SiteGround,SSL certificate renewal automation,Automatically check SSL certificate expiry dates and renew them before they expire to maintain secure connections.
+SiteGround,Email account creation,Automate the creation of new email accounts for users or employees within the SiteGround hosting environment.
+SiteGround,Domain renewal reminders,Create a script to send reminders or automatically renew domains before their expiration dates.
+SiteGround,DNS record updates,"Automate updates to DNS records, such as adding or editing A, CNAME, or TXT records."
+SiteGround,Database optimization,Automate database optimization by running scripts to clean up unnecessary data and optimize tables for better performance.
+SiteGround,WordPress plugin updates,Automatically check for and update WordPress plugins to their latest versions to ensure security and functionality.
+SiteGround,WordPress theme updates,Automate the process of updating WordPress themes to their latest versions.
+SiteGround,Site performance monitoring,"Use scripts to monitor website performance metrics (e.g., load times) and send alerts if performance deteriorates."
+SiteGround,Automated malware scanning,Schedule and run automated malware scans for websites hosted on SiteGround to enhance security.
+SiteGround,File permission correction,Automate the correction of file and folder permissions to ensure security and proper functioning of the website.
+SiteGround,Create staging environments,Automate the creation of staging environments for WordPress or other sites to test updates or changes before pushing them live [\[1\]](https://www.elegantthemes.com/blog/wordpress/siteground-site-tools-guide).
+SiteGround,Scheduled file cleanup,Use a script to delete old or unused files from your hosting account to free up space.
+SiteGround,Automated error log monitoring,Monitor error logs and send alerts or reports when certain error patterns are identified.
+SiteGround,Email forwarder setup,Automate the setup of email forwarders to redirect emails from one account to another.
+SiteGround,Email autoresponders,Set up automated email autoresponders for specific email accounts.
+SiteGround,Database backups,"Automate database backups on a daily, weekly, or monthly schedule, and store them in a secure location."
+SiteGround,Restore backups,Automate the process of restoring backups from stored files or databases in case of emergencies.
+SiteGround,Subdomain creation,"Automate the creation of subdomains for specific purposes, such as creating test environments or microsites."
+SiteGround,Domain redirection setup,"Automate the redirection of domains or subdomains to other URLs, such as for parked or expired domains."
+SiteGround,Disk space monitoring,Use a script to monitor disk space utilization and send alerts when usage exceeds a certain threshold.
+SiteGround,Bandwidth monitoring,Automate bandwidth usage monitoring and send alerts if usage approaches the plan’s limits.
+SiteGround,Cron job creation,Automate the creation and management of cron jobs to run specific tasks on a schedule.
+SiteGround,WordPress installation,Automate fresh WordPress installations using SiteGround’s tools or APIs.
+SiteGround,WordPress user management,"Automate the creation, removal, or role assignment of WordPress users."
+SiteGround,Multi-site WordPress setup,Automate the setup of WordPress multisite networks for managing multiple websites.
+SiteGround,Cache clearing,Automate the clearing of cache for WordPress or other platforms to ensure real-time updates are visible.
+SiteGround,Redirect broken links,Automate the detection of broken links and set up 301 redirects to improve SEO and user experience.
+SiteGround,Generate XML sitemaps,Use a script to automatically generate XML sitemaps for websites to improve search engine indexing.
+SiteGround,Manage FTP accounts,"Automate the creation, modification, or deletion of FTP accounts for users."
+SiteGround,Install SSL certificates,"Automate the installation of SSL certificates, including Let’s Encrypt or third-party certificates."
+SiteGround,Automated file uploads,Use scripts to upload files to specific directories on the hosting account automatically.
+SiteGround,Error page customization,"Automate the customization of 404, 403, and other error pages for a better user experience."
+SiteGround,Monitor email deliverability,"Use scripts to check email deliverability and identify issues with SPF, DKIM, and DMARC configurations."
+SiteGround,Automated site cloning,Clone websites hosted on SiteGround to create duplicates for testing or migration.
+SiteGround,Log file rotation,Automate the rotation and archival of log files to prevent excessive disk space usage.
+SiteGround,Install CMS platforms,"Automate the installation of other CMS platforms like Joomla, Drupal, or Magento."
+SiteGround,Generate analytics reports,"Use scripts to generate custom analytics reports, such as traffic or sales data, from website logs."
+SiteGround,Enforce HTTPS redirects,Automate the setup of HTTPS redirects to ensure all traffic is routed over secure connections.
+SiteGround,Scheduled script execution,Automate the execution of custom scripts at specific intervals using cron jobs.
+SiteGround,Domain WHOIS data monitoring,Monitor changes to WHOIS data for domains and send alerts if ownership or settings are modified.
+SiteGround,Export email accounts list,Automate the export of email account details for documentation or migration purposes.
+SiteGround,Automated email signature setup,Automate the configuration of email signatures across multiple accounts.
+SiteGround,File compression for download,Automate the compression of large files or folders for easier downloads and storage.
+SiteGround,Automated website migration,Use scripts to migrate websites between SiteGround accounts or from other providers.
+SiteGround,Change PHP version,Automate the process of changing the PHP version for specific domains or websites.
+SiteGround,Automated IP whitelisting,Use scripts to whitelist specific IP addresses for security or access control.
+SiteGround,Block suspicious IPs,Automate the blocking of suspicious or malicious IP addresses based on security logs.
+SiteGround,Monitor website traffic spikes,Detect traffic spikes and send alerts to prevent server overload or downtime.
+SiteGround,Restore deleted files,Automate the recovery of accidentally deleted files from backups.
+SiteGround,Manage custom error reporting,Automate the configuration of custom error reporting settings for PHP or other services.
+SiteGround,Install third-party apps,"Automate the installation of third-party applications, such as analytics tools or marketing platforms."
+SiteGround,Redirect HTTP traffic to HTTPS,Automate the redirection of all HTTP traffic to HTTPS for consistent secure browsing.
+SiteGround,Optimize images,Use a script to compress and optimize images on the server to improve website performance.
+SiteGround,Automated server resource scaling,"Automate the scaling of server resources (e.g., RAM, CPU) based on traffic demand."
+SiteGround,Monitor plugin conflicts,Detect conflicts between WordPress plugins and send alerts when issues arise.
+SiteGround,Manage CDN integration,Automate the setup and management of Content Delivery Networks (CDNs) for faster content delivery.
+SiteGround,Automate database migrations,Automate the migration of databases between servers or hosting accounts.

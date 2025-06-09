@@ -1,0 +1,58 @@
+Category,Short Description,Description
+CyberArk,Automate Privileged Account Discovery,Automatically discover privileged accounts across the network to identify unmanaged accounts and bring them under CyberArk management.
+CyberArk,Automate Account Onboarding,"Automatically onboard privileged accounts into the CyberArk Vault, applying relevant policies and permissions."
+CyberArk,Automate Password Rotation,Schedule and automate password rotation for privileged accounts to improve security and compliance.
+CyberArk,Automate SSH Key Management,"Automatically discover, rotate, and manage SSH keys across servers and applications."
+CyberArk,Automate Privileged Session Recording,"Automatically enable session recording for privileged accounts, ensuring all actions are captured for auditing."
+CyberArk,Automate Privileged Session Termination,Automatically terminate privileged sessions that are idle or exceed predefined time limits.
+CyberArk,Automate Compliance Reporting,Generate and distribute compliance reports automatically to track privileged account usage and adherence to policies.
+CyberArk,Automate Access Request Workflows,"Implement automated workflows for requesting and approving privileged access, reducing manual intervention."
+CyberArk,Automate Password Policy Enforcement,"Enforce password complexity, expiration, and other policies automatically for all privileged accounts."
+CyberArk,Automate Privileged Account Deletion,Automatically delete or disable privileged accounts that are no longer in use or required.
+CyberArk,Automate Integration with SIEM Tools,Integrate with SIEM tools to automatically send alerts and logs for privileged account activities.
+CyberArk,Automate Privileged Account Auditing,Schedule and automate auditing of privileged accounts to ensure compliance and security policies are followed.
+CyberArk,Automate Application Credential Management,"Automatically manage application credentials, including rotation and secure storage."
+CyberArk,Automate Privileged Access Policies,Automatically enforce privileged access policies based on user roles or risk levels.
+CyberArk,Automate Service Account Management,"Discover, onboard, and manage service accounts, automating password rotation and access control."
+CyberArk,Automate API Credential Management,Automatically secure API credentials and rotate them periodically to reduce vulnerabilities.
+CyberArk,Automate Temporary Access Granting,Grant temporary privileged access to users or accounts automatically based on predefined workflows.
+CyberArk,Automate Vault Backup,Schedule and automate backups of the CyberArk Vault to ensure data recovery in case of failure.
+CyberArk,Automate Privileged Access Termination,Automatically revoke privileged access when an account is no longer required or a user leaves the organization.
+CyberArk,Automate Endpoint Privilege Management,Enforce least privilege policies on endpoints automatically by restricting administrative rights.
+CyberArk,Automate Session Timeout Policies,Automatically enforce session timeout policies for privileged sessions to reduce security risks.
+CyberArk,Automate Privileged Account Expiry Notifications,Notify administrators automatically when privileged accounts are nearing their expiry date.
+CyberArk,Automate Risk-Based Access Control,Automatically enforce additional controls for privileged accounts based on risk levels.
+CyberArk,Automate Credential Rotation for Cloud Environments,"Automatically rotate credentials for cloud environments like AWS, Azure, and Google Cloud."
+CyberArk,Automate Integration with ITSM Tools,Integrate with ITSM tools like ServiceNow to automate privileged access request and incident management workflows.
+CyberArk,Automate DevOps Secrets Management,"Automatically manage and rotate secrets used in DevOps pipelines, such as tokens and certificates."
+CyberArk,Automate Multi-Factor Authentication (MFA),Enforce MFA automatically for access to CyberArk Vault and privileged accounts.
+CyberArk,Automate Credential Expiry Notifications,"Notify users automatically when their credentials are about to expire, prompting renewal."
+CyberArk,Automate Key Rotation for Databases,Automatically rotate database credentials and secure them within CyberArk.
+CyberArk,Automate Integration with Cloud Platforms,"Integrate CyberArk with cloud platforms like AWS, Azure, and Google Cloud to manage privileged accounts automatically."
+CyberArk,Automate User Activity Monitoring,Monitor and log privileged user activities automatically for auditing and anomaly detection.
+CyberArk,Automate SSH Key Expiry Management,Notify administrators automatically when SSH keys are about to expire and rotate them automatically.
+CyberArk,Automate Secure File Transfers,"Require privileged accounts to use secure file transfer protocols, such as SFTP, automatically."
+CyberArk,Automate Vulnerability Scanning Integration,Integrate with vulnerability scanning tools to automatically identify and address security gaps in privileged accounts.
+CyberArk,Automate High-Risk Session Alerts,Automatically generate alerts for high-risk privileged sessions based on predefined risk factors.
+CyberArk,Automate Privileged Account Analytics,"Generate analytics reports automatically to identify trends, anomalies, and potential risks in privileged account usage."
+CyberArk,Automate Compliance Certification Reports,"Automatically generate reports to certify compliance with security frameworks like GDPR, HIPAA, or SOX."
+CyberArk,Automate Token Management for Applications,Automatically manage and rotate tokens for applications in CI/CD pipelines.
+CyberArk,Automate Integration with Endpoint Security,Integrate with endpoint security solutions to enforce privileged access restrictions automatically.
+CyberArk,Automate Session Recording Archival,Automatically archive session recordings to meet regulatory and data retention requirements.
+CyberArk,Automate Certificate Management,"Discover, rotate, and manage SSL/TLS certificates automatically to ensure secure communications."
+CyberArk,Automate Just-in-Time Access,Enable just-in-time privileged access for users or accounts automatically based on specific requirements.
+CyberArk,Automate API Key Management,Secure and rotate API keys automatically to prevent unauthorized usage.
+CyberArk,Automate Account Expiry Notifications,Notify users or administrators automatically when an account is nearing its expiry date.
+CyberArk,Automate Shared Account Management,"Secure and manage shared accounts, ensuring password rotation and access tracking."
+CyberArk,Automate Integration with DevOps Tools,Integrate CyberArk with DevOps tools like Jenkins or Ansible to secure and manage secrets used in pipelines.
+CyberArk,Automate Secure Database Connections,Enforce secure privileged access for database connections automatically.
+CyberArk,Automate High-Privilege Account Discovery,Discover high-privilege accounts automatically across the network and onboard them into CyberArk.
+CyberArk,Automate Secure Access to Cloud Instances,Enforce privileged access controls automatically for cloud resources like EC2 instances in AWS.
+CyberArk,Automate Audit Log Exports,Export CyberArk audit logs automatically to SIEM or log management tools for further analysis.
+CyberArk,Automate High-Risk Account Monitoring,Continuously monitor high-risk privileged accounts and trigger alerts for suspicious activities.
+CyberArk,Automate Role-Based Access Management,Automatically assign roles and permissions to privileged accounts based on user attributes or job functions.
+CyberArk,Automate Password Vaulting,Automatically store and manage passwords for privileged accounts in CyberArk's secure vault.
+CyberArk,Automate Endpoint Privilege Elevation,Automatically elevate privileges for endpoint users temporarily based on specific tasks or requirements.
+CyberArk,Automate Endpoint Least Privilege Enforcement,Enforce least privilege access automatically on workstations and servers.
+CyberArk,Automate Service Account Rotation,Automatically rotate and secure service account credentials to prevent unauthorized access.
+CyberArk,Automate Integration with Ticketing Systems,Integrate with ticketing systems to ensure privileged account access is granted only after proper approvals.

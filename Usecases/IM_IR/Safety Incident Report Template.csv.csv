@@ -1,0 +1,47 @@
+Category,Short Description,Description
+Safety Incident Report Template,Auto-Generate Incident IDs,Automatically generate unique IDs for each safety incident report to ensure proper tracking and avoid duplication.
+Safety Incident Report Template,Auto-Timestamp Incident Reports,Automatically record the date and time when a safety incident report is created.
+Safety Incident Report Template,Auto-Populate Reporter Details,"Automatically populate the reporter's details (e.g., name, department, contact information) based on their login credentials or form submission."
+Safety Incident Report Template,Auto-Assign Incident Categories,"Automatically categorize incidents (e.g., ""Slip and Fall,"" ""Equipment Failure"") based on keywords in the report description."
+Safety Incident Report Template,Auto-Notify Safety Officers,Send automated notifications to safety officers or managers when a new incident report is submitted.
+Safety Incident Report Template,Auto-Create Investigation Tasks,Automatically create investigation tasks for safety officers when a new incident report is logged.
+Safety Incident Report Template,Auto-Assign Priority Levels,"Automatically assign priority levels (e.g., High, Medium, Low) to incidents based on severity or potential impact."
+Safety Incident Report Template,Auto-Link Related Incidents,"Automatically link related incidents based on location, type, or involved personnel."
+Safety Incident Report Template,Auto-Generate Incident Summary,Automatically generate a summary of the incident report for quick review by stakeholders.
+Safety Incident Report Template,Auto-Notify on Incident Updates,"Notify relevant stakeholders when key fields in an incident report (e.g., status, priority) are updated."
+Safety Incident Report Template,Auto-Create Incident Templates,Automatically apply predefined templates to new incident reports based on the type of incident.
+Safety Incident Report Template,Auto-Track Incident Metrics,"Automatically calculate and update metrics like incident frequency, severity, and resolution time."
+Safety Incident Report Template,Auto-Notify on SLA Breaches,Send alerts when incident resolution exceeds predefined SLA deadlines.
+Safety Incident Report Template,Auto-Archive Resolved Incidents,Automatically archive resolved incident reports after a specified period to keep the active log clean.
+Safety Incident Report Template,Auto-Generate Post-Incident Reviews,Automatically create tasks for post-incident reviews when an incident is resolved.
+Safety Incident Report Template,Auto-Assign Reviewers,Automatically assign reviewers to incident reports based on their expertise or department.
+Safety Incident Report Template,Auto-Create Follow-Up Tasks,Automatically create follow-up tasks for unresolved incidents or recurring safety issues.
+Safety Incident Report Template,Auto-Notify on Incident Escalation,Send notifications when an incident is escalated to a higher priority or management level.
+Safety Incident Report Template,Auto-Create Communication Logs,Automatically log all communications related to an incident in the report.
+Safety Incident Report Template,Auto-Update Risk Scores,Automatically calculate and update risk scores for incidents based on impact and likelihood.
+Safety Incident Report Template,Auto-Generate Incident Trends,Automatically analyze and generate reports on incident trends over time.
+Safety Incident Report Template,Auto-Link to Knowledge Base,Automatically link relevant knowledge base articles to incident reports based on keywords or tags.
+Safety Incident Report Template,Auto-Notify on Incident Comments,Notify team members when comments are added to an incident report.
+Safety Incident Report Template,Auto-Create Incident Tags,"Automatically tag incidents based on their type, severity, or affected systems."
+Safety Incident Report Template,Auto-Notify on Incident Resolution,Notify stakeholders when an incident is resolved and provide a summary of the resolution.
+Safety Incident Report Template,Auto-Generate Lessons Learned,"Automatically create a ""Lessons Learned"" document for major incidents."
+Safety Incident Report Template,Auto-Track Incident Costs,Automatically track and calculate costs associated with incident resolution.
+Safety Incident Report Template,Auto-Create Incident Escalation Tasks,Automatically create escalation tasks for incidents that remain unresolved beyond a certain timeframe.
+Safety Incident Report Template,Auto-Notify on Incident Dependencies,Notify stakeholders when an incident is dependent on another task or incident.
+Safety Incident Report Template,Auto-Create Incident Checklists,Automatically generate checklists for incident investigation and resolution steps.
+Safety Incident Report Template,Auto-Update Incident Deadlines,Automatically adjust incident deadlines based on changes to project timelines or dependencies.
+Safety Incident Report Template,Auto-Notify on Incident Trends,Send periodic notifications about incident trends and patterns to relevant teams.
+Safety Incident Report Template,Auto-Create Incident Dashboards,Automatically generate dashboards to visualize incident data and metrics.
+Safety Incident Report Template,Auto-Notify on Incident Reopen,Notify stakeholders when a resolved incident is reopened.
+Safety Incident Report Template,Auto-Create Incident Forms,"Automatically generate incident report forms for specific use cases (e.g., workplace safety, environmental hazards)."
+Safety Incident Report Template,Auto-Notify on Incident Approval,Notify approvers when an incident report requires their review or approval.
+Safety Incident Report Template,Auto-Create Incident Workflows,Automatically apply workflows to incident reports based on their type or severity.
+Safety Incident Report Template,Auto-Notify on Incident Delays,Send alerts when incident resolution is delayed beyond the expected timeframe.
+Safety Incident Report Template,Auto-Generate Incident Heatmaps,Automatically create heatmaps to visualize incident frequency and severity across departments or locations.
+Safety Incident Report Template,Auto-Create Incident Escalation Paths,Automatically define escalation paths for incidents based on their priority or impact.
+Safety Incident Report Template,Auto-Notify on Incident Assignments,Notify team members when they are assigned to an incident report.
+Safety Incident Report Template,Auto-Create Incident Templates for Teams,Automatically generate team-specific incident report templates for different departments.
+Safety Incident Report Template,Auto-Track Incident Response Times,Automatically calculate and track response times for incidents to ensure SLA compliance.
+Safety Incident Report Template,Auto-Notify on Incident Trends,Send automated reports on recurring incident trends to management.
+Safety Incident Report Template,Auto-Create Incident Tags for Severity,"Automatically tag incidents with severity levels (e.g., Critical, High, Medium, Low)."
+Safety Incident Report Template,Auto-Notify on Incident Task Completion,Notify stakeholders when tasks related to an incident report are completed.

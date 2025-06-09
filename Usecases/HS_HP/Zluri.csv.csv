@@ -1,0 +1,66 @@
+Category,Short Description,Description
+Zluri,Automate SaaS discovery,Automate the discovery of all SaaS applications in use across the organization using Zluri’s multiple discovery methods.
+Zluri,Manage SaaS licenses,Automate the tracking and management of SaaS licenses to identify unused or underutilized licenses.
+Zluri,Automate user onboarding,Automate the provisioning of SaaS applications for new employees based on their roles and departments.
+Zluri,Automate user offboarding,Automate the deprovisioning of SaaS applications for employees who leave the organization to ensure security.
+Zluri,Monitor SaaS usage,Automate the monitoring of SaaS application usage to identify adoption rates and optimize spending.
+Zluri,Track SaaS spend,Automate the tracking of SaaS expenditures to provide insights into cost optimization opportunities.
+Zluri,Automate renewal reminders,Automate reminders for upcoming SaaS subscription renewals to avoid missed deadlines.
+Zluri,Manage shadow IT,Automate the detection of unauthorized SaaS applications being used within the organization.
+Zluri,Automate compliance checks,Automate compliance checks for SaaS applications to ensure they meet regulatory requirements like GDPR or HIPAA.
+Zluri,Automate access reviews,Automate periodic access reviews to ensure that only authorized users have access to specific SaaS applications.
+Zluri,Automate vendor risk assessments,Automate the assessment of SaaS vendors for security and compliance risks.
+Zluri,Generate SaaS usage reports,Automate the generation of detailed reports on SaaS application usage and spending.
+Zluri,Automate role-based access control,Automate the implementation of role-based access control (RBAC) for SaaS applications.
+Zluri,Automate app decommissioning,Automate the decommissioning of unused or redundant SaaS applications.
+Zluri,Manage app integrations,Automate the integration of SaaS applications with existing tools and platforms.
+Zluri,Automate app usage alerts,Automate alerts for unusual or unauthorized usage of SaaS applications.
+Zluri,Automate app license reallocation,Automate the reallocation of unused licenses to active users.
+Zluri,Automate app contract management,Automate the tracking and management of SaaS application contracts and agreements.
+Zluri,Automate app spend forecasting,Automate the forecasting of future SaaS spending based on historical usage data.
+Zluri,Automate app security audits,Automate security audits for SaaS applications to identify vulnerabilities.
+Zluri,Automate app compliance reporting,Automate the generation of compliance reports for SaaS applications.
+Zluri,Automate app renewal negotiations,Automate the preparation of data for SaaS renewal negotiations to secure better terms.
+Zluri,Automate app usage benchmarking,Automate the benchmarking of SaaS application usage against industry standards.
+Zluri,Automate app lifecycle management,"Automate the entire lifecycle management of SaaS applications, from procurement to decommissioning."
+Zluri,Automate app discovery via SSO,Automate the discovery of SaaS applications integrated with single sign-on (SSO) platforms.
+Zluri,Automate app discovery via finance,Automate the discovery of SaaS applications by analyzing financial transactions and invoices.
+Zluri,Automate app discovery via HRMS,Automate the discovery of SaaS applications linked to HR management systems.
+Zluri,Automate app discovery via CASB,Automate the discovery of SaaS applications using Cloud Access Security Broker (CASB) integrations.
+Zluri,Automate app discovery via browser,Automate the discovery of SaaS applications accessed through browser extensions or agents.
+Zluri,Automate app discovery via MDM,Automate the discovery of SaaS applications through mobile device management (MDM) platforms.
+Zluri,Automate app discovery via APIs,Automate the discovery of SaaS applications using API integrations.
+Zluri,Automate app discovery via desktop,Automate the discovery of SaaS applications installed on desktop devices.
+Zluri,Automate app discovery via active directory,Automate the discovery of SaaS applications linked to active directory services.
+Zluri,Automate app discovery via expense systems,Automate the discovery of SaaS applications by integrating with expense management systems.
+Zluri,Automate app discovery via direct integration,Automate the discovery of SaaS applications through direct integrations with the apps themselves.
+Zluri,Automate app discovery via HR workflows,Automate the discovery of SaaS applications used in HR workflows.
+Zluri,Automate app discovery via IT workflows,Automate the discovery of SaaS applications used in IT workflows.
+Zluri,Automate app discovery via finance workflows,Automate the discovery of SaaS applications used in finance workflows.
+Zluri,Automate app discovery via marketing workflows,Automate the discovery of SaaS applications used in marketing workflows.
+Zluri,Automate app discovery via sales workflows,Automate the discovery of SaaS applications used in sales workflows.
+Zluri,Automate app discovery via engineering workflows,Automate the discovery of SaaS applications used in engineering workflows.
+Zluri,Automate app discovery via operations workflows,Automate the discovery of SaaS applications used in operations workflows.
+Zluri,Automate app discovery via legal workflows,Automate the discovery of SaaS applications used in legal workflows.
+Zluri,Automate app discovery via procurement workflows,Automate the discovery of SaaS applications used in procurement workflows.
+Zluri,Automate app discovery via customer support workflows,Automate the discovery of SaaS applications used in customer support workflows.
+Zluri,Automate app discovery via analytics workflows,Automate the discovery of SaaS applications used in analytics workflows.
+Zluri,Automate app discovery via product workflows,Automate the discovery of SaaS applications used in product workflows.
+Zluri,Automate app discovery via security workflows,Automate the discovery of SaaS applications used in security workflows.
+Zluri,Automate app discovery via compliance workflows,Automate the discovery of SaaS applications used in compliance workflows.
+Zluri,Automate app discovery via ITSM workflows,Automate the discovery of SaaS applications used in IT service management (ITSM) workflows.
+Zluri,Automate app discovery via DevOps workflows,Automate the discovery of SaaS applications used in DevOps workflows.
+Zluri,Automate app discovery via data science workflows,Automate the discovery of SaaS applications used in data science workflows.
+Zluri,Automate app discovery via AI/ML workflows,Automate the discovery of SaaS applications used in AI/ML workflows.
+Zluri,Automate app discovery via R\&D workflows,Automate the discovery of SaaS applications used in research and development (R\&D) workflows.
+Zluri,Automate app discovery via education workflows,Automate the discovery of SaaS applications used in education workflows.
+Zluri,Automate app discovery via healthcare workflows,Automate the discovery of SaaS applications used in healthcare workflows.
+Zluri,Automate app discovery via government workflows,Automate the discovery of SaaS applications used in government workflows.
+Zluri,Automate app discovery via non-profit workflows,Automate the discovery of SaaS applications used in non-profit workflows.
+Zluri,Automate app discovery via retail workflows,Automate the discovery of SaaS applications used in retail workflows.
+Zluri,Automate app discovery via manufacturing workflows,Automate the discovery of SaaS applications used in manufacturing workflows.
+Zluri,Automate app discovery via logistics workflows,Automate the discovery of SaaS applications used in logistics workflows.
+Zluri,Automate app discovery via energy workflows,Automate the discovery of SaaS applications used in energy workflows.
+Zluri,Automate app discovery via entertainment workflows,Automate the discovery of SaaS applications used in entertainment workflows.
+Zluri,Automate app discovery via hospitality workflows,Automate the discovery of SaaS applications used in hospitality workflows.
+Zluri,,

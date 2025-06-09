@@ -1,0 +1,67 @@
+Category,Short Description,Description
+Raygun,Automate Dashboard Creation,Use scripts to create custom dashboards for visualizing error and performance metrics programmatically for consistent monitoring.
+Raygun,Alert Configuration Automation,"Automate the creation and setup of alerts for error occurrences, performance issues, and SLA violations."
+Raygun,Automated Error Grouping,"Use scripts to group similar errors automatically, reducing the noise and improving issue tracking."
+Raygun,Dynamic Tagging for Errors,"Automate tagging of errors with metadata like environment, user ID, or region for better filtering and analysis."
+Raygun,Deployment Marker Automation,Automate the addition of deployment markers to correlate error spikes or performance changes with code deployments.
+Raygun,SLA Monitoring and Reporting,Automate SLA monitoring for errors and performance metrics and generate compliance reports for stakeholders.
+Raygun,Error Rate Monitoring,"Automate the monitoring of error rates for applications, enabling proactive detection and alerting of issues."
+Raygun,Real-Time Performance Monitoring,Automate real-time monitoring of application performance to identify bottlenecks and slow requests.
+Raygun,Service Inventory Management,Automate the discovery and onboarding of services into Raygun for consistent error and performance monitoring.
+Raygun,Automated Error Prioritization,"Automate the prioritization of errors based on frequency, severity, or user impact to focus on high-priority issues."
+Raygun,Integration Testing Automation,"Automate the testing of integrations with tools like Slack, Jira, or ServiceNow to ensure seamless workflows for error resolution."
+Raygun,Automated Report Generation,Use scripts to generate error and performance reports automatically and share them with stakeholders.
+Raygun,Custom Metric Collection,Use scripts to collect and send custom application metrics to Raygun for monitoring business-critical KPIs.
+Raygun,Automated Log Parsing and Correlation,Automate the parsing and correlation of logs with errors and performance metrics for faster troubleshooting.
+Raygun,Dynamic Threshold Adjustment,Automatically adjust error thresholds based on historical patterns to reduce false positives and improve accuracy.
+Raygun,Automated Incident Escalation,Use scripts to escalate unresolved incidents or errors to higher-priority teams based on severity and SLAs.
+Raygun,Synthetic Monitoring Setup,Automate the setup of synthetic monitoring to simulate user interactions and track performance or errors proactively.
+Raygun,Custom Alert Routing,Automate routing of alerts to the appropriate teams or individuals based on error type or severity.
+Raygun,Error Budget Tracking,Automate the tracking and reporting of error budgets for services to ensure reliability objectives are met.
+Raygun,Log Integration Automation,Use scripts to forward logs from applications to Raygun for centralized error and performance tracking.
+Raygun,SLA Violation Alerts,Automate alerts for SLA violations to notify teams when performance or error thresholds are breached.
+Raygun,Automated Error Cleanup,Remove resolved or obsolete errors automatically to maintain clean dashboards and improve visibility of active issues.
+Raygun,Automated Error Workflow Testing,Automate testing of error workflows to ensure proper routing and escalation of incidents.
+Raygun,Performance Trend Analysis,Automate the analysis of performance trends over time to identify areas for improvement or potential bottlenecks.
+Raygun,Application Performance Comparison,Automate the comparison of application performance metrics before and after deployments to measure impact.
+Raygun,Dynamic Resource Allocation,Automate resource allocation for applications based on performance metrics and thresholds from Raygun monitoring.
+Raygun,Automated Error Suppression,Suppress known errors or errors during maintenance windows automatically to reduce noise.
+Raygun,Automated Capacity Planning,Use historical error and performance data to forecast resource requirements and automate capacity planning.
+Raygun,Deployment Validation Automation,Validate deployments automatically by comparing error rates and performance metrics to pre-deployment baselines.
+Raygun,Real User Monitoring Setup,Automate the configuration of Real User Monitoring (RUM) to track user interactions and performance metrics.
+Raygun,Synthetic Test Maintenance,Automate updates to synthetic tests as new endpoints or APIs are added.
+Raygun,Automated Incident Archiving,Archive incident reports and error details automatically for compliance and audit purposes.
+Raygun,Automated Trace Correlation,Correlate traces across services automatically to identify root causes of errors and performance issues.
+Raygun,Custom Visualization Automation,"Use scripts to create custom error visualizations for analyzing trends, user impact, or error distributions."
+Raygun,Automated SLA Reporting,Generate SLA compliance reports automatically and distribute them to key stakeholders on a schedule.
+Raygun,Service Dependency Auditing,Automate the auditing of service dependencies to ensure accurate error tracking and correlation.
+Raygun,Automated Problem Correlation,Correlate problems across services and infrastructure automatically to identify root causes and affected components.
+Raygun,Release Performance Validation,Validate application releases by automating performance comparisons between pre-release and post-release metrics.
+Raygun,Automated Error Notification,"Notify stakeholders automatically when critical errors are detected, including error details and resolution steps."
+Raygun,Performance Optimization Suggestions,Automate the generation of suggestions for optimizing application performance based on error and performance trends.
+Raygun,SLA Tracking for APIs,Automate SLA monitoring and tracking for APIs to ensure uptime and performance compliance.
+Raygun,Application Timeout Monitoring,Automate monitoring for application timeout issues and trigger alerts when response times exceed acceptable thresholds.
+Raygun,Automated Event Correlation,"Correlate events across logs, metrics, and errors automatically for end-to-end visibility into incidents."
+Raygun,Dynamic KPI Monitoring,Automate monitoring of dynamic KPIs tailored to specific business needs using Raygun’s custom metrics feature.
+Raygun,Cost Analysis for Errors,Automate analysis of the cost impact of errors on application performance and user experience.
+Raygun,Error Impact Analysis,Automate analysis of the impact of errors on users or business processes to prioritize resolutions effectively.
+Raygun,Automated Error Archival,Archive old or resolved errors automatically to optimize storage and maintain dashboard clarity.
+Raygun,Automated Health Dashboard Updates,Use scripts to update health dashboards dynamically as new errors or metrics are added to Raygun.
+Raygun,Automated Error Threshold Validation,Automate testing and validation of error thresholds to ensure they reflect current performance expectations.
+Raygun,Automated Error Budget Reporting,Generate error budget reports automatically and distribute them to stakeholders to track reliability goals.
+Raygun,Application Scaling Automation,Automate horizontal or vertical scaling of applications based on error rates and performance thresholds.
+Raygun,Dynamic Alert Escalation Rules,"Automate escalation workflows dynamically based on the severity, duration, or frequency of errors."
+Raygun,Real-Time Error Trend Analysis,Automate analysis of real-time error trends to detect patterns and predict future issues.
+Raygun,SLA Breach Impact Analysis,Automate the analysis of SLA breaches to understand the impact on application performance and user experience.
+Raygun,Automated Error Resolution Workflows,"Trigger automated remediation workflows for specific types of errors, such as restarting services or clearing caches."
+Raygun,Automated Error Tagging Rules,"Use scripts to define dynamic tagging rules for errors based on error type, affected users, or environments."
+Raygun,Automated Alert Workflow Testing,"Test alert workflows automatically to ensure proper routing, notification, and escalation of incidents."
+Raygun,SLA Compliance Validation,Automate validation of SLA compliance for services using Raygun’s monitoring and reporting features.
+Raygun,Automated Error Trend Reporting,Generate and distribute error trend reports automatically to stakeholders to track progress over time.
+Raygun,SLA Breach Notification Templates,Automate the creation and customization of SLA breach notification templates for faster communication.
+Raygun,Multi-Environment Error Tracking,"Automate error tracking across multiple environments, such as production, staging, and development, for consistent monitoring."
+Raygun,Automated Root Cause Analysis,"Automate root cause analysis for errors by correlating error, log, and trace data across services."
+Raygun,Automated Error Suppression Rules,Create automated rules to suppress non-critical errors or errors from specific environments to reduce noise.
+Raygun,Automated Log Forwarding,Forward logs automatically from applications to Raygun for centralized error tracking and troubleshooting.
+Raygun,Error Heatmap Visualization,"Automate the creation of heatmap visualizations to identify regions, users, or pages most affected by errors."
+Raygun,Performance Bottleneck Detection,Automate detection of performance bottlenecks using Raygun’s

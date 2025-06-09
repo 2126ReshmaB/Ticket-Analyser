@@ -1,0 +1,67 @@
+Category,Short Description,Description
+Instana,Automate Dashboard Creation,Automate the creation of custom dashboards for monitoring application performance metrics programmatically to ensure consistency across teams.
+Instana,Alert Configuration Automation,"Automate the setup of thresholds and alerts for key performance indicators (KPIs) such as latency, error rates, and throughput."
+Instana,Automated Service Dependency Mapping,Automatically map service dependencies to visualize the relationships and interactions between microservices.
+Instana,Dynamic Tagging of Entities,"Automate the tagging of services, applications, or infrastructure components with metadata like environment, region, or owner for better organization."
+Instana,Automated Incident Escalation,Use scripts to escalate unresolved incidents or alerts to higher-priority teams based on severity and SLAs.
+Instana,Custom Metric Collection,Automate the collection and submission of custom metrics for monitoring specific business or technical KPIs not tracked by default.
+Instana,Deployment Marker Automation,Add deployment markers programmatically to correlate performance changes with application or infrastructure releases.
+Instana,Synthetic Monitoring Setup,Automate the setup of synthetic monitoring to track the availability and performance of web applications and APIs.
+Instana,Alert Noise Reduction,Use scripts to group and suppress alerts during maintenance windows or for known issues to reduce alert fatigue.
+Instana,Dynamic Threshold Adjustment,Automatically adjust alert thresholds based on historical performance trends to reduce false positives and improve accuracy.
+Instana,Automated Problem Detection Setup,Script the configuration of problem detection algorithms to identify anomalies and performance bottlenecks across services.
+Instana,SLA Monitoring and Reporting,Automate the setup of SLA monitoring for services and applications and generate compliance reports.
+Instana,Application Health Checks,Automate periodic application health checks and generate alerts if issues are detected.
+Instana,Automated Baseline Setup,Configure baselines for performance metrics programmatically to improve anomaly detection.
+Instana,Error Rate Monitoring,Automate the monitoring of error rates for critical services and trigger alerts when thresholds are breached.
+Instana,Real-Time Performance Monitoring,"Use scripts to enable real-time performance monitoring for applications and services, identifying bottlenecks quickly."
+Instana,Service Inventory Management,"Automate the discovery, tagging, and categorization of services in Instana to maintain an up-to-date inventory."
+Instana,Automated Trace Analysis,"Automate distributed trace analysis to identify slow services, errors, or other performance issues."
+Instana,Automated Alert Routing,Route alerts automatically to the appropriate teams or individuals based on predefined rules and escalation policies.
+Instana,Integration Testing Automation,"Automate testing of integrations with tools like PagerDuty, ServiceNow, or Slack to ensure smooth incident response workflows."
+Instana,Log Correlation with Metrics,Automate the correlation of logs and metrics to streamline troubleshooting and diagnostics.
+Instana,Automated Report Generation,Use scripts to generate and distribute detailed performance reports to stakeholders on a regular schedule.
+Instana,Automated Health Rule Maintenance,Automate the updating of health rules for services and applications as performance conditions change.
+Instana,Custom Visualization Automation,"Use scripts to create custom visualizations for specific monitoring needs, such as comparing performance trends across environments."
+Instana,Dynamic Resource Allocation,Automate the allocation of resources for applications based on real-time performance data and thresholds.
+Instana,Error Budget Tracking,Automate the tracking and reporting of error budgets for services to ensure reliability objectives are met.
+Instana,Automated Alert Suppression,"Suppress alerts during maintenance windows, known incidents, or predefined conditions to reduce noise."
+Instana,Automated Capacity Planning,Use historical performance data to forecast resource needs and automate capacity planning tasks.
+Instana,Automated Log Forwarding,Programmatically forward logs to external systems such as Splunk or ELK for centralized analysis and troubleshooting.
+Instana,SLA Violation Alerts,Automate alerts for SLA violations to notify stakeholders when performance objectives are not met.
+Instana,Automated Metric Cleanup,"Remove unused, obsolete, or irrelevant metrics automatically to maintain clean dashboards and improve system performance."
+Instana,Performance Trend Analysis,Automate the analysis of performance trends over time to identify areas for improvement or potential bottlenecks.
+Instana,Automated Alert De-duplication,De-duplicate alerts automatically to prevent redundant notifications for the same issue and reduce alert fatigue.
+Instana,API Key Management,Automate the rotation and management of API keys to ensure security and compliance with organizational policies.
+Instana,Automated SLA Breach Notifications,"Notify stakeholders automatically when SLA breaches occur, along with detailed performance data for analysis."
+Instana,Real User Monitoring Setup,Automate the setup and configuration of Real User Monitoring (RUM) to track user interactions and experience metrics.
+Instana,Synthetic Test Maintenance,Automate updates to synthetic monitoring tests as endpoints or APIs change.
+Instana,Dynamic Service Map Updates,Automatically update service maps in Instana as new services are discovered or existing ones are modified.
+Instana,Automated Deployment Validation,Validate deployments automatically by comparing pre- and post-deployment performance metrics against baselines.
+Instana,Automated Trace Sampling Setup,Automate sampling configurations for distributed traces to reduce data volume while retaining critical insights.
+Instana,Data Retention Policy Enforcement,"Enforce data retention policies programmatically for metrics, logs, and traces to comply with organizational or regulatory requirements."
+Instana,Application Restart Detection,Automate monitoring for unexpected application restarts and generate alerts to notify teams.
+Instana,Automated Trace Correlation,Correlate traces across services automatically to identify bottlenecks and improve root cause analysis.
+Instana,Service Health Dashboard Updates,Automatically update service health dashboards as new metrics or services are added to Instana.
+Instana,Dynamic Alert Escalation,"Automate escalation workflows dynamically based on the severity, duration, or frequency of issues."
+Instana,Automated Anomaly Reporting,"Generate reports automatically for detected anomalies, including impacted services and suggested resolutions."
+Instana,Automated Alert Impact Analysis,Automate analysis of alerts to determine the business or user impact of performance issues.
+Instana,Cost Analysis for Services,Automate cost analysis for cloud or on-premise services based on performance and resource usage metrics.
+Instana,Application Timeout Monitoring,Automate monitoring for application timeouts and alert when response times exceed acceptable thresholds.
+Instana,Automated Event Correlation,"Correlate events across services, logs, and metrics automatically for end-to-end visibility into incidents."
+Instana,SLA Tracking for APIs,Automate the monitoring and tracking of SLA compliance for APIs to ensure uptime and performance standards are met.
+Instana,Application Scaling Automation,Automate horizontal or vertical scaling of applications based on performance thresholds and resource utilization data from Instana.
+Instana,Alert Priority Management,"Automate prioritization of alerts based on severity, business impact, or service dependency."
+Instana,Service Dependency Auditing,Automate periodic audits of service dependencies to ensure accuracy and completeness in Instana's service maps.
+Instana,Automated Problem Correlation,Correlate problems across services and infrastructure automatically to identify root causes and affected components.
+Instana,Release Performance Validation,Validate application releases by automating performance comparisons between pre-release and post-release metrics.
+Instana,Automated Incident Archiving,"Archive incident details automatically for compliance, audit purposes, or future reference."
+Instana,Dynamic KPI Monitoring,Automate monitoring of dynamic KPIs tailored to specific business or application needs.
+Instana,Automated Health Checks,"Configure and automate regular health checks for services and applications, triggering alerts for any issues."
+Instana,Automated Trace Cleanup,Remove unused or irrelevant trace data automatically to optimize storage and improve performance.
+Instana,Automated Incident Reporting,"Use scripts to generate incident reports automatically, including root cause analysis, affected services, and resolution actions."
+Instana,Performance Optimization Suggestions,Automate the generation of suggestions for optimizing application or service performance based on historical data.
+Instana,Threshold Testing Automation,Automate testing and validation of alert thresholds to ensure they reflect current performance expectations.
+Instana,Automated SLA Reporting,Generate SLA compliance reports automatically and share them with stakeholders on a regular schedule.
+Instana,Automated Service Health Validation,Validate the health of services automatically by comparing monitoring data against preconfigured baselines.
+Instana,Automated Issue Remediation,Trigger automated

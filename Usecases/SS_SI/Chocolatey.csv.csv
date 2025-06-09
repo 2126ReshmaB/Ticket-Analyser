@@ -1,0 +1,70 @@
+Category,Short Description,Description
+Chocolatey,Install Applications,"Automate the installation of common applications like browsers, development tools, and utilities using Chocolatey packages."
+Chocolatey,Update Installed Packages,Automatically update outdated Chocolatey packages to their latest versions.
+Chocolatey,Uninstall Applications,Automate the removal of unwanted or unnecessary applications installed via Chocolatey.
+Chocolatey,Install Multiple Applications Simultaneously,Deploy multiple software packages in a single script to save time during system setup.
+Chocolatey,Create Custom Packages,Automate the creation of custom Chocolatey packages for in-house or proprietary applications.
+Chocolatey,Schedule Software Updates,Automate the scheduling of regular updates for all Chocolatey-installed applications.
+Chocolatey,Deploy Software to Multiple Devices,Automate the deployment of software packages to multiple systems in a network.
+Chocolatey,Install Development Tools,"Use Chocolatey to automate the installation of development tools like Visual Studio Code, Git, or Node.js."
+Chocolatey,Configure Software Repositories,Automate the addition or removal of Chocolatey repositories for internal or external package sources.
+Chocolatey,Install Security Tools,Automate the installation of security tools such as antivirus software or penetration testing utilities.
+Chocolatey,Update PowerShell Modules,Use Chocolatey to automate the installation or update of PowerShell modules on target systems.
+Chocolatey,Install Communication Tools,"Automate the deployment of communication tools like Microsoft Teams, Slack, or Zoom."
+Chocolatey,Enforce Version Control,Automate the enforcement of specific software versions for compliance or compatibility.
+Chocolatey,Install Browsers,"Automate the deployment of browsers like Chrome, Firefox, or Edge to client systems."
+Chocolatey,Install Database Clients,"Deploy database clients like MySQL Workbench, SQL Server Management Studio, or MongoDB Compass using Chocolatey."
+Chocolatey,Manage Server Packages,"Automate the deployment and management of server-side tools like IIS, Apache, or NGINX."
+Chocolatey,Deploy Monitoring Tools,Use Chocolatey to install and configure monitoring tools like Nagios or SolarWinds.
+Chocolatey,Install Media Players,Automate the installation of media players like VLC or Spotify.
+Chocolatey,Install File Compression Tools,"Deploy compression tools like WinRAR, 7-Zip, or PeaZip using Chocolatey."
+Chocolatey,Install Collaboration Tools,Automate the installation of collaboration software like Trello or Miro.
+Chocolatey,Automate System Cleanup,Install tools like CCleaner to automate system maintenance tasks such as cleaning temporary files.
+Chocolatey,Install Cloud Storage Clients,"Automate the deployment of clients like Google Drive, OneDrive, or Dropbox."
+Chocolatey,Install Virtualization Tools,Automate the deployment of tools like VirtualBox or VMware Workstation.
+Chocolatey,Enable Auto-Upgrades for Packages,Automate the configuration of Chocolatey to upgrade packages automatically when new versions are available.
+Chocolatey,Install IDEs,"Automate the installation of integrated development environments like IntelliJ IDEA, Eclipse, or PyCharm."
+Chocolatey,Install Remote Desktop Tools,"Deploy remote desktop tools like AnyDesk, TeamViewer, or Remote Desktop Manager using Chocolatey."
+Chocolatey,Manage Package Dependencies,Automate the installation of package dependencies for specific software using Chocolatey.
+Chocolatey,Install Graphics Design Tools,"Deploy tools like GIMP, Inkscape, or Adobe Creative Cloud using Chocolatey."
+Chocolatey,Install CAD Software,Automate the installation of CAD software like AutoCAD or FreeCAD with Chocolatey.
+Chocolatey,Install System Monitoring Tools,Deploy system monitoring tools like HWMonitor or CPU-Z to monitor hardware performance.
+Chocolatey,Install Backup Tools,"Automate the deployment of backup tools like Acronis, Macrium Reflect, or Duplicati."
+Chocolatey,Install Terminal Emulators,Automate the installation of terminal emulators like PuTTY or Hyper.
+Chocolatey,Install Password Managers,"Deploy password management tools like LastPass, KeePass, or 1Password using Chocolatey."
+Chocolatey,Install Analytics Tools,"Automate the installation of analytics tools like Tableau, Power BI, or KNIME."
+Chocolatey,Install Programming Languages,"Automate the installation of programming languages like Python, Java, Go, or Ruby."
+Chocolatey,Install Game Clients,"Deploy game clients like Steam, Epic Games Launcher, or GOG Galaxy."
+Chocolatey,Install Network Tools,"Deploy network tools like Wireshark, OpenVPN, or NetTools using Chocolatey."
+Chocolatey,Install Browser Plugins,Automate the installation of browser plugins like AdBlock or Grammarly with Chocolatey.
+Chocolatey,Remove Unused Packages,Automate the removal of unused or unnecessary Chocolatey packages.
+Chocolatey,Create Environment-Specific Installations,"Automate the deployment of different software packages for specific environments like development, QA, or production."
+Chocolatey,Install Automation Tools,"Deploy automation tools like Jenkins, Ansible, or Bamboo using Chocolatey."
+Chocolatey,Install Email Clients,Automate the deployment of email clients like Microsoft Outlook or Thunderbird.
+Chocolatey,Deploy Compliance Tools,Install compliance tools like Nessus or Qualys to meet regulatory requirements.
+Chocolatey,Install Video Conferencing Tools,"Automate the deployment of video conferencing tools like Webex, Skype, or Google Meet."
+Chocolatey,Install Text Editors,"Deploy text editors like Notepad++, Sublime Text, or Visual Studio Code."
+Chocolatey,Configure Package Caching,Automate the configuration of Chocolatey package caching for faster deployments.
+Chocolatey,Install Data Science Libraries,Deploy data science libraries like R or Jupyter Notebook using Chocolatey.
+Chocolatey,Install Disk Partition Tools,Automate the installation of partition tools like MiniTool Partition Wizard or AOMEI Partition Assistant.
+Chocolatey,Automate Software Rollbacks,Use Chocolatey to automate rolling back to previous software versions when issues arise.
+Chocolatey,Manage Offline Packages,Automate the deployment of offline Chocolatey packages for systems without internet access.
+Chocolatey,Install IT Documentation Tools,Deploy documentation tools like Confluence or DokuWiki for IT teams.
+Chocolatey,Configure Chocolatey Logging,Automate the setup of logging for Chocolatey deployments to track changes.
+Chocolatey,Install Computational Tools,Deploy tools like MATLAB or Mathematica for computation-heavy tasks.
+Chocolatey,Deploy Cloud Management Tools,"Automate the deployment of cloud management tools like AWS CLI, Azure CLI, or Google Cloud SDK."
+Chocolatey,Install Encryption Tools,Automate the deployment of encryption tools like VeraCrypt or BitLocker Helper.
+Chocolatey,Install Game Development Tools,"Deploy tools like Unity, Unreal Engine, or Godot for game developers."
+Chocolatey,Automate Pre-Deployment Checks,Use Chocolatey scripts to verify system requirements before deploying packages.
+Chocolatey,Install System Optimization Tools,Deploy optimization tools like Advanced SystemCare or Glary Utilities using Chocolatey.
+Chocolatey,Install API Testing Tools,Automate the deployment of API testing tools like Postman or SoapUI.
+Chocolatey,Install Machine Learning Frameworks,Use Chocolatey to deploy machine learning frameworks like TensorFlow or PyTorch.
+Chocolatey,Install Remote Monitoring Tools,Automate the deployment of remote monitoring tools like Zabbix agents.
+Chocolatey,Install SSH Clients,"Deploy SSH tools like PuTTY, OpenSSH, or MobaXterm for secure connections."
+Chocolatey,Install Financial Software,Use Chocolatey to deploy financial tools like QuickBooks or Mint for accounting teams.
+Chocolatey,Install GIS Tools,Automate the deployment of GIS tools like QGIS or ArcGIS.
+Chocolatey,Install Blockchain Tools,Deploy blockchain-related tools like Ganache or Ethereum Wallet using Chocolatey.
+Chocolatey,Install Web Development Tools,"Automate the deployment of web development stacks like XAMPP, WAMP, or MAMP."
+Chocolatey,Install Continuous Integration Tools,Use Chocolatey to deploy tools like CircleCI CLI or Travis CI CLI for CI/CD workflows.
+Chocolatey,Monitor Package Versions,Automate the tracking of installed package versions for compliance or auditing purposes.
+Chocolatey,Install Software for Remote Workers,"Deploy tools like VPN clients, remote desktop software, or collaboration tools for remote"

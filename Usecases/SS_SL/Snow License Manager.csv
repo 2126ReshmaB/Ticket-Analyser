@@ -1,0 +1,82 @@
+Category,Short Description,Description
+Snow License Manager,Software License Compliance Tracking,Monitor and ensure compliance with software license agreements to avoid penalties.
+Snow License Manager,Application Usage Monitoring,Track software usage across the organization to optimize license allocation.
+Snow License Manager,License Optimization Recommendations,Identify underused licenses and recommend cost-saving opportunities.
+Snow License Manager,SaaS Subscription Management,Manage and track SaaS subscriptions to prevent redundant or unused services.
+Snow License Manager,Cloud Resource Cost Analysis,Analyze cloud resource usage and associated costs to optimize spending.
+Snow License Manager,Enterprise Agreement Management,Track and manage enterprise software agreements to ensure compliance and cost efficiency.
+Snow License Manager,Real-Time License Consumption Tracking,Monitor license usage in real time to prevent over-deployment.
+Snow License Manager,Software Asset Inventory,Maintain a centralized inventory of all software assets in the organization.
+Snow License Manager,Hardware Asset Management,"Track and manage hardware assets, including servers, desktops, and mobile devices."
+Snow License Manager,Multi-Cloud License Management,"Manage licenses across multiple cloud platforms like AWS, Azure, and Google Cloud."
+Snow License Manager,Vendor Audit Preparation,Prepare for vendor audits by maintaining accurate license and usage records.
+Snow License Manager,Open Source License Compliance,Identify and track open source software usage to ensure compliance with license terms.
+Snow License Manager,IT Budget Forecasting,Use license and usage data to forecast IT budgets and plan future expenditures.
+Snow License Manager,License Reclamation,Reclaim unused licenses and reassign them to active users to optimize resources.
+Snow License Manager,Virtual Environment License Tracking,Monitor licenses in virtualized environments to ensure compliance and efficiency.
+Snow License Manager,Data Center License Management,Manage software licenses in data center environments to optimize usage and costs.
+Snow License Manager,Software Spend Analysis,Analyze software spending patterns to identify cost-saving opportunities.
+Snow License Manager,End-of-Life Software Tracking,Track end-of-life software to plan upgrades or replacements proactively.
+Snow License Manager,Contract Renewal Alerts,Receive automated alerts for upcoming software license renewals.
+Snow License Manager,Role-Based Access Control,Implement role-based access to restrict unauthorized changes to license data.
+Snow License Manager,Integration with ITSM Tools,Integrate with IT service management tools to streamline asset and license tracking.
+Snow License Manager,License Allocation Reporting,Generate detailed reports on license allocation and usage trends.
+Snow License Manager,Redundant Software Identification,Identify and eliminate redundant software to reduce unnecessary costs.
+Snow License Manager,SaaS Usage Heatmaps,Visualize SaaS application usage trends with heatmaps for better decision-making.
+Snow License Manager,License Downgrade Opportunities,Identify opportunities to downgrade licenses to reduce costs without impacting functionality.
+Snow License Manager,BYOD License Management,Track software licenses installed on employee-owned devices to ensure compliance.
+Snow License Manager,Historical Usage Trends Analysis,Analyze historical software usage trends to inform future purchasing decisions.
+Snow License Manager,Integration with ERP Systems,Sync license data with ERP systems for streamlined financial and asset management.
+Snow License Manager,Automated Compliance Alerts,Receive real-time alerts for potential license compliance breaches.
+Snow License Manager,Application Rationalization,Evaluate and streamline the application portfolio to eliminate unused tools.
+Snow License Manager,Cost Allocation by Department,Allocate software costs by department for accurate budgeting and chargebacks.
+Snow License Manager,License Borrowing Management,Track and manage borrowed licenses to ensure proper allocation and compliance.
+Snow License Manager,Integration with Security Tools,Integrate with security tools to track software vulnerabilities and compliance.
+Snow License Manager,License True-Up Reporting,Automate license true-up processes to ensure accurate vendor reporting.
+Snow License Manager,IT Asset Lifecycle Management,Manage the lifecycle of IT assets from procurement to retirement.
+Snow License Manager,Cloud Migration Cost Analysis,Analyze costs associated with cloud migration to optimize spending.
+Snow License Manager,Customizable Compliance Dashboards,Create dashboards tailored to specific compliance and usage metrics.
+Snow License Manager,Software Installation Verification,Verify software installations across devices to ensure compliance with policies.
+Snow License Manager,Integration with CMDB Tools,Sync with CMDB tools to maintain accurate asset and configuration data.
+Snow License Manager,Cost Recovery for Unused Licenses,Recover costs by identifying and canceling unused software licenses.
+Snow License Manager,Disaster Recovery License Tracking,Ensure compliance for licenses used in disaster recovery environments.
+Snow License Manager,Software Vendor Comparison,Compare license costs and performance across multiple software vendors.
+Snow License Manager,User-Based License Assignment,Assign licenses based on individual user needs to optimize costs.
+Snow License Manager,License Metric Analysis,"Track license usage based on metrics like CPU, device, or user counts."
+Snow License Manager,Subscription Renewal Management,Track and manage subscription renewals to avoid service interruptions.
+Snow License Manager,Enterprise IT Governance Reporting,Provide detailed governance reports for IT asset and license management.
+Snow License Manager,Application Blacklisting,Identify and block unauthorized or high-risk applications from being installed.
+Snow License Manager,License Cost Benchmarking,Benchmark license costs against industry standards to ensure competitiveness.
+Snow License Manager,IT Asset Reallocation,Reallocate underused IT assets to maximize resource utilization.
+Snow License Manager,AI-Driven Usage Predictions,Use AI to predict future software usage and optimize license purchases.
+Snow License Manager,Multi-Year Licensing Trends,Analyze multi-year trends in licensing to inform long-term decisions.
+Snow License Manager,Asset Management Policy Creation,Create and enforce IT asset management policies across the organization.
+Snow License Manager,Departmental License Utilization Analysis,Analyze license utilization by department to identify inefficiencies.
+Snow License Manager,License Compliance Risk Scoring,Assign risk scores to highlight areas of potential non-compliance.
+Snow License Manager,Shadow IT Detection,Identify unauthorized software or hardware usage across the organization.
+Snow License Manager,Integration with Virtualization Platforms,Track licenses and assets in virtualized environments like VMware or Hyper-V.
+Snow License Manager,IT Asset Allocation Forecasting,Forecast future IT asset needs based on usage trends.
+Snow License Manager,Asset Retirement Planning,Plan and track the retirement of IT assets to optimize replacement cycles.
+Snow License Manager,Software Vendor Risk Assessment,Assess risks associated with software vendors to plan mitigation strategies.
+Snow License Manager,Data Privacy Compliance Monitoring,Monitor software compliance with data privacy regulations like GDPR or CCPA.
+Snow License Manager,License Agreement Consolidation,Consolidate multiple license agreements to simplify management.
+Snow License Manager,Hardware Warranty Tracking,Track hardware warranties to plan for replacements or extensions.
+Snow License Manager,Cloud Resource Sprawl Detection,Detect and address unused or underutilized cloud resources.
+Snow License Manager,Real-Time Asset Discovery,Automatically discover and track new IT assets in real time.
+Snow License Manager,Cost Impact Analysis for Upgrades,Analyze the cost impact of software or hardware upgrades.
+Snow License Manager,SaaS License Utilization Tracking,Track SaaS application usage to eliminate unused subscriptions.
+Snow License Manager,IT Contract Compliance Monitoring,Monitor IT contracts to ensure compliance with terms and conditions.
+Snow License Manager,Software Patch Management Insights,Track software versions and patch levels to ensure security compliance.
+Snow License Manager,Vendor Performance Analysis,Track vendor performance based on license compliance and service quality.
+Snow License Manager,Hybrid Cloud Asset Tracking,Track and manage assets deployed across hybrid cloud environments.
+Snow License Manager,Cost Optimization Recommendations,Generate recommendations to reduce software and hardware costs.
+Snow License Manager,Software Upgrade Planning,Identify outdated software and plan upgrades to maintain compatibility and support.
+Snow License Manager,Global IT Asset Management,Manage IT assets across multiple geographic locations for global organizations.
+Snow License Manager,License Compliance Audit Support,Provide accurate usage data to support internal and external audits.
+Snow License Manager,Software Rationalization Insights,Identify opportunities to consolidate or eliminate redundant software tools.
+Snow License Manager,IT Governance Policy Enforcement,Automate enforcement of IT governance policies for software and hardware.
+Snow License Manager,Vendor Audit Defense,Provide accurate usage data to defend against software vendor audits.
+Snow License Manager,License Utilization Heatmaps,Visualize license utilization trends with heatmaps for better decision-making.
+Snow License Manager,Integration with Financial Systems,Sync license data with financial systems for accurate cost tracking.
+Snow License Manager,Software Cost Allocation Models,Develop cost allocation models based on software usage data.
+Snow License Manager,Compliance Reporting for Regulators,Generate compliance reports to meet regulatory requirements.

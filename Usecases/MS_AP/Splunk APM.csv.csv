@@ -1,0 +1,67 @@
+Category,Short Description,Description
+Splunk APM,Automate Dashboard Creation,"Use scripts to create custom dashboards for monitoring application performance metrics programmatically, ensuring consistency across teams."
+Splunk APM,Alert Configuration Automation,"Automate the setup of alerts for key performance indicators (KPIs) like latency, throughput, and error rates to ensure proactive monitoring."
+Splunk APM,Automated Service Dependency Mapping,Use scripts to automatically map service dependencies and visualize the relationships between microservices.
+Splunk APM,Dynamic Tagging of Services,"Automate the tagging of services with metadata like environment, team ownership, or region for better organization."
+Splunk APM,Automated Metric Collection,Script the collection of custom metrics to monitor specific business or application metrics not tracked by default.
+Splunk APM,Automated Root Cause Analysis,"Automate root cause analysis for performance issues by correlating traces, logs, and metrics using Splunk APM data."
+Splunk APM,Deployment Marker Automation,Automate the addition of deployment markers to correlate performance changes with new code releases.
+Splunk APM,Synthetic Monitoring Setup,Use scripts to create synthetic monitoring tests to track application availability and simulate user behavior.
+Splunk APM,Alert Noise Reduction,Automate alert grouping and suppression during maintenance windows to reduce noise and focus on critical incidents.
+Splunk APM,Dynamic Threshold Adjustment,Adjust alert thresholds dynamically based on historical performance trends to reduce false positives.
+Splunk APM,Automated Anomaly Detection Setup,Script the configuration of anomaly detection to automatically detect unusual patterns in application performance metrics.
+Splunk APM,SLA Monitoring and Reporting,Automate the setup of SLA monitoring for services and generate reports to track compliance.
+Splunk APM,Application Health Checks,Automate periodic health checks for applications and alert on failures.
+Splunk APM,Automated Baseline Setup,Use scripts to configure baselines for application performance metrics to identify deviations more effectively.
+Splunk APM,Error Rate Monitoring,Automate the setup of error rate monitoring for services and detect issues in real time.
+Splunk APM,Automated Alert Escalation,Automate the escalation of unresolved alerts to higher-level teams or management based on severity.
+Splunk APM,Real-Time Performance Monitoring,Use scripts to set up real-time performance monitoring to identify bottlenecks instantly.
+Splunk APM,Service Inventory Management,Automate the discovery and onboarding of services into Splunk APM for consistent monitoring.
+Splunk APM,Automated Trace Analysis,Automate the analysis of distributed traces to identify slow services and optimize transaction performance.
+Splunk APM,Tag-Based Monitoring,"Automate monitoring configurations by using tags like environment, team, or service type for better filtering and analysis."
+Splunk APM,Automated Alert Routing,Route alerts automatically to the appropriate teams or individuals based on predefined rules.
+Splunk APM,Automated Incident Response Workflows,Use scripts to trigger predefined remediation workflows when alerts are triggered.
+Splunk APM,Integration Testing Automation,"Automate the testing of integrations with third-party tools like PagerDuty, ServiceNow, or Jira to ensure seamless incident response workflows."
+Splunk APM,Log Correlation with Metrics,Automate the correlation of logs with performance metrics to streamline troubleshooting.
+Splunk APM,Automated Report Generation,Use scripts to generate and distribute performance reports to stakeholders on a schedule.
+Splunk APM,Automated Health Rule Maintenance,Automate the maintenance of health rules for applications based on changing performance conditions.
+Splunk APM,Custom Visualization Automation,"Use scripts to create custom visualizations for specific monitoring needs, such as comparing performance trends across services."
+Splunk APM,Dynamic Resource Allocation,Automate resource allocation for applications based on performance data to optimize system utilization.
+Splunk APM,Error Budget Tracking,Automate error budget tracking for services to ensure reliability goals are met.
+Splunk APM,Automated Alert Suppression,Suppress alerts automatically for known issues or during maintenance windows.
+Splunk APM,Automated Capacity Planning,Use historical data to forecast resource requirements and automate capacity planning.
+Splunk APM,Automated Log Forwarding,Forward logs automatically to Splunk from APM-monitored services for centralized analysis.
+Splunk APM,SLA Violation Alerts,"Automate alerts for SLA violations, including detailed performance insights."
+Splunk APM,Automated Metric Cleanup,Remove unused or irrelevant metrics automatically to keep dashboards and alerts optimized.
+Splunk APM,Performance Trend Analysis,Automate analysis of performance trends over time to identify areas for improvement.
+Splunk APM,Automated Alert De-duplication,De-duplicate alerts automatically to avoid redundant notifications and focus on actionable incidents.
+Splunk APM,API Key Rotation,Automate API key rotation periodically to improve security and comply with best practices.
+Splunk APM,Automated SLA Breach Notifications,"Notify stakeholders automatically when SLA breaches occur, including performance details."
+Splunk APM,Real User Monitoring Setup,Automate the configuration of Real User Monitoring (RUM) to track end-user behavior and experience metrics.
+Splunk APM,Synthetic Test Maintenance,Automate updates to synthetic tests as new endpoints or APIs are added.
+Splunk APM,Dynamic Service Map Updates,Use scripts to automatically update service maps as new services are discovered or removed.
+Splunk APM,Automated Deployment Validation,Validate deployments automatically by comparing pre- and post-deployment performance metrics.
+Splunk APM,Automated Incident Archiving,Archive incident details automatically for compliance or audit purposes.
+Splunk APM,Automated Trace Sampling Setup,Automate trace sampling configurations to reduce data volume while retaining critical insights.
+Splunk APM,Automated Data Retention Policies,"Enforce data retention policies automatically for traces, logs, and metrics to comply with regulations."
+Splunk APM,Service Performance Comparison,Automate comparison of performance metrics across multiple services to identify underperforming components.
+Splunk APM,Automated Alert Workflow Testing,Test alert workflows automatically to ensure proper routing and escalation configurations.
+Splunk APM,Application Scaling Automation,"Automate scaling of applications based on performance thresholds, leveraging Splunk APM insights."
+Splunk APM,Alert Priority Management,Automate prioritization of alerts based on severity or business impact.
+Splunk APM,Automated SLA Reporting,Use scripts to generate SLA reports automatically and share them with stakeholders.
+Splunk APM,Service Dependency Auditing,Automate auditing of service dependencies to ensure accurate monitoring and visualization.
+Splunk APM,Automated Root Cause Correlation,Correlate root causes across services automatically to improve incident resolution times.
+Splunk APM,Application Release Validation,Validate application releases by automating performance checks against baselines and SLAs.
+Splunk APM,Automated Trace Cleanup,Remove unused or irrelevant trace data automatically to optimize storage and streamline analysis.
+Splunk APM,SLA Tracking for APIs,Automate SLA tracking for APIs to ensure uptime and performance compliance.
+Splunk APM,Application Restart Detection,Automate monitoring for unexpected application restarts and generate alerts when they occur.
+Splunk APM,Automated Trace Correlation,Correlate traces across multiple services automatically to identify bottlenecks.
+Splunk APM,Service Health Dashboard Updates,Automate updates to service health dashboards as new metrics or services are added.
+Splunk APM,Dynamic Alert Escalation Rules,Automate escalation rules dynamically based on incident severity or duration.
+Splunk APM,Automated Anomaly Reporting,Generate anomaly reports automatically for services showing unusual behavior.
+Splunk APM,Automated Alert Impact Analysis,Automate impact analysis for alerts to determine which users or systems are affected.
+Splunk APM,Custom KPI Monitoring,Automate monitoring for custom KPIs tailored to specific business or application needs.
+Splunk APM,Cost Analysis for Services,Automate cost analysis for cloud-based services based on usage and performance insights.
+Splunk APM,Application Timeout Monitoring,Use scripts to monitor and alert for application timeout issues automatically.
+Splunk APM,Automated Event Correlation,"Correlate events across logs, metrics, and traces automatically for end-to-end visibility."
+Splunk APM,Dynamic,

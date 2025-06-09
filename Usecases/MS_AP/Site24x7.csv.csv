@@ -1,0 +1,65 @@
+Category,Short Description,Description
+Site24x7,Automate Monitor Creation,"Use scripts to create monitors for websites, servers, or applications programmatically, reducing manual setup time."
+Site24x7,Alert Configuration Automation,Automate the setup of alert thresholds for monitors to ensure timely notifications for critical issues.
+Site24x7,Automated IT Remediation,Automatically trigger remediation actions like restarting services or clearing cache when thresholds are breached.
+Site24x7,Custom Plugin Deployment,Deploy custom plugins for Windows or Linux servers using scripts to monitor specific metrics.
+Site24x7,Dynamic Tagging of Monitors,"Automate tagging of monitors based on environment, region, or application type for better organization and filtering."
+Site24x7,Monitor Group Management,"Use scripts to create, update, or delete monitor groups dynamically as infrastructure changes."
+Site24x7,Automated SLA Monitoring,"Automate SLA compliance monitoring for websites, applications, and services."
+Site24x7,Synthetic Monitoring Setup,Script the creation of synthetic monitoring tests to check website or API availability and performance.
+Site24x7,Alert Noise Reduction,Automate alert grouping and suppression during maintenance windows to reduce noise.
+Site24x7,API Key Rotation,Automate periodic rotation of API keys for enhanced security.
+Site24x7,Automated Report Generation,Use scripts to generate and distribute performance or availability reports to stakeholders.
+Site24x7,Cloud Resource Monitoring,"Automate the setup of monitors for cloud resources like AWS EC2, RDS, and ELBs across multiple accounts."
+Site24x7,Log Integration Automation,Automate integration with logging tools like Splunk or ELK for centralized log analysis.
+Site24x7,Dynamic Threshold Adjustment,Automatically adjust alert thresholds based on historical performance trends.
+Site24x7,Automated Maintenance Window Setup,Script the creation of maintenance windows to suppress alerts during planned downtimes.
+Site24x7,Application Dependency Mapping,Automate the mapping of application dependencies to visualize service interactions.
+Site24x7,Automated Incident Escalation,Use scripts to escalate unresolved incidents to higher-level teams or management based on severity.
+Site24x7,Real-Time Performance Analysis,Automate real-time analysis of application or server performance to identify bottlenecks.
+Site24x7,Automated SLA Reporting,Script the generation of SLA compliance reports for websites and applications.
+Site24x7,Custom Metric Collection,Automate the collection and submission of custom metrics to Site24x7 for monitoring.
+Site24x7,Integration Deployment Automation,"Automate the deployment of integrations with tools like ServiceNow, PagerDuty, or Slack for streamlined workflows."
+Site24x7,Automated Root Cause Analysis,Use scripts to trigger root cause analysis for performance issues using Site24x7's AI capabilities.
+Site24x7,Log Anomaly Detection,Automate the detection of anomalies in logs using custom scripts and Site24x7 integrations.
+Site24x7,Application Inventory Management,Script the automated management of application and service inventory using the API.
+Site24x7,Automated Capacity Planning,Use scripts to forecast and plan for future resource capacity needs based on historical data.
+Site24x7,Automated Problem Resolution,Resolve problems automatically using predefined workflows or remediation scripts triggered by Site24x7 alerts.
+Site24x7,Automated Baseline Setup,Configure baselines for application performance metrics automatically to detect deviations.
+Site24x7,Alert Suppression Automation,Automate alert suppression during maintenance windows or planned downtimes.
+Site24x7,Automated Log Parsing,Parse and analyze logs automatically to extract meaningful insights and detect issues.
+Site24x7,Workload Automation,Automate workload distribution across servers and services to optimize resource utilization.
+Site24x7,Dynamic Resource Allocation,Use scripts to dynamically allocate resources to applications based on real-time performance data.
+Site24x7,Automated Synthetic Test Rotation,Rotate synthetic test configurations automatically to align with changing testing needs.
+Site24x7,Automated SLA Breach Notifications,"Notify stakeholders automatically when SLA breaches occur, including detailed performance reports."
+Site24x7,Application Performance Comparison,Automate the comparison of application performance before and after deployments using historical data.
+Site24x7,Automated Application Discovery,Discover and onboard new applications automatically for monitoring in Site24x7.
+Site24x7,Automated Report Scheduling,Script the generation and scheduled distribution of performance reports to teams or stakeholders.
+Site24x7,Automated Anomaly Detection,Configure anomaly detection automatically to identify unusual behavior in metrics or transactions.
+Site24x7,Automated Error Budget Tracking,Track error budgets automatically for services to ensure reliability standards are met.
+Site24x7,Application Tier Management,"Automate the management of application tiers, including updates, additions, and removals."
+Site24x7,Automated Integration Testing,Automate the testing of integrations with Site24x7 to ensure they are functioning correctly.
+Site24x7,Automated Log Retention Policy,Enforce log retention policies automatically to comply with compliance or business requirements.
+Site24x7,Alert De-duplication Automation,De-duplicate alerts automatically to reduce noise and focus on meaningful incidents.
+Site24x7,Automated Alert Escalation Workflows,Create automated workflows to escalate alerts to the appropriate teams or stakeholders based on severity.
+Site24x7,Automated KPI Monitoring,Monitor key performance indicators (KPIs) automatically for business-critical applications.
+Site24x7,Automated Alert History Analysis,Analyze alert history automatically to identify trends and optimize alert configurations.
+Site24x7,Automated Health Dashboard Updates,Update health dashboards automatically as new metrics or services are added.
+Site24x7,Automated Log Indexing,Index logs automatically to improve searchability and analysis.
+Site24x7,Automated Application Scaling,Automate scaling of applications based on performance trends and predefined thresholds.
+Site24x7,Automated Deployment Validation,Validate application deployments automatically by comparing post-deployment performance against baselines.
+Site24x7,Automated Incident Auditing,Use scripts to audit incident history and ensure compliance with response standards.
+Site24x7,Automated Synthetic Test Validation,Validate synthetic tests automatically to ensure accurate monitoring configurations.
+Site24x7,Automated Application Restart Alerts,Use scripts to monitor and alert when applications or services are restarted unexpectedly.
+Site24x7,Alert Priority Automation,Prioritize alerts automatically based on severity or business impact.
+Site24x7,Automated Problem Correlation,Correlate problems across services and infrastructure automatically to identify root causes.
+Site24x7,Automated SLA Violation Analysis,Analyze SLA violations automatically to identify the root causes and affected components.
+Site24x7,Automated Cost Analysis,Automate analysis of cloud and infrastructure costs using Site24x7 metrics and dashboards.
+Site24x7,Automated Business Impact Analysis,Use scripts to analyze the business impact of performance issues automatically.
+Site24x7,Automated Custom Alerts,Create custom alert configurations automatically for specific business or technical requirements.
+Site24x7,Automated Dashboard Sharing,Share dashboards automatically with teams or stakeholders based on predefined rules.
+Site24x7,Automated Application Health Checks,Run periodic health checks on applications automatically and generate reports.
+Site24x7,Automated Transaction Tracing,Configure transaction tracing automatically to monitor end-to-end performance of user requests.
+Site24x7,Automated Data Retention Policies,"Enforce data retention policies automatically for metrics, logs, and events."
+Site24x7,Automated Event Correlation,Correlate events automatically across infrastructure and applications for better analysis.
+Site24x7,Automated Alert Workflow Testing,Test alert workflows automatically to ensure proper routing and escalation.

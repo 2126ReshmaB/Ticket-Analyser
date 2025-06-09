@@ -1,0 +1,62 @@
+Category,Short Description,Description
+SCCM (System Center Configuration Manager),Deploy Operating Systems,Automate the deployment of Windows operating systems to new or existing devices using SCCM task sequences.
+SCCM (System Center Configuration Manager),Patch Management,Schedule and automate the deployment of Windows updates and third-party patches to ensure systems stay secure and compliant.
+SCCM (System Center Configuration Manager),Software Deployment,Automate the deployment of software packages and applications to devices and user collections.
+SCCM (System Center Configuration Manager),Monitor Software Deployment Status,Automate the monitoring of application deployment status to track success or failure on all target systems.
+SCCM (System Center Configuration Manager),Uninstall Software,Automate the removal of unwanted or outdated software from devices using SCCM.
+SCCM (System Center Configuration Manager),Deploy Drivers,Automate the deployment of hardware drivers to ensure compatibility and performance on devices.
+SCCM (System Center Configuration Manager),Create Device Collections,Automate the creation of dynamic or static device collections based on specific criteria such as operating system or hardware type.
+SCCM (System Center Configuration Manager),Inventory Hardware,Automate the collection and reporting of hardware inventory across all managed devices.
+SCCM (System Center Configuration Manager),Inventory Software,Automate the collection and reporting of installed software on devices for compliance and auditing.
+SCCM (System Center Configuration Manager),Enforce Compliance Baselines,Automate the application of compliance baselines to ensure systems meet security and configuration standards.
+SCCM (System Center Configuration Manager),Deploy Security Baselines,Automate the deployment of security baselines to ensure compliance with organizational policies.
+SCCM (System Center Configuration Manager),Manage BitLocker Encryption,Automate the monitoring and enforcement of BitLocker encryption policies on managed devices.
+SCCM (System Center Configuration Manager),Configure Firewall Settings,Automate the deployment of firewall configurations to managed devices.
+SCCM (System Center Configuration Manager),Deploy Endpoint Protection,Automate the installation and configuration of endpoint protection tools across managed devices.
+SCCM (System Center Configuration Manager),Schedule Automatic Updates,Automate the scheduling of Windows updates during non-business hours to minimize disruption.
+SCCM (System Center Configuration Manager),Monitor Update Compliance,Automate the reporting of update compliance to ensure all devices are up to date with the latest security patches.
+SCCM (System Center Configuration Manager),Configure Power Management Settings,Automate the deployment of power plans to optimize energy usage across devices.
+SCCM (System Center Configuration Manager),Automate Reboots After Updates,Schedule automatic reboots of devices after patches or updates are installed.
+SCCM (System Center Configuration Manager),Deploy Virtual Applications,Automate the deployment of virtualized applications using SCCM integration with App-V.
+SCCM (System Center Configuration Manager),Deploy Custom Scripts,Automate the execution of custom PowerShell or VBScript scripts on managed devices.
+SCCM (System Center Configuration Manager),Configure Remote Control Settings,Automate the configuration of remote control settings for IT support teams to assist end-users.
+SCCM (System Center Configuration Manager),Deploy Printer Drivers,Automate the installation of printer drivers and configuration of network printers on user devices.
+SCCM (System Center Configuration Manager),Monitor Software License Usage,Automate the tracking of software license usage to ensure compliance with licensing agreements.
+SCCM (System Center Configuration Manager),Manage Local Administrator Accounts,Automate the creation or removal of local administrator accounts on managed devices.
+SCCM (System Center Configuration Manager),Remediate Non-Compliant Devices,Automate remediation actions for devices that do not meet compliance standards.
+SCCM (System Center Configuration Manager),Deploy Office 365,Automate the deployment and updates of Microsoft Office 365 applications.
+SCCM (System Center Configuration Manager),Collect Event Logs,Automate the collection of event logs from managed devices for troubleshooting and auditing.
+SCCM (System Center Configuration Manager),Configure Proxy Settings,Automate the deployment of proxy configurations to managed devices.
+SCCM (System Center Configuration Manager),Migrate User Profiles,Automate the migration of user profiles during operating system deployments or upgrades.
+SCCM (System Center Configuration Manager),Deploy Browser Configurations,"Automate the deployment of browser settings such as homepage, extensions, or security preferences."
+SCCM (System Center Configuration Manager),Automate Software Rollbacks,Automate the rollback of applications to previous versions in case of deployment issues.
+SCCM (System Center Configuration Manager),Configure VPN Clients,Automate the installation and configuration of VPN clients for secure remote access.
+SCCM (System Center Configuration Manager),Monitor Boot Performance,Automate the collection of boot performance data to identify slow startup issues.
+SCCM (System Center Configuration Manager),Deploy Device Firmware Updates,Automate the deployment of firmware updates to ensure devices are running the latest versions.
+SCCM (System Center Configuration Manager),Manage Disk Encryption Compliance,Automate the monitoring and enforcement of disk encryption policies like BitLocker or VeraCrypt.
+SCCM (System Center Configuration Manager),Configure Group Policies,Automate the deployment of Group Policy configurations using SCCM scripts.
+SCCM (System Center Configuration Manager),Automate Disk Cleanup,Schedule and automate disk cleanup tasks to free up storage space on target machines.
+SCCM (System Center Configuration Manager),Configure RDP Settings,Automate the configuration of Remote Desktop Protocol settings on managed devices.
+SCCM (System Center Configuration Manager),Deploy Collaboration Tools,"Automate the deployment of collaboration tools like Microsoft Teams, Slack, or Zoom."
+SCCM (System Center Configuration Manager),Configure Time Synchronization,Automate the deployment of NTP configuration to ensure accurate time synchronization on devices.
+SCCM (System Center Configuration Manager),Track Device Warranty Status,Automate the collection and reporting of device warranty information.
+SCCM (System Center Configuration Manager),Configure Application Whitelisting,Automate the implementation of application whitelisting policies to prevent unauthorized software installations.
+SCCM (System Center Configuration Manager),Deploy Web Browsers,"Automate the installation and configuration of web browsers like Chrome, Firefox, or Edge."
+SCCM (System Center Configuration Manager),Manage Software Dependencies,Automate the installation of software dependencies required for specific applications.
+SCCM (System Center Configuration Manager),Automate Security Audits,Automate the execution of security audits to identify vulnerabilities or compliance violations.
+SCCM (System Center Configuration Manager),Deploy Backup Agents,Automate the installation of backup agents for third-party backup solutions.
+SCCM (System Center Configuration Manager),Configure Desktop Shortcuts,Automate the deployment of desktop shortcuts for frequently used applications or resources.
+SCCM (System Center Configuration Manager),Monitor Application Performance,Automate the monitoring of application performance metrics across managed devices.
+SCCM (System Center Configuration Manager),Configure Disk Quotas,Automate the enforcement of disk quota policies to manage storage usage.
+SCCM (System Center Configuration Manager),Deploy Antivirus Updates,Automate the deployment of antivirus definition updates to all devices.
+SCCM (System Center Configuration Manager),Configure Network Shares,Automate the mapping of network drives or shared folders to user devices.
+SCCM (System Center Configuration Manager),Configure Startup Applications,Automate the modification of startup applications to optimize boot performance.
+SCCM (System Center Configuration Manager),Monitor Device Health,"Automate the collection and reporting of device health metrics such as CPU, memory, and disk usage."
+SCCM (System Center Configuration Manager),Deploy Remote Desktop Tools,Automate the deployment of remote desktop tools like AnyDesk or TeamViewer.
+SCCM (System Center Configuration Manager),Monitor Software Update Failures,Automate the reporting of software update failures for troubleshooting.
+SCCM (System Center Configuration Manager),Configure Accessibility Settings,Automate the deployment of accessibility settings for users with special needs.
+SCCM (System Center Configuration Manager),Deploy Language Packs,Automate the installation of language packs for multilingual support.
+SCCM (System Center Configuration Manager),Configure Multi-Factor Authentication,Automate the deployment of MFA tools or settings for enhanced security.
+SCCM (System Center Configuration Manager),Configure Disk Encryption Policies,Automate the enforcement of disk encryption policies to secure sensitive data.
+SCCM (System Center Configuration Manager),Monitor Device Compliance,Automate the reporting of device compliance with organizational standards.
+SCCM (System Center Configuration Manager),Automate Software Package Testing,Automate the testing of software packages before deployment to production systems

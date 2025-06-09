@@ -1,0 +1,62 @@
+Category,Short Description,Description
+HashiCorp Terraform,Provision virtual machines,"Automate the creation of virtual machines in cloud providers like AWS, Azure, GCP, or VMware."
+HashiCorp Terraform,Configure network subnets,Automate the creation and configuration of subnets in a Virtual Private Cloud (VPC).
+HashiCorp Terraform,Manage security groups,Automate the setup and management of security groups to control inbound and outbound traffic.
+HashiCorp Terraform,Deploy load balancers,"Automate the provisioning of load balancers (e.g., AWS ELB, Azure Load Balancer) to distribute traffic across servers."
+HashiCorp Terraform,Configure DNS records,Automate the creation and management of DNS records using cloud DNS services like Route 53 or Cloudflare.
+HashiCorp Terraform,Provision Kubernetes clusters,"Automate the deployment of Kubernetes clusters using managed services like EKS, AKS, or GKE."
+HashiCorp Terraform,Automate storage buckets,"Automate the creation and management of object storage buckets in AWS S3, Google Cloud Storage, or Azure Blob Storage."
+HashiCorp Terraform,Manage IAM roles,"Automate the creation of IAM roles, policies, and permissions for users and applications."
+HashiCorp Terraform,Set up VPC,Automate the creation of Virtual Private Clouds (VPCs) with associated routing tables and gateways.
+HashiCorp Terraform,Deploy serverless functions,"Automate the provisioning of serverless functions using AWS Lambda, Azure Functions, or Google Cloud Functions."
+HashiCorp Terraform,Configure auto-scaling groups,Automate the setup of auto-scaling groups to maintain the desired number of virtual machines based on load.
+HashiCorp Terraform,Automate CI/CD pipelines,"Automate the provisioning of CI/CD pipelines using tools like Jenkins, GitLab, or Bitbucket Pipelines."
+HashiCorp Terraform,Manage container registries,"Automate the creation of private container registries like Amazon ECR, Azure ACR, or Google Container Registry."
+HashiCorp Terraform,Provision databases,"Automate the setup of managed database services like RDS, Cloud SQL, or Azure SQL Database."
+HashiCorp Terraform,Deploy monitoring tools,"Automate the deployment of monitoring tools like Datadog, CloudWatch, or New Relic."
+HashiCorp Terraform,Set up VPN connections,Automate the provisioning of VPN connections between on-premises and cloud environments.
+HashiCorp Terraform,Manage firewall rules,Automate the creation and enforcement of firewall rules in cloud environments.
+HashiCorp Terraform,Deploy caching solutions,"Automate the provisioning of caching solutions like AWS ElastiCache, Redis, or Memcached."
+HashiCorp Terraform,Configure CDN services,Automate the setup of Content Delivery Networks (CDNs) such as AWS CloudFront or Akamai for improved content delivery.
+HashiCorp Terraform,Automate resource tagging,"Automate the tagging of cloud resources for organization, cost tracking, and compliance."
+HashiCorp Terraform,Automate disaster recovery setups,Automate the provisioning of disaster recovery environments to ensure failover readiness.
+HashiCorp Terraform,Create application environments,"Automate the creation of development, staging, and production environments with consistent infrastructure."
+HashiCorp Terraform,Manage service discovery,Automate the provisioning of service discovery tools like Consul or AWS Cloud Map.
+HashiCorp Terraform,Set up hybrid cloud environments,Automate the configuration of hybrid cloud setups between on-premises and public cloud providers.
+HashiCorp Terraform,Configure NAT gateways,Automate the provisioning of NAT gateways for secure internet access for private subnets.
+HashiCorp Terraform,Automate CI/CD runners,Automate the provisioning of CI/CD runners for tools like GitLab Runner or GitHub Actions.
+HashiCorp Terraform,Manage private networking,"Automate the setup of private networking resources, such as private endpoints and peering connections."
+HashiCorp Terraform,Automate data warehouses,"Automate the provisioning of data warehouses like Snowflake, BigQuery, or Redshift."
+HashiCorp Terraform,Set up multi-region deployments,Automate infrastructure provisioning across multiple regions for high availability and redundancy.
+HashiCorp Terraform,Configure endpoint security,Automate the provisioning of endpoint security tools like AWS GuardDuty or Azure Defender.
+HashiCorp Terraform,Manage serverless APIs,Automate the deployment of serverless APIs using API Gateway or Azure API Management.
+HashiCorp Terraform,Automate certificate management,Automate the deployment and renewal of SSL/TLS certificates using tools like AWS ACM or Let's Encrypt.
+HashiCorp Terraform,Configure message queues,"Automate the provisioning of message queues like SQS, RabbitMQ, or Google Pub/Sub."
+HashiCorp Terraform,Automate resource scaling,Automate horizontal and vertical scaling of cloud resources using scaling policies.
+HashiCorp Terraform,Manage elastic IPs,Automate the allocation and association of elastic IP addresses for public-facing services.
+HashiCorp Terraform,Provision managed Kubernetes add-ons,"Automate the deployment of Kubernetes add-ons like ingress controllers, logging, and monitoring tools."
+HashiCorp Terraform,Set up object lifecycle policies,Automate the configuration of object lifecycle policies for cloud storage buckets to reduce storage costs.
+HashiCorp Terraform,Configure logging solutions,"Automate the setup of centralized logging solutions like ELK Stack, CloudWatch Logs, or Azure Monitor."
+HashiCorp Terraform,Automate key management,"Automate the provisioning and rotation of encryption keys using AWS KMS, Azure Key Vault, or Google Cloud KMS."
+HashiCorp Terraform,Set up DNS failover,Automate DNS failover configurations for high availability using Route 53 or other DNS providers.
+HashiCorp Terraform,Manage cloud costs,Automate the provisioning of cost management tools like AWS Budgets or Azure Cost Management.
+HashiCorp Terraform,Automate testing environments,Automate the creation of isolated testing environments for QA or performance testing.
+HashiCorp Terraform,Configure hybrid storage solutions,Automate the setup of hybrid storage solutions like AWS Storage Gateway or Azure Blob Storage.
+HashiCorp Terraform,Manage container orchestration,Automate the setup of container orchestration platforms like Kubernetes or Docker Swarm.
+HashiCorp Terraform,Deploy analytics platforms,"Automate the provisioning of analytics platforms such as Google Data Studio, Tableau, or AWS QuickSight."
+HashiCorp Terraform,Set up cross-region replication,Automate the configuration of cross-region replication for S3 buckets or other storage systems.
+HashiCorp Terraform,Automate bastion host setup,Automate the provisioning of bastion hosts for secure access to private cloud resources.
+HashiCorp Terraform,Manage API throttling,Automate the configuration of API throttling and rate-limiting rules in API Gateway or similar services.
+HashiCorp Terraform,Deploy real-time monitoring systems,"Automate the deployment of real-time monitoring solutions like Prometheus, Grafana, or CloudWatch."
+HashiCorp Terraform,Automate private DNS zones,Automate the creation of private DNS zones for internal name resolution.
+HashiCorp Terraform,Configure multi-cloud networking,Automate the setup of networking between multiple cloud providers.
+HashiCorp Terraform,Manage service catalog,Automate the provisioning of service catalogs for cloud resources to standardize deployments.
+HashiCorp Terraform,Automate application firewalls,Automate the setup of application firewalls like AWS WAF or Azure Application Gateway.
+HashiCorp Terraform,Configure edge locations,Automate the provisioning of edge computing locations for faster content delivery.
+HashiCorp Terraform,Manage cloud backups,"Automate the configuration of backup solutions for cloud resources, such as snapshots and backup schedules."
+HashiCorp Terraform,Set up identity federation,Automate the setup of identity federation for cross-account or cross-platform authentication.
+HashiCorp Terraform,Deploy CI/CD environments,"Automate the setup of CI/CD environments, including build servers and artifact repositories."
+HashiCorp Terraform,Configure private endpoints,Automate the provisioning of private endpoints for secure access to managed services.
+HashiCorp Terraform,Manage ephemeral environments,Automate the creation and deletion of short-lived environments for feature development or testing.
+HashiCorp Terraform,Automate infrastructure testing,Automate infrastructure testing using tools like Terratest or InSpec integrated with Terraform workflows.
+HashiCorp Terraform,Set up cross-account roles,

@@ -1,0 +1,50 @@
+Category,Short Description,Description
+Asana,Auto-Assign Tasks,"Automatically assign tasks to team members based on project, task type, or custom fields."
+Asana,Auto-Set Due Dates,Automatically set due dates for tasks based on their creation date or project timeline.
+Asana,Auto-Move Tasks to Sections,Automatically move tasks to specific sections when their status or priority changes.
+Asana,Notify on Task Updates,Send automated notifications to team members when a task is updated or moved.
+Asana,Create Recurring Tasks,"Automate the creation of recurring tasks for daily, weekly, or monthly activities."
+Asana,Auto-Add Tags to Tasks,Automatically add tags to tasks based on keywords in the task title or description.
+Asana,Auto-Create Tasks from Forms,"Automatically create tasks in Asana when a form is submitted (e.g., Google Forms, Typeform)."
+Asana,Auto-Archive Completed Tasks,"Automatically archive tasks in a ""Completed"" section or project after a specified period."
+Asana,Auto-Notify on Overdue Tasks,Send reminders to task assignees when a task is overdue.
+Asana,Auto-Create Subtasks,Automatically create subtasks for new tasks based on templates or predefined workflows.
+Asana,Auto-Link Related Tasks,"Automatically link tasks that share the same tags, custom fields, or dependencies."
+Asana,Auto-Update Task Priority,Automatically update the priority of tasks based on their due date or custom field values.
+Asana,Notify on Task Completion,Send notifications to stakeholders when a task is marked as complete.
+Asana,Auto-Assign Tasks Based on Keywords,Assign tasks to specific team members based on keywords in the task title or description.
+Asana,Auto-Create Tasks for New Projects,Automatically create a set of predefined tasks for new projects using templates.
+Asana,Auto-Notify on Project Updates,Notify team members when a project status or milestone is updated.
+Asana,Auto-Create Tasks for Bug Reports,Automatically create tasks for bug reports submitted through external tools like GitHub or JIRA.
+Asana,Auto-Update Task Status,Automatically update the status of tasks based on changes to other fields or dependencies.
+Asana,Auto-Notify on Task Reassignments,Notify team members when a task is reassigned to a different person.
+Asana,Auto-Create Tasks for New Clients,"Automatically create onboarding tasks for new clients, including predefined subtasks and deadlines."
+Asana,Auto-Notify on Task Comments,Notify team members when a comment is added to a task they are assigned to.
+Asana,Auto-Create Tasks for Feedback,Automatically create tasks for user feedback submitted through forms or surveys.
+Asana,Auto-Generate Weekly Reports,Automatically create a summary task or project with completed tasks for the week.
+Asana,Auto-Assign Tasks Based on Custom Fields,"Assign tasks to team members based on custom field values, such as ""Region"" or ""Department."""
+Asana,Auto-Notify on Milestone Completion,Notify stakeholders when a project milestone is completed.
+Asana,Auto-Create Tasks for Social Media,Automatically create tasks for scheduled social media posts using templates.
+Asana,Auto-Notify on Task Dependencies,Notify team members when a dependent task is completed or updated.
+Asana,Auto-Create Tasks for New Leads,Automatically create sales lead tasks when new leads are added to a CRM or spreadsheet.
+Asana,Auto-Close Completed Projects,Automatically archive projects that are marked as completed.
+Asana,Auto-Notify on Task Reopen,Notify stakeholders when a task is reopened.
+Asana,Auto-Create Tasks for Deadlines,Automatically create tasks for upcoming deadlines from external systems.
+Asana,Auto-Notify on Task Attachments,Notify team members when an attachment is added to a task.
+Asana,Auto-Update Task Descriptions,Automatically update task descriptions with additional information from external systems or templates.
+Asana,Auto-Notify on Task Label Changes,Send notifications when a task's label or tag is updated or removed.
+Asana,Auto-Create Tasks for New Hires,"Automatically create and assign onboarding tasks for new hires, including subtasks and deadlines."
+Asana,Auto-Notify on Task Dependencies,Notify team members when a dependent task is completed or updated.
+Asana,Auto-Create Tasks for Product Launches,Automatically create tasks for product launches using predefined templates.
+Asana,Auto-Notify on Task Completion,Notify stakeholders when a task is marked as complete.
+Asana,Auto-Create Tasks for Event Planning,Automatically create tasks for event planning using templates and predefined workflows.
+Asana,Auto-Notify on Task Due Date Changes,Notify team members when a task's due date is changed.
+Asana,Auto-Create Tasks for Marketing Campaigns,Automatically create tasks for marketing campaigns using templates and predefined workflows.
+Asana,Auto-Notify on Task Status Changes,Notify team members when a task's status is updated.
+Asana,Auto-Create Tasks for Customer Support,Automatically create tasks for customer support tickets submitted through external tools.
+Asana,Auto-Notify on Task Priority Changes,Notify stakeholders when a task's priority is updated.
+Asana,Auto-Create Tasks for Content Creation,Automatically create tasks for content creation using templates and predefined workflows.
+Asana,Auto-Notify on Task Reassignments,Notify team members when a task is reassigned to a different person.
+Asana,Auto-Create Tasks for Team Meetings,"Automatically create tasks for team meetings, including agenda items and follow-up actions."
+Asana,Auto-Notify on Task Comments,Notify team members when a comment is added to a task they are assigned to.
+Asana,Auto-Create Tasks for Feedback,Automatically create tasks for user feedback submitted through forms or surveys.

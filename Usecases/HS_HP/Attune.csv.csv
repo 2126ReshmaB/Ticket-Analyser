@@ -1,0 +1,69 @@
+Category,Short Description,Description
+Attune,Deploy a web server on Linux,Automate the deployment of Apache or Nginx web servers on Linux systems with configuration and service startup.
+Attune,Install software packages,"Automate the installation of required software or libraries on multiple servers using package managers like `yum`, `apt`, or `pip`."
+Attune,Configure SSH keys,Automate the generation and deployment of SSH keys across servers for secure and passwordless authentication.
+Attune,Set up a firewall,Automate the configuration of firewall rules using tools like `iptables` or `ufw` to secure access to applications.
+Attune,Provision virtual machines,"Automate the creation and provisioning of virtual machines in cloud environments like AWS, Azure, or VMware."
+Attune,Deploy database servers,"Automate the setup of database servers like MySQL, PostgreSQL, or MongoDB, including user creation and database initialization."
+Attune,Backup databases,Automate the backup of databases and transfer them securely to a remote location or cloud storage.
+Attune,Automate user account creation,Automate the creation of system or application users with specified roles and permissions.
+Attune,Monitor system performance,"Automate the setup of performance monitoring tools (e.g., Nagios, Prometheus) to track CPU, memory, and disk usage."
+Attune,Configure load balancers,"Automate the setup of load balancers like HAProxy or AWS ELB, including routing rules and health checks."
+Attune,Manage SSL certificates,"Automate the generation, renewal, and deployment of SSL certificates for secure communication."
+Attune,Configure DNS records,Automate the management of DNS records using APIs provided by DNS providers like Route 53 or Cloudflare.
+Attune,Automate log rotation,Automate log rotation settings to prevent disk space issues by managing old application or system logs.
+Attune,Configure cron jobs,Automate the creation or management of cron jobs to schedule periodic tasks like backups or monitoring.
+Attune,Perform system updates,Automate the process of checking for and applying system updates across multiple servers.
+Attune,Set up application monitoring,Automate the configuration of application monitoring tools like New Relic or AppDynamics.
+Attune,Automate software builds,Automate the build process for applications using CI/CD pipelines with tools like Jenkins or GitHub Actions.
+Attune,Configure LDAP authentication,Automate the integration of servers with LDAP for centralized authentication and authorization.
+Attune,Configure application logging,"Automate the setup of application logging frameworks like ELK (Elasticsearch, Logstash, Kibana)."
+Attune,Automate OS hardening,"Automate the application of security settings (e.g., disabling root login, enabling SELinux) to harden operating systems."
+Attune,Perform health checks on servers,"Automate scripts to perform routine health checks on servers, such as checking disk space, memory usage, and running services."
+Attune,Manage cloud resources,"Automate the provisioning, scaling, and deletion of cloud resources such as instances, storage, or networks."
+Attune,Automate container deployments,Automate the deployment of containerized applications using Docker or Kubernetes.
+Attune,Configure proxy servers,Automate the setup of proxy servers like Squid with caching and access control configurations.
+Attune,Automate disaster recovery testing,Automate disaster recovery scenarios by simulating outages and validating recovery processes.
+Attune,Restart failed services,Automate the monitoring and restarting of failed services to ensure availability.
+Attune,Provision storage volumes,Automate the creation and attachment of storage volumes to cloud or on-prem servers.
+Attune,Configure time synchronization,Automate the setup of NTP or Chrony for time synchronization across servers.
+Attune,Automate patch management,Automate the deployment of security patches for operating systems and applications.
+Attune,Set up CI/CD pipelines,Automate the creation and configuration of CI/CD pipelines for software development workflows.
+Attune,Manage application secrets,Automate the management and rotation of application secrets using tools like HashiCorp Vault.
+Attune,Automate certificate validation,Automate the validation of SSL/TLS certificates to ensure they haven’t expired or been compromised.
+Attune,Configure storage backups,Automate the setup of periodic backups for file systems or block storage.
+Attune,Automate server decommissioning,Automate the removal of server configurations and resources during decommissioning.
+Attune,Ensure compliance with security policies,Automate checks for compliance with security guidelines like CIS benchmarks or company policies.
+Attune,Automate service discovery,Automate the configuration of service discovery tools like Consul or Zookeeper.
+Attune,Deploy web applications,"Automate the deployment of web applications, including code, assets, and configurations."
+Attune,Configure alerting systems,Automate the setup of alerting systems to notify administrators of critical issues.
+Attune,Automate API testing,Automate the testing of APIs using tools like Postman or REST-assured.
+Attune,Automate application scaling,Automate horizontal or vertical scaling of applications based on traffic or resource usage.
+Attune,Automate endpoint security,Automate the deployment and configuration of endpoint security tools such as antivirus or IDS/IPS.
+Attune,Automate incident response,Automate predefined incident response workflows to handle security or operational incidents.
+Attune,Configure data encryption,Automate the setup of data encryption for databases or file systems.
+Attune,Automate static code analysis,Automate static code analysis to detect vulnerabilities or code quality issues during development.
+Attune,Configure multi-factor authentication,Automate the setup of MFA for critical applications and systems for enhanced security.
+Attune,Automate network configuration,"Automate the configuration of network settings, including IP addresses, routing, and VLANs."
+Attune,Deploy microservices,Automate the deployment of microservices in containers or virtual machines.
+Attune,Configure server clusters,"Automate the setup of server clusters, including load balancing and shared storage."
+Attune,Automate data migration,"Automate the migration of data between databases, storage systems, or cloud services."
+Attune,Automate compliance reporting,Automate the generation of compliance reports for audits or regulatory requirements.
+Attune,Set up email notifications,Automate the configuration of email notifications for application or system alerts.
+Attune,Automate testing environments,Automate the provisioning of test environments with necessary configurations and data.
+Attune,Manage configuration drift,Automate the detection and remediation of configuration drift in servers or applications.
+Attune,Automate environment teardown,Automate the removal of development or test environments after usage.
+Attune,Configure VPN access,Automate the setup of VPN access for secure remote connections.
+Attune,Automate code deployment,Automate the deployment of code changes to production or staging environments.
+Attune,Configure CDN settings,Automate the configuration of CDN settings for faster content delivery.
+Attune,Automate server health reports,Automate the generation and delivery of periodic server health reports.
+Attune,Automate network security testing,Automate penetration testing or vulnerability scanning for networks.
+Attune,Configure auto-scaling policies,Automate the setup of auto-scaling policies in cloud environments like AWS or Azure.
+Attune,Automate resource tagging,Automate the tagging of cloud resources for better cost management and identification.
+Attune,Automate Kubernetes cluster management,"Automate the management of Kubernetes clusters, including node scaling and configuration updates."
+Attune,Automate log analysis,Automate the analysis of logs to detect patterns or anomalies using tools like Splunk or Elasticsearch.
+Attune,Configure network ACLs,Automate the configuration of network access control lists to restrict traffic.
+Attune,Automate system reboots,Automate scheduled reboots of systems to apply updates or resolve issues.
+Attune,Automate application rollbacks,Automate the rollback of applications to a previous stable version in case of failure.
+Attune,Configure SSO for applications,Automate the integration of applications with Single Sign-On (SSO) solutions.
+Attune,,

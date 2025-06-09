@@ -1,0 +1,64 @@
+Category,Short Description,Description
+SailPoint Identity IQ,Automate user onboarding,Automate the provisioning of user accounts and access rights for new employees based on their roles and departments.
+SailPoint Identity IQ,Automate user offboarding,Automate the deprovisioning of user accounts and access rights for employees leaving the organization to ensure security.
+SailPoint Identity IQ,Manage access certifications,Automate the periodic review and certification of user access to ensure compliance with security policies.
+SailPoint Identity IQ,Automate role-based access control,Automate the assignment of access rights based on predefined roles to simplify access management.
+SailPoint Identity IQ,Automate password resets,"Automate the password reset process for users, including self-service options and administrator-initiated resets."
+SailPoint Identity IQ,Monitor orphaned accounts,Automate the detection and remediation of orphaned accounts to reduce security risks.
+SailPoint Identity IQ,Automate access request approvals,Automate the approval workflows for user access requests to streamline the process and reduce delays.
+SailPoint Identity IQ,Automate policy enforcement,Automate the enforcement of security policies to ensure compliance with internal and external regulations.
+SailPoint Identity IQ,Automate separation of duties (SoD) checks,Automate the enforcement of SoD policies to prevent conflicts of interest and reduce fraud risks.
+SailPoint Identity IQ,Automate compliance reporting,"Automate the generation of compliance reports for audits, including access certifications and policy enforcement logs."
+SailPoint Identity IQ,Automate privileged access management,Automate the management of privileged accounts to ensure secure access to critical systems.
+SailPoint Identity IQ,Automate identity lifecycle management,"Automate the entire identity lifecycle, from onboarding to offboarding, including role changes and access updates."
+SailPoint Identity IQ,Automate access provisioning,Automate the provisioning of access to applications and systems based on user roles and policies.
+SailPoint Identity IQ,Automate access deprovisioning,Automate the removal of access rights for users who no longer require them.
+SailPoint Identity IQ,Automate audit log exports,Automate the export of audit logs to external systems for analysis and compliance purposes.
+SailPoint Identity IQ,Automate identity synchronization,Automate the synchronization of user identities across multiple systems and directories.
+SailPoint Identity IQ,Automate role mining,Automate the analysis of user access patterns to identify and define new roles.
+SailPoint Identity IQ,Automate role optimization,Automate the optimization of existing roles to reduce over-permissioning and improve security.
+SailPoint Identity IQ,Automate access analytics,Automate the collection and analysis of access data to identify trends and anomalies.
+SailPoint Identity IQ,Automate user activity monitoring,Automate the monitoring of user activity to detect unusual behavior or potential security threats.
+SailPoint Identity IQ,Automate app provisioning,Automate the provisioning of user accounts in third-party applications using SCIM or API integrations.
+SailPoint Identity IQ,Automate app deprovisioning,Automate the removal of user accounts from third-party applications when access is no longer required.
+SailPoint Identity IQ,Automate access reviews,Automate periodic access reviews to ensure that users have appropriate access to applications and resources.
+SailPoint Identity IQ,Automate security alerts,Automate the generation and distribution of security alerts for suspicious login attempts or account activity.
+SailPoint Identity IQ,Automate session management,Automate the termination of active sessions for users flagged for suspicious activity or policy violations.
+SailPoint Identity IQ,Automate user profile updates,Automate the synchronization of user profile updates across connected applications and directories.
+SailPoint Identity IQ,Automate directory integration,Automate the integration of SailPoint with on-premises directories like Active Directory or LDAP.
+SailPoint Identity IQ,Automate app discovery,Automate the discovery of new applications being used within the organization through SailPoint’s integrations.
+SailPoint Identity IQ,Automate adaptive access policies,Automate the configuration of adaptive access policies based on user behavior and risk levels.
+SailPoint Identity IQ,Automate device trust policies,Automate the enforcement of device trust policies to ensure only trusted devices can access corporate resources.
+SailPoint Identity IQ,Automate group-based provisioning,Automate the provisioning of applications and resources based on group memberships.
+SailPoint Identity IQ,Automate app access requests,Automate the approval and provisioning process for user access requests to specific applications.
+SailPoint Identity IQ,Automate password policy enforcement,"Automate the enforcement of password policies, including complexity, expiration, and history requirements."
+SailPoint Identity IQ,Automate login risk analysis,Automate the analysis of login risks using SailPoint’s Identity Security features.
+SailPoint Identity IQ,Automate user account recovery,Automate the account recovery process for users who are locked out or have forgotten their credentials.
+SailPoint Identity IQ,Automate API access management,Automate the management of API access policies and permissions for developers and applications.
+SailPoint Identity IQ,Automate app integration testing,Automate the testing of new application integrations to ensure proper provisioning and access functionality.
+SailPoint Identity IQ,Automate custom workflows,Automate custom workflows for identity and access management using SailPoint’s workflow engine.
+SailPoint Identity IQ,Automate user inactivity monitoring,Automate the detection and deactivation of inactive user accounts to reduce security risks.
+SailPoint Identity IQ,Automate app usage analytics,Automate the collection and analysis of application usage data to optimize license allocation.
+SailPoint Identity IQ,Automate identity governance,"Automate identity governance processes, including access certifications and policy enforcement."
+SailPoint Identity IQ,Automate privileged access reviews,Automate the review of privileged access to ensure compliance with security policies.
+SailPoint Identity IQ,Automate app renewal reminders,Automate reminders for upcoming application subscription renewals to avoid service interruptions.
+SailPoint Identity IQ,Automate app license tracking,Automate the tracking of application licenses to ensure compliance and cost optimization.
+SailPoint Identity IQ,Automate app security audits,Automate security audits for applications integrated with SailPoint to identify vulnerabilities.
+SailPoint Identity IQ,Automate app compliance checks,Automate compliance checks for applications to ensure they meet regulatory requirements.
+SailPoint Identity IQ,Automate app contract management,Automate the tracking and management of application contracts and agreements.
+SailPoint Identity IQ,Automate app spend analysis,Automate the analysis of application spending to identify cost-saving opportunities.
+SailPoint Identity IQ,Automate app usage benchmarking,Automate the benchmarking of application usage against industry standards.
+SailPoint Identity IQ,Automate app lifecycle management,"Automate the entire lifecycle management of applications, from onboarding to decommissioning."
+SailPoint Identity IQ,Automate app discovery via SSO,Automate the discovery of applications integrated with SailPoint’s Single Sign-On (SSO) platform.
+SailPoint Identity IQ,Automate app discovery via API,Automate the discovery of applications using SailPoint’s API integrations.
+SailPoint Identity IQ,Automate app discovery via logs,Automate the discovery of applications by analyzing SailPoint’s authentication and access logs.
+SailPoint Identity IQ,Automate app discovery via user activity,Automate the discovery of applications based on user activity and access patterns.
+SailPoint Identity IQ,Automate app discovery via integrations,Automate the discovery of applications through integrations with other IT management tools.
+SailPoint Identity IQ,Automate app discovery via HR systems,Automate the discovery of applications linked to HR management systems.
+SailPoint Identity IQ,Automate app discovery via finance systems,Automate the discovery of applications linked to financial systems and expense reports.
+SailPoint Identity IQ,Automate app discovery via IT systems,Automate the discovery of applications linked to IT management systems.
+SailPoint Identity IQ,Automate app discovery via marketing systems,Automate the discovery of applications linked to marketing platforms and tools.
+SailPoint Identity IQ,Automate app discovery via sales systems,Automate the discovery of applications linked to sales platforms and tools.
+SailPoint Identity IQ,Automate app discovery via engineering systems,Automate the discovery of applications linked to engineering and development tools.
+SailPoint Identity IQ,Automate app discovery via operations systems,Automate the discovery of applications linked to operations management tools.
+SailPoint Identity IQ,,

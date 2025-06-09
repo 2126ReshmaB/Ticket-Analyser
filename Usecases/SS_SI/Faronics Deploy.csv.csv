@@ -1,0 +1,75 @@
+Category,Short Description,Description
+Faronics Deploy,Deploy Software Updates,Automate the deployment of software updates to ensure all systems are running the latest versions.
+Faronics Deploy,Install New Applications,Automatically install new applications across multiple systems simultaneously.
+Faronics Deploy,Uninstall Old Software,Automate the removal of outdated or unsupported software from devices.
+Faronics Deploy,Deploy Security Patches,Ensure systems are secure by automating the deployment of critical security patches.
+Faronics Deploy,Schedule Software Deployments,Schedule deployments to occur during off-peak hours to minimize user disruption.
+Faronics Deploy,Monitor Deployment Status,Track the success or failure of deployments in real-time.
+Faronics Deploy,Retry Failed Deployments,Automatically retry deployments on systems that were offline during the initial attempt.
+Faronics Deploy,Deploy Custom Scripts,"Automate the execution of custom scripts for specific tasks, such as configuration changes."
+Faronics Deploy,Install Printer Drivers,Deploy printer drivers to multiple systems to streamline printer setup.
+Faronics Deploy,Update Browser Versions,Automate the update of web browsers to ensure compatibility and security.
+Faronics Deploy,Deploy Antivirus Software,Automatically install or update antivirus software across all devices.
+Faronics Deploy,Configure Firewall Settings,Deploy scripts to configure or update firewall settings on multiple systems.
+Faronics Deploy,Install Microsoft Office,Automate the installation of Microsoft Office on new or existing systems.
+Faronics Deploy,Remove Bloatware,Automate the removal of unnecessary pre-installed software from devices.
+Faronics Deploy,Deploy Registry Changes,Push registry changes to multiple systems to enforce specific configurations.
+Faronics Deploy,Update System Drivers,Automate the deployment of updated drivers for hardware components.
+Faronics Deploy,Install Adobe Reader,Deploy Adobe Reader to all systems for PDF viewing.
+Faronics Deploy,Configure Network Settings,"Automate the deployment of network configuration changes, such as DNS or proxy settings."
+Faronics Deploy,Deploy PowerShell Modules,Install or update PowerShell modules on target systems.
+Faronics Deploy,Install Java Runtime Environment,Automate the installation or update of Java Runtime Environment (JRE) on systems.
+Faronics Deploy,Deploy Custom Fonts,Push custom fonts to all systems for consistent document formatting.
+Faronics Deploy,Update Zoom Client,Automate the update of Zoom clients to ensure compatibility with new features.
+Faronics Deploy,Install Remote Desktop Tools,Deploy remote desktop tools like TeamViewer or AnyDesk to systems.
+Faronics Deploy,Configure Time Zone Settings,Automate the configuration of time zone settings on devices.
+Faronics Deploy,Deploy VPN Clients,Install or update VPN clients to ensure secure remote access.
+Faronics Deploy,Remove Unauthorized Software,Automatically detect and uninstall unauthorized or blacklisted software.
+Faronics Deploy,Deploy Software Licenses,Push license keys or files to activate software on multiple systems.
+Faronics Deploy,Install Collaboration Tools,Deploy collaboration tools like Microsoft Teams or Slack to all devices.
+Faronics Deploy,Update System BIOS,Automate the deployment of BIOS updates to ensure hardware compatibility and security.
+Faronics Deploy,Configure Proxy Settings,Deploy proxy configuration changes to all systems.
+Faronics Deploy,Install Media Players,Automate the installation of media players like VLC on systems.
+Faronics Deploy,Deploy Desktop Shortcuts,Push desktop shortcuts for commonly used applications or resources.
+Faronics Deploy,Install Development Tools,Deploy development tools like Visual Studio or Eclipse to developer systems.
+Faronics Deploy,Update System Time,Automate the synchronization of system time across all devices.
+Faronics Deploy,Deploy Compliance Scripts,Run compliance scripts to ensure systems meet organizational policies.
+Faronics Deploy,Install Backup Software,Automate the deployment of backup software to ensure data protection.
+Faronics Deploy,Configure Power Settings,Deploy power configuration changes to optimize energy usage.
+Faronics Deploy,Install Web Servers,Automate the installation of web server software like IIS or Apache.
+Faronics Deploy,Deploy Database Clients,Install database client software like MySQL Workbench or SQL Server Management Studio.
+Faronics Deploy,Update Email Clients,Automate the update of email clients like Outlook or Thunderbird.
+Faronics Deploy,Install Monitoring Agents,Deploy monitoring agents for tools like SolarWinds or Nagios.
+Faronics Deploy,Configure User Profiles,"Automate the configuration of user profiles, such as default settings or permissions."
+Faronics Deploy,Deploy Encryption Software,Install encryption tools like BitLocker or VeraCrypt to secure data.
+Faronics Deploy,Update Firmware,Automate the deployment of firmware updates for hardware devices.
+Faronics Deploy,Install Web Browsing Extensions,"Deploy browser extensions for productivity or security, such as ad blockers."
+Faronics Deploy,Configure Default Printers,Set default printers for users based on location or department.
+Faronics Deploy,Deploy File Sharing Tools,Install file-sharing tools like Dropbox or Google Drive.
+Faronics Deploy,Update Graphics Drivers,Automate the deployment of updated graphics drivers for improved performance.
+Faronics Deploy,Install Virtualization Software,Deploy virtualization tools like VMware Workstation or VirtualBox.
+Faronics Deploy,Configure Startup Programs,Automate the configuration of startup programs to optimize boot times.
+Faronics Deploy,Deploy Compliance Policies,Push compliance policies to ensure systems adhere to organizational standards.
+Faronics Deploy,Install Password Managers,Deploy password management tools like LastPass or KeePass.
+Faronics Deploy,Update Collaboration Tools,Automate the update of collaboration tools to ensure compatibility and security.
+Faronics Deploy,Configure Disk Quotas,Deploy disk quota settings to manage storage usage.
+Faronics Deploy,Install Cloud Storage Clients,Deploy cloud storage clients like OneDrive or Google Drive File Stream.
+Faronics Deploy,Update Audio Drivers,Automate the deployment of updated audio drivers for better sound quality.
+Faronics Deploy,Deploy Remote Management Tools,Install remote management tools like PDQ Inventory or SCCM agents.
+Faronics Deploy,Configure Group Policies,Automate the deployment of group policy changes across the organization.
+Faronics Deploy,Install Security Tools,Deploy security tools like Wireshark or Sysinternals Suite.
+Faronics Deploy,Update Firmware for Peripherals,Automate the update of firmware for peripherals like printers or scanners.
+Faronics Deploy,Deploy Training Software,Install training or e-learning software for employees.
+Faronics Deploy,Configure Network Shares,Automate the configuration of network shares for file access.
+Faronics Deploy,Install CAD Software,Deploy CAD tools like AutoCAD or SolidWorks to engineering systems.
+Faronics Deploy,Update Productivity Tools,Automate the update of productivity tools like Evernote or Trello.
+Faronics Deploy,Configure Browser Homepages,Deploy browser homepage settings for consistency across systems.
+Faronics Deploy,Install Video Conferencing Tools,Deploy video conferencing tools like Zoom or Webex.
+Faronics Deploy,Update System Logs,Automate the collection and update of system logs for troubleshooting.
+Faronics Deploy,Deploy Language Packs,Install language packs for multilingual support.
+Faronics Deploy,Configure Accessibility Settings,Automate the deployment of accessibility settings for users with special needs.
+Faronics Deploy,Install Analytics Tools,Deploy analytics tools like Tableau or Power BI.
+Faronics Deploy,Update System Utilities,Automate the update of system utilities like WinRAR or 7-Zip.
+Faronics Deploy,Configure Backup Schedules,Deploy backup schedules to ensure regular data backups.
+Faronics Deploy,Install Endpoint Protection Tools,Deploy endpoint protection tools like CrowdStrike or Cylance.
+Faronics Deploy,Update Network Drivers,Automate the deployment of updated network drivers for improved connectivity

@@ -1,0 +1,58 @@
+Category,Short Description,Description
+1&1 IONOS,Automate domain registration,Use scripts to register domains automatically with predefined TLDs and configurations in 1&1 IONOS.
+1&1 IONOS,Bulk domain registration,Automate the bulk registration of multiple domains with a single configuration file or script.
+1&1 IONOS,Schedule domain renewal reminders,Use scripts to schedule reminders for domain renewals to avoid accidental expiration.
+1&1 IONOS,Monitor domain expiration dates,Automate the monitoring of domain expiration dates and send alerts before they expire.
+1&1 IONOS,Automate WHOIS privacy setup,Use scripts to enable or disable WHOIS privacy for domains to protect sensitive information.
+1&1 IONOS,Bulk enable WHOIS privacy,Apply WHOIS privacy to multiple domains at once through automation.
+1&1 IONOS,Automate DNS record updates,"Use scripts to update DNS records like A, CNAME, TXT, and MX for domains managed in 1&1 IONOS."
+1&1 IONOS,Bulk DNS record updates,Automate updating DNS records for multiple domains simultaneously.
+1&1 IONOS,Automate domain forwarding setup,Automate the configuration of domain forwarding to redirect traffic to another domain or URL.
+1&1 IONOS,Automate subdomain creation,Automate the creation and management of subdomains for registered domains.
+1&1 IONOS,Automate domain transfer initiation,Use scripts to initiate domain transfers from or to 1&1 IONOS.
+1&1 IONOS,Monitor domain transfer status,Automate the tracking of domain transfer statuses and send alerts for completed or failed transfers.
+1&1 IONOS,Automate domain tagging,Use scripts to apply tags to domains for better organization and categorization.
+1&1 IONOS,Automate domain availability checks,Automate periodic checks for domain availability and send notifications when desired domains become available.
+1&1 IONOS,Bulk domain renewals,Use scripts to renew multiple domains in bulk with predefined configurations.
+1&1 IONOS,Automate SSL certificate purchases,Use scripts to purchase and configure SSL certificates for domains.
+1&1 IONOS,Monitor SSL certificate expiration,Automate the monitoring of SSL certificate expiration dates and send renewal reminders.
+1&1 IONOS,Automate DNS zone file imports,Import DNS zone files into 1&1 IONOS using scripts for centralized DNS management.
+1&1 IONOS,Automate DNS zone file exports,Use scripts to export DNS zone files for backup or migration purposes.
+1&1 IONOS,Automate bulk domain deletions,Automate the deletion of expired or unused domains in bulk from your 1&1 IONOS account.
+1&1 IONOS,Update registrar account details,Use scripts to update 1&1 IONOS account details such as contact information or payment methods.
+1&1 IONOS,Monitor domain usage,Automate monitoring of domain traffic and usage statistics for analysis.
+1&1 IONOS,Automate domain lifecycle tracking,"Use scripts to track the lifecycle of domains, from registration to expiration."
+1&1 IONOS,Automate cost tracking,"Automate the tracking of domain registration, renewal, and management costs."
+1&1 IONOS,Automate bulk WHOIS lookups,Perform WHOIS lookups for multiple domains simultaneously using scripts.
+1&1 IONOS,Automate domain forwarding removal,Use scripts to remove forwarding configurations for specific domains.
+1&1 IONOS,Automate domain transfer approvals,Use scripts to approve or reject domain transfer requests automatically.
+1&1 IONOS,Automate domain registrar switching,Automate the transfer of domains between registrars for better pricing or service.
+1&1 IONOS,Generate domain portfolio reports,"Automate the generation of detailed domain portfolio reports, including expiration dates, registrars, and costs."
+1&1 IONOS,Automate domain acquisition tracking,Use scripts to track newly acquired domains and update their details in the portfolio.
+1&1 IONOS,Automate auction bidding,Automate domain auction participation by placing bids based on predefined criteria.
+1&1 IONOS,Automate domain backordering,Automate the backordering of domains that are about to expire and become available.
+1&1 IONOS,Automate registrar account audits,Use scripts to audit registrar accounts for unused domains or discrepancies.
+1&1 IONOS,Automate registrar API integration,Use scripts to integrate 1&1 IONOS API with other tools for seamless domain management.
+1&1 IONOS,Automate registrar API updates,Update registrar API credentials automatically for secure integrations.
+1&1 IONOS,Automate bulk tagging,Add or update tags for multiple domains in bulk using scripts.
+1&1 IONOS,Automate registrar API logging,Automate the monitoring and logging of API activity for auditing purposes.
+1&1 IONOS,Automate API request retries,Use scripts to retry failed API requests automatically.
+1&1 IONOS,Monitor API usage,Automate the monitoring of 1&1 IONOS API usage and send alerts for approaching limits.
+1&1 IONOS,Automate API analytics,Use scripts to generate analytics reports based on API usage and domain performance.
+1&1 IONOS,Automate registrar account backups,Use scripts to back up registrar account details stored in 1&1 IONOS.
+1&1 IONOS,Monitor domain auction activity,Use scripts to track domain auction activities and send alerts for bids or price changes.
+1&1 IONOS,Automate domain redirection,Use scripts to configure domain redirection for specific domains.
+1&1 IONOS,Automate bulk subdomain deletions,Automate the deletion of subdomains in bulk for multiple domains.
+1&1 IONOS,Apply DNS templates,Use scripts to apply predefined DNS templates to multiple domains for faster provisioning.
+1&1 IONOS,Automate DNS propagation monitoring,Automate the monitoring of DNS propagation for newly created or updated DNS records.
+1&1 IONOS,Automate domain renewal discounts,Use scripts to track and apply renewal discounts or promotions automatically.
+1&1 IONOS,Automate registrar syncing,Use scripts to synchronize domain details between 1&1 IONOS and other registrars.
+1&1 IONOS,Automate SSL installation,Use scripts to automate the installation of SSL certificates for domains hosted on 1&1 IONOS.
+1&1 IONOS,Automate billing alerts,Automate alerts for upcoming charges or billing anomalies in your 1&1 IONOS account.
+1&1 IONOS,Automate registrar cost comparison,Use scripts to compare domain registration and renewal costs across registrars.
+1&1 IONOS,Automate DNSSEC setup,Use scripts to enable DNSSEC for domains to improve security.
+1&1 IONOS,Automate DNS redundancy,Use scripts to configure redundant DNS servers for critical domains.
+1&1 IONOS,Automate domain renewal cost optimization,Use scripts to analyze and optimize renewal costs by identifying domains with high renewal fees.
+1&1 IONOS,Automate advanced DNS configuration,"Automate advanced DNS configurations, such as TTL changes or specific record prioritization."
+1&1 IONOS,Monitor domain security,"Automate the monitoring of domain security settings, including DNSSEC and WHOIS privacy."
+1&1 IONOS,Automate account activity logs,Use scripts to collect and review activity logs for domain management in 1&1 IONOS.

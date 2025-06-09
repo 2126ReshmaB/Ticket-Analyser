@@ -1,0 +1,50 @@
+Category,Short Description,Description
+DomainMOD,Automate domain addition,Use scripts to automatically add domains to DomainMOD by importing domain details from a CSV or API.
+DomainMOD,Schedule domain expiration checks,Automate periodic checks for domain expiration dates and send alerts for upcoming renewals.
+DomainMOD,Automate SSL certificate tracking,Use scripts to track SSL certificate expiration dates and send reminders for renewal.
+DomainMOD,Import domain data from registrars,Automate the import of domain data from registrars using APIs or CSV files.
+DomainMOD,Export domain data to CSV,Use scripts to export domain data from DomainMOD to CSV for reporting or backup purposes.
+DomainMOD,Automate WHOIS data updates,Automate the retrieval and updating of WHOIS data for domains in DomainMOD.
+DomainMOD,Monitor domain status changes,"Use scripts to monitor domain status changes (e.g., active, expired) and send alerts."
+DomainMOD,Automate DNS record updates,Automate the updating of DNS records for domains managed in DomainMOD.
+DomainMOD,Schedule domain renewal reminders,Use scripts to send automated reminders for domain renewals to avoid expiration.
+DomainMOD,Automate registrar account management,Automate the addition and management of registrar accounts in DomainMOD.
+DomainMOD,Generate domain portfolio reports,"Use scripts to generate detailed reports of domain portfolios, including expiration dates, registrars, and costs."
+DomainMOD,Automate cost tracking for domains,Automate the tracking of domain registration and renewal costs in DomainMOD.
+DomainMOD,Sync domain data with registrars,Use scripts to sync domain data between DomainMOD and registrars to ensure accuracy.
+DomainMOD,Automate subdomain management,Automate the creation and management of subdomains for domains in DomainMOD.
+DomainMOD,Monitor domain transfer status,Use scripts to monitor the status of domain transfers and send alerts for completed or failed transfers.
+DomainMOD,Automate registrar API integration,Use scripts to integrate registrar APIs with DomainMOD for seamless domain management.
+DomainMOD,Automate domain tagging,Use scripts to tag domains in DomainMOD for better organization and categorization.
+DomainMOD,Schedule domain availability checks,Automate periodic checks for domain availability and send alerts for newly available domains.
+DomainMOD,Automate domain deletion,Use scripts to delete expired or unused domains from DomainMOD.
+DomainMOD,Automate SSL certificate imports,Use scripts to import SSL certificate details into DomainMOD for centralized tracking.
+DomainMOD,Monitor SSL certificate validity,Automate the monitoring of SSL certificate validity and send alerts for invalid certificates.
+DomainMOD,Automate registrar cost comparison,Use scripts to compare domain registration and renewal costs across registrars.
+DomainMOD,Automate domain ownership verification,Use scripts to verify domain ownership using DNS or email-based verification methods.
+DomainMOD,Automate domain renewal payments,Use scripts to automate domain renewal payments through registrar APIs.
+DomainMOD,Automate registrar account sync,Use scripts to sync registrar account details with DomainMOD for accurate tracking.
+DomainMOD,Automate domain transfer initiation,Use scripts to initiate domain transfers between registrars through DomainMOD.
+DomainMOD,Automate domain expiration reports,Use scripts to generate reports of domains nearing expiration for proactive renewal.
+DomainMOD,Automate DNS zone file imports,Use scripts to import DNS zone files into DomainMOD for centralized DNS management.
+DomainMOD,Automate DNS zone file exports,Use scripts to export DNS zone files from DomainMOD for backup or migration purposes.
+DomainMOD,Automate registrar account audits,Use scripts to audit registrar accounts for unused domains or discrepancies.
+DomainMOD,Automate domain registrar switching,Use scripts to switch domain registrars for cost savings or better service.
+DomainMOD,Automate domain lifecycle tracking,"Use scripts to track the lifecycle of domains, from registration to expiration."
+DomainMOD,Automate domain portfolio valuation,Use scripts to calculate the valuation of domain portfolios based on market trends.
+DomainMOD,Automate domain auction tracking,Use scripts to track domain auctions and send alerts for bids or price changes.
+DomainMOD,Automate domain acquisition tracking,Use scripts to track the acquisition of new domains and update DomainMOD records.
+DomainMOD,Automate registrar account backups,Use scripts to back up registrar account details stored in DomainMOD.
+DomainMOD,Automate domain registrar API testing,Use scripts to test registrar API integrations for functionality and reliability.
+DomainMOD,Automate domain registrar API updates,Use scripts to update registrar API credentials in DomainMOD.
+DomainMOD,Automate domain registrar API logs,Use scripts to monitor and log registrar API activity for auditing purposes.
+DomainMOD,Automate domain registrar API alerts,Use scripts to send alerts for registrar API errors or downtime.
+DomainMOD,Automate domain registrar API retries,Use scripts to retry failed registrar API requests automatically.
+DomainMOD,Automate domain registrar API limits,Use scripts to monitor registrar API usage limits and send alerts for approaching limits.
+DomainMOD,Automate domain registrar API throttling,Use scripts to implement API request throttling for registrar integrations.
+DomainMOD,Automate domain registrar API caching,Use scripts to cache registrar API responses for faster domain data retrieval.
+DomainMOD,Automate domain registrar API pagination,Use scripts to handle pagination in registrar API responses for large domain portfolios.
+DomainMOD,Automate domain registrar API filtering,Use scripts to filter registrar API responses for specific domain attributes.
+DomainMOD,Automate domain registrar API sorting,Use scripts to sort registrar API responses by attributes like expiration date or cost.
+DomainMOD,Automate domain registrar API grouping,Use scripts to group registrar API responses by registrar or domain category.
+DomainMOD,Automate domain registrar API merging,Use scripts to merge registrar API responses with existing DomainMOD records.

@@ -1,0 +1,66 @@
+Category,Short Description,Description
+GoDaddy,Automate website backups,Schedule automated backups for website files and databases to ensure recovery in case of data loss or errors.
+GoDaddy,Schedule database backups,"Automate regular database backups (daily, weekly, or monthly) and store them securely on the server or cloud storage."
+GoDaddy,Monitor website uptime,Use scripts to check website uptime regularly and send alerts when the site goes offline.
+GoDaddy,SSL certificate renewal automation,Automate the renewal of SSL certificates before they expire to maintain secure HTTPS connections.
+GoDaddy,Email account creation,Automate the creation of email accounts for employees or users in the GoDaddy hosting environment.
+GoDaddy,Send domain renewal reminders,Automate reminders for domain renewals or renew them automatically to avoid expiration.
+GoDaddy,Update DNS records,"Automate DNS updates, including changes to A, CNAME, TXT, and other records."
+GoDaddy,Optimize databases,Automate database optimization by cleaning up unused data and optimizing tables for better performance.
+GoDaddy,WordPress plugin updates,Automate updates for WordPress plugins to the latest versions to ensure security and compatibility.
+GoDaddy,WordPress theme updates,Automate theme updates to keep WordPress websites secure and up-to-date.
+GoDaddy,Server performance monitoring,"Use scripts to monitor server performance metrics like CPU, memory, and disk usage, and send alerts when thresholds are exceeded."
+GoDaddy,Perform malware scans,Automate regular malware scans to detect and remove malicious code or files on the server.
+GoDaddy,Correct file permissions,Automate the correction of file and folder permissions to secure the website and prevent unauthorized access.
+GoDaddy,Create staging environments,Automate the creation of staging environments for testing website updates and changes before deploying them live.
+GoDaddy,Scheduled file cleanup,Use scripts to clean up old or unnecessary files from the hosting environment to free up storage space.
+GoDaddy,Monitor error logs,Automate monitoring of error logs and send alerts for specific errors requiring immediate attention.
+GoDaddy,Setup email forwarders,Automate the creation of email forwarders to redirect messages from one email account to another.
+GoDaddy,Configure email autoresponders,Automate the configuration of email autoresponders for specific email accounts.
+GoDaddy,Restore backups,Automate the restoration of website backups to recover from data loss or accidental deletions.
+GoDaddy,Create subdomains,"Automate the creation of subdomains for projects, testing, or separate sections of a website."
+GoDaddy,Redirect domains,Automate the redirection of domains or subdomains to specific URLs for better traffic management.
+GoDaddy,Monitor disk space,Use scripts to monitor disk space usage and send alerts when storage utilization exceeds a set threshold.
+GoDaddy,Track bandwidth usage,Automate bandwidth usage tracking and send notifications when usage exceeds predefined limits.
+GoDaddy,Schedule cron jobs,"Automate the creation and management of cron jobs to run scheduled tasks like backups, updates, or maintenance scripts."
+GoDaddy,Install WordPress,Use scripts to automate WordPress installations for new websites hosted on GoDaddy.
+GoDaddy,Configure WordPress multisite,Automate the setup of WordPress multisite installations to manage multiple websites under a single network.
+GoDaddy,Clear website cache,Automate cache clearing to ensure that website updates are immediately reflected.
+GoDaddy,Detect broken links,Use scripts to detect broken links on websites and automatically set up 301 redirects to fix them.
+GoDaddy,Generate XML sitemaps,Automate the creation of XML sitemaps and upload them to search engines for better indexing.
+GoDaddy,Manage FTP accounts,"Automate the creation, modification, or deletion of FTP accounts for users."
+GoDaddy,Install SSL certificates,"Automate the installation of SSL certificates, including Let’s Encrypt or custom SSLs, for websites."
+GoDaddy,Upload files automatically,Use scripts to automate the uploading of files or folders to specific directories on the server.
+GoDaddy,Customize error pages,Automate the creation of custom error pages such as 404 or 403 to improve the user experience.
+GoDaddy,Monitor email deliverability,"Automate email deliverability checks and identify issues with SPF, DKIM, or DMARC configurations."
+GoDaddy,Clone websites,"Automate the cloning of websites for migration, testing, or staging purposes."
+GoDaddy,Schedule log file rotation,Automate the rotation and archival of server log files to prevent excessive disk space usage.
+GoDaddy,Install CMS platforms,"Automate the installation of CMS platforms like Joomla, Drupal, or Magento on GoDaddy servers."
+GoDaddy,Generate analytics reports,"Use scripts to generate periodic reports on website traffic, performance, and user activity."
+GoDaddy,Redirect HTTP to HTTPS,Automate the redirection of HTTP traffic to HTTPS for secure browsing.
+GoDaddy,Import databases,Automate the import of databases from SQL files to the server.
+GoDaddy,Monitor WHOIS data changes,Use scripts to monitor changes to WHOIS data for domains and send alerts if changes occur.
+GoDaddy,Export email account details,Automate the export of email account details for documentation or migration purposes.
+GoDaddy,Configure email signatures,Automate the setup of email signatures for users in an organization.
+GoDaddy,File compression,Automate the compression of files to reduce size and make them easier to store or transfer.
+GoDaddy,Automate website migrations,Automate the migration of websites between GoDaddy accounts or from external hosting providers.
+GoDaddy,Change PHP versions,Automate the process of switching PHP versions for specific domains or applications.
+GoDaddy,Whitelist IP addresses,Automate the whitelisting of IP addresses for secure access to the server or website.
+GoDaddy,Block suspicious IP addresses,Automate the blocking of suspicious or malicious IP addresses to prevent unauthorized access.
+GoDaddy,Detect traffic spikes,Automate the detection of traffic spikes and send alerts to avoid server overload.
+GoDaddy,Restore deleted files,Automate the restoration of deleted website files from previous backups.
+GoDaddy,Set up error reporting,Automate the configuration of error reporting for PHP or other platforms.
+GoDaddy,Install third-party tools,"Automate the installation of third-party tools, such as analytics platforms or marketing automation tools."
+GoDaddy,Optimize website images,Automate the compression and optimization of images to improve website performance.
+GoDaddy,Server resource scaling,Automate the scaling of server resources like CPU and RAM to handle increased traffic or demand.
+GoDaddy,Detect plugin conflicts,Automate the detection of plugin conflicts in WordPress and send alerts to troubleshoot issues.
+GoDaddy,Manage CDN integration,Automate the setup and management of a Content Delivery Network (CDN) for faster website load times.
+GoDaddy,Automate database exports,Use scripts to export databases periodically for backup or migration purposes.
+GoDaddy,Enable hotlink protection,Automate the setup of hotlink protection to prevent unauthorized use of hosted media files.
+GoDaddy,Schedule maintenance mode,Automate the enabling and disabling of maintenance mode for websites during updates or server work.
+GoDaddy,Monitor MySQL query performance,Automate the monitoring of MySQL queries to identify and optimize slow or inefficient queries.
+GoDaddy,Configure spam filters,Automate spam filter configuration to reduce unwanted emails for hosted email accounts.
+GoDaddy,Track visitor behavior,Use scripts to track visitor behavior on websites and generate reports on user activity.
+GoDaddy,Generate PCI compliance reports,Automate the generation of PCI compliance reports for e-commerce websites handling sensitive data.
+GoDaddy,Detect unauthorized file changes,Use scripts to monitor and log unauthorized changes to files on the server.
+GoDaddy,Schedule automated updates,"Automate updates for software, plugins, and themes to keep websites secure and up-to-date."

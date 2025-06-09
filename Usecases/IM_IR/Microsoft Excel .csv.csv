@@ -1,0 +1,51 @@
+Category,Short Description,Description
+Microsoft Excel,Auto-Format Data,"Automatically format data in Excel, such as applying consistent font styles, cell borders, and number formatting."
+Microsoft Excel,Auto-Generate Reports,"Automatically generate monthly, weekly, or custom reports by pulling data from various sources and applying predefined templates."
+Microsoft Excel,Auto-Remove Duplicates,Automatically identify and remove duplicate rows in datasets to ensure data accuracy.
+Microsoft Excel,Auto-Highlight Errors,"Automatically highlight cells with errors, inconsistent data, or invalid entries based on predefined rules."
+Microsoft Excel,Auto-Sort Data,Automatically sort data in ascending or descending order based on specific columns or criteria.
+Microsoft Excel,Auto-Filter Data,Apply filters to datasets automatically based on specific conditions or criteria.
+Microsoft Excel,Auto-Save Backup Copies,Automatically save backup copies of Excel files to a designated folder at regular intervals.
+Microsoft Excel,Auto-Generate Pivot Tables,"Automatically create pivot tables from raw data, including dynamic updates as the data changes."
+Microsoft Excel,Auto-Update Charts,Automatically update graphs and charts when the underlying data changes.
+Microsoft Excel,Auto-Calculate Totals,"Automatically calculate totals, averages, and other aggregations for specific rows or columns."
+Microsoft Excel,Auto-Create Conditional Formatting,"Automatically apply conditional formatting rules to highlight important data (e.g., overdue dates, low inventory)."
+Microsoft Excel,Auto-Import CSV Files,Automatically import data from CSV files into Excel and format it appropriately.
+Microsoft Excel,Auto-Export to CSV,Automatically export Excel data to CSV format for use in other applications or reporting.
+Microsoft Excel,Auto-Generate Email Alerts,"Automatically send email alerts based on specific conditions, such as overdue tasks or low stock levels."
+Microsoft Excel,Auto-Create Dashboards,Automatically create interactive dashboards with charts and KPIs based on raw data.
+Microsoft Excel,Auto-Convert Currencies,Automatically convert currency values in Excel using up-to-date exchange rates.
+Microsoft Excel,Auto-Generate Invoices,Automatically generate invoices based on order data and predefined invoice templates.
+Microsoft Excel,Auto-Validate Data,"Automatically validate data against rules (e.g., date formats, numeric ranges) and flag invalid entries."
+Microsoft Excel,Auto-Split Data by Columns,"Automatically split data in a column into multiple columns based on delimiters, such as commas or spaces."
+Microsoft Excel,Auto-Combine Data from Multiple Sheets,Automatically consolidate data from multiple sheets into a single summary sheet.
+Microsoft Excel,Auto-Generate Unique IDs,Automatically generate unique IDs for rows in a dataset using custom prefixes or patterns.
+Microsoft Excel,Auto-Update External Links,Automatically update external links in an Excel workbook to pull the latest data from linked files.
+Microsoft Excel,Auto-Generate Time Logs,Automatically track and log time data for tasks or projects in Excel.
+Microsoft Excel,Auto-Clean Data,"Automatically remove extra spaces, special characters, or unwanted text from datasets."
+Microsoft Excel,Auto-Apply Data Protection,Automatically protect specific sheets or cells with passwords or restrictions to prevent unauthorized changes.
+Microsoft Excel,Auto-Track Changes,"Automatically record changes made to an Excel file, including the user, timestamp, and modified data."
+Microsoft Excel,Auto-Create Drop-Down Lists,Automatically create drop-down lists in cells for consistent data entry.
+Microsoft Excel,Auto-Highlight Due Dates,Automatically highlight cells with due dates that are overdue or approaching deadlines.
+Microsoft Excel,Auto-Find and Replace,Automatically find and replace specific text or values in the workbook.
+Microsoft Excel,Auto-Generate Random Data,"Automatically generate random data for testing or simulation purposes, such as random numbers, names, or dates."
+Microsoft Excel,Auto-Create Gantt Charts,"Automatically generate Gantt charts from task data, including start and end dates."
+Microsoft Excel,Auto-Calculate Commissions,Automatically calculate commissions for sales teams based on predefined rules and thresholds.
+Microsoft Excel,Auto-Track Inventory Levels,Automatically update inventory levels based on sales or stock data.
+Microsoft Excel,Auto-Generate Expense Reports,Automatically generate expense reports by categorizing and summarizing transaction data.
+Microsoft Excel,Auto-Merge Multiple Workbooks,Automatically merge data from multiple Excel files into a single workbook.
+Microsoft Excel,Auto-Generate Payroll Sheets,"Automatically calculate employee payroll, including taxes, deductions, and overtime."
+Microsoft Excel,Auto-Generate Charts from Templates,Automatically create charts using predefined templates for consistent visualizations.
+Microsoft Excel,Auto-Send Reports via Email,Automatically email Excel reports to stakeholders or team members on a scheduled basis.
+Microsoft Excel,Auto-Create Heatmaps,Automatically generate heatmaps to visually highlight trends or patterns in data.
+Microsoft Excel,Auto-Format Dates,Automatically standardize date formats across the workbook to eliminate inconsistencies.
+Microsoft Excel,Auto-Check Spelling and Grammar,Automatically check for spelling or grammar errors in text data within Excel.
+Microsoft Excel,Auto-Calculate Loan Payments,"Automatically calculate loan payments using formulas based on interest rates, principal amounts, and payment terms."
+Microsoft Excel,Auto-Generate Financial Statements,"Automatically generate financial statements, such as balance sheets and profit and loss statements, based on accounting data."
+Microsoft Excel,Auto-Generate Employee Schedules,Automatically create employee schedules by balancing workloads and availability.
+Microsoft Excel,Auto-Calculate Tax Amounts,Automatically calculate tax amounts based on predefined tax rates and transaction data.
+Microsoft Excel,Auto-Compare Data,Automatically compare data in two or more sheets or columns to identify discrepancies.
+Microsoft Excel,Auto-Create Dynamic Named Ranges,Automatically create named ranges that update dynamically as data changes.
+Microsoft Excel,Auto-Generate QR Codes,"Automatically generate QR codes in Excel for text, URLs, or other data."
+Microsoft Excel,Auto-Track Sales Performance,"Automatically calculate and track sales performance metrics, such as revenue, growth rates, and conversions."
+Microsoft Excel,Auto-Apply Budget Allocations,Automatically distribute budget allocations across departments or projects based on predefined rules.

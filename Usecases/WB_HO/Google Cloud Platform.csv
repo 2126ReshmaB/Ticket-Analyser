@@ -1,0 +1,52 @@
+Category,Short Description,Description
+Google Cloud Platform,Automate VM instance creation,"Automate the provisioning of Compute Engine Virtual Machines (VMs) with predefined configurations like machine type, disk size, and network settings."
+Google Cloud Platform,Schedule VM instance start/stop,Use scripts to start or stop Compute Engine VMs based on usage schedules to optimize costs.
+Google Cloud Platform,Monitor VM instance health,Automate health checks for VMs and send alerts or take action if an instance becomes unhealthy.
+Google Cloud Platform,Manage firewall rules,"Automate the creation, modification, or deletion of firewall rules to control network traffic to and from VMs."
+Google Cloud Platform,Create custom images,Use scripts to create custom images of VM instances for quick replication or deployment.
+Google Cloud Platform,Delete unused VM instances,Automate the identification and deletion of unused or idle VM instances to save costs.
+Google Cloud Platform,Automate Cloud Storage bucket creation,"Automate the creation of Cloud Storage buckets with predefined settings like storage class, lifecycle rules, and permissions."
+Google Cloud Platform,Backup data to Cloud Storage,"Use scripts to automate the backup of files, databases, or application data to Cloud Storage."
+Google Cloud Platform,Delete old storage objects,Automate the deletion of old or unused objects in Cloud Storage based on lifecycle policies or custom rules.
+Google Cloud Platform,Enable bucket versioning,Automate the process of enabling versioning for Cloud Storage buckets to track object changes and recover previous versions.
+Google Cloud Platform,Monitor Cloud Storage usage,Use scripts to monitor storage usage and send alerts when buckets exceed storage limits or thresholds.
+Google Cloud Platform,Automate BigQuery table creation,Use scripts to create BigQuery datasets and tables with predefined schemas for data analysis and storage.
+Google Cloud Platform,Schedule BigQuery jobs,Automate the scheduling of BigQuery SQL queries or ETL tasks using Cloud Scheduler or custom scripts.
+Google Cloud Platform,Monitor BigQuery query performance,Automate monitoring of BigQuery query performance and send alerts if queries exceed execution time or cost thresholds.
+Google Cloud Platform,Delete old BigQuery tables,Automate the deletion of old or unused BigQuery tables to optimize storage and reduce costs.
+Google Cloud Platform,Automate Cloud SQL instance creation,"Use scripts to provision Cloud SQL instances with predefined database configurations for MySQL, PostgreSQL, or SQL Server."
+Google Cloud Platform,Backup Cloud SQL instances,Automate the backup of Cloud SQL databases to ensure data recovery and compliance.
+Google Cloud Platform,Schedule Cloud SQL instance start/stop,Use scripts to start or stop Cloud SQL instances during specific periods to save costs.
+Google Cloud Platform,Monitor Cloud SQL performance,"Automate the monitoring of Cloud SQL performance metrics like CPU, memory, and storage usage, and send alerts for anomalies."
+Google Cloud Platform,Enable high availability for Cloud SQL,Automate the configuration of high availability settings for Cloud SQL to ensure uptime and redundancy.
+Google Cloud Platform,Automate Kubernetes cluster creation,"Use scripts to create Google Kubernetes Engine (GKE) clusters with predefined configurations for nodes, pods, and networking."
+Google Cloud Platform,Scale Kubernetes clusters,Automate the scaling of Kubernetes clusters based on workloads or resource utilization.
+Google Cloud Platform,Monitor Kubernetes pod health,Automate the monitoring of GKE pod health and send alerts or restart pods if issues are detected.
+Google Cloud Platform,Automate container image deployment,Use scripts to deploy container images to Google Container Registry or Artifact Registry.
+Google Cloud Platform,Manage containerized workloads,"Automate the deployment, scaling, and updates of containerized applications running in GKE."
+Google Cloud Platform,Automate Cloud Functions deployment,"Use scripts to deploy Cloud Functions with predefined triggers, environment variables, and runtime configurations."
+Google Cloud Platform,Schedule Cloud Functions,Automate the execution of Cloud Functions at specific intervals using Cloud Scheduler.
+Google Cloud Platform,Monitor Cloud Functions performance,"Use scripts to monitor Cloud Functions execution time, memory usage, and error rates, and send alerts for anomalies."
+Google Cloud Platform,Automate API Gateway setup,Automate the creation and configuration of API Gateway endpoints for managing APIs securely and efficiently.
+Google Cloud Platform,Monitor API Gateway usage,"Automate the tracking of API Gateway usage metrics, such as request count and latency, and trigger alerts if limits are exceeded."
+Google Cloud Platform,Automate Pub/Sub topic creation,Use scripts to create Pub/Sub topics and subscriptions for messaging and event-driven architectures.
+Google Cloud Platform,Monitor Pub/Sub message delivery,Automate the monitoring of Pub/Sub message delivery rates and send alerts if messages fail to be delivered.
+Google Cloud Platform,Automate Cloud Run service deployment,Use scripts to deploy Cloud Run services with predefined configurations for containerized applications.
+Google Cloud Platform,Scale Cloud Run services,Automate the scaling of Cloud Run services based on request load or resource utilization.
+Google Cloud Platform,Automate Cloud Monitoring alert setup,"Use scripts to create Cloud Monitoring alerts for specific metrics like CPU usage, storage, or network traffic."
+Google Cloud Platform,Create Monitoring dashboards,Automate the creation of Cloud Monitoring dashboards to visualize key infrastructure metrics.
+Google Cloud Platform,Log monitoring with Cloud Logging,Automate the monitoring of logs in Cloud Logging and set up alerts for error patterns or anomalies.
+Google Cloud Platform,Rotate Cloud Logging logs,Automate log rotation and archival to optimize storage usage and minimize costs.
+Google Cloud Platform,Automate IAM policy creation,"Use scripts to create IAM policies and assign roles to users, groups, or service accounts."
+Google Cloud Platform,Rotate IAM service account keys,Automate the rotation of IAM service account keys to improve security and comply with best practices.
+Google Cloud Platform,Monitor IAM policy usage,Automate the monitoring of IAM policies to detect unused or overly permissive roles and take corrective actions.
+Google Cloud Platform,Automate VPC network creation,"Use scripts to create Virtual Private Cloud (VPC) networks with subnets, firewall rules, and route tables."
+Google Cloud Platform,Monitor VPC traffic,Automate the monitoring of VPC traffic using VPC Flow Logs and trigger alerts for unusual traffic patterns.
+Google Cloud Platform,Automate Cloud DNS record updates,"Use scripts to update DNS records in Cloud DNS, such as A, CNAME, or TXT records."
+Google Cloud Platform,Monitor Cloud DNS health checks,Automate the monitoring of Cloud DNS health checks and trigger alerts if endpoints become unhealthy.
+Google Cloud Platform,Automate Cloud Spanner instance creation,Use scripts to create Cloud Spanner instances with specific configurations for distributed databases.
+Google Cloud Platform,Schedule Cloud Spanner backups,Automate periodic backups of Cloud Spanner databases to ensure data protection and compliance.
+Google Cloud Platform,Monitor Cloud Spanner performance,"Automate the monitoring of Cloud Spanner performance metrics like latency, throughput, and resource utilization."
+Google Cloud Platform,Automate Firebase hosting deployment,Use scripts to automate the deployment of websites and applications to Firebase Hosting.
+Google Cloud Platform,Monitor Firebase usage,"Automate the tracking of Firebase usage metrics like storage, bandwidth, and database reads/writes, and send alerts for cost optimization."
+Google Cloud Platform,Automate Cloud Dataflow pipelines,Use scripts to create and schedule Cloud Dataflow pipelines for ETL and data processing tasks.

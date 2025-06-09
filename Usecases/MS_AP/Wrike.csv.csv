@@ -1,0 +1,49 @@
+Category,Short Description,Description
+Wrike,Auto-Create Tasks,Automatically create tasks when a new project is initiated or a request form is submitted.
+Wrike,Auto-Assign Tasks,"Automatically assign tasks to team members based on their role, department, or workload."
+Wrike,Auto-Set Task Priorities,"Automatically set task priorities (e.g., High, Medium, Low) based on predefined criteria in custom fields."
+Wrike,Auto-Notify on Task Updates,Send automated notifications to stakeholders when a task is updated or moved to a different status.
+Wrike,Auto-Create Subtasks,Automatically create subtasks for tasks based on predefined templates or workflows.
+Wrike,Auto-Update Task Status,Automatically update the status of tasks when subtasks are completed or when dependencies are resolved.
+Wrike,Auto-Notify on Task Completion,Notify stakeholders when a task is marked as complete.
+Wrike,Auto-Create Projects,Automatically create projects from templates when a new client or initiative is onboarded.
+Wrike,Auto-Assign Project Owners,Automatically assign project owners based on the type of project or department.
+Wrike,Auto-Notify on Project Updates,Send notifications to team members when a project’s status or timeline is updated.
+Wrike,Auto-Generate Project Reports,Automatically generate and share project status reports with stakeholders on a recurring schedule.
+Wrike,Auto-Archive Completed Projects,Automatically archive projects that are marked as completed to keep the workspace organized.
+Wrike,Auto-Create Recurring Tasks,"Automatically create recurring tasks for repetitive activities, such as weekly meetings or monthly reports."
+Wrike,Auto-Notify on Overdue Tasks,Send reminders to task assignees when tasks are overdue.
+Wrike,Auto-Create Tasks from Forms,"Automatically create tasks in Wrike when a request form is submitted (e.g., IT support, marketing requests)."
+Wrike,Auto-Assign Tasks Based on Keywords,Assign tasks to specific team members based on keywords in the task title or description.
+Wrike,Auto-Notify on Task Dependencies,Notify team members when a dependent task is completed or updated.
+Wrike,Auto-Update Task Deadlines,Automatically adjust task deadlines based on changes to project timelines or dependencies.
+Wrike,Auto-Create Tasks for New Clients,"Automatically create onboarding tasks for new clients, including predefined subtasks and deadlines."
+Wrike,Auto-Notify on Task Comments,Notify team members when a comment is added to a task they are assigned to.
+Wrike,Auto-Create Tasks for Feedback,Automatically create tasks for user feedback submitted through forms or surveys.
+Wrike,Auto-Generate Weekly Reports,Automatically create a summary task or project with completed tasks for the week.
+Wrike,Auto-Assign Tasks Based on Custom Fields,"Assign tasks to team members based on custom field values, such as ""Region"" or ""Department."""
+Wrike,Auto-Notify on Milestone Completion,Notify stakeholders when a project milestone is completed.
+Wrike,Auto-Create Tasks for Social Media,Automatically create tasks for scheduled social media posts using templates.
+Wrike,Auto-Notify on Task Dependencies,Notify team members when a dependent task is completed or updated.
+Wrike,Auto-Create Tasks for New Leads,Automatically create sales lead tasks when new leads are added to a CRM or spreadsheet.
+Wrike,Auto-Close Completed Projects,Automatically archive projects that are marked as completed.
+Wrike,Auto-Notify on Task Reopen,Notify stakeholders when a task is reopened.
+Wrike,Auto-Create Tasks for Deadlines,Automatically create tasks for upcoming deadlines from external systems.
+Wrike,Auto-Notify on Task Attachments,Notify team members when an attachment is added to a task.
+Wrike,Auto-Update Task Descriptions,Automatically update task descriptions with additional information from external systems or templates.
+Wrike,Auto-Notify on Task Label Changes,Send notifications when a task's label or tag is updated or removed.
+Wrike,Auto-Create Tasks for New Hires,"Automatically create and assign onboarding tasks for new hires, including subtasks and deadlines."
+Wrike,Auto-Notify on Task Dependencies,Notify team members when a dependent task is completed or updated.
+Wrike,Auto-Create Tasks for Product Launches,Automatically create tasks for product launches using predefined templates.
+Wrike,Auto-Notify on Task Completion,Notify stakeholders when a task is marked as complete.
+Wrike,Auto-Create Tasks for Event Planning,Automatically create tasks for event planning using templates and predefined workflows.
+Wrike,Auto-Notify on Task Due Date Changes,Notify team members when a task's due date is changed.
+Wrike,Auto-Create Tasks for Marketing Campaigns,Automatically create tasks for marketing campaigns using templates and predefined workflows.
+Wrike,Auto-Notify on Task Status Changes,Notify team members when a task's status is updated.
+Wrike,Auto-Create Tasks for Customer Support,Automatically create tasks for customer support tickets submitted through external tools.
+Wrike,Auto-Notify on Task Priority Changes,Notify stakeholders when a task's priority is updated.
+Wrike,Auto-Create Tasks for Content Creation,Automatically create tasks for content creation using templates and predefined workflows.
+Wrike,Auto-Notify on Task Reassignments,Notify team members when a task is reassigned to a different person.
+Wrike,Auto-Create Tasks for Team Meetings,"Automatically create tasks for team meetings, including agenda items and follow-up actions."
+Wrike,Auto-Notify on Task Comments,Notify team members when a comment is added to a task they are assigned to.
+Wrike,Auto-Create Tasks for Feedback,Automatically create tasks for user feedback submitted through forms or surveys.

@@ -1,0 +1,55 @@
+Category,Short Description,Description
+Jira,Auto-Assign Issues,"Automatically assign issues to team members based on workload, skillset, or predefined rules."
+Jira,Auto-Close Stale Issues,"Automatically close issues that have been inactive for a specified period, with a notification to the reporter."
+Jira,Create Sub-Tasks,"Automatically create sub-tasks when a new issue is created, with predefined fields and assignments."
+Jira,Sync Parent and Sub-Tasks,Keep parent and sub-tasks in sync by updating the parent issue's status when all sub-tasks are completed.
+Jira,Clone Issues,"Automatically clone an issue when it transitions to a specific status, such as cloning a bug into a new sprint."
+Jira,Auto-Link Related Issues,"Automatically link issues based on conditions, such as shared components or labels."
+Jira,Change Due Date,"Automatically update the due date of an issue when it transitions to a specific status, such as ""In Progress."""
+Jira,Notify on Status Change,Send notifications to stakeholders when an issue transitions to a specific status.
+Jira,Auto-Transition Parent Issues,"Automatically transition a parent issue to ""Done"" when all sub-tasks are resolved."
+Jira,Auto-Assign Based on Components,Assign issues to specific team members based on the component selected in the issue.
+Jira,Schedule Recurring Tasks,"Automate the creation of recurring tasks, such as weekly reports or monthly maintenance tasks."
+Jira,Auto-Create Linked Issues,Automatically create and link issues in different projects when a trigger condition is met.
+Jira,Notify on Pull Request Merge,Send notifications to team members when a pull request linked to an issue is merged.
+Jira,Auto-Update Priority,Automatically update the priority of an issue based on its severity or impact.
+Jira,Auto-Assign Bugs to QA,"Automatically assign bugs to QA team members when they are moved to the ""Testing"" status."
+Jira,Notify on SLA Breach,Send alerts to stakeholders when an SLA is about to breach or has been breached.
+Jira,Auto-Transition Linked Issues,Automatically transition linked issues when the parent issue is resolved.
+Jira,Auto-Add Watchers,"Automatically add watchers to an issue based on its type, priority, or other fields."
+Jira,Auto-Create Epics,"Automatically create an epic when a new project is initiated, with predefined fields and settings."
+Jira,Auto-Assign Based on Labels,Assign issues to team members based on specific labels added to the issue.
+Jira,Notify on Commit Creation,Send notifications to team members when a commit is created and linked to an issue.
+Jira,Auto-Transition on Pull Request Merge,"Automatically transition an issue to ""Done"" when a linked pull request is merged."
+Jira,Auto-Create Test Cases,Automatically create test cases when a new feature is added to a project.
+Jira,Auto-Update Sprint Details,Automatically update sprint details when issues are added or removed from the sprint.
+Jira,Auto-Notify on Dependency Resolution,Notify stakeholders when a dependent issue is resolved.
+Jira,Auto-Assign Based on Issue Type,"Assign issues to specific team members based on the issue type, such as bugs or tasks."
+Jira,Auto-Create Deployment Tickets,"Automatically create deployment tickets when an issue transitions to ""Ready for Deployment."""
+Jira,Auto-Notify on Epic Completion,Notify stakeholders when all issues in an epic are resolved.
+Jira,Auto-Update Linked Issues,Automatically update fields in linked issues when the source issue is updated.
+Jira,Auto-Create Documentation Tasks,Automatically create documentation tasks when a new feature is added to a project.
+Jira,Auto-Notify on Workflow Errors,Send notifications to admins when a workflow error occurs.
+Jira,Auto-Assign Based on Custom Fields,"Assign issues to team members based on custom field values, such as ""Region"" or ""Department."""
+Jira,Auto-Notify on SLA Expiry,Send reminders to assignees when an SLA is about to expire.
+Jira,Auto-Create Release Notes,Automatically generate release notes when a version is released.
+Jira,Auto-Notify on Issue Reopen,Notify stakeholders when an issue is reopened.
+Jira,Auto-Create Linked Bugs,Automatically create and link a bug when a test case fails.
+Jira,Auto-Update Epic Progress,Automatically update the progress of an epic based on the status of its child issues.
+Jira,Auto-Notify on Priority Change,Notify stakeholders when the priority of an issue is changed.
+Jira,Auto-Assign Based on Workload,Assign issues to team members with the least workload.
+Jira,Auto-Notify on Issue Creation,Notify stakeholders when a new issue is created in a specific project.
+Jira,Auto-Create Sub-Tasks for Bugs,"Automatically create sub-tasks for bugs, such as ""Reproduce Issue"" or ""Write Test Case."""
+Jira,Auto-Notify on Issue Deletion,Notify admins when an issue is deleted.
+Jira,Auto-Create Linked Stories,Automatically create and link user stories when a new epic is created.
+Jira,Auto-Notify on Workflow Transition,Notify stakeholders when an issue transitions through a specific workflow step.
+Jira,Auto-Update Issue Description,Automatically update the description of an issue based on changes to other fields.
+Jira,Auto-Notify on Issue Assignment,Notify team members when an issue is assigned to them.
+Jira,Auto-Create Linked Tasks,Automatically create and link tasks when a new feature is added to a project.
+Jira,Auto-Notify on Issue Resolution,Notify stakeholders when an issue is resolved.
+Jira,Auto-Update Issue Summary,Automatically update the summary of an issue based on changes to other fields.
+Jira,Auto-Notify on Issue Transition,"Notify stakeholders when an issue transitions to a specific status, such as ""In Progress."""
+Jira,Auto-Create Linked Epics,Automatically create and link epics when a new project is initiated.
+Jira,Auto-Notify on Issue Closure,Notify stakeholders when an issue is closed.
+Jira,Auto-Update Issue Labels,Automatically update labels on an issue based on changes to other fields.
+Jira,Auto-Notify on Issue Reassignment,Notify stakeholders when an issue is reassigned to a different team member.

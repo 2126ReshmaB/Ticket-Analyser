@@ -1,0 +1,66 @@
+Category,Short Description,Description
+InMotion Hosting,Automate website backups,Schedule automated backups for website files and databases to ensure data recovery in case of accidental loss or errors.
+InMotion Hosting,Regular database backups,"Automate regular database backups (daily, weekly, or monthly) and store them securely on the server or cloud storage."
+InMotion Hosting,Website uptime monitoring,Use scripts to monitor website uptime and send alerts if the site goes offline.
+InMotion Hosting,SSL certificate renewal,Automate the renewal of SSL certificates before they expire to maintain secure HTTPS connections.
+InMotion Hosting,Email account creation,Automate the creation of new email accounts for employees or users in the InMotion Hosting environment.
+InMotion Hosting,Domain renewal reminders,Automate reminders for domain renewals or renew them automatically to avoid expiration.
+InMotion Hosting,DNS record updates,"Automate DNS updates, including changes to A, CNAME, TXT, and other records."
+InMotion Hosting,Database optimization,Automate the optimization of databases by cleaning up unused data and optimizing tables for better performance.
+InMotion Hosting,WordPress plugin updates,"Automate updates for WordPress plugins to ensure security, functionality, and compatibility with the latest versions."
+InMotion Hosting,WordPress theme updates,Automate theme updates to keep WordPress websites secure and up-to-date.
+InMotion Hosting,Server performance monitoring,"Use scripts to monitor server performance metrics like CPU, memory, and disk usage, and send alerts when thresholds are exceeded."
+InMotion Hosting,Malware scanning,Automate malware scans to detect and remove malicious code or files on the server.
+InMotion Hosting,File permission corrections,Automate the correction of file and folder permissions to secure the website and prevent unauthorized access.
+InMotion Hosting,Create staging environments,Automate the creation of staging environments for testing website updates and changes before deploying them live.
+InMotion Hosting,Automated file cleanup,Use scripts to delete unnecessary or old files from the hosting environment to free up storage space.
+InMotion Hosting,Error log monitoring,Automate monitoring of error logs and send alerts for specific errors requiring immediate action.
+InMotion Hosting,Email forwarder setup,Automate the setup of email forwarders to redirect messages from one email account to another.
+InMotion Hosting,Configure email autoresponders,Automate the configuration of email autoresponders for specific email accounts.
+InMotion Hosting,Backup restoration,Automate the restoration of website backups to recover from data loss or accidental deletions.
+InMotion Hosting,Subdomain creation,"Automate the creation of subdomains for testing, projects, or separate sections of a website."
+InMotion Hosting,Domain redirection,Automate the redirection of domains or subdomains to specific URLs.
+InMotion Hosting,Disk space monitoring,Use scripts to monitor disk space usage and send alerts if storage utilization exceeds a set threshold.
+InMotion Hosting,Bandwidth tracking,Automate bandwidth usage tracking and send notifications when usage exceeds predefined limits.
+InMotion Hosting,Schedule cron jobs,"Automate the creation and management of cron jobs to run scheduled tasks like backups, updates, or maintenance scripts."
+InMotion Hosting,WordPress installation,Automate the installation of WordPress for new websites hosted on InMotion Hosting.
+InMotion Hosting,Configure WordPress multisite,Automate the setup of WordPress multisite installations to manage multiple websites under a single network.
+InMotion Hosting,Clear website cache,Automate cache clearing to ensure that website updates are immediately reflected.
+InMotion Hosting,Detect broken links,Use scripts to detect broken links on websites and automatically set up 301 redirects to fix them.
+InMotion Hosting,Generate XML sitemaps,Automate the creation of XML sitemaps and upload them to search engines for better indexing.
+InMotion Hosting,FTP account management,"Automate the creation, modification, or deletion of FTP accounts for users."
+InMotion Hosting,Install SSL certificates,"Automate the installation of SSL certificates, including Let’s Encrypt or custom SSLs, for websites."
+InMotion Hosting,File uploads,Use scripts to automate the uploading of files or folders to specific directories on the server.
+InMotion Hosting,Customize error pages,Automate the creation of custom error pages such as 404 or 403 to improve the user experience.
+InMotion Hosting,Monitor email deliverability,"Automate email deliverability checks and identify issues with SPF, DKIM, or DMARC configurations."
+InMotion Hosting,Website cloning,"Automate the cloning of websites for migration, testing, or staging purposes."
+InMotion Hosting,Log file rotation,Automate log file rotation to archive old logs and prevent excessive disk space usage.
+InMotion Hosting,Install CMS platforms,"Automate the installation of CMS platforms like Joomla, Drupal, or Magento on InMotion Hosting servers."
+InMotion Hosting,Generate analytics reports,"Use scripts to generate periodic reports on website traffic, performance, and user activity."
+InMotion Hosting,Redirect HTTP to HTTPS,Automate the redirection of HTTP traffic to HTTPS for secure browsing.
+InMotion Hosting,Import databases,Automate the import of databases from SQL files to the server.
+InMotion Hosting,Monitor WHOIS data changes,Use scripts to monitor changes to WHOIS data for domains and send alerts if changes occur.
+InMotion Hosting,Export email account details,Automate the export of email account details for documentation or migration purposes.
+InMotion Hosting,Configure email signatures,Automate the setup of email signatures for users in an organization.
+InMotion Hosting,File compression,Automate the compression of files to reduce size and make them easier to store or transfer.
+InMotion Hosting,Website migration,Automate the migration of websites between InMotion Hosting accounts or from external hosting providers.
+InMotion Hosting,Change PHP versions,Automate the process of switching PHP versions for specific domains or applications.
+InMotion Hosting,Whitelist IP addresses,Automate the whitelisting of IP addresses for secure access to the server or website.
+InMotion Hosting,Block suspicious IP addresses,Automate the blocking of suspicious or malicious IP addresses to prevent unauthorized access.
+InMotion Hosting,Detect traffic spikes,Automate the detection of traffic spikes and send alerts to avoid server overload.
+InMotion Hosting,Restore deleted files,Automate the restoration of deleted website files from previous backups.
+InMotion Hosting,Set up error reporting,Automate the configuration of error reporting for PHP or other platforms.
+InMotion Hosting,Install third-party tools,"Automate the installation of third-party tools, such as analytics platforms or marketing automation tools."
+InMotion Hosting,Optimize website images,Automate the compression and optimization of images to improve website performance.
+InMotion Hosting,Server resource scaling,Automate the scaling of server resources like CPU and RAM to handle increased traffic or demand.
+InMotion Hosting,Detect plugin conflicts,Automate the detection of plugin conflicts in WordPress and send alerts to troubleshoot issues.
+InMotion Hosting,Manage CDN integration,Automate the setup and management of a Content Delivery Network (CDN) for faster website load times.
+InMotion Hosting,Automate database exports,Use scripts to export databases periodically for backup or migration purposes.
+InMotion Hosting,Enable hotlink protection,Automate the setup of hotlink protection to prevent unauthorized use of hosted media files.
+InMotion Hosting,Schedule maintenance mode,Automate the enabling and disabling of maintenance mode for websites during updates or server work.
+InMotion Hosting,Monitor MySQL query performance,Automate the monitoring of MySQL queries to identify and optimize slow or inefficient queries.
+InMotion Hosting,Configure spam filters,Automate spam filter configuration to reduce unwanted emails for hosted email accounts.
+InMotion Hosting,Track visitor behavior,Use scripts to track visitor behavior on websites and generate reports on user activity.
+InMotion Hosting,Generate PCI compliance reports,Automate the generation of PCI compliance reports for e-commerce websites handling sensitive data.
+InMotion Hosting,Detect unauthorized file changes,Use scripts to monitor and log unauthorized changes to files on the server.
+InMotion Hosting,Schedule automated updates,"Automate updates for software, plugins, and themes to keep websites secure and up-to-date."

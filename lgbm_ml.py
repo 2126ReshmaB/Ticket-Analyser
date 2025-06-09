@@ -89,10 +89,12 @@ mapping_dict = {
     'Storage': 'ITO'
 }
 
-df = pd.read_excel('Usecases/AM_AT/Asset Panda.xlsx')
-for index, row in df.iterrows():
-    new_ticket = row['Short Description']
-    predicted_lable_num = pipeline.predict([new_ticket])[0]
 
-    predicted_lable_name = encoder.inverse_transform([predicted_lable_num])[0]
-    print(new_ticket," ",mapping_dict.get(predicted_lable_name))
+
+# df = pd.read_excel('Usecases/AM_AT/Asset Panda.xlsx')
+# for index, row in df.iterrows():
+#     new_ticket = row['Short Description']
+#     predicted_lable_num = pipeline.predict([new_ticket])[0]
+
+#     predicted_lable_name = encoder.inverse_transform([predicted_lable_num])[0]
+#     print(new_ticket," ",mapping_dict.get(predicted_lable_name))

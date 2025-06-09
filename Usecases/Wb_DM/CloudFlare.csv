@@ -1,0 +1,72 @@
+Category,Short Description,Description
+Cloudflare,Automate DNS Record Updates,"Automatically update DNS records (A, CNAME, TXT, etc.) using Cloudflare's API for dynamic IPs or frequent changes."
+Cloudflare,SSL Certificate Renewal,Automate the renewal of SSL certificates using Cloudflare's API to ensure uninterrupted HTTPS connections.
+Cloudflare,Cache Purge,Automate purging of specific or all cached assets from Cloudflare's edge servers to reflect updated content instantly.
+Cloudflare,Firewall Rule Management,"Create, update, or delete firewall rules programmatically to block malicious traffic or allow specific IPs."
+Cloudflare,Rate Limiting Rules,Automate the creation of rate-limiting rules to prevent abuse or DDoS attacks.
+Cloudflare,Page Rule Automation,"Automate the creation of page rules to control caching, redirects, or other settings for specific URLs."
+Cloudflare,Worker Deployment,Deploy Cloudflare Workers automatically to handle serverless functions and edge computing tasks.
+Cloudflare,Worker Script Updates,Automate updates to existing Worker scripts for faster deployment of changes.
+Cloudflare,Analytics Data Export,"Automate the export of analytics data (traffic, security events, etc.) for reporting or further analysis."
+Cloudflare,Zone Settings Backup,Automate the backup of zone settings to ensure configuration can be restored if needed.
+Cloudflare,IP Access List Management,Automate the addition or removal of IPs from access lists to control who can access your site.
+Cloudflare,Custom Error Page Updates,"Automate the deployment of custom error pages for 404, 500, or other HTTP status codes."
+Cloudflare,Origin Server IP Updates,Automate updates to origin server IPs in case of server migrations or changes.
+Cloudflare,Cache TTL Adjustments,Automate adjustments to cache TTL settings for specific resources or globally.
+Cloudflare,DDoS Protection Configuration,Automate the configuration of DDoS protection settings to respond to threats dynamically.
+Cloudflare,WAF Rule Updates,Automate updates to Web Application Firewall (WAF) rules to block new vulnerabilities or threats.
+Cloudflare,Bot Management Rules,Automate the configuration of bot management rules to block or allow specific bot traffic.
+Cloudflare,Zone Activation,Automate the activation of new zones (domains) in Cloudflare for faster onboarding.
+Cloudflare,SSL Mode Configuration,"Automate the configuration of SSL modes (Flexible, Full, etc.) for specific zones."
+Cloudflare,Redirect Rules,Automate the creation of redirect rules for specific URLs or paths.
+Cloudflare,Load Balancer Configuration,Automate the setup and updates of load balancers to distribute traffic efficiently.
+Cloudflare,Health Check Automation,Automate the creation and monitoring of health checks for origin servers.
+Cloudflare,Cache Key Customization,Automate the customization of cache keys to optimize caching for dynamic content.
+Cloudflare,Log Retrieval,Automate the retrieval of logs for debugging or compliance purposes.
+Cloudflare,API Token Management,Automate the creation and revocation of API tokens for secure access to Cloudflare's API.
+Cloudflare,Zone Deletion,Automate the deletion of zones that are no longer in use.
+Cloudflare,IP Reputation Monitoring,Automate the monitoring of IP reputation scores to identify potential issues.
+Cloudflare,Argo Tunnel Deployment,Automate the deployment of Argo Tunnels to securely expose local servers to the internet.
+Cloudflare,Image Optimization,Automate the configuration of image optimization settings to improve site performance.
+Cloudflare,Mobile Redirects,Automate the setup of mobile redirects to serve mobile-optimized content.
+Cloudflare,HTTP/2 and HTTP/3 Configuration,Automate the enabling or disabling of HTTP/2 and HTTP/3 protocols for improved performance.
+Cloudflare,Always Online Configuration,Automate the configuration of the Always Online feature to serve cached pages during downtime.
+Cloudflare,Access Policy Management,Automate the creation and management of access policies for secure application access.
+Cloudflare,Worker KV Store Updates,Automate updates to Worker KV stores for dynamic data storage at the edge.
+Cloudflare,Custom Header Injection,Automate the injection of custom headers into HTTP responses for security or tracking purposes.
+Cloudflare,Rate Limiting Logs,Automate the retrieval of rate-limiting logs for analysis.
+Cloudflare,Firewall Event Logs,Automate the retrieval of firewall event logs for security monitoring.
+Cloudflare,DNSSEC Configuration,Automate the setup and management of DNSSEC to secure DNS records.
+Cloudflare,Zone Transfer Automation,Automate zone transfers between Cloudflare and other DNS providers.
+Cloudflare,Cache Bypass Rules,Automate the creation of cache bypass rules for specific resources.
+Cloudflare,IP Geolocation Blocking,Automate the blocking of traffic from specific countries or regions.
+Cloudflare,Worker Cron Jobs,Automate the creation of cron jobs using Cloudflare Workers for scheduled tasks.
+Cloudflare,API Gateway Configuration,Automate the setup of API Gateway rules to secure and manage API traffic.
+Cloudflare,WebSocket Configuration,Automate the enabling or disabling of WebSocket support for specific applications.
+Cloudflare,Cache Analytics,Automate the retrieval of cache analytics data for performance monitoring.
+Cloudflare,Bandwidth Usage Alerts,Automate the setup of alerts for bandwidth usage thresholds.
+Cloudflare,Firewall Challenge Rules,Automate the creation of challenge rules to verify suspicious traffic.
+Cloudflare,Worker Script Testing,Automate the testing of Worker scripts before deployment.
+Cloudflare,Origin Certificate Management,Automate the creation and renewal of origin certificates for secure communication between Cloudflare and origin servers.
+Cloudflare,Cache-Control Header Updates,Automate updates to Cache-Control headers for better caching behavior.
+Cloudflare,IP Whitelisting,Automate the whitelisting of specific IPs for secure access.
+Cloudflare,Rate Limiting Threshold Updates,Automate updates to rate-limiting thresholds based on traffic patterns.
+Cloudflare,Worker KV Data Retrieval,Automate the retrieval of data from Worker KV stores for dynamic applications.
+Cloudflare,Firewall Rule Testing,Automate the testing of new firewall rules to ensure they work as expected.
+Cloudflare,Cache Prefetching,Automate the prefetching of resources to improve load times for end users.
+Cloudflare,Zone Analytics Retrieval,Automate the retrieval of zone analytics data for reporting purposes.
+Cloudflare,Custom SSL Certificate Upload,Automate the upload of custom SSL certificates for specific domains.
+Cloudflare,Worker Script Rollback,Automate the rollback of Worker scripts to a previous version in case of issues.
+Cloudflare,Cache Purge by Tag,Automate the purging of cached assets by tag for better cache management.
+Cloudflare,IP Threat Intelligence Integration,Automate the integration of IP threat intelligence feeds for enhanced security.
+Cloudflare,Worker KV Namespace Creation,Automate the creation of new Worker KV namespaces for data storage.
+Cloudflare,Firewall Rule Export,Automate the export of firewall rules for backup or migration purposes.
+Cloudflare,Cache Hit Ratio Monitoring,Automate the monitoring of cache hit ratios to optimize caching strategies.
+Cloudflare,Worker Script Debugging,Automate the debugging of Worker scripts using logs and error tracking.
+Cloudflare,Zone Lockdown Rules,Automate the creation of zone lockdown rules to restrict access to specific paths or subdomains.
+Cloudflare,Cache Key Purge,Automate the purging of specific cache keys for granular cache control.
+Cloudflare,Worker KV Data Backup,Automate the backup of Worker KV data for disaster recovery.
+Cloudflare,Firewall Rule Import,Automate the import of firewall rules from external sources.
+Cloudflare,Cache TTL Monitoring,Automate the monitoring of cache TTL settings to ensure optimal performance.
+Cloudflare,Worker KV Data Sync,Automate the synchronization of Worker KV data across multiple namespaces.
+Cloudflare,Zone Settings Import,Automate the import of zone settings from a backup or another zone
