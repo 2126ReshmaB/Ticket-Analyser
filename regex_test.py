@@ -39,24 +39,31 @@ automaton = build_automaton(keywords)
 ito_tickets = []
 non_ito_tickets = []
 
-for foldername, subfoldername, filenames in os.walk(root_folder):
-       for filename in filenames:
-            if filename.endswith('.csv') or filename.endswith('.xlsx'):
-                file_path = os.path.join(foldername, filename)
-                try:
-                    if filename.endswith('.csv'):
-                        df = pd.read_csv(file_path)
-                    elif filename.endswith('xlsx'):
-                        df = pd.read_excel(file_path)
+for ticket in df['Description'].astype(str):
+    category = classify_ticket(ticket, automaton)
+    if category == 'ITO':
+        ito_tickets.append((ticket, category))
+    else:
+        non_ito_tickets.append((ticket, category))
 
-                    for ticket in df['Description'].astype(str):
-                        category = classify_ticket(ticket, automaton)
-                        if category == 'ITO':
-                            ito_tickets.append((ticket, category))
-                        else:
-                            non_ito_tickets.append((ticket, category))
-                except Exception as e:
-                    print("file not found")
+# for foldername, subfoldername, filenames in os.walk(root_folder):
+#        for filename in filenames:
+#             if filename.endswith('.csv') or filename.endswith('.xlsx'):
+#                 file_path = os.path.join(foldername, filename)
+#                 try:
+#                     if filename.endswith('.csv'):
+#                         df = pd.read_csv(file_path)
+#                     elif filename.endswith('.xlsx'):
+#                         df = pd.read_excel(file_path)
+
+#                     for ticket in df['Description'].astype(str):
+#                         category = classify_ticket(ticket, automaton)
+#                         if category == 'ITO':
+#                             ito_tickets.append((ticket, category))
+#                         else:
+#                             non_ito_tickets.append((ticket, category))
+#                 except Exception as e:
+#                     print("file not found")
 
 
 ito_df = pd.DataFrame(ito_tickets, columns=['Document','Category'])

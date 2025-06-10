@@ -40,4 +40,4 @@ def get_keywords():
     words = [w for w in words if w not in stop_words and not w.isdigit()] 
     return words  # 3331 Keywords
 
-get_keywords()
+print(get_keywords())
