@@ -13,7 +13,7 @@ lematizer = WordNetLemmatizer()
 
 root_folder = os.path.join(os.path.dirname(__file__), 'UseCases')
 
-column_name = 'Short Description'
+column_name = 'Description'
 unique_words = set()
 
 def get_keywords():
@@ -24,7 +24,7 @@ def get_keywords():
                 try:
                     if filename.endswith('.csv'):
                         df = pd.read_csv(file_path)
-                    elif filename.endswith('xlsx'):
+                    elif filename.endswith('.xlsx'):
                         df = pd.read_excel(file_path)
                     if column_name not in df.columns:
                         print("not found")
@@ -40,4 +40,4 @@ def get_keywords():
     words = [w for w in words if w not in stop_words and not w.isdigit()] 
     return words  # 3331 Keywords
 
-print(get_keywords())
+

@@ -1,104 +1,137 @@
 Document,Topic_group
-System upgrade rollback due to incompatibility errors.,ITO
-Network latency issues impacting application performance.,ITO
-Database connection timeout leading to failed transactions.,ITO
-Lead generation and client relationship management.,ITO
-Firewall blocking legitimate traffic after recent update.,ITO
-System upgrade rollback due to incompatibility errors.,ITO
-Memory leak causing server crashes intermittently.,ITO
-Managing warehouse inventory and shipment tracking processes.,ITO
-Software deployment failure causing downtime on server X.,ITO
-Network latency issues impacting application performance.,ITO
-Firewall blocking legitimate traffic after recent update.,ITO
-Memory leak causing server crashes intermittently.,ITO
-Disk space full alert on backup server.,ITO
-Memory leak causing server crashes intermittently.,ITO
-Network latency issues impacting application performance.,ITO
-Bug in authentication module allowing unauthorized access.,ITO
-Network latency issues impacting application performance.,ITO
-Database connection timeout leading to failed transactions.,ITO
-Bug in authentication module allowing unauthorized access.,ITO
-Database connection timeout leading to failed transactions.,ITO
-Bug in authentication module allowing unauthorized access.,ITO
-Database connection timeout leading to failed transactions.,ITO
-Bug in authentication module allowing unauthorized access.,ITO
-Managing warehouse inventory and shipment tracking processes.,ITO
-Network latency issues impacting application performance.,ITO
-Managing warehouse inventory and shipment tracking processes.,ITO
-Network latency issues impacting application performance.,ITO
-Software deployment failure causing downtime on server X.,ITO
-Firewall blocking legitimate traffic after recent update.,ITO
-Disk space full alert on backup server.,ITO
-Network latency issues impacting application performance.,ITO
-System upgrade rollback due to incompatibility errors.,ITO
-Lead generation and client relationship management.,ITO
-Lead generation and client relationship management.,ITO
-Bug in authentication module allowing unauthorized access.,ITO
-Software deployment failure causing downtime on server X.,ITO
-Firewall blocking legitimate traffic after recent update.,ITO
-Managing warehouse inventory and shipment tracking processes.,ITO
-Memory leak causing server crashes intermittently.,ITO
-System upgrade rollback due to incompatibility errors.,ITO
-Managing warehouse inventory and shipment tracking processes.,ITO
-Software deployment failure causing downtime on server X.,ITO
-Firewall blocking legitimate traffic after recent update.,ITO
-Bug in authentication module allowing unauthorized access.,ITO
-Bug in authentication module allowing unauthorized access.,ITO
-Software deployment failure causing downtime on server X.,ITO
-Firewall blocking legitimate traffic after recent update.,ITO
-Managing warehouse inventory and shipment tracking processes.,ITO
-Database connection timeout leading to failed transactions.,ITO
-Database connection timeout leading to failed transactions.,ITO
-Memory leak causing server crashes intermittently.,ITO
-Network latency issues impacting application performance.,ITO
-Bug in authentication module allowing unauthorized access.,ITO
-Bug in authentication module allowing unauthorized access.,ITO
-Firewall blocking legitimate traffic after recent update.,ITO
-Lead generation and client relationship management.,ITO
-Firewall blocking legitimate traffic after recent update.,ITO
-Disk space full alert on backup server.,ITO
-System upgrade rollback due to incompatibility errors.,ITO
-Memory leak causing server crashes intermittently.,ITO
-Memory leak causing server crashes intermittently.,ITO
-Managing warehouse inventory and shipment tracking processes.,ITO
-System upgrade rollback due to incompatibility errors.,ITO
-Firewall blocking legitimate traffic after recent update.,ITO
-System upgrade rollback due to incompatibility errors.,ITO
-Firewall blocking legitimate traffic after recent update.,ITO
-Disk space full alert on backup server.,ITO
-Bug in authentication module allowing unauthorized access.,ITO
-Memory leak causing server crashes intermittently.,ITO
-Bug in authentication module allowing unauthorized access.,ITO
-Managing warehouse inventory and shipment tracking processes.,ITO
-Memory leak causing server crashes intermittently.,ITO
-Network latency issues impacting application performance.,ITO
-Network latency issues impacting application performance.,ITO
-Managing warehouse inventory and shipment tracking processes.,ITO
-Managing warehouse inventory and shipment tracking processes.,ITO
-Disk space full alert on backup server.,ITO
-Lead generation and client relationship management.,ITO
-Network latency issues impacting application performance.,ITO
-Firewall blocking legitimate traffic after recent update.,ITO
-Bug in authentication module allowing unauthorized access.,ITO
-System upgrade rollback due to incompatibility errors.,ITO
-Managing warehouse inventory and shipment tracking processes.,ITO
-Network latency issues impacting application performance.,ITO
-Network latency issues impacting application performance.,ITO
-Network latency issues impacting application performance.,ITO
-System upgrade rollback due to incompatibility errors.,ITO
-Bug in authentication module allowing unauthorized access.,ITO
-Bug in authentication module allowing unauthorized access.,ITO
-Disk space full alert on backup server.,ITO
-Lead generation and client relationship management.,ITO
-Disk space full alert on backup server.,ITO
-Lead generation and client relationship management.,ITO
-Memory leak causing server crashes intermittently.,ITO
-Firewall blocking legitimate traffic after recent update.,ITO
-Memory leak causing server crashes intermittently.,ITO
-Lead generation and client relationship management.,ITO
-Bug in authentication module allowing unauthorized access.,ITO
-Firewall blocking legitimate traffic after recent update.,ITO
-Disk space full alert on backup server.,ITO
-Bug in authentication module allowing unauthorized access.,ITO
-Managing warehouse inventory and shipment tracking processes.,ITO
-Disk space full alert on backup server.,ITO
+Kindly General query regarding office timings on client machine.,ITO
+Issue reported to upgrade sql on the application on client machine.,ITO
+Kindly upgrade vmware on the system in production.,ITO
+Trying to upgrade vmware on the system for testing.,ITO
+Kindly General query regarding office timings on client machine.,ITO
+Trying to install vmware on the server at the earliest.,ITO
+User requested to upgrade oracle on the application as soon as possible.,ITO
+Issue reported to backup jira on client machine.,ITO
+Issue reported to install jira on the system as soon as possible.,ITO
+Kindly General query regarding office timings on client machine.,ITO
+Issue reported to install sql on the database in production.,ITO
+User requested to configure jira on the application at the earliest.,ITO
+Kindly upgrade jira on the database for testing.,ITO
+Kindly backup sql on the vm on client machine.,ITO
+User requested to restart sql on the application in production.,ITO
+User requested to upgrade application on client machine.,ITO
+Please restart vmware as soon as possible.,ITO
+User requested to upgrade on client machine.,ITO
+Issue reported to backup sql on the vm as soon as possible.,ITO
+Kindly backup jira on the vm on client machine.,ITO
+Need help to restart vmware on the system for testing.,ITO
+Kindly restart oracle on the server on client machine.,ITO
+Kindly upgrade vmware on the application for testing.,ITO
+Need help to configure jira on the application at the earliest.,ITO
+Kindly General query regarding office timings on client machine.,ITO
+User requested to upgrade sap on the application at the earliest.,ITO
+Kindly restart jira on the vm on client machine.,ITO
+User requested to backup vmware on the vm as soon as possible.,ITO
+Issue reported to upgrade oracle on the database in production.,ITO
+Issue reported to install vmware as soon as possible.,ITO
+Issue reported to restart jira on the system as soon as possible.,ITO
+Issue reported to install vmware in production.,ITO
+Please restart jira on the vm as soon as possible.,ITO
+Trying to upgrade sap on the server at the earliest.,ITO
+User requested to sql on client machine.,ITO
+Issue reported to upgrade sql on the application for testing.,ITO
+Please upgrade oracle on the server at the earliest.,ITO
+User requested to configure oracle on client machine.,ITO
+Need help to configure vmware on the system in production.,ITO
+Trying to backup sql on the database as soon as possible.,ITO
+Trying to configure oracle on the server on client machine.,ITO
+User requested to restart sql on the database on client machine.,ITO
+Need help to upgrade sap on the vm in production.,ITO
+Need help to restart jira on the database at the earliest.,ITO
+User requested to install oracle on the application at the earliest.,ITO
+Issue reported to restart sql on the server in production.,ITO
+Please install vmware on the server in production.,ITO
+Trying to upgrade sap on the server on client machine.,ITO
+User requested to backup oracle on the application at the earliest.,ITO
+User requested to configure vmware on the application in production.,ITO
+Trying to upgrade sql on the vm on client machine.,ITO
+User requested to install sql on the application as soon as possible.,ITO
+Kindly upgrade jira on the server at the earliest.,ITO
+Trying to backup vmware on the application at the earliest.,ITO
+Trying to restart vmware on the vm as soon as possible.,ITO
+Trying to restart sql on the server as soon as possible.,ITO
+Need help to vmware in production.,ITO
+Kindly install vmware on the application at the earliest.,ITO
+Please upgrade vmware on the vm as soon as possible.,ITO
+Issue reported to sql server in production.,ITO
+User requested to upgrade vmware on the system as soon as possible.,ITO
+User requested to restart vmware on the database at the earliest.,ITO
+Need help to vmware server in production.,ITO
+Issue reported to restart vmware on the database as soon as possible.,ITO
+Trying to install sql on the vm as soon as possible.,ITO
+User requested to configure oracle on the server at the earliest.,ITO
+Trying to configure jira on the system on client machine.,ITO
+Kindly upgrade jira on the database as soon as possible.,ITO
+Issue reported to General query regarding office timings on client machine.,ITO
+Need help to backup vmware on the server at the earliest.,ITO
+Issue reported to General query regarding office timings at the earliest.,ITO
+User requested to upgrade sql on the server as soon as possible.,ITO
+Need help to configure vmware on the database on client machine.,ITO
+Kindly General query regarding office timings on client machine.,ITO
+Trying to backup sql on the server in production.,ITO
+User requested to restart vmware on the application at the earliest.,ITO
+Trying to upgrade sap on the server at the earliest.,ITO
+Trying to restart vmware on the system as soon as possible.,ITO
+Issue reported to upgrade sql on the application at the earliest.,ITO
+Kindly General query regarding office timings on client machine.,ITO
+Trying to install jira on the database for testing.,ITO
+Kindly upgrade sap on the vm for testing.,ITO
+Please restart vmware on client machine.,ITO
+Kindly backup vmware on the application as soon as possible.,ITO
+Issue reported to General query regarding office timings as soon as possible.,ITO
+User requested to backup sql on the server as soon as possible.,ITO
+Need help to General query regarding office timings on client machine.,ITO
+Issue reported to General query regarding office timings for testing.,ITO
+Issue reported to backup sql at the earliest.,ITO
+Trying to restart jira on the vm in production.,ITO
+Issue reported to backup vmware on the vm as soon as possible.,ITO
+Please configure sql on the system on client machine.,ITO
+Please General query regarding office timings on client machine.,ITO
+Please upgrade sql on the vm for testing.,ITO
+Issue reported to configure jira on the database at the earliest.,ITO
+Trying to upgrade oracle on the server on client machine.,ITO
+Issue reported to install vmware on the vm for testing.,ITO
+Trying to General query regarding office timings on client machine.,ITO
+Please restart vmware at the earliest.,ITO
+Need help to restart jira on the server at the earliest.,ITO
+Trying to configure jira on the application as soon as possible.,ITO
+Need help to upgrade vmware on the server for testing.,ITO
+Trying to upgrade jira on the application in production.,ITO
+Kindly configure sql on the vm in production.,ITO
+Need help to configure sql on the system on client machine.,ITO
+Issue reported to upgrade in production.,ITO
+Trying to upgrade jira on the database in production.,ITO
+User requested to backup vmware for testing.,ITO
+Issue reported to upgrade sql on the server in production.,ITO
+Issue reported to General query regarding office timings at the earliest.,ITO
+User requested to backup vmware on the server on client machine.,ITO
+Kindly upgrade on client machine.,ITO
+User requested to vmware application for testing.,ITO
+User requested to General query regarding office timings on client machine.,ITO
+User requested to restart jira on the vm at the earliest.,ITO
+Trying to upgrade vm as soon as possible.,ITO
+Kindly install jira on the database on client machine.,ITO
+Issue reported to restart vmware on the server in production.,ITO
+User requested to General query regarding office timings on client machine.,ITO
+Issue reported to configure sql on the system on client machine.,ITO
+User requested to install sql on the server on client machine.,ITO
+Please upgrade vmware on the server in production.,ITO
+Issue reported to install jira on the database in production.,ITO
+Please install jira on the vm at the earliest.,ITO
+Issue reported to install sql on the vm in production.,ITO
+Kindly General query regarding office timings on client machine.,ITO
+User requested to restart jira on the application at the earliest.,ITO
+User requested to upgrade sap on the application as soon as possible.,ITO
+Issue reported to upgrade vmware for testing.,ITO
+User requested to backup vmware on the server as soon as possible.,ITO
+Need help to sql server as soon as possible.,ITO
+User requested to install vmware on the server for testing.,ITO
+Issue reported to General query regarding office timings in production.,ITO
+User requested to restart vmware for testing.,ITO
+Issue reported to upgrade sql on the vm on client machine.,ITO
+Kindly restart sql on the vm at the earliest.,ITO
