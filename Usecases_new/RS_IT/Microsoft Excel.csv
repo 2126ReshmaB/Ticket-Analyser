@@ -1,0 +1,80 @@
+Category,Short Description,Description
+Microsoft Excel,Automate Data Cleanup,"Automate cleaning datasets by removing duplicates, blank rows, and unnecessary spaces using VBA scripts."
+Microsoft Excel,Data Validation Automation,Set up automated data validation rules to ensure correct data entry in Excel sheets.
+Microsoft Excel,Scheduled Report Generation,"Use scripts to generate and email periodic reports, such as daily sales or monthly performance."
+Microsoft Excel,Real-Time Data Updates,Automate real-time data updates by pulling data from APIs or databases into Excel.
+Microsoft Excel,Automate Pivot Table Refresh,Automatically refresh pivot tables when the source data is updated.
+Microsoft Excel,Data Consolidation,Consolidate data from multiple sheets or files into a single summary sheet using VBA or Power Query.
+Microsoft Excel,Automate Graph Creation,Use scripts to generate charts and graphs dynamically based on the latest data.
+Microsoft Excel,Mail Merge with Excel,Automate personalized email sending using Excel data and Outlook integration.
+Microsoft Excel,Conditional Formatting Rules,Automate the application of conditional formatting across large datasets.
+Microsoft Excel,Import Data from CSV,Use scripts to automate importing and formatting of CSV files into Excel.
+Microsoft Excel,Export Data to CSV,Automate exporting Excel data to CSV format for integration with other software.
+Microsoft Excel,Data Sorting Automation,"Automatically sort data by predefined rules (e.g., by date, department, or sales figures)."
+Microsoft Excel,Duplicate Entry Finder,Automate the detection of duplicate entries in a dataset and flag or delete them.
+Microsoft Excel,Automate Budget Tracking,Create automated spreadsheets to track budget vs. actual expenses with live calculations.
+Microsoft Excel,Invoice Generation,Use scripts to automate the creation of invoices from raw data.
+Microsoft Excel,Dynamic Dropdown Lists,Automate the creation of dynamic dropdown lists based on changing source data.
+Microsoft Excel,Automate Goal Tracking,Track progress toward business or personal goals with automated dashboards.
+Microsoft Excel,Reconciliation Automation,Automate account reconciliation by comparing two datasets and highlighting discrepancies.
+Microsoft Excel,Automated Data Backup,Use scripts to back up Excel files to a cloud storage system like OneDrive or Google Drive.
+Microsoft Excel,Employee Timesheet Automation,Automate the calculation and summary of employee timesheets.
+Microsoft Excel,Formula Error Detection,Automatically identify and fix formula errors in large datasets.
+Microsoft Excel,Data Filtering Automation,Use scripts to apply advanced filtering criteria to datasets dynamically.
+Microsoft Excel,Automated KPI Dashboards,Create dynamic dashboards to track KPIs in real time.
+Microsoft Excel,Data Transformation,Automate transformations like unpivoting or reshaping datasets using Power Query or VBA.
+Microsoft Excel,Integration with APIs,"Use Python or VBA scripts to fetch data from APIs (e.g., weather or stock market) directly into Excel."
+Microsoft Excel,Currency Conversion Automation,Automate currency conversion for international transactions by pulling live exchange rates.
+Microsoft Excel,Inventory Tracking Automation,Automate inventory tracking and stock level updates for businesses.
+Microsoft Excel,Conditional Alerts,"Automatically trigger alerts (e.g., pop-ups or color changes) when specific conditions in the data are met."
+Microsoft Excel,Sales Forecasting,Automate sales forecasting using historical data and formulas.
+Microsoft Excel,Data Anomaly Detection,Detect and flag anomalies or outliers in datasets automatically.
+Microsoft Excel,Data Entry Automation,Use forms and scripts to automate repetitive data entry tasks.
+Microsoft Excel,Automated Attendance Tracker,Create a script to track and calculate employee attendance automatically.
+Microsoft Excel,Import Web Data,Use scripts to scrape and import data from websites into Excel.
+Microsoft Excel,Monthly Expense Reports,Automate the preparation of monthly expense summaries for departments or individuals.
+Microsoft Excel,Profit Margin Calculation,Automate profit margin calculations for product lines or services.
+Microsoft Excel,Automated Goal Alerts,Trigger email or pop-up alerts when predefined goals are reached or exceeded.
+Microsoft Excel,Resource Allocation Tracker,Automate the tracking of resource allocation and utilization across projects or teams.
+Microsoft Excel,Forecasting with Regression,Use scripts to perform regression analysis and create predictive models in Excel.
+Microsoft Excel,Project Milestone Tracking,Automate tracking and visualization of project milestones using Gantt charts.
+Microsoft Excel,Real-Time Collaboration,Automate sharing and syncing Excel files with team members in real time.
+Microsoft Excel,Automated SLA Monitoring,Track SLA compliance and generate automated reports based on performance metrics.
+Microsoft Excel,Employee Performance Tracker,Automate dashboards to track employee performance against set KPIs.
+Microsoft Excel,Automated Survey Analysis,Use scripts to analyze survey data and generate summary insights.
+Microsoft Excel,Automated Data Grouping,"Group data dynamically based on user-defined criteria (e.g., sales regions or departments)."
+Microsoft Excel,Automated Conditional Formatting,Apply conditional formatting rules programmatically to highlight key insights.
+Microsoft Excel,Multi-Sheet Consolidation,Automate combining data from multiple sheets into one for analysis.
+Microsoft Excel,Payment Tracking,Automate payment tracking and overdue notifications for invoices or bills.
+Microsoft Excel,Real-Time Weather Data,Use scripts to pull real-time weather data from APIs for analysis and reporting.
+Microsoft Excel,Automated Workflow Integration,Automate workflows by integrating Excel with Power Automate or other tools.
+Microsoft Excel,Automated Data Visualization,Create charts and graphs automatically based on new data inputs.
+Microsoft Excel,Error Log Tracking,Automate tracking of errors in datasets and maintaining an error log.
+Microsoft Excel,Budget Forecast Automation,Predict future budgets based on historical spending patterns.
+Microsoft Excel,Automated Multi-Currency Reports,Create reports that automatically convert data into different currencies.
+Microsoft Excel,Automated Task Scheduler,Use VBA to build a task scheduler that tracks deadlines and sends reminders.
+Microsoft Excel,Automated Stock Market Analysis,Automate pulling stock market data and generating performance dashboards.
+Microsoft Excel,Pivot Table Creation Script,Write scripts to dynamically create and format pivot tables.
+Microsoft Excel,Timesheet Approval Workflow,Automate a workflow to approve and track employee timesheets.
+Microsoft Excel,Automated Invoice Approval,Create scripts to automate invoice review and approval workflows.
+Microsoft Excel,Cost Analysis Automation,Automate cost analysis reports by pulling data from multiple sources.
+Microsoft Excel,Attendance Sheets Consolidation,Combine attendance sheets from multiple teams into one summary sheet automatically.
+Microsoft Excel,Automated Holiday Tracker,Automate employee holiday requests and approvals using Excel.
+Microsoft Excel,Automated CRM Reports,Generate customer relationship management (CRM) reports using scripts.
+Microsoft Excel,Task Progress Monitoring,Automate tracking of task progress across teams or projects.
+Microsoft Excel,Supplier Performance Tracker,Automate dashboards to monitor supplier performance metrics.
+Microsoft Excel,Gantt Chart Automation,Use scripts to create and update Gantt charts for project management.
+Microsoft Excel,Automated Tax Calculation,Automate tax calculations based on predefined rules and tax brackets.
+Microsoft Excel,Sales Commission Calculator,Automate commission calculations for sales teams based on performance data.
+Microsoft Excel,Automated Data Archiving,Use scripts to move old data to archive files automatically.
+Microsoft Excel,File Consolidation Automation,Merge multiple Excel files into one master file automatically.
+Microsoft Excel,SLA Breach Notifications,Automate alerts when SLA metrics are breached.
+Microsoft Excel,Automated Profit Loss Reports,Generate profit and loss statements automatically based on financial data.
+Microsoft Excel,Data Entry Error Alerts,Use scripts to flag errors during data entry in real time.
+Microsoft Excel,Dynamic Reporting Templates,Automate the generation of standardized reporting templates.
+Microsoft Excel,Year-End Summary Reports,Automate the creation of year-end financial and performance summaries.
+Microsoft Excel,Automated Email Notifications,"Send emails automatically based on data changes or thresholds (e.g., overdue payments)."
+Microsoft Excel,Automated Shift Rotations,Automate employee shift rotations and schedules in Excel.
+Microsoft Excel,Meeting Attendance Tracker,Automate tracking and analysis of meeting attendance records.
+Microsoft Excel,Survey Response Consolidation,Automate the consolidation of survey responses from multiple sources.
+Microsoft Excel,Automated Sales Reports,Generate daily or weekly sales

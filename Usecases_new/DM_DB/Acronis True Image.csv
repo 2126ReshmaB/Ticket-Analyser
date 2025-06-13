@@ -1,0 +1,73 @@
+Category,Short Description,Description
+Acronis True Image,Scheduled Full Backups,"Automate full system backups on a daily, weekly, or monthly schedule."
+Acronis True Image,Incremental Backup Automation,Automate incremental backups to save only changes since the last backup.
+Acronis True Image,Differential Backup Automation,Automate differential backups to capture changes since the last full backup.
+Acronis True Image,Cloud Backup Scheduling,Automate backups to Acronis Cloud at predefined intervals.
+Acronis True Image,Local Backup Scheduling,Automate backups to local storage devices such as external hard drives or NAS.
+Acronis True Image,Encrypted Backup Creation,Automate the creation of encrypted backups for enhanced data security.
+Acronis True Image,Backup Verification,Automate the verification of backup integrity after each backup process.
+Acronis True Image,Backup Retention Policy,Automate the enforcement of retention policies to delete old backups.
+Acronis True Image,Disk Cloning Automation,Automate the cloning of disks for migration or redundancy purposes.
+Acronis True Image,Pre-Backup System Cleanup,Automate system cleanup tasks before initiating a backup to optimize storage.
+Acronis True Image,Post-Backup Notifications,Automate email or SMS notifications after backup completion.
+Acronis True Image,Backup Compression,Automate compression of backup files to save storage space.
+Acronis True Image,Backup to Multiple Destinations,"Automate backups to multiple destinations for redundancy (e.g., local and cloud)."
+Acronis True Image,Backup of Specific Folders,Automate backups of specific folders or directories.
+Acronis True Image,Backup of System Registry,Automate backups of the Windows system registry for quick recovery.
+Acronis True Image,Backup of Application Data,Automate backups of application-specific data and settings.
+Acronis True Image,Backup of User Profiles,Automate backups of user profiles and personal data.
+Acronis True Image,Backup of Multimedia Files,"Automate backups of photos, videos, and music files."
+Acronis True Image,Backup of Documents,Automate backups of important documents and spreadsheets.
+Acronis True Image,Backup of Email Data,Automate backups of email accounts like Outlook or Thunderbird.
+Acronis True Image,Backup of Virtual Machines,Automate backups of virtual machines like VMware or Hyper-V.
+Acronis True Image,Backup of External Drives,Automate backups of data stored on external USB or HDD drives.
+Acronis True Image,Backup of NAS Devices,Automate backups of data stored on Network Attached Storage (NAS) devices.
+Acronis True Image,Backup of Cloud Services,Automate backups of data from cloud services like Google Drive or Dropbox.
+Acronis True Image,Backup of IoT Device Data,Automate backups of data from IoT devices.
+Acronis True Image,Backup of Logs,Automate backups of system and application logs.
+Acronis True Image,Backup of Archived Data,Automate backups of archived data for long-term storage.
+Acronis True Image,Backup of Temporary Files,Automate backups of temporary files for recovery purposes.
+Acronis True Image,Backup of Configuration Files,Automate backups of system and application configuration files.
+Acronis True Image,Backup of CRM Data,Automate backups of CRM system data.
+Acronis True Image,Backup of ERP Data,Automate backups of ERP system data.
+Acronis True Image,Backup of Financial Data,Automate backups of financial and accounting data.
+Acronis True Image,Backup of Legal Documents,Automate backups of legal documents and contracts.
+Acronis True Image,Backup of Medical Records,Automate backups of medical records and patient data.
+Acronis True Image,Backup of Educational Data,Automate backups of educational content and student records.
+Acronis True Image,Backup of Research Data,Automate backups of research data and findings.
+Acronis True Image,Backup of CAD Files,Automate backups of CAD files for design projects.
+Acronis True Image,Backup of Video Editing Projects,Automate backups of video editing project files.
+Acronis True Image,Backup of Audio Editing Projects,Automate backups of audio editing project files.
+Acronis True Image,Backup of Game Development Files,Automate backups of game development assets and code.
+Acronis True Image,Backup of AI Models,Automate backups of AI and machine learning models.
+Acronis True Image,Backup of IoT Sensor Data,Automate backups of IoT sensor data for analysis.
+Acronis True Image,Backup of Blockchain Data,Automate backups of blockchain data and smart contracts.
+Acronis True Image,Backup of Robotics Data,Automate backups of robotics programming and sensor data.
+Acronis True Image,Backup of Smart Home Data,Automate backups of smart home device configurations.
+Acronis True Image,Backup of E-Commerce Data,Automate backups of e-commerce product and transaction data.
+Acronis True Image,Backup of Marketing Data,Automate backups of marketing campaign data and analytics.
+Acronis True Image,Backup of Customer Support Data,Automate backups of customer support tickets and chat logs.
+Acronis True Image,Backup of Inventory Data,Automate backups of inventory and supply chain data.
+Acronis True Image,Backup of Manufacturing Data,Automate backups of manufacturing process data.
+Acronis True Image,Backup of Energy Data,Automate backups of energy consumption and production data.
+Acronis True Image,Backup of Weather Data,Automate backups of weather monitoring data.
+Acronis True Image,Backup of Satellite Data,Automate backups of satellite imagery and telemetry data.
+Acronis True Image,Backup of Space Exploration Data,Automate backups of space exploration mission data.
+Acronis True Image,Backup of Historical Data,Automate backups of historical archives and records.
+Acronis True Image,Backup of Cultural Heritage Data,Automate backups of cultural heritage and museum data.
+Acronis True Image,Backup of Agricultural Data,Automate backups of agricultural monitoring and research data.
+Acronis True Image,Backup of Environmental Data,Automate backups of environmental monitoring data.
+Acronis True Image,Backup of Wildlife Data,Automate backups of wildlife tracking and research data.
+Acronis True Image,Backup of Oceanographic Data,Automate backups of oceanographic research data.
+Acronis True Image,Backup of Seismographic Data,Automate backups of seismographic monitoring data.
+Acronis True Image,Backup of Astronomical Data,Automate backups of astronomical observation data.
+Acronis True Image,Backup of Virtual Reality Data,Automate backups of virtual reality project files.
+Acronis True Image,Backup of Augmented Reality Data,Automate backups of augmented reality project files.
+Acronis True Image,Backup of 3D Printing Files,Automate backups of 3D printing designs and files.
+Acronis True Image,Backup of Drone Data,Automate backups of drone footage and telemetry data.
+Acronis True Image,Backup of Space Mission Data,Automate backups of data from space missions and experiments.
+Acronis True Image,Backup of Scientific Data,Automate backups of scientific datasets and experiments.
+Acronis True Image,Backup of Engineering Data,Automate backups of engineering designs and blueprints.
+Acronis True Image,Backup of Financial Reports,Automate backups of financial reports and statements.
+Acronis True Image,Backup of Legal Case Files,Automate backups of legal case files and evidence.
+Acronis True Image,Backup,

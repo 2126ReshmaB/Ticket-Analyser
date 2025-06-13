@@ -1,0 +1,71 @@
+Category,Short Description,Description
+Cobian Backup,Scheduled Full Backups,"Automate full system backups on a daily, weekly, or monthly schedule using Cobian Backup."
+Cobian Backup,Incremental Backups,Automate incremental backups to save only the changes made since the last backup.
+Cobian Backup,Differential Backups,Automate differential backups to capture changes since the last full backup.
+Cobian Backup,Backup to External Drives,Automate backups to external USB or HDD drives for local redundancy.
+Cobian Backup,Backup to Network Drives,Automate backups to network drives or shared folders for centralized storage.
+Cobian Backup,Backup Compression,Automate compression of backup files to save storage space.
+Cobian Backup,Backup Encryption,Automate the encryption of backup files to enhance security and protect sensitive data.
+Cobian Backup,Backup Verification,Automate the verification of completed backups to ensure data integrity and reliability.
+Cobian Backup,Backup Retention Policy,Automate deletion of older backups based on retention policies to manage storage effectively.
+Cobian Backup,File and Folder Backup,Automate backups of specific files and folders to ensure important data is protected.
+Cobian Backup,Backup of System Configuration Files,Automate backups of system configuration files to allow easy restoration of settings.
+Cobian Backup,Backup of Application Data,Automate backups of application-specific files and configurations for recovery purposes.
+Cobian Backup,User Profile Backup,"Automate backups of user profiles, including Documents, Desktop, and Downloads folders."
+Cobian Backup,Multimedia Backup,"Automate backups of multimedia files like photos, videos, and music collections."
+Cobian Backup,Backup of Documents,Automate backups of important documents and spreadsheets.
+Cobian Backup,Email Backup,Automate backups of email accounts or archives like Outlook PST files.
+Cobian Backup,Backup of CAD Files,Automate backups of CAD files for engineering or design projects.
+Cobian Backup,Research Data Backup,"Automate backups of research data, including experiment results and datasets."
+Cobian Backup,Backup of Archived Data,Automate backups of archived files for long-term storage.
+Cobian Backup,Backup of Temporary Files,Automate backups of temporary files for recovery before cleanup tasks.
+Cobian Backup,IoT Device Data Backup,Automate backups of IoT device logs and analytics for monitoring and storage.
+Cobian Backup,Backup of System Logs,Automate backups of system logs for troubleshooting and auditing.
+Cobian Backup,CRM Data Backup,Automate backups of CRM databases and files for business continuity.
+Cobian Backup,ERP Data Backup,"Automate backups of ERP system data, including inventory and financial records."
+Cobian Backup,Financial Data Backup,Automate backups of accounting and financial records for audits and compliance.
+Cobian Backup,Legal Documents Backup,"Automate backups of legal contracts, records, and compliance documents."
+Cobian Backup,Medical Records Backup,Automate backups of patient medical records for HIPAA compliance and disaster recovery.
+Cobian Backup,Database Backup Automation,"Automate backups of databases like MySQL, PostgreSQL, or SQL Server."
+Cobian Backup,Marketing Campaign Data Backup,"Automate backups of marketing content, campaigns, and analytics for future use."
+Cobian Backup,Backup of E-Commerce Data,"Automate backups of e-commerce product catalogs, transaction logs, and customer details."
+Cobian Backup,Backup of HR Records,"Automate backups of employee records, payroll data, and HR files for secure storage."
+Cobian Backup,Backup of Virtual Machines,Automate backups of virtual machines like VMware or Hyper-V for disaster recovery.
+Cobian Backup,NAS Backup Automation,Automate backups of data stored on Network Attached Storage (NAS) devices.
+Cobian Backup,Shared Drive Backup,Automate backups of shared folders or drives in a networked environment.
+Cobian Backup,Backup of External USB Devices,"Automate backups of USB-connected devices, such as flash drives and external HDDs."
+Cobian Backup,Smart Home Data Backup,Automate backups of smart home device configurations and logs.
+Cobian Backup,IoT Sensor Logs Backup,Automate backups of IoT sensor data for analytics and troubleshooting.
+Cobian Backup,Blockchain Data Backup,Automate backups of blockchain transaction logs or cryptocurrency wallet data.
+Cobian Backup,Multimedia Project Backup,"Automate backups of multimedia project files, including video and audio editing projects."
+Cobian Backup,Game Development Asset Backup,"Automate backups of game development files, assets, and source code."
+Cobian Backup,3D Printing Design Backup,"Automate backups of 3D printing design files, such as STL or OBJ files."
+Cobian Backup,Backup of CAD Project Files,Automate backups of CAD (Computer-Aided Design) project files for engineering and architecture.
+Cobian Backup,Pre-Backup Disk Cleanup,Automate system cleanup tasks before initiating a backup to optimize storage usage.
+Cobian Backup,Post-Backup Integrity Check,Automate integrity verification of backups after completion to ensure data reliability.
+Cobian Backup,Scheduled Restore Testing,Automate periodic restore tests to verify that backups can be restored successfully.
+Cobian Backup,Backup Alert Notifications,"Automate email or SMS notifications for backup completion, success, or errors."
+Cobian Backup,Backup of Collaboration Tools,"Automate backups of collaboration platforms like Slack messages, Microsoft Teams, or Trello boards."
+Cobian Backup,Backup of Weather Data,"Automate backups of weather monitoring data, including forecasts and historical records."
+Cobian Backup,Backup of Wildlife Research Data,Automate backups of wildlife tracking and conservation data for research purposes.
+Cobian Backup,Backup of Manufacturing Process Data,"Automate backups of manufacturing process logs, reports, and blueprints."
+Cobian Backup,Backup of Energy Usage Logs,Automate backups of energy consumption and production data for analysis and reporting.
+Cobian Backup,Backup to Multiple Locations,Automate backups to both local and network destinations for redundancy.
+Cobian Backup,Backup of Research Papers,"Automate backups of research papers, thesis documents, and academic files."
+Cobian Backup,Backup of Satellite Data,"Automate backups of satellite imagery, telemetry data, and analysis reports."
+Cobian Backup,Backup of Space Exploration Data,Automate backups of data from space exploration missions and experiments.
+Cobian Backup,Backup of Astronomical Observation Data,"Automate backups of astronomical observation logs, images, and related datasets."
+Cobian Backup,Backup of Robotics Data,"Automate backups of robotics programming, sensor data, and training datasets."
+Cobian Backup,Backup of Financial Reports,"Automate backups of financial reports, audits, and compliance files."
+Cobian Backup,Backup of CRM Logs,Automate backups of CRM (Customer Relationship Management) system logs and analytics.
+Cobian Backup,Disaster Recovery Backups,Automate full system backups for disaster recovery scenarios.
+Cobian Backup,Scheduled File Synchronization,Automate file synchronization between two backup locations using Cobian Backup.
+Cobian Backup,Cross-Platform Backup Automation,Automate backups across Windows and Linux systems using Cobian Backup’s scripting features.
+Cobian Backup,Compression for Large Backups,Automate compression for large backup files to save storage space.
+Cobian Backup,Multi-Threaded Backup Automation,Automate multi-threaded backups for faster execution and reduced downtime.
+Cobian Backup,Backup of Marketing Assets,"Automate backups of marketing creative files, such as videos, brochures, and banners."
+Cobian Backup,Backup of API Logs,Automate backups of API logs for debugging and monitoring purposes.
+Cobian Backup,Backup of E-Commerce Platforms,"Automate backups of e-commerce databases, including product catalogs and transaction records."
+Cobian Backup,Backup of Software Licenses,Automate backups of software license keys and activation files.
+Cobian Backup,Backup of Website Data,"Automate backups of website files, configurations, and databases for recovery purposes."
+Cobian Backup,Backup of Collaboration Files,Automate

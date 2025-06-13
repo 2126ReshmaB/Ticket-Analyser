@@ -1,0 +1,68 @@
+Category,Short Description,Description
+Cherwell Software,Auto-Assign Incidents to Technicians,"Automatically assign incoming incidents to technicians based on predefined rules such as priority, category, or location."
+Cherwell Software,Notify on SLA Breach,Automatically notify technicians and managers when an SLA is about to breach or has breached.
+Cherwell Software,Auto-Close Resolved Incidents,"Close incidents automatically after a set number of days in the ""Resolved"" state."
+Cherwell Software,Escalate Overdue Incidents,Automatically escalate incidents that are overdue to higher-level support teams or managers.
+Cherwell Software,Auto-Assign Priority to Incidents,Automatically assign priorities to incidents based on keywords in the request or predefined conditions.
+Cherwell Software,Notify Users of Incident Updates,Send automated notifications to users when the status or priority of their incident is updated.
+Cherwell Software,Reopen Resolved Incidents on User Response,Automatically reopen incidents when a user responds after the incident is marked as resolved.
+Cherwell Software,Notify on High-Priority Incidents,Automatically send alerts to specific teams or managers when a high-priority incident is created.
+Cherwell Software,Auto-Create Incidents from Emails,Automatically convert emails sent to a designated support address into Cherwell incidents.
+Cherwell Software,Assign Incidents Based on Technician Skills,Route incidents to technicians with the required skills to handle the issue effectively.
+Cherwell Software,Send Satisfaction Surveys After Resolution,Automatically send customer satisfaction surveys after incidents are resolved.
+Cherwell Software,Generate Weekly SLA Reports,Automate the generation and distribution of weekly SLA performance reports to stakeholders.
+Cherwell Software,Auto-Categorize Incidents,Automatically assign categories to incidents based on keywords or predefined rules.
+Cherwell Software,Notify on Major Incidents,Automatically notify all impacted users and stakeholders when a major incident is logged.
+Cherwell Software,Monitor Technician Workload,Track technician workloads automatically and generate alerts when workloads are unevenly distributed.
+Cherwell Software,Notify on VIP User Incidents,Automatically escalate and notify appropriate teams when a VIP user submits an incident.
+Cherwell Software,Archive Old Incidents,Automatically archive incidents that have been resolved or closed for a specified time.
+Cherwell Software,Auto-Resolve Duplicate Incidents,Automatically detect and resolve duplicate incidents by linking them to the original incident.
+Cherwell Software,Notify on Incident Escalation,Send alerts to stakeholders when an incident is escalated.
+Cherwell Software,Assign Incidents During After-Hours,Automatically assign incidents to on-call technicians during non-business hours.
+Cherwell Software,Create Problem Records from Repeated Incidents,Automatically generate a problem record when multiple incidents with the same root cause are logged.
+Cherwell Software,Auto-Close Incidents Without User Response,Automatically close incidents if users fail to respond within a predetermined period.
+Cherwell Software,Generate Daily Incident Reports,"Automatically generate daily reports summarizing the number of incidents logged, resolved, and pending."
+Cherwell Software,Notify Users of Scheduled Maintenance,Send automated notifications to users about upcoming scheduled maintenance activities.
+Cherwell Software,Auto-Assign Incidents to Groups,Automatically route incidents to specific technician groups based on the issue type or service category.
+Cherwell Software,Monitor SLA Compliance,Track SLA compliance and notify teams of potential or actual SLA violations.
+Cherwell Software,Auto-Tag Incidents for Reporting,Automatically tag incidents with relevant labels for easier reporting and analysis.
+Cherwell Software,Notify on Low Customer Satisfaction,Automatically notify managers when customer satisfaction scores fall below a specific threshold.
+Cherwell Software,Auto-Generate Knowledge Base Articles,Automatically create knowledge base articles from resolved incidents to document commonly resolved issues.
+Cherwell Software,Create Onboarding Tasks for New Employees,"Automatically generate onboarding tasks for new hires, such as setting up accounts or provisioning hardware."
+Cherwell Software,Notify on High-Traffic Incident Categories,Send alerts when incidents in specific categories exceed a predefined volume within a short period.
+Cherwell Software,Update Incidents on Dependency Changes,Automatically update the status of incidents when dependent tasks or related incidents are completed.
+Cherwell Software,Monitor Asset Warranty Expiry,Notify asset managers automatically when warranties for critical assets are about to expire.
+Cherwell Software,Escalate VIP Incidents,Automatically escalate incidents related to VIP users to higher-priority queues or senior agents.
+Cherwell Software,Assign Incidents Based on Location,Route incidents to technicians or teams based on the geographic location of the user or asset.
+Cherwell Software,Generate Monthly Performance Dashboards,"Automatically create visual dashboards summarizing incident trends, SLA compliance, and resolution times."
+Cherwell Software,Notify on Outdated Knowledge Articles,Send reminders to update or remove knowledge base articles that have not been reviewed or updated for a long time.
+Cherwell Software,Monitor Integration Failures,Automatically detect failures in third-party integrations and create incidents or alerts for investigation.
+Cherwell Software,Notify on Critical Asset Downtime,Automatically send notifications when critical assets experience downtime or performance degradation.
+Cherwell Software,Auto-Assign Change Requests,Automatically assign change requests to the appropriate change manager or team based on the request type.
+Cherwell Software,Send SLA Achievement Alerts,Notify technicians when they successfully resolve incidents within SLA timelines.
+Cherwell Software,Auto-Categorize Change Requests,Automatically assign categories to change requests based on keywords or predefined conditions.
+Cherwell Software,Generate Asset Inventory Reports,Automate the generation of asset inventory reports for IT teams to track and manage hardware and software resources.
+Cherwell Software,Notify on License Expiry,Automatically alert relevant teams when software licenses are nearing their expiration.
+Cherwell Software,Schedule Recurring Tasks,Automatically schedule recurring tasks for routine maintenance or other regular activities.
+Cherwell Software,Monitor Disk Space Usage,Automatically generate alerts or create incidents when server disk space usage exceeds a predefined threshold.
+Cherwell Software,Notify on Major Incident Resolution,"Notify stakeholders when a major incident is resolved, including a summary of the resolution process."
+Cherwell Software,Escalate Negative Customer Feedback,Automatically escalate incidents that receive negative customer satisfaction feedback.
+Cherwell Software,Monitor API Usage Limits,Automatically send alerts when API usage approaches predefined thresholds.
+Cherwell Software,Auto-Create Incidents for Social Media Queries,Automatically generate incidents for customer queries or complaints received via integrated social media platforms.
+Cherwell Software,Generate Compliance Reports,Automate the creation of compliance reports for audit and regulatory purposes.
+Cherwell Software,Notify Users of Technician Assignments,Automatically notify users when a technician is assigned to their incident.
+Cherwell Software,Auto-Renew Expiring Contracts,Automatically renew service contracts nearing their expiration dates based on predefined rules.
+Cherwell Software,Link Related Incidents Automatically,Automatically link incidents that are related to the same root cause for better incident management.
+Cherwell Software,Generate Incident Trend Reports,Automatically analyze incident trends over time and generate reports for actionable insights.
+Cherwell Software,Notify on Failed Scheduled Jobs,Automatically alert administrators when scheduled jobs fail to execute properly.
+Cherwell Software,Track Patch Deployment Status,Automatically monitor patch deployment progress and create incidents for failed deployments.
+Cherwell Software,Notify on Unauthorized Access Attempts,Automatically send alerts to security teams when unauthorized access attempts are detected.
+Cherwell Software,Monitor SLA Timer Resets,Notify managers when SLA timers are reset due to changes in incident status.
+Cherwell Software,Auto-Assign Facilities Requests,Automatically assign facilities-related service requests to the appropriate team based on location or category.
+Cherwell Software,Notify on Service Health Degradation,Automatically create incidents or send alerts when service health metrics fall below acceptable thresholds.
+Cherwell Software,Auto-Create Tickets for Outage Alerts,Automatically generate tickets when system outages are detected by integrated monitoring tools.
+Cherwell Software,Track Software Usage,Automatically monitor software usage and notify teams when license usage exceeds thresholds.
+Cherwell Software,Notify on User Account Lockouts,"Create incidents automatically when user accounts are locked out, and notify the IT team for resolution."
+Cherwell Software,Monitor Configuration Drift,Automatically detect configuration drift in IT assets and create incidents or notify relevant teams.
+Cherwell Software,Auto-Create Approval Tasks for Changes,Automatically generate approval tasks for change requests and send notifications to approvers.
+Cherwell Software,Notify on SLA,

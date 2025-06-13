@@ -1,0 +1,73 @@
+Category,Short Description,Description
+ClickUp,Automate Task Creation,Automatically create tasks based on incoming requests or specific triggers.
+ClickUp,Assign Tasks to Team Members,Automatically assign tasks to team members based on workload or predefined rules.
+ClickUp,Set Task Due Dates,Automatically set due dates for tasks based on project timelines or task priorities.
+ClickUp,Notify Team of Task Assignments,Send automated notifications to team members when tasks are assigned to them.
+ClickUp,Track Task Status Updates,Automatically update task statuses as progress is made or based on specific triggers.
+ClickUp,Create Recurring Tasks,Automate the creation of recurring tasks for repetitive activities like daily stand-ups or weekly reports.
+ClickUp,Send Task Overdue Alerts,Notify team members automatically when their assigned tasks are overdue.
+ClickUp,Automate Subtask Creation,Automatically generate subtasks for tasks that require detailed steps.
+ClickUp,Link Related Tasks,Automatically link related tasks to ensure dependencies and relationships are clear.
+ClickUp,Notify of Task Comments,Send automated notifications when comments are added to tasks.
+ClickUp,Automate Task Prioritization,"Automatically prioritize tasks based on urgency, importance, or established rules."
+ClickUp,Assign Tags to Tasks,Automatically add tags to tasks based on their category or department.
+ClickUp,Create Templates for Repetitive Projects,Automate the creation of project templates for frequently recurring project types.
+ClickUp,Generate Task Progress Reports,Automatically generate reports summarizing the progress of tasks within a project.
+ClickUp,Notify of Completed Tasks,Send automated notifications when tasks are marked as complete.
+ClickUp,Automate Dependency Updates,Automatically update task dependencies when related tasks are completed or rescheduled.
+ClickUp,Set Task Start Dates,Automatically assign start dates to tasks based on project schedules.
+ClickUp,Move Tasks Between Lists,Automate the movement of tasks between lists as they progress through different stages.
+ClickUp,Assign Task Watchers,Automatically add watchers to tasks based on their involvement or department.
+ClickUp,Notify of Missed Deadlines,Send alerts to project managers when deadlines for critical tasks are missed.
+ClickUp,Automate Time Tracking,Automatically start and stop time tracking for tasks based on their status or user activity.
+ClickUp,Generate Weekly Workload Reports,Automatically generate reports showing team member workloads for the week.
+ClickUp,Notify of Workload Imbalances,Send alerts when team members are over-assigned or under-assigned to tasks.
+ClickUp,Automate Task Checklist Creation,Automatically add checklists to tasks based on predefined templates.
+ClickUp,Send Daily Task Summaries,Send automated summaries of assigned tasks to each team member at the start of the day.
+ClickUp,Automate Task Status Rollups,Automatically roll up the status of subtasks to update the status of their parent task.
+ClickUp,Notify of Task Due Soon,Send reminders to team members when their tasks are due within a specified time frame.
+ClickUp,Automate Task Archive Process,Automatically archive completed tasks after a specified period of inactivity.
+ClickUp,Sync Tasks with Calendars,Automatically sync tasks with external calendars like Google Calendar or Outlook.
+ClickUp,Notify of Task Reassignments,Send notifications when tasks are reassigned to different team members.
+ClickUp,Automate Task Reassignments,Automatically reassign tasks when the original assignee is unavailable or inactive.
+ClickUp,Send Notifications for Urgent Tasks,Automatically notify team members when tasks are marked as urgent.
+ClickUp,Automate Board View Updates,Automatically update board views based on task statuses or project progress.
+ClickUp,Assign Task Dependencies,Automatically assign dependencies to tasks based on project workflows.
+ClickUp,Notify of Blocked Tasks,Send alerts when tasks are blocked by unresolved dependencies.
+ClickUp,Automate File Attachments,Automatically attach files to tasks based on related project documents.
+ClickUp,Generate Monthly Project Reports,Automatically create and share reports summarizing project performance for the month.
+ClickUp,Notify of Project Milestone Completion,Send automated notifications when key project milestones are achieved.
+ClickUp,Automate Goal Tracking,Automatically update progress on goals based on completed tasks or milestones.
+ClickUp,Send Goal Progress Notifications,Notify stakeholders of progress toward specific goals on a regular basis.
+ClickUp,Automate Comment Reply Notifications,Send alerts when comments on tasks require a response or follow-up.
+ClickUp,Notify of Unassigned Tasks,Send alerts to project managers when tasks are created without an assignee.
+ClickUp,Automate Task Assignment Rules,"Automatically assign tasks based on custom rules, such as department, priority, or location."
+ClickUp,Track Task Revisions,Automatically log and notify team members of revisions made to task descriptions or details.
+ClickUp,Automate Sprint Planning,Create sprints and assign tasks automatically based on team capacity and backlog priorities.
+ClickUp,Notify of Sprint Deadlines,Send automated reminders to teams about approaching sprint deadlines.
+ClickUp,Automate Agile Workflow Updates,Automatically update agile boards and workflows based on completed tasks or changing priorities.
+ClickUp,Generate Sprint Retrospective Reports,Automatically create reports summarizing sprint performance and lessons learned.
+ClickUp,Notify of High-Priority Task Changes,Send alerts when the priority of a high-priority task is modified.
+ClickUp,Automate Risk Tracking,Automatically track and notify project managers of risks based on task delays or missed deadlines.
+ClickUp,Notify of Budget Overruns,Send alerts when project budgets are exceeded based on task time tracking or logged expenses.
+ClickUp,Automate Budget Tracking,Automatically update project budgets based on time tracking or expense logs.
+ClickUp,Sync Tasks with CRM,Automatically sync ClickUp tasks with customer relationship management (CRM) systems for sales and support.
+ClickUp,Notify of Customer-Related Task Updates,Send automated notifications when customer-related tasks are updated or completed.
+ClickUp,Track Customer Feedback,Automatically create tasks to address customer feedback submitted through forms or surveys.
+ClickUp,Automate Meeting Agendas,Automatically create tasks for meeting agendas or notes based on calendar events.
+ClickUp,Notify of Meeting Action Items,Send reminders to team members about action items assigned during meetings.
+ClickUp,Automate Bug Tracking,Automatically create and assign tasks for reported bugs in software development projects.
+ClickUp,Notify of Bug Fix Progress,Send automated updates to stakeholders about progress on bug fixes.
+ClickUp,Automate QA Testing Workflows,Automatically assign QA testing tasks and track completion status.
+ClickUp,Generate QA Test Reports,Automatically create reports summarizing QA test results.
+ClickUp,Notify of Failed Tests,Send alerts when testing tasks fail or require rework.
+ClickUp,Automate Task Import from Spreadsheets,Automatically import tasks from spreadsheets into ClickUp lists.
+ClickUp,Notify of Duplicate Tasks,Send alerts when duplicate tasks are detected within a project or list.
+ClickUp,Automate Task Cleanup,Automatically delete or archive old or inactive tasks to keep projects organized.
+ClickUp,Notify of Task Workflow Errors,Send alerts to admins when errors are detected in task workflows.
+ClickUp,Automate External File Sharing,Automatically share task-related documents with external stakeholders.
+ClickUp,Notify of Shared File Expirations,Send reminders for expiring file sharing links.
+ClickUp,Automate API Integration Updates,Automatically update connected systems via API integration when tasks or projects change.
+ClickUp,Notify of Integration Failures,Send alerts when integrations with external tools fail or experience errors.
+ClickUp,Automate Custom Field Updates,Automatically update custom fields in tasks or projects based on predefined triggers.
+ClickUp,,

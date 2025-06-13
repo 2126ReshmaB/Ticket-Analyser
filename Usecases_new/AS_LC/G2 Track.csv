@@ -1,0 +1,62 @@
+Category,Short Description,Description
+G2 Track,Automate SaaS subscription tracking,Automatically track all active SaaS subscriptions across the organization to ensure no services are overlooked.
+G2 Track,Identify unused SaaS subscriptions,Automate the identification of unused or underutilized SaaS subscriptions to optimize costs.
+G2 Track,Notify admins of upcoming subscription renewals,Send automated reminders to admins about upcoming subscription renewal dates to avoid service interruptions.
+G2 Track,Automate subscription cost tracking,Track and report on the cost of each subscription and its utilization to provide insights into ROI.
+G2 Track,Identify duplicate SaaS tools,Automatically flag duplicate SaaS tools being used across departments to avoid redundancy.
+G2 Track,Generate SaaS usage reports,Automate the creation of detailed reports on SaaS usage for individual tools or teams.
+G2 Track,Automate vendor contract tracking,"Track and manage vendor contracts, ensuring contract terms are adhered to and renewals are planned in advance."
+G2 Track,Track user activity for SaaS tools,Automatically monitor user activity for SaaS tools to identify who is actively using specific software.
+G2 Track,Automate expense allocation,Allocate SaaS subscription costs to departments or projects automatically based on usage data.
+G2 Track,Notify users of inactive subscriptions,Send automated notifications to users about tools they are subscribed to but are not actively using.
+G2 Track,Automate SaaS budget forecasting,Predict future SaaS spending based on historical usage and subscription growth trends.
+G2 Track,Automate user offboarding for SaaS tools,Automatically revoke access to SaaS tools when employees leave the organization to reduce unnecessary costs.
+G2 Track,Automate user onboarding for SaaS tools,Assign SaaS tool access to new hires based on their role and department automatically.
+G2 Track,Detect shadow IT,Identify unauthorized or unapproved SaaS tools being used within the organization to mitigate risks.
+G2 Track,Automate SaaS license optimization,Optimize SaaS license allocation by identifying oversubscription or underutilization.
+G2 Track,Generate department-level SaaS spending reports,Automatically generate reports showing SaaS spending broken down by department for budgeting purposes.
+G2 Track,Monitor SaaS spending trends,Track and analyze SaaS spending trends over time to identify areas for potential savings.
+G2 Track,Automate compliance checks,Ensure all SaaS subscriptions comply with company and regulatory policies by running automated checks.
+G2 Track,Notify admins of upcoming contract expirations,Send alerts to admins when SaaS contracts are approaching their expiration dates.
+G2 Track,Automate renewal approval processes,Streamline SaaS subscription renewal approvals by automating workflows for managers and admins.
+G2 Track,Automate SaaS usage benchmarking,Compare SaaS usage across teams or industries to identify if the organization is using the tools efficiently.
+G2 Track,Generate ROI reports for SaaS tools,Automatically calculate ROI for SaaS tools based on their cost and usage data.
+G2 Track,Automate integration tracking,Track integrations between SaaS tools to ensure compatibility and efficiency.
+G2 Track,Automate cost savings recommendations,"Identify potential cost-saving opportunities, such as downgrades or cancellations, and generate recommendations for action."
+G2 Track,Notify admins of over-budget SaaS spending,Send alerts when SaaS spending exceeds the allocated budget for a specific tool or department.
+G2 Track,Track multi-year SaaS contracts,Automate the tracking of multi-year SaaS contracts and send reminders for mid-term reviews or renegotiations.
+G2 Track,Automate SaaS tool reviews,Notify users to provide feedback and reviews for SaaS tools to evaluate their effectiveness within the organization.
+G2 Track,Detect overlapping SaaS features,Identify SaaS tools that provide similar features to reduce redundancy and costs.
+G2 Track,Automate vendor risk assessments,"Assess vendor risks automatically by analyzing contract terms, compliance, and performance."
+G2 Track,Track SaaS user satisfaction,Collect and analyze user feedback to measure satisfaction with SaaS tools automatically.
+G2 Track,Automate SaaS tool provisioning,Automate the provisioning of SaaS tools for users based on their roles and responsibilities.
+G2 Track,Track SaaS scalability usage,Monitor SaaS tools to identify if they are scaling effectively with organizational growth.
+G2 Track,Automate SaaS cancellation processes,"Automatically initiate cancellation workflows for unused, redundant, or underperforming SaaS tools."
+G2 Track,Notify teams of SaaS spending thresholds,Send alerts to teams when their SaaS spending approaches allocated thresholds.
+G2 Track,Automate SaaS access cleanup,Revoke access to unnecessary or outdated SaaS subscriptions automatically.
+G2 Track,Generate SaaS tool comparison reports,Create reports comparing the cost and functionality of similar SaaS tools to optimize decision-making.
+G2 Track,Automate SaaS vendor evaluations,"Evaluate vendor performance automatically based on metrics like cost, usage, and user feedback."
+G2 Track,Track SaaS compliance with GDPR standards,Monitor SaaS tools to ensure compliance with GDPR and other privacy regulations.
+G2 Track,Automate SaaS security assessments,Assess the security posture of SaaS tools automatically to identify vulnerabilities.
+G2 Track,Generate user-level SaaS cost reports,Break down SaaS costs by individual users to provide insights into spending patterns.
+G2 Track,Track SaaS tool adoption rates,Monitor how quickly SaaS tools are being adopted by users after implementation.
+G2 Track,Automate SaaS budget reallocation,Reallocate SaaS budgets dynamically based on changing usage patterns or departmental needs.
+G2 Track,Notify admins of SaaS performance issues,Send alerts when a SaaS tool experiences performance issues or outages.
+G2 Track,Automate SaaS trend analysis,Track industry trends in SaaS adoption to identify potential new tools or technologies for the organization.
+G2 Track,Automate SaaS tool license renewal decisions,Provide automated recommendations for license renewals based on usage and performance data.
+G2 Track,Automate SaaS approval workflows,Streamline the approval process for new SaaS subscriptions using automated workflows.
+G2 Track,Identify SaaS tools with low engagement,Track and report on tools with low user engagement to determine if they should be retained or canceled.
+G2 Track,Integrate SaaS data with accounting systems,Automatically sync SaaS spending data with accounting or ERP systems for financial tracking.
+G2 Track,Generate SaaS environmental impact reports,"Calculate and report on the environmental impact of SaaS tools, such as energy consumption in data centers."
+G2 Track,Track SaaS usage by role,Break down SaaS usage data by user role to identify trends and optimize allocations.
+G2 Track,Automate SaaS vendor consolidation,Identify opportunities to consolidate SaaS vendors and reduce the number of contracts.
+G2 Track,Notify admins of new SaaS tools being used,Automatically detect and notify admins when new SaaS tools are being used without approval.
+G2 Track,Automate SaaS usage limits enforcement,Enforce usage limits for SaaS tools based on subscription plans automatically.
+G2 Track,Track SaaS spend per employee,Generate reports on SaaS spending per employee to identify high-cost users or tools.
+G2 Track,Automate SaaS user access reviews,Periodically review and validate user access to SaaS tools to ensure compliance.
+G2 Track,Track SaaS costs for cost savings opportunities,Identify patterns in SaaS spending that indicate potential cost savings.
+G2 Track,Notify users of subscription price changes,Send alerts to users or admins when the cost of a SaaS subscription changes.
+G2 Track,Automate SaaS spend benchmarking,Compare the organization's SaaS spending against industry benchmarks to determine efficiency.
+G2 Track,Automate SaaS renewal negotiations,Provide data-driven insights to aid in vendor renewal negotiations.
+G2 Track,Track SaaS usage by device,Monitor SaaS usage across devices to identify trends and optimize deployments.
+G2 Track,Automate SaaS re-provisioning,Reassign unused SaaS licenses to

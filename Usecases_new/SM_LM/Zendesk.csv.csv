@@ -1,0 +1,74 @@
+Category,Short Description,Description
+Zendesk,Ticket Creation from Email,Automate the creation of tickets from incoming customer emails by parsing email content.
+Zendesk,Automatic Ticket Assignment,"Automate assigning tickets to the appropriate agent or team based on ticket category, keywords, or region."
+Zendesk,SLA Monitoring,Automate tracking and alerts for tickets approaching SLA deadlines.
+Zendesk,Escalation Rules,Automate ticket escalation to higher support tiers when SLA thresholds are breached.
+Zendesk,Auto-Categorization of Tickets,Automate categorization of incoming tickets based on keywords or predefined rules.
+Zendesk,Priority Adjustment,Automate updating ticket priorities dynamically based on keywords or urgency levels.
+Zendesk,Status Change Notifications,Automate sending notifications to customers or agents when the status of a ticket changes.
+Zendesk,Auto-Closing Inactive Tickets,"Automate closing tickets that remain inactive for a defined period, with a customer notification."
+Zendesk,Recurring Ticket Creation,Automate the creation of recurring tickets for routine maintenance or scheduled tasks.
+Zendesk,Knowledge Base Article Creation,Automate creation of knowledge base articles from resolved tickets for future reference.
+Zendesk,Knowledge Base Expiry Notifications,Automate reminders for reviewing and updating outdated knowledge base articles.
+Zendesk,Customer Satisfaction Surveys,Automate sending surveys to customers after ticket resolution to gather feedback.
+Zendesk,Auto-Tagging Tickets,Automate tagging tickets based on keywords or categories for better organization and reporting.
+Zendesk,Ticket Duplication Detection,Automate identifying and merging duplicate tickets to reduce redundancy.
+Zendesk,Event Correlation,Automate linking related tickets or events into a single ticket for easier management.
+Zendesk,Integration with Slack,Automate notifications and ticket updates to Slack channels for team collaboration.
+Zendesk,Integration with Email,Automate parsing emails to create or update tickets and send responses.
+Zendesk,Integration with CRM Systems,Automate syncing ticket data with CRM tools like Salesforce for better customer management.
+Zendesk,Integration with Monitoring Tools,Automate ticket creation in Zendesk based on alerts from monitoring tools like Nagios or Datadog.
+Zendesk,Integration with Social Media,"Automate the creation of tickets from social media mentions or messages (e.g., Twitter, Facebook)."
+Zendesk,SLA Breach Reporting,Automate the generation of reports on SLA breaches for analysis and process improvement.
+Zendesk,Ticket Aging Reports,Automate generating reports to track unresolved or aging tickets.
+Zendesk,Real-Time Dashboards,Automate updating dashboards with real-time ticket statuses and SLA compliance metrics.
+Zendesk,Custom SLA Rules,Automate the application of SLA rules tailored to specific customer groups or ticket types.
+Zendesk,Feedback Collection,Automate gathering feedback from customers after ticket resolution or service delivery.
+Zendesk,Knowledge Base Analytics,Automate generating reports on knowledge base usage to identify content gaps.
+Zendesk,Proactive Outage Notifications,Automate sending notifications to customers about planned or unplanned outages.
+Zendesk,Customer Onboarding,"Automate workflows for onboarding new customers, including ticket creation and tracking."
+Zendesk,Agent Performance Reporting,Automate generating reports on agent performance metrics like resolution time and customer satisfaction ratings.
+Zendesk,Multi-Language Notifications,Automate sending notifications in multiple languages based on customer preferences.
+Zendesk,Dynamic Form Fields,Automate showing or hiding form fields based on customer input or ticket category.
+Zendesk,Scheduled Maintenance Notifications,Automate sending notifications to customers about upcoming scheduled maintenance.
+Zendesk,Ticket Workflow Error Reporting,Automate identifying and reporting errors in ticket workflows for troubleshooting.
+Zendesk,Customer Segmentation,"Automate ticket categorization and prioritization based on customer segmentation (e.g., VIP customers)."
+Zendesk,Ticket Volume Forecasting,Automate forecasting ticket volume based on historical data to optimize resource allocation.
+Zendesk,SLA Breach Prediction,Automate predicting SLA breaches and alerting agents to take preventive actions.
+Zendesk,Duplicate Customer Identification,Automate identifying duplicate customer profiles in the system and merging them.
+Zendesk,Proactive Maintenance,Automate creating proactive maintenance tickets based on asset performance or monitoring data.
+Zendesk,Integration with Active Directory,Automate syncing user accounts with Active Directory for accurate access management.
+Zendesk,Asset Management Updates,Automate updating the asset inventory in Zendesk CMDB when new assets are added or modified.
+Zendesk,License Renewal Notifications,Automate sending reminders for upcoming license renewals.
+Zendesk,Hardware Warranty Tracking,Automate tracking hardware warranties and alerting teams before expiration.
+Zendesk,Scheduled Workflow Execution,Automate running specific workflows on a predefined schedule.
+Zendesk,Cost Allocation Reports,Automate generating cost allocation reports for IT services and customer support operations.
+Zendesk,Agent Shift Handover Reports,Automate generating handover reports for agents during shift changes.
+Zendesk,Customer Contact Updates,Automate updating customer contact details across systems when changes are detected.
+Zendesk,Service Health Monitoring,Automate monitoring the health of services and create tickets for service degradation or failures.
+Zendesk,Outage Communication Templates,Automate generating reusable templates for communicating outage updates to customers.
+Zendesk,Ticket Routing Optimization,Automate optimizing ticket routing to the best-suited agents based on skills or workload.
+Zendesk,Chatbot Integration,Automate ticket creation and updates based on customer interactions with chatbots.
+Zendesk,Multi-Channel Ticket Creation,"Automate ticket creation from multiple channels such as email, chat, social media, and phone calls."
+Zendesk,Resource Allocation,Automate tracking and allocation of resources to tickets based on priority or workload.
+Zendesk,Gantt Chart Updates,Automate updating Gantt charts for tracking long-term ticket or project progress.
+Zendesk,Incident Dependency Mapping,Automate mapping dependencies between incidents and affected services in the CMDB.
+Zendesk,SLA Compliance Dashboards,Automate updating dashboards that track real-time SLA compliance metrics.
+Zendesk,Preventive Maintenance,Automate creating preventive maintenance tickets based on predefined schedules.
+Zendesk,Ticket Auto-Reopening,Automate reopening tickets when customers respond to previously closed tickets.
+Zendesk,Feedback Analysis,Automate analyzing customer feedback to determine satisfaction trends and areas for improvement.
+Zendesk,Knowledge Gap Identification,Automate identifying gaps in the knowledge base by analyzing failed searches or unresolved tickets.
+Zendesk,Real-Time Ticket Prioritization,Automate prioritization of tickets in real-time based on customer impact or urgency.
+Zendesk,SLA Violation Root Cause Analysis,Automate generating root cause analysis reports for SLA violations.
+Zendesk,Agent Training Records,Automate tracking and updating agent training and certification records.
+Zendesk,Dynamic SLA Adjustments,Automate adjusting SLA targets dynamically based on ticket priority or customer type.
+Zendesk,Ticket Volume Analytics,Automate generating reports on ticket volume trends to optimize staffing and resources.
+Zendesk,Customer Escalation Workflows,Automate workflows for escalating customer issues to higher management or specialized teams.
+Zendesk,Risk Assessment for Changes,Automate assessing risks associated with change requests and creating tickets for mitigation plans.
+Zendesk,Ticket Dependency Tracking,"Automate tracking dependencies between tickets, such as linked incidents or tasks."
+Zendesk,API Integration for Third-Party Tools,Automate integration with third-party tools via API for ticket creation or updates.
+Zendesk,Customer Retention Metrics,Automate tracking and reporting customer retention rates based on ticket satisfaction scores.
+Zendesk,Ticket Resolution Time Analysis,Automate analyzing average ticket resolution times and generating performance reports.
+Zendesk,Chat Transcript Archival,Automate archiving chat transcripts into tickets for future reference or audits.
+Zendesk,Outage Impact Analysis,Automate generating reports on the impact of outages based on affected tickets or customers.
+Zendesk,Ticket Workflow Optimization,Automate optimizing workflows by identifying bottlenecks or inefficiencies in ticket handling.

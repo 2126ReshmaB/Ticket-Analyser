@@ -1,0 +1,68 @@
+Category,Short Description,Description
+Usabilla,Auto-send feedback acknowledgment emails,Automatically send personalized thank-you emails to users after they submit feedback via Usabilla.
+Usabilla,Categorize feedback automatically,"Use scripts to categorize incoming feedback into predefined categories like ""Feature Request,"" ""Bug Report,"" or ""UI Issue."""
+Usabilla,Export feedback to Google Sheets,Automatically export feedback data to a Google Sheets file for real-time collaboration and analysis.
+Usabilla,Notify teams of new feedback,"Send automated notifications to Slack, Microsoft Teams, or email whenever new feedback is received."
+Usabilla,Create Jira tickets for bugs,"Automatically create Jira tickets for feedback tagged as ""Bug"" to streamline development workflows."
+Usabilla,Generate weekly feedback reports,Automatically generate and email weekly feedback summaries to stakeholders.
+Usabilla,Sync feedback with Salesforce,Push customer feedback into Salesforce to update customer profiles and track satisfaction.
+Usabilla,Trigger surveys on specific user actions,"Automatically trigger follow-up surveys when users perform specific actions, such as completing a purchase or abandoning a cart."
+Usabilla,Auto-tag feedback by sentiment,"Use sentiment analysis to automatically tag feedback as ""Positive,"" ""Neutral,"" or ""Negative."""
+Usabilla,Prioritize feature requests,Automatically prioritize feature requests based on the number of submissions or user impact.
+Usabilla,Translate feedback automatically,Automatically translate feedback into different languages using translation APIs for global teams.
+Usabilla,Sync with Trello,"Automatically create Trello cards for actionable feedback items, such as feature requests or bug reports."
+Usabilla,Track feedback trends,Automatically analyze and generate reports on recurring feedback themes or trends.
+Usabilla,Auto-close resolved feedback,Mark feedback items as resolved when associated issues are closed in development tools like Jira or Trello.
+Usabilla,Export feedback to CSV,Automatically export feedback data to a CSV file for offline processing and reporting.
+Usabilla,Monitor NPS trends,Automatically track and report on Net Promoter Score (NPS) trends over time.
+Usabilla,Send escalation alerts,Notify managers automatically when critical or high-priority feedback is received.
+Usabilla,Sync feedback with Airtable,Push feedback submissions into Airtable for advanced tracking and organization.
+Usabilla,Generate word clouds from feedback,Automatically create word clouds from feedback submissions to visualize common themes.
+Usabilla,Auto-track satisfaction scores,Monitor and report on user satisfaction scores using automated scripts.
+Usabilla,Notify developers of usability issues,Automatically send usability-related feedback to development teams for resolution.
+Usabilla,Integrate with Zendesk,Automatically create Zendesk tickets for feedback that requires customer support follow-up.
+Usabilla,Schedule recurring feedback exports,Automate the process of exporting feedback data to external tools or databases on a recurring basis.
+Usabilla,Sync feedback with HubSpot,Automatically sync Usabilla feedback into HubSpot to enhance customer insights.
+Usabilla,Track recurring issues,Automatically identify and report on recurring issues from customer feedback.
+Usabilla,Trigger feedback surveys after interactions,"Automatically trigger feedback surveys after customer interactions, such as support calls or live chats."
+Usabilla,Auto-create tasks in Asana,Automatically generate tasks in Asana for actionable feedback items.
+Usabilla,Create dashboards in Power BI,Push feedback data into Power BI to create real-time dashboards and monitor trends.
+Usabilla,Auto-respond to duplicate feedback,Identify duplicate feedback and send automated responses linking users to the original submission.
+Usabilla,Track sentiment changes,Automatically monitor and report on changes in customer sentiment over time.
+Usabilla,Notify teams of unresolved feedback,Send automated reminders to teams about unresolved feedback items.
+Usabilla,Integrate with ClickUp,Automatically create and update ClickUp tasks based on actionable feedback.
+Usabilla,Auto-tag feedback by user role,"Automatically tag feedback submissions by user roles, such as ""Administrator,"" ""Customer,"" or ""Visitor."""
+Usabilla,Export feedback to JSON,Convert feedback data into JSON format for integration with external systems or APIs.
+Usabilla,Auto-create GitHub issues,Automatically create GitHub issues for feedback submissions related to technical bugs or feature requests.
+Usabilla,Send reminders for incomplete surveys,Automatically send reminders to users to complete partially filled surveys.
+Usabilla,Monitor feedback response rates,Track and report on feedback response completion rates to identify engagement issues.
+Usabilla,Auto-prioritize bug reports,"Automatically rank bug reports based on severity, frequency, or user impact."
+Usabilla,Generate satisfaction score heatmaps,Create heatmaps to visualize satisfaction scores across different regions or demographics.
+Usabilla,Sync feedback with Monday.com,Create tasks or update boards in Monday.com based on feedback submissions.
+Usabilla,Monitor feedback submission times,Automatically track and report on the times when feedback submissions are most frequent.
+Usabilla,Generate quarterly feedback summaries,Automatically generate and share quarterly reports summarizing feedback trends.
+Usabilla,Auto-translate feedback summaries,Automatically translate feedback summaries for global teams.
+Usabilla,Send follow-up emails for feedback,"Automatically send follow-up emails to users who provide feedback, asking for clarification or additional input."
+Usabilla,Track customer satisfaction by location,Automatically group and analyze satisfaction scores by user location.
+Usabilla,Create Notion pages for feedback,Automatically generate and organize Notion pages for feedback submissions.
+Usabilla,Notify designers of UI feedback,Automatically route UI-related feedback to design teams for review and action.
+Usabilla,Monitor recurring feedback trends,Automatically track and report on recurring feedback themes across submissions.
+Usabilla,Auto-create surveys for specific users,Dynamically generate follow-up surveys based on user roles or feedback content.
+Usabilla,Export feedback to Excel,Automatically export feedback to Excel for detailed offline analysis.
+Usabilla,Auto-tag high-priority feedback,"Automatically tag feedback with high-priority flags based on keywords like ""urgent"" or ""critical."""
+Usabilla,Sync with Dropbox,Automatically save feedback submissions and reports to Dropbox for secure storage.
+Usabilla,Monitor feedback trends by time period,"Track and report on feedback trends across specific time periods, such as weekly or monthly."
+Usabilla,Notify stakeholders of critical feedback,Automatically send notifications to relevant stakeholders when critical feedback is submitted.
+Usabilla,Generate customer satisfaction dashboards,Create dynamic dashboards to monitor customer satisfaction levels in real time.
+Usabilla,Track feedback by device type,"Automatically group and analyze feedback submissions by device type, such as mobile or desktop."
+Usabilla,Auto-create customer personas,Use recurring feedback patterns to dynamically create or update customer personas.
+Usabilla,Monitor churn-related feedback,Automatically track and report on feedback related to customer churn or dissatisfaction.
+Usabilla,Sync feedback with SharePoint,Automatically push feedback submissions into SharePoint for centralized documentation and collaboration.
+Usabilla,Create milestones from feedback,"Automatically create project milestones in tools like Trello, Asana, or Monday.com based on actionable feedback."
+Usabilla,Track feedback by user frequency,"Automatically segment feedback by user frequency, such as ""first-time users"" or ""returning users."""
+Usabilla,Notify teams of positive feedback,Automatically send notifications to teams when positive feedback is received.
+Usabilla,Monitor feedback by browser type,"Automatically group and analyze feedback submissions by browser type, such as Chrome, Firefox, or Safari."
+Usabilla,Auto-create reports for management,Automatically generate and email management-level reports summarizing feedback insights.
+Usabilla,Track feature adoption rates,Automatically monitor and report on user feedback related to new feature adoption.
+Usabilla,Notify customer success teams of feedback,Automatically route customer satisfaction feedback to customer success teams for follow-up.
+Usabilla,Track,

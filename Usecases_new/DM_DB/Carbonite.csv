@@ -1,0 +1,68 @@
+Category,Short Description,Description
+Carbonite,Scheduled Full Backups,"Automate full system backups on a daily, weekly, or monthly schedule using Carbonite."
+Carbonite,Incremental Backups,Automate incremental backups to save only the files that have been changed since the last backup.
+Carbonite,Differential Backups,Automate differential backups to capture all changes made since the last full backup.
+Carbonite,Cloud Backup Scheduling,Automate backups to Carbonite cloud storage at predefined intervals.
+Carbonite,Local Backup Scheduling,Automate backups to local drives or external storage devices.
+Carbonite,Encrypted Backups,Automate the creation of encrypted backups to ensure data security.
+Carbonite,File Versioning Automation,Automate the management and retention of file versions to ensure recoverability of older versions.
+Carbonite,Backup Retention Policy,Automate enforcement of backup retention policies to delete old or expired backups.
+Carbonite,Backup Verification,Automate verification of backup integrity to ensure data consistency and reliability.
+Carbonite,File Sync Across Devices,Automate file synchronization across multiple devices to ensure consistent data availability.
+Carbonite,File Upload Automation,Automate the upload of files from a specific folder to Carbonite cloud storage.
+Carbonite,File Download Automation,Automate downloading of specific files or folders from Carbonite to a local directory.
+Carbonite,Backup of Specific Folders,"Automate the backup of specific folders such as Documents, Pictures, or Projects."
+Carbonite,Backup of System Drives,Automate the backup of system drives for disaster recovery purposes.
+Carbonite,Application Data Backup,Automate the backup of application-specific data such as settings and configurations.
+Carbonite,User Profile Backup,"Automate backups of user profiles and personal data such as Desktop, My Documents, and Downloads."
+Carbonite,Multimedia Backup,"Automate the backup of photos, videos, and music to Carbonite cloud storage."
+Carbonite,Document Backup,"Automate the backup of important documents, spreadsheets, and presentations."
+Carbonite,Email Backup,Automate the backup of email archives or accounts such as Outlook PST files.
+Carbonite,Backup of Virtual Machines,Automate backups of virtual machines like VMware or Hyper-V to Carbonite cloud storage.
+Carbonite,NAS Backup Automation,Automate backups of Network Attached Storage (NAS) devices to Carbonite.
+Carbonite,External Device Backup,Automate backups of external drives or USB devices connected to the system.
+Carbonite,Cloud-to-Cloud Backup,Automate backups between Carbonite and other cloud storage providers such as Google Drive or Dropbox.
+Carbonite,Backup of Shared Drives,Automate the backup of shared folders or network drives to Carbonite.
+Carbonite,Backup of IoT Device Data,"Automate backups of data from IoT devices such as logs, usage statistics, and settings."
+Carbonite,Database Backup Automation,"Automate backups of databases such as MySQL, PostgreSQL, or SQL Server to Carbonite."
+Carbonite,Backup of CRM Data,Automate backups of Customer Relationship Management (CRM) system data to Carbonite.
+Carbonite,Backup of ERP Data,"Automate the backup of Enterprise Resource Planning (ERP) data such as financials, inventory, and orders."
+Carbonite,Financial Data Backup,Automate the backup of financial records and accounting data for secure storage.
+Carbonite,Legal Document Backup,"Automate backups of legal documents, contracts, and compliance records to ensure data security and accessibility."
+Carbonite,Medical Records Backup,Automate the backup of medical records and patient data to ensure HIPAA compliance.
+Carbonite,Educational Data Backup,"Automate backups of educational content, student records, and online learning resources."
+Carbonite,Research Data Backup,"Automate the backup of research papers, experiments, and datasets to Carbonite cloud storage."
+Carbonite,CAD Files Backup,Automate the backup of Computer-Aided Design (CAD) files for engineering and design projects.
+Carbonite,Backup of Video Editing Projects,"Automate the backup of video editing project files, raw footage, and final outputs."
+Carbonite,Backup of Audio Editing Projects,"Automate the backup of audio editing projects, soundtracks, and compositions."
+Carbonite,Game Development Backup,"Automate the backup of game development assets, code, and project files to Carbonite."
+Carbonite,Backup of AI Models,"Automate the backup of machine learning models, datasets, and related assets to Carbonite."
+Carbonite,Backup of IoT Sensor Logs,Automate the backup of data collected from IoT sensors and devices to Carbonite.
+Carbonite,Blockchain Data Backup,Automate the backup of blockchain ledger data or cryptocurrency wallets to Carbonite.
+Carbonite,Robotics Data Backup,"Automate the backup of robotics programming, sensor logs, and operational data to Carbonite."
+Carbonite,E-Commerce Data Backup,"Automate the backup of e-commerce platform data, including product catalogs, orders, and customer details."
+Carbonite,Backup of Marketing Campaign Data,"Automate the backup of marketing assets, campaign analytics, and creative files to Carbonite."
+Carbonite,Customer Support Data Backup,"Automate the backup of customer support logs, chat transcripts, and case files to Carbonite."
+Carbonite,Inventory Management Backup,Automate backups of inventory data and supply chain records to Carbonite.
+Carbonite,Backup of Manufacturing Data,Automate the backup of manufacturing process data and quality control reports to Carbonite.
+Carbonite,Backup of Energy Usage Data,Automate the backup of energy consumption and production data to Carbonite.
+Carbonite,Weather Data Backup,Automate the backup of meteorological data and weather forecasts to Carbonite.
+Carbonite,Wildlife Research Data Backup,"Automate the backup of wildlife tracking, research, and conservation data to Carbonite."
+Carbonite,Space Exploration Data Backup,"Automate the backup of telemetry, logs, and results from space exploration missions to Carbonite."
+Carbonite,Satellite Image Backup,Automate the backup of satellite imagery and GIS data to Carbonite cloud storage.
+Carbonite,Smart Home Data Backup,"Automate the backup of smart home configurations, logs, and device settings to Carbonite."
+Carbonite,Backup of Virtual Reality Projects,"Automate the backup of VR (Virtual Reality) project files, environments, and assets to Carbonite."
+Carbonite,Backup of Augmented Reality Projects,Automate the backup of AR (Augmented Reality) project files and applications to Carbonite.
+Carbonite,Backup of 3D Printing Designs,Automate the backup of 3D printing designs and STL files to Carbonite.
+Carbonite,Drone Video Backup,"Automate the backup of drone footage, telemetry data, and flight logs to Carbonite."
+Carbonite,Software License Backup,Automate the backup of software license keys and activation files for safekeeping.
+Carbonite,Backup of Website Data,"Automate the backup of website files, configurations, and databases to Carbonite."
+Carbonite,API Logs Backup,Automate the backup of API logs and transaction data to Carbonite for monitoring and debugging.
+Carbonite,Backup of Collaboration Tools,"Automate the backup of collaboration tools like Slack messages, Trello boards, or Google Workspace data to Carbonite."
+Carbonite,Backup of HR Records,"Automate the backup of employee records, payroll data, and HR-related documents to Carbonite."
+Carbonite,Backup of Marketing Assets,"Automate the backup of marketing creative files like banners, videos, and brochures to Carbonite."
+Carbonite,Scheduled Backup Cleanup,Automate the cleanup of old or unnecessary backups to optimize Carbonite storage usage.
+Carbonite,Pre-Backup Disk Cleanup,Automate disk cleanup tasks before initiating a backup to remove unnecessary files and optimize storage.
+Carbonite,Post-Backup Integrity Check,Automate the verification of backups after completion to ensure data integrity.
+Carbonite,Backup of Multimedia Libraries,Automate the backup of photo and video libraries to Carbonite cloud storage.
+Carbonite,Backup of Archived Data,Automate the backup of archived data for long-term storage in Carbonite

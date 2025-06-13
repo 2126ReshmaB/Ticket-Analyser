@@ -1,0 +1,91 @@
+Category,Short Description,Description
+Nagios,Monitor Server Health,"Track CPU, memory, and disk usage to ensure server performance."
+Nagios,Monitor Network Bandwidth,Measure network bandwidth usage to identify bottlenecks.
+Nagios,Monitor Application Performance,Track application response times and error rates to ensure optimal functionality.
+Nagios,Monitor Database Performance,Analyze query execution times and identify database bottlenecks.
+Nagios,Monitor Disk Space Usage,Track disk space usage to prevent storage issues.
+Nagios,Monitor Website Uptime,Ensure websites remain accessible by monitoring uptime and availability.
+Nagios,Monitor Email Server Performance,Track the performance and uptime of email servers like SMTP or Exchange.
+Nagios,Monitor Active Directory Health,Ensure Active Directory services are running efficiently and without errors.
+Nagios,Monitor Network Latency,Measure latency across network connections to detect delays.
+Nagios,Monitor Virtual Machines,Track resource usage and performance metrics for virtual machines.
+Nagios,Monitor Web Server Performance,Analyze HTTP response times and server load to ensure fast performance.
+Nagios,Monitor Cloud Services,Track the health and performance of cloud-hosted applications and resources.
+Nagios,Monitor Kubernetes Clusters,Ensure Kubernetes clusters are running efficiently and identify potential issues.
+Nagios,Monitor Containerized Applications,Track the resource usage of Docker and other containerized applications.
+Nagios,Monitor API Performance,"Measure API latency, error rates, and throughput."
+Nagios,Monitor Microservices Performance,Track the health and performance of microservices architectures.
+Nagios,Monitor Application Logs,Collect and analyze application logs for troubleshooting.
+Nagios,Monitor Server Uptime,Ensure servers remain operational by tracking uptime metrics.
+Nagios,Monitor Power Supply Metrics,Track power supply health to prevent hardware failures.
+Nagios,Monitor Server Fan Speed,Ensure server cooling systems are functioning correctly by monitoring fan speeds.
+Nagios,Monitor Server Temperature,Track server temperature to prevent overheating and hardware damage.
+Nagios,Monitor Network Interfaces,Monitor performance metrics for network interfaces.
+Nagios,Monitor Firewall Logs,Analyze firewall logs to ensure secure network operations.
+Nagios,Monitor Authentication Logs,Track login attempts to detect unauthorized access.
+Nagios,Monitor Service Availability,Ensure critical services remain available and accessible.
+Nagios,Monitor Load Balancers,Track load balancer performance to ensure even traffic distribution.
+Nagios,Monitor Storage Performance,Measure read/write speeds and I/O operations of storage devices.
+Nagios,Monitor DNS Server Performance,Track DNS query response times to ensure fast domain resolution.
+Nagios,Monitor Server Processes,Track and manage processes running on servers.
+Nagios,Monitor Event Logs,Collect and analyze event logs to troubleshoot system issues.
+Nagios,Monitor Network Packet Loss,Measure packet loss to assess network reliability.
+Nagios,Monitor Remote Desktop Performance,Track the performance of remote desktop sessions.
+Nagios,Monitor Backup Jobs,Ensure backup jobs complete successfully and on schedule.
+Nagios,Monitor SLA Compliance,Ensure systems meet service-level agreements for uptime and performance.
+Nagios,Monitor Active Sessions,Track active sessions to prevent resource overloads.
+Nagios,Monitor Server Boot Times,Track boot times to identify startup performance issues.
+Nagios,Monitor Database Latency,Measure database response times to ensure low latency.
+Nagios,Monitor Disk I/O,Measure disk input/output operations to detect performance bottlenecks.
+Nagios,Monitor Cache Performance,Track cache metrics to ensure efficient data retrieval.
+Nagios,Monitor System Interrupts,Track hardware interrupts to identify potential hardware issues.
+Nagios,Monitor Application Errors,Identify and track application error rates for quick resolutions.
+Nagios,Monitor Server Resource Contention,Detect resource contention to optimize server performance.
+Nagios,Monitor SSL Certificate Expiry,Track SSL certificates to ensure timely renewal.
+Nagios,Monitor Network Traffic Patterns,Analyze network traffic for unusual patterns or bottlenecks.
+Nagios,Monitor File System Usage,Track file system usage to prevent storage-related failures.
+Nagios,Monitor System Load Averages,Measure system load averages to prevent overload conditions.
+Nagios,Monitor Virtual Environment Hosts,Ensure hypervisors and virtual environment hosts are performing optimally.
+Nagios,Monitor Hardware Health,Track hardware metrics like CPU temperature and power supply health.
+Nagios,Monitor Bandwidth Utilization,Identify bandwidth-heavy applications or users on the network.
+Nagios,Monitor Web Application Performance,Track web application metrics like latency and user interactions.
+Nagios,Monitor Middleware Performance,Track the performance of middleware solutions like Kafka or RabbitMQ.
+Nagios,Monitor API Gateway Performance,Ensure API gateways are processing requests efficiently.
+Nagios,Monitor Application Dependency Health,Track dependencies to ensure reliable application performance.
+Nagios,Monitor Server Scalability,Ensure servers can handle increasing workloads effectively.
+Nagios,Monitor Business Transactions,Track specific business transactions for performance and bottlenecks.
+Nagios,Monitor Database Query Performance,Optimize database queries by tracking execution times.
+Nagios,Monitor Database Index Usage,Ensure indexes are being used efficiently to optimize queries.
+Nagios,Monitor Database Deadlocks,Detect and resolve database deadlocks to improve system reliability.
+Nagios,Monitor Replication Performance,Track database replication metrics to ensure data consistency.
+Nagios,Monitor Database Backup Status,Verify that database backups are completed successfully.
+Nagios,Monitor Server Cluster Health,Ensure clustered environments are running efficiently.
+Nagios,Monitor Hardware RAID Performance,Track RAID array health and performance metrics.
+Nagios,Monitor Server Configuration Changes,Track and log configuration changes across servers.
+Nagios,Monitor Query Performance Trends,Analyze long-term trends in query performance.
+Nagios,Monitor Application Throughput,Measure the rate of incoming and outgoing requests for applications.
+Nagios,Monitor Application SLA Compliance,Ensure applications meet service-level agreements for reliability.
+Nagios,Monitor Application Resource Usage,"Track CPU, memory, and I/O usage for applications."
+Nagios,Monitor Server Sessions,Track active server sessions to optimize resource allocation.
+Nagios,Monitor Queue Lengths,Measure queue lengths for services like message queues or print jobs.
+Nagios,Monitor Server Failover Events,Track failover events to ensure high availability.
+Nagios,Monitor Load Balancer Failures,Detect and respond to load balancer failures.
+Nagios,Monitor Email Delivery Rates,Ensure email services are sending and receiving properly.
+Nagios,Monitor File Transfer Speeds,Track file transfer performance across the network.
+Nagios,Monitor Network Congestion,Detect congestion in network traffic to optimize routing.
+Nagios,Monitor DNS Query Errors,Identify and resolve DNS query failures.
+Nagios,Monitor WebSocket Connections,Track WebSocket connections for latency and reliability.
+Nagios,Monitor Application Deployment Impacts,Track application performance before and after deployments.
+Nagios,Monitor Container Resource Usage,"Track CPU, memory, and disk usage for containerized environments."
+Nagios,Monitor System Time Synchronization,Ensure time synchronization across servers using NTP.
+Nagios,Monitor Network Security Events,Track security events and potential breaches in real time.
+Nagios,Monitor Memory Usage Trends,Analyze memory usage patterns over time.
+Nagios,Monitor Root Partition Usage,Track root partition usage to prevent critical failures.
+Nagios,Monitor Application Latency,Measure application response times for performance optimization.
+Nagios,Monitor API Error Rates,Track API error rates and response codes.
+Nagios,Monitor CPU Temperature,Ensure CPUs operate within safe temperature thresholds.
+Nagios,Monitor High Availability Configurations,Ensure high availability systems are functioning as expected.
+Nagios,Monitor Service Start/Stop Events,Track service start and stop events for troubleshooting.
+Nagios,Monitor DNS Record Changes,Detect changes in DNS records to prevent misconfigurations.
+Nagios,Monitor Database Connection Pools,Track database connection pool usage for optimization.
+Nagios,Monitor Print Server Queues,Ensure print jobs are processed efficiently without delays.

@@ -1,0 +1,62 @@
+Category,Short Description,Description
+Cherwell Software,Automate incident ticket creation,Automatically create tickets when incidents are detected via monitoring systems or user self-service portals.
+Cherwell Software,Automate ticket assignment based on priority,Use scripts to assign tickets to the correct team or technician based on priority and predefined workflows.
+Cherwell Software,Automate SLA breach notifications,Send automated alerts to relevant stakeholders when Service Level Agreements (SLAs) are about to be breached.
+Cherwell Software,Automate change request approvals,Automatically route change requests to the appropriate approvers and approve/reject them based on predefined rules.
+Cherwell Software,Automate asset discovery,Use scripts to discover and populate hardware and software assets into Cherwell’s Configuration Management Database (CMDB).
+Cherwell Software,Automate ticket assignment by location,Assign incidents or requests to the correct team based on the location of the user or asset.
+Cherwell Software,Automate recurring ticket creation,Schedule recurring tickets for activities like routine maintenance or compliance checks.
+Cherwell Software,Automate software license compliance checks,Automatically check for software license compliance across all managed devices and generate reports.
+Cherwell Software,Automate password reset requests,Streamline password reset requests by automating the workflow with security checks.
+Cherwell Software,Automate employee onboarding workflows,"Automatically create tickets to provision new employees with hardware, software, and access to relevant systems."
+Cherwell Software,Automate employee offboarding,"Automate the removal of access, deactivation of accounts, and recovery of assets when an employee leaves the organization."
+Cherwell Software,Automate problem management processes,Automatically link related incidents to a problem ticket and notify the appropriate team.
+Cherwell Software,Automate user notifications for ticket progress,"Send automated notifications to end users when the status of their ticket changes (e.g., resolved, assigned, or closed)."
+Cherwell Software,Automate hardware refresh cycles,Create automated workflows to track and schedule hardware upgrades or replacements based on asset age.
+Cherwell Software,Automate service catalog updates,Automatically update the service catalog based on changes in available services or organizational requirements.
+Cherwell Software,Automate CMDB updates,Use scripts to keep the Configuration Management Database (CMDB) up to date with discovered assets and their relationships.
+Cherwell Software,Automate incident escalation,Automatically escalate incidents to higher-priority queues when SLAs are about to be breached.
+Cherwell Software,Automate ticket resolution surveys,Send automated surveys to users after ticket resolution to measure customer satisfaction.
+Cherwell Software,Automate knowledge base article creation,Create knowledge base articles based on resolved incidents or frequently asked questions.
+Cherwell Software,Automate ticket prioritization,"Use scripts to prioritize tickets based on severity, impact, and urgency."
+Cherwell Software,Automate vendor ticket integration,Automatically create and track vendor tickets for issues that require external vendor support.
+Cherwell Software,Automate software installation requests,Automate the approval and deployment of software installation requests for end users.
+Cherwell Software,Automate scheduled maintenance notifications,Notify users and stakeholders about upcoming maintenance activities automatically.
+Cherwell Software,Automate asset lifecycle management,Track and manage the lifecycle of assets from procurement to retirement.
+Cherwell Software,Automate license renewal tracking,Track license renewal dates and send automated reminders to stakeholders.
+Cherwell Software,Automate incident duplication detection,Identify and merge duplicate incidents automatically to streamline ticket management.
+Cherwell Software,Automate IT audit preparation,Generate reports and track compliance requirements automatically for IT audits.
+Cherwell Software,Automate ticket resolution time tracking,Automatically calculate and report resolution times for all tickets to identify bottlenecks.
+Cherwell Software,Automate incident root cause analysis,Link incidents to problems and automate workflows for root cause analysis.
+Cherwell Software,Automate patch compliance tracking,Track and report on patch compliance across all devices automatically.
+Cherwell Software,Automate technician workload balancing,Distribute tickets evenly among technicians based on their workload and availability.
+Cherwell Software,Automate recurring compliance checks,"Schedule and automate compliance checks for software licensing, hardware configurations, and security policies."
+Cherwell Software,Automate ticket closure approvals,Require automated approvals from end users before closing tickets to ensure satisfaction.
+Cherwell Software,Automate change management workflows,"Automate the workflows for change requests, including approval, testing, and implementation phases."
+Cherwell Software,Automate asset location tracking,Track the physical location of assets and update their records automatically.
+Cherwell Software,Automate proactive incident detection,Use monitoring tools to detect potential incidents and create tickets automatically before users report issues.
+Cherwell Software,Automate software request approvals,Approve or deny software requests automatically based on predefined criteria.
+Cherwell Software,Automate SLA performance tracking,Track SLA performance metrics and generate reports automatically.
+Cherwell Software,Automate data center asset tracking,"Track and manage data center assets, including servers and storage devices."
+Cherwell Software,Automate ticket categorization,Automatically categorize tickets based on keywords or descriptions.
+Cherwell Software,Automate vendor SLA compliance checks,Track vendor Service Level Agreement (SLA) compliance and send alerts for violations.
+Cherwell Software,Automate server health monitoring,Integrate server health monitoring tools to create tickets for critical issues automatically.
+Cherwell Software,Automate configuration drift detection,Detect and report changes in configurations that deviate from baselines.
+Cherwell Software,Automate hardware warranty tracking,Track hardware warranties and send automated alerts before warranties expire.
+Cherwell Software,Automate service desk analytics,"Generate analytics reports on service desk performance, ticket resolution times, and user satisfaction automatically."
+Cherwell Software,Automate cloud resource management,"Track and manage cloud resources, including virtual machines and storage, and automate provisioning and decommissioning."
+Cherwell Software,Automate license overuse alerts,Notify administrators automatically when software license usage exceeds the purchased limit.
+Cherwell Software,Automate incident trends analysis,Analyze incident trends over time and generate automated reports to identify recurring issues.
+Cherwell Software,Automate user onboarding approvals,Automatically route user onboarding requests to the appropriate approvers.
+Cherwell Software,Automate help desk ticket reassignments,Reassign tickets automatically when the assigned technician is unavailable or overwhelmed.
+Cherwell Software,Automate asset depreciation tracking,Track asset depreciation and update financial records automatically.
+Cherwell Software,Automate backup failure notifications,Create tickets automatically when scheduled backups fail.
+Cherwell Software,Automate incident status updates,Update incident statuses automatically as they progress through the resolution workflow.
+Cherwell Software,Automate user self-service portal updates,Keep the self-service portal updated automatically with the latest service catalog items and announcements.
+Cherwell Software,Automate IT policy enforcement,Enforce IT policies by automatically identifying and flagging non-compliant devices or users.
+Cherwell Software,Automate recurring maintenance tasks,Schedule recurring maintenance tasks and create tickets for technicians automatically.
+Cherwell Software,Automate CMDB relationship updates,Update relationships between assets in the Configuration Management Database (CMDB) automatically.
+Cherwell Software,Automate multi-site asset management,Track and manage assets across multiple locations automatically.
+Cherwell Software,Automate user satisfaction surveys,Send automated user satisfaction surveys after tickets are resolved.
+Cherwell Software,Automate IT budgeting,"Use historical data to forecast IT budgets for hardware, software, and licenses."
+Cherwell Software,Automate downtime reporting,Generate automated reports on system and application downtimes for root cause analysis.

@@ -1,0 +1,70 @@
+Category,Short Description,Description
+Microsoft License Management,Automate license assignment to new users,Automatically assign Office 365 or Microsoft 365 licenses to new users based on their roles or departments.
+Microsoft License Management,Automate license removal for inactive users,Remove licenses from inactive or terminated users to optimize costs and free up license capacity.
+Microsoft License Management,Automate license usage reporting,Generate automated reports on license usage to track underutilized or unused licenses.
+Microsoft License Management,Automate license compliance checks,Verify compliance with Microsoft licensing agreements and generate compliance reports.
+Microsoft License Management,Automate Office 365 license allocation,Automatically allocate Office 365 licenses to users based on their job title or department.
+Microsoft License Management,Automate Azure subscription tracking,Track Azure subscription usage and costs and generate automated reports.
+Microsoft License Management,Automate license renewal reminders,Send automated reminders when licenses or subscriptions are nearing expiration.
+Microsoft License Management,Automate license reassignment,Reassign licenses between users based on usage patterns or role changes.
+Microsoft License Management,Automate duplicate license detection,Identify and eliminate duplicate license assignments across users.
+Microsoft License Management,Automate inactive license detection,Detect licenses that have not been used for a defined period and flag them for review.
+Microsoft License Management,Automate software inventory updates,Automatically update the inventory of software licenses in the database.
+Microsoft License Management,Automate license usage forecasting,Forecast future license needs based on historical usage trends.
+Microsoft License Management,Automate subscription cost allocation,Allocate subscription costs to different departments or teams based on usage.
+Microsoft License Management,Automate Office 365 license optimization,Identify and recommend optimization strategies for Office 365 licenses based on user activity.
+Microsoft License Management,Automate Windows Server license compliance checks,Automatically verify that all Windows Server installations comply with licensing requirements.
+Microsoft License Management,Automate Microsoft Teams license tracking,Track and report on Microsoft Teams license usage across the organization.
+Microsoft License Management,Automate Power BI license assignment,Automatically assign Power BI licenses to users based on their roles or project requirements.
+Microsoft License Management,Automate Microsoft Visio license tracking,Monitor and track Visio license usage to ensure compliance with licensing agreements.
+Microsoft License Management,Automate license cost reporting,Generate automated reports showing costs associated with Microsoft licenses.
+Microsoft License Management,Automate license pooling,Pool unused licenses and allocate them to new users or teams as needed.
+Microsoft License Management,Automate Azure Reserved Instances tracking,Monitor reserved instance usage in Azure and ensure compliance with licensing agreements.
+Microsoft License Management,Automate multi-factor authentication license checks,Verify that MFA licenses are correctly assigned and utilized within the organization.
+Microsoft License Management,Automate Office 365 group license assignment,Assign licenses to Office 365 groups automatically based on group membership.
+Microsoft License Management,Automate Microsoft 365 compliance tracking,Track and ensure compliance with Microsoft 365 licensing agreements.
+Microsoft License Management,Automate unused license reclamation,Reclaim and reassign unused licenses to optimize costs.
+Microsoft License Management,Automate subscription reconciliation,Reconcile subscription data with actual license usage to avoid overpaying for unused services.
+Microsoft License Management,Automate license expiry notifications,Notify administrators automatically when licenses are close to expiring.
+Microsoft License Management,Automate Power Apps license tracking,Monitor Power Apps license usage and identify opportunities to optimize costs.
+Microsoft License Management,Automate role-based license distribution,Assign licenses automatically based on employee roles or job functions.
+Microsoft License Management,Automate Exchange Online license tracking,Track Exchange Online license usage and generate compliance reports.
+Microsoft License Management,Automate license usage trends analysis,Analyze license usage trends over time to identify patterns and optimize allocation.
+Microsoft License Management,Automate hybrid licensing tracking,Monitor the usage of hybrid licenses for on-premises and cloud solutions.
+Microsoft License Management,Automate Windows 10 license compliance checks,Verify compliance with Windows 10 licensing terms and report violations.
+Microsoft License Management,Automate Dynamics 365 license assignment,Automatically assign Dynamics 365 licenses to users based on departmental needs.
+Microsoft License Management,Automate subscription cost variance analysis,Identify variances between expected and actual subscription costs and recommend corrective actions.
+Microsoft License Management,Automate license overuse alerts,Send alerts when license usage exceeds allocated limits.
+Microsoft License Management,Automate Microsoft OneDrive license tracking,Track and report on OneDrive license usage and identify underutilized accounts.
+Microsoft License Management,Automate license entitlement tracking,Track entitlements for Microsoft licenses to ensure accurate allocation and compliance.
+Microsoft License Management,Automate Office 365 shared mailbox tracking,Monitor shared mailbox licenses and reassign unused ones to reduce unnecessary costs.
+Microsoft License Management,Automate application usage monitoring,Track the usage of Microsoft applications to identify underutilized software licenses.
+Microsoft License Management,Automate multi-tenant license management,Manage licenses across multiple Microsoft 365 tenants automatically.
+Microsoft License Management,Automate license compliance training tracking,Track employee training related to license compliance and generate reports.
+Microsoft License Management,Automate license reactivation workflows,Reactivate licenses automatically for users returning to the organization.
+Microsoft License Management,Automate Microsoft Planner license tracking,Monitor and report Microsoft Planner license usage across users.
+Microsoft License Management,Automate billing chargebacks,Automate chargebacks for Microsoft license costs to departments or teams based on usage.
+Microsoft License Management,Automate Office 365 license health checks,Perform regular health checks on Office 365 licenses to ensure proper allocation and usage.
+Microsoft License Management,Automate Intune license tracking,Monitor and report Intune license utilization for device management.
+Microsoft License Management,Automate Office 365 license auditing,Schedule automated audits of Office 365 licenses to identify discrepancies.
+Microsoft License Management,Automate Microsoft Defender license tracking,Monitor and optimize the use of Microsoft Defender licenses for endpoint protection.
+Microsoft License Management,Automate Azure VM license compliance checks,Verify that Azure Virtual Machines comply with Microsoft licensing rules.
+Microsoft License Management,Automate license compliance exception handling,Identify and resolve compliance exceptions for Microsoft licenses.
+Microsoft License Management,Automate Microsoft Access license tracking,Track Access license usage and ensure compliance with licensing terms.
+Microsoft License Management,Automate subscription cancellation alerts,Notify administrators when a subscription is canceled or approaching cancellation.
+Microsoft License Management,Automate license expiration forecasting,Predict future license expiration trends and generate reports for proactive management.
+Microsoft License Management,Automate Microsoft Stream license tracking,Track and report on Microsoft Stream license usage across users.
+Microsoft License Management,Automate license assignment workflows,Streamline the process of assigning licenses through automated workflows.
+Microsoft License Management,Automate license provisioning for projects,Provision licenses for specific projects automatically and track usage.
+Microsoft License Management,Automate Microsoft Power Automate license tracking,Monitor Power Automate license usage and optimize allocation.
+Microsoft License Management,Automate group-based license cost reporting,Generate cost reports for licenses assigned to user groups.
+Microsoft License Management,Automate Microsoft Publisher license monitoring,Track and monitor Microsoft Publisher license usage to ensure compliance.
+Microsoft License Management,Automate Microsoft Yammer license tracking,Monitor Yammer license usage and generate reports for compliance.
+Microsoft License Management,Automate Office 365 license cleanup,Identify and clean up unused or redundant licenses in Office 365.
+Microsoft License Management,Automate Azure Reserved Capacity tracking,Track the usage of Azure Reserved Capacity to optimize costs and ensure compliance.
+Microsoft License Management,Automate PowerShell-based license management,Use scripts to manage Microsoft licenses through PowerShell for bulk actions like assignment and removal.
+Microsoft License Management,Automate Microsoft Project license tracking,Monitor Microsoft Project license usage and optimize allocations.
+Microsoft License Management,Automate license usage alerts for managers,Send automated license usage reports or alerts to department managers for review.
+Microsoft License Management,Automate compliance score tracking,Calculate and track compliance scores for Microsoft licenses to measure adherence to policies.
+Microsoft License Management,Automate Azure Active Directory Premium license tracking,Track the usage of Azure AD Premium licenses and ensure compliance with entitlement limits.
+Microsoft License Management,Automate license usage for education tenants,

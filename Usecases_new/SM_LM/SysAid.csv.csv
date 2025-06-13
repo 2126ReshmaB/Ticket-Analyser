@@ -1,0 +1,74 @@
+Category,Short Description,Description
+SysAid,Incident Ticket Creation,Automate the creation of incident tickets from incoming emails or monitoring system alerts.
+SysAid,Automatic Ticket Assignment,Automate the assignment of tickets to the correct technician or team based on predefined rules such as category or priority.
+SysAid,SLA Monitoring,Automate SLA tracking and send alerts when tickets are nearing SLA deadlines.
+SysAid,Escalation Rules,Automate ticket escalations to higher support levels based on SLA breaches or priority.
+SysAid,Auto-Triage of Tickets,Automate ticket triage by categorizing and prioritizing tickets based on predefined keywords or conditions.
+SysAid,Status Change Notifications,Automatically send notifications to users and technicians when a ticket's status changes.
+SysAid,Ticket Closure Automation,Automate ticket closure by verifying resolution details and customer feedback.
+SysAid,Recurring Task Scheduling,Automate the scheduling and creation of recurring IT maintenance tasks.
+SysAid,Asset Discovery,Automate the discovery of network assets and update the asset inventory dynamically.
+SysAid,Software License Tracking,"Automate tracking of software licenses, including usage and expiration dates."
+SysAid,User Onboarding Workflow,"Automate the onboarding process, including account creation, software installation, and asset provisioning."
+SysAid,User Offboarding Workflow,"Automate the offboarding process by disabling accounts, reclaiming assets, and revoking access."
+SysAid,Password Reset Automation,Automate password reset requests for users through SysAid workflows or self-service portals.
+SysAid,Change Request Workflow,Automate the creation and approval workflows for IT change requests.
+SysAid,Approval Notifications,Automate sending email or portal notifications to approvers for pending requests or changes.
+SysAid,Scheduled Maintenance Alerts,Automate notifications to technicians and stakeholders about upcoming scheduled maintenance windows.
+SysAid,Knowledge Base Article Creation,Automate the generation of knowledge base articles from resolved tickets to improve self-service.
+SysAid,Knowledge Base Expiry Notifications,Automate reminders for reviewing or updating outdated knowledge base articles.
+SysAid,Auto-Resolution of Common Issues,Automate resolution of frequently occurring issues using predefined scripts or workflows.
+SysAid,Dynamic Ticket Routing,Automate routing of tickets to appropriate teams based on ticket details or user location.
+SysAid,Incident Trend Analysis,Automate the analysis of incident trends to identify recurring problems or areas for improvement.
+SysAid,Root Cause Analysis Reporting,Automate the creation of root cause analysis reports for critical incidents.
+SysAid,Integration with Monitoring Tools,Automate the creation of tickets based on alerts from monitoring tools like Nagios or SolarWinds.
+SysAid,Integration with Active Directory,Automate user and group synchronization with Active Directory for accurate user management.
+SysAid,Integration with Email Clients,Automate ticket creation and updates based on incoming email messages.
+SysAid,Integration with Slack/Microsoft Teams,Automate notifications and ticket status updates to Slack or Microsoft Teams for improved collaboration.
+SysAid,CMDB Updates,Automate updates to the Configuration Management Database (CMDB) when new assets or changes are detected.
+SysAid,Dependency Mapping,Automate the mapping of dependencies between configuration items (CIs) in the CMDB.
+SysAid,Asset Lifecycle Management,"Automate workflows for tracking assets through their lifecycle, from procurement to decommissioning."
+SysAid,Procurement Workflow,"Automate workflows for procurement requests, including approvals and purchase orders."
+SysAid,Vendor Management Updates,"Automate vendor record updates, such as contact information or contract details."
+SysAid,Contract Expiry Notifications,Automate reminders for expiring contracts to avoid disruptions.
+SysAid,Audit Trail Generation,Automate the creation and maintenance of audit trails to track changes made in SysAid.
+SysAid,SLA Breach Reporting,Automate the generation of reports on SLA breaches for analysis and process improvement.
+SysAid,Dynamic Approvers Assignment,Automate the assignment of approvers for workflows based on ticket or request details.
+SysAid,License Renewal Alerts,Automate reminders for renewing software or hardware licenses before expiration.
+SysAid,Compliance Reporting,Automate the generation of compliance reports for regulatory audits.
+SysAid,Ticket Aging Reports,Automate the creation of reports to track aging tickets for better backlog management.
+SysAid,Service Request Fulfillment,"Automate fulfillment of standard service requests, such as granting access or installing software."
+SysAid,Self-Service Portal Updates,Automate updates to the self-service portal with new knowledge base articles or service catalog items.
+SysAid,Multi-Language Notifications,Automate sending notifications in multiple languages based on user preferences.
+SysAid,Feedback Collection,Automate the collection and analysis of customer feedback after ticket resolution.
+SysAid,User Satisfaction Surveys,Automate sending surveys to users after incidents are resolved or requests are fulfilled.
+SysAid,Performance Dashboards,"Automate updates to dashboards that track KPIs such as resolution time, SLA compliance, and ticket volume."
+SysAid,Recurring Report Scheduling,Automate the scheduling and delivery of recurring reports to stakeholders.
+SysAid,Event Correlation,Automate the grouping of related events into a single incident to reduce ticket volume.
+SysAid,Holiday Schedule Adjustments,Automate adjustments to SLA calculations and technician schedules based on holiday calendars.
+SysAid,Workflow Error Reporting,Automate the detection and reporting of errors in workflows for troubleshooting.
+SysAid,Patch Management,Automate patch deployment workflows and create tickets for failed updates.
+SysAid,Vulnerability Management,Automate ticket creation and follow-ups based on vulnerability scan results.
+SysAid,Release Management,"Automate workflows for release management, including task creation and notification updates."
+SysAid,Project Task Management,Automate the creation and tracking of project-related tasks within SysAid.
+SysAid,Dynamic Form Fields,Automate the display of dynamic fields on forms based on user input or ticket details.
+SysAid,Incident Duplication Detection,Automate detection and merging of duplicate incidents to avoid duplicate work.
+SysAid,Resource Allocation,Automate tracking and allocation of IT resources for ongoing projects or tasks.
+SysAid,Cost Allocation Reports,Automate generation of cost allocation reports for IT services and assets.
+SysAid,Shift Handover Reports,Automate the creation of shift handover reports for service desk teams.
+SysAid,Service Catalog Maintenance,Automate updates to the service catalog with new or retired services.
+SysAid,Dynamic Workflow Execution,Automate execution of workflows based on dynamic triggers such as user actions or SLA breaches.
+SysAid,Multi-Channel Notifications,"Automate sending notifications across multiple channels, such as email, SMS, and chat."
+SysAid,Asset Warranty Tracking,Automate tracking of asset warranties and send alerts before expiration.
+SysAid,Backup Monitoring,Automate monitoring of scheduled backups and creation of tickets for backup failures.
+SysAid,Software Deployment,Automate deployment of software packages to user machines based on requests or schedules.
+SysAid,API Integration for Third-Party Tools,Automate integration with third-party tools via APIs for ticket creation or asset updates.
+SysAid,Custom Report Generation,"Automate creation of custom reports based on ticket, SLA, or asset data."
+SysAid,Gantt Chart Updates,Automate updates to Gantt charts for project management and resource tracking.
+SysAid,Incident Communication Templates,Automate the creation of pre-defined communication templates for incidents and outages.
+SysAid,Outage Notifications,Automate notifications to users and stakeholders during planned or unplanned outages.
+SysAid,Scheduled Workflow Execution,Automate execution of specific workflows at scheduled times or intervals.
+SysAid,Event Log Analysis,Automate collection and analysis of event logs to identify anomalies or patterns.
+SysAid,Training Record Management,Automate tracking of employee training and certification records within SysAid.
+SysAid,Password Policy Enforcement,Automate enforcement of password policies and report on compliance.
+SysAid,Access Review Automation,

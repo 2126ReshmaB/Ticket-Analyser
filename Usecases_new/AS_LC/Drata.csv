@@ -1,0 +1,70 @@
+Category,Short Description,Description
+Drata,Automate SOC 2 compliance monitoring,Continuously monitor security controls to ensure compliance with SOC 2 requirements.
+Drata,Automate evidence collection for audits,Automatically collect evidence from integrated systems to streamline audit preparation.
+Drata,Notify admins of compliance gaps,Send automated alerts when compliance gaps are detected in real-time.
+Drata,Automate ISO 27001 control monitoring,Continuously monitor and validate controls required for ISO 27001 compliance.
+Drata,Automate HIPAA compliance tracking,Track and monitor compliance with HIPAA regulations for handling protected health information.
+Drata,Automate GDPR compliance checks,Ensure compliance with GDPR by monitoring data protection controls and processes.
+Drata,Automate PCI DSS compliance tracking,Monitor and validate controls required for PCI DSS compliance to secure payment card data.
+Drata,Automate CCPA compliance monitoring,Track compliance with the California Consumer Privacy Act by monitoring data privacy controls.
+Drata,Automate risk assessment workflows,"Identify, assess, and mitigate risks automatically using Drata's risk management tools."
+Drata,Automate vendor risk assessments,Evaluate and monitor vendor compliance with security and privacy standards automatically.
+Drata,Automate compliance task assignments,Assign compliance-related tasks to team members automatically based on roles and responsibilities.
+Drata,Automate compliance status reporting,Generate real-time compliance status reports for stakeholders and auditors.
+Drata,Automate control testing,Schedule and execute automated tests for security controls to ensure they are functioning as intended.
+Drata,Automate user access reviews,Periodically review and validate user access to systems and data automatically.
+Drata,Automate policy distribution,Distribute updated security and compliance policies to employees automatically.
+Drata,Automate employee compliance training reminders,Send automated reminders to employees to complete compliance training modules.
+Drata,Automate asset inventory tracking,Maintain an up-to-date inventory of IT assets automatically for compliance purposes.
+Drata,Automate incident response tracking,Track and document security incidents automatically to ensure compliance with reporting requirements.
+Drata,Automate audit readiness checks,Perform automated checks to ensure the organization is audit-ready at all times.
+Drata,Automate control gap analysis,Identify gaps in security controls automatically and recommend remediation actions.
+Drata,Automate compliance framework mapping,Map controls across multiple compliance frameworks automatically to reduce duplication of effort.
+Drata,Automate evidence expiration tracking,Track the expiration of compliance evidence and send reminders to update it.
+Drata,Automate compliance calendar updates,Maintain a compliance calendar with automated updates for key deadlines and milestones.
+Drata,Automate employee onboarding compliance tasks,Assign compliance-related tasks to new employees automatically during onboarding.
+Drata,Automate employee offboarding compliance tasks,Revoke access and complete compliance-related offboarding tasks automatically.
+Drata,Automate security policy acknowledgments,Track and document employee acknowledgments of security policies automatically.
+Drata,Automate multi-factor authentication (MFA) enforcement,Monitor and enforce the use of MFA across integrated systems automatically.
+Drata,Automate password policy compliance,Ensure compliance with password policies by monitoring and enforcing password requirements automatically.
+Drata,Automate data retention policy enforcement,Monitor and enforce data retention policies automatically to ensure compliance with regulations.
+Drata,Automate data access logging,Collect and store logs of data access events automatically for compliance purposes.
+Drata,Automate vulnerability scanning,Schedule and execute automated vulnerability scans to identify and remediate security risks.
+Drata,Automate compliance training tracking,Track employee completion of compliance training modules automatically.
+Drata,Automate compliance evidence mapping,Map collected evidence to specific compliance controls automatically.
+Drata,Automate compliance framework updates,Update compliance frameworks automatically when new regulations or standards are introduced.
+Drata,Automate third-party integration monitoring,Monitor the compliance status of third-party integrations automatically.
+Drata,Automate audit trail generation,Generate detailed audit trails automatically for all compliance-related activities.
+Drata,Automate compliance dashboard updates,Update compliance dashboards in real-time with the latest data and metrics.
+Drata,Automate control ownership tracking,Assign and track ownership of compliance controls automatically.
+Drata,Automate compliance evidence archiving,Archive outdated compliance evidence automatically to maintain a clean and organized repository.
+Drata,Automate compliance framework selection,Recommend appropriate compliance frameworks automatically based on organizational needs.
+Drata,Automate compliance gap remediation tracking,Track the progress of remediation efforts for identified compliance gaps automatically.
+Drata,Automate compliance document version control,Maintain version control for compliance documents automatically to ensure accuracy and consistency.
+Drata,Automate compliance audit scheduling,Schedule internal and external compliance audits automatically based on organizational needs.
+Drata,Automate compliance evidence validation,Validate collected compliance evidence automatically to ensure it meets audit requirements.
+Drata,Automate compliance framework comparison,Compare compliance frameworks automatically to identify overlapping controls and requirements.
+Drata,Automate compliance task reminders,Send automated reminders to team members about upcoming compliance tasks and deadlines.
+Drata,Automate compliance risk scoring,Assign risk scores to compliance gaps automatically based on their severity and impact.
+Drata,Automate compliance evidence sharing,Share compliance evidence with auditors and stakeholders automatically through secure channels.
+Drata,Automate compliance framework updates,Update compliance frameworks automatically when new regulations or standards are introduced.
+Drata,Automate compliance evidence tagging,Tag compliance evidence automatically based on its relevance to specific controls or frameworks.
+Drata,Automate compliance evidence expiration tracking,Track the expiration of compliance evidence and send reminders to update it.
+Drata,Automate compliance task delegation,Delegate compliance tasks to team members automatically based on their roles and expertise.
+Drata,Automate compliance evidence collection from cloud systems,"Collect compliance evidence from cloud systems like AWS, Azure, and GCP automatically."
+Drata,Automate compliance evidence collection from identity providers,Collect compliance evidence from identity providers like Okta and Azure AD automatically.
+Drata,Automate compliance evidence collection from version control systems,Collect compliance evidence from version control systems like GitHub and GitLab automatically.
+Drata,Automate compliance evidence collection from endpoint management tools,Collect compliance evidence from endpoint management tools like Jamf and Intune automatically.
+Drata,Automate compliance evidence collection from ticketing systems,Collect compliance evidence from ticketing systems like Jira and ServiceNow automatically.
+Drata,Automate compliance evidence collection from monitoring tools,Collect compliance evidence from monitoring tools like Datadog and Splunk automatically.
+Drata,Automate compliance evidence collection from CI/CD pipelines,Collect compliance evidence from CI/CD pipelines like Jenkins and CircleCI automatically.
+Drata,Automate compliance evidence collection from HR systems,Collect compliance evidence from HR systems like BambooHR and Workday automatically.
+Drata,Automate compliance evidence collection from financial systems,Collect compliance evidence from financial systems like QuickBooks and NetSuite automatically.
+Drata,Automate compliance evidence collection from CRM systems,Collect compliance evidence from CRM systems like Salesforce and HubSpot automatically.
+Drata,Automate compliance evidence collection from collaboration tools,Collect compliance evidence from collaboration tools like Slack and Microsoft Teams automatically.
+Drata,Automate compliance evidence collection from email systems,Collect compliance evidence from email systems like Google Workspace and Microsoft 365 automatically.
+Drata,Automate compliance evidence collection from backup systems,Collect compliance evidence from backup systems like Veeam and Druva automatically.
+Drata,Automate compliance evidence collection from security tools,Collect compliance evidence from security tools like CrowdStrike and Carbon Black automatically.
+Drata,Automate compliance evidence collection from vulnerability scanners,Collect compliance evidence from vulnerability scanners like Nessus and Qualys automatically.
+Drata,Automate compliance evidence collection from firewalls,Collect compliance evidence from firewalls like Palo Alto and Cisco automatically.
+Drata,Automate compliance evidence collection from intrusion detection systems,Collect compliance evidence from intrusion detection systems like Snort and Suricata automatically

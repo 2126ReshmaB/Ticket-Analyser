@@ -1,0 +1,88 @@
+Category,Short Description,Description
+AWS,EC2 Instance Auto-Scaling,Automatically scale EC2 instances based on demand using AWS Auto Scaling.
+AWS,S3 Bucket Lifecycle Policies,Automate data archiving and deletion in S3 using lifecycle policies.
+AWS,Lambda for File Processing,Trigger Lambda functions to process files uploaded to S3.
+AWS,CloudFormation Stack Deployment,Automate infrastructure provisioning using CloudFormation templates.
+AWS,RDS Backup Scheduling,Schedule automated backups for RDS databases using AWS Backup.
+AWS,DynamoDB Table Scaling,Automatically adjust DynamoDB table capacity based on traffic.
+AWS,CloudWatch Alarm Notifications,Set up CloudWatch alarms to notify teams of resource issues.
+AWS,IAM Role Rotation,Automate IAM role key rotation for enhanced security.
+AWS,Elastic Beanstalk Deployment,Automate application deployment using Elastic Beanstalk.
+AWS,GuardDuty Threat Response,Automate responses to GuardDuty findings using Lambda.
+AWS,S3 Event-Driven Workflows,Trigger workflows when objects are added to S3 buckets.
+AWS,Auto-Tagging Resources,Use Lambda to automatically tag AWS resources for cost tracking.
+AWS,ECS Task Scheduling,Automate ECS task execution using EventBridge.
+AWS,CloudTrail Log Analysis,Automate analysis of CloudTrail logs for compliance.
+AWS,Cost Explorer Budget Alerts,Set up automated budget alerts using AWS Cost Explorer.
+AWS,Elastic Load Balancer Health Checks,Automate health checks for ELB to ensure application availability.
+AWS,Lambda for IoT Data Processing,Process IoT data streams in real-time using Lambda.
+AWS,S3 Cross-Region Replication,Automate replication of S3 data across regions for disaster recovery.
+AWS,CloudWatch Log Retention Policies,Automate log retention settings for CloudWatch Logs.
+AWS,Auto-Healing EC2 Instances,Automatically replace unhealthy EC2 instances using Auto Scaling.
+AWS,Security Hub Compliance Checks,Automate compliance checks using AWS Security Hub.
+AWS,EventBridge for Scheduled Tasks,Schedule tasks using EventBridge to trigger Lambda functions.
+AWS,ElasticSearch Log Ingestion,Automate log ingestion into ElasticSearch for analysis.
+AWS,S3 Bucket Access Monitoring,Monitor and alert on unauthorized S3 bucket access.
+AWS,CloudFormation Drift Detection,Automate detection of infrastructure drift using CloudFormation.
+AWS,Lambda for Media Transcoding,Automate video transcoding using Lambda and Elastic Transcoder.
+AWS,Auto-Scaling Spot Instances,Automate scaling of Spot Instances for cost savings.
+AWS,CloudWatch Dashboard Updates,Automate updates to CloudWatch dashboards for monitoring.
+AWS,S3 Object Versioning,Enable and manage versioning for S3 objects automatically.
+AWS,RDS Read Replica Management,Automate creation and management of RDS read replicas.
+AWS,CloudFront Cache Invalidation,Automate cache invalidation for CloudFront distributions.
+AWS,Lambda for Predictive Analytics,Use Lambda to automate predictive analytics workflows.
+AWS,S3 Data Lifecycle Management,Automate data movement between S3 storage classes.
+AWS,CloudWatch Metric Alarms,Automate creation of alarms for custom CloudWatch metrics.
+AWS,Elastic Beanstalk Environment Updates,Automate updates to Elastic Beanstalk environments.
+AWS,Lambda for Security Scans,Automate security scans using Lambda and third-party tools.
+AWS,CloudFormation Stack Updates,Automate updates to CloudFormation stacks for infrastructure changes.
+AWS,S3 Bucket Policy Enforcement,Automate enforcement of S3 bucket policies for compliance.
+AWS,DynamoDB Backup Automation,Automate backups for DynamoDB tables using AWS Backup.
+AWS,CloudWatch Anomaly Detection,Automate anomaly detection using CloudWatch metrics.
+AWS,Lambda for Log Parsing,Automate parsing and analysis of logs using Lambda.
+AWS,S3 Bucket Encryption Enforcement,Automate enforcement of encryption for S3 buckets.
+AWS,CloudTrail Event Monitoring,Automate monitoring of CloudTrail events for security.
+AWS,Lambda for Data Transformation,Automate data transformation workflows using Lambda.
+AWS,RDS Maintenance Window Automation,Automate scheduling of RDS maintenance windows.
+AWS,CloudWatch Custom Metrics,Automate creation of custom metrics for CloudWatch.
+AWS,S3 Bucket Public Access Blocking,Automate blocking of public access to S3 buckets.
+AWS,Lambda for API Gateway Integration,Automate backend logic for API Gateway using Lambda.
+AWS,CloudFormation Template Validation,Automate validation of CloudFormation templates.
+AWS,S3 Object Metadata Extraction,Automate extraction of metadata from S3 objects.
+AWS,Lambda for Real-Time Notifications,Automate real-time notifications using Lambda and SNS.
+AWS,CloudWatch Log Insights Queries,Automate execution of queries in CloudWatch Log Insights.
+AWS,S3 Bucket Inventory Reports,Automate generation of inventory reports for S3 buckets.
+AWS,Lambda for Data Aggregation,Automate data aggregation workflows using Lambda.
+AWS,CloudFormation Stack Rollbacks,Automate rollbacks for failed CloudFormation stack updates.
+AWS,S3 Bucket Access Logs,Automate collection and analysis of S3 bucket access logs.
+AWS,Lambda for Event-Driven Workflows,Automate workflows triggered by specific events using Lambda.
+AWS,CloudWatch Alarm-Based Scaling,Automate scaling based on CloudWatch alarms.
+AWS,S3 Bucket Object Locking,Automate enforcement of object locking for S3 buckets.
+AWS,Lambda for Data Validation,Automate data validation workflows using Lambda.
+AWS,CloudFormation Stack Deletion,Automate deletion of CloudFormation stacks.
+AWS,S3 Bucket Data Replication,Automate replication of data between S3 buckets.
+AWS,Lambda for Data Enrichment,Automate data enrichment workflows using Lambda.
+AWS,CloudWatch Alarm-Based Notifications,Automate notifications based on CloudWatch alarms.
+AWS,S3 Bucket Object Tagging,Automate tagging of objects in S3 buckets.
+AWS,Lambda for Data Cleansing,Automate data cleansing workflows using Lambda.
+AWS,CloudFormation Stack Creation,Automate creation of CloudFormation stacks.
+AWS,S3 Bucket Object Archiving,Automate archiving of objects in S3 buckets.
+AWS,Lambda for Data Synchronization,Automate data synchronization workflows using Lambda.
+AWS,CloudWatch Alarm-Based Actions,Automate actions based on CloudWatch alarms.
+AWS,S3 Bucket Object Deletion,Automate deletion of objects in S3 buckets.
+AWS,Lambda for Data Integration,Automate data integration workflows using Lambda.
+AWS,CloudFormation Stack Management,Automate management of CloudFormation stacks.
+AWS,S3 Bucket Object Restoration,Automate restoration of objects in S3 buckets.
+AWS,Lambda for Data Export,Automate data export workflows using Lambda.
+AWS,CloudWatch Alarm-Based Scaling,Automate scaling based on CloudWatch alarms.
+AWS,S3 Bucket Object Migration,Automate migration of objects between S3 buckets.
+AWS,Lambda for Data Import,Automate data import workflows using Lambda.
+AWS,CloudFormation Stack Updates,Automate updates to CloudFormation stacks.
+AWS,S3 Bucket Object Duplication,Automate duplication of objects in S3 buckets.
+AWS,Lambda for Data Backup,Automate data backup workflows using Lambda.
+AWS,CloudFormation Stack Rollbacks,Automate rollbacks for failed CloudFormation stack updates.
+AWS,S3 Bucket Object Compression,Automate compression of objects in S3 buckets.
+AWS,Lambda for Data Archiving,Automate data archiving workflows using Lambda.
+AWS,CloudFormation Stack Deletion,Automate deletion of CloudFormation stacks.
+AWS,S3 Bucket Object Encryption,Automate encryption of objects in S3 buckets.
+AWS,Lambda for Data Processing,Automate data processing workflows using Lambda.

@@ -1,0 +1,73 @@
+Category,Short Description,Description
+SpeedTest,Automated Internet Speed Monitoring,Automate periodic internet speed tests to monitor download and upload speeds over time.
+SpeedTest,Scheduled Speed Tests,Automate speed tests at specific intervals to collect consistent performance data.
+SpeedTest,Bandwidth Availability Analysis,Automate tests to determine available bandwidth during peak and off-peak hours.
+SpeedTest,ISP Performance Comparison,Automate speed tests to compare performance across multiple Internet Service Providers (ISPs).
+SpeedTest,Automated Latency Testing,Automate latency measurement to assess the responsiveness of the network.
+SpeedTest,Packet Loss Detection,Automate speed tests to measure packet loss during data transmission.
+SpeedTest,Jitter Analysis,Automate the analysis of jitter in the network for better performance insights.
+SpeedTest,Speed Test Result Logging,Automate the logging of speed test results into a database for historical analysis.
+SpeedTest,Real-Time Alerts for Low Speeds,Automatically trigger alerts when speeds drop below a predefined threshold.
+SpeedTest,Upload Speed Validation,Automate tests to validate upload speeds against promised ISP speeds.
+SpeedTest,Download Speed Validation,Automate tests to validate download speeds against ISP guarantees.
+SpeedTest,Peak Time Performance Analysis,Automate speed tests during peak usage hours to analyze performance under high traffic.
+SpeedTest,Off-Peak Performance Comparison,Automate tests during off-peak hours to compare network performance with peak times.
+SpeedTest,Automated Speed Test Reporting,Generate automated reports summarizing speed test results over a specific period.
+SpeedTest,ISP SLA Compliance Verification,Automate speed tests to ensure ISP compliance with Service Level Agreements (SLAs).
+SpeedTest,Multi-Location Speed Testing,Automate speed tests from multiple locations to assess network consistency.
+SpeedTest,Server Response Time Monitoring,Automate tests to monitor the response time of speed test servers.
+SpeedTest,Wi-Fi vs Ethernet Speed Comparison,Automate tests to compare Wi-Fi speeds with Ethernet connections on the same network.
+SpeedTest,Browser-Based vs App-Based Speed Testing,Automate tests to compare results from browser-based and app-based speed test tools.
+SpeedTest,Device-Specific Speed Testing,Automate speed tests on different devices to evaluate device-specific performance.
+SpeedTest,Cross-Platform Speed Testing,"Automate speed tests across platforms like Windows, macOS, Android, and iOS for comparison."
+SpeedTest,Remote Network Speed Monitoring,Automate speed tests on remote networks to monitor their performance.
+SpeedTest,Speed Test Integration with IoT Devices,Automate speed tests for IoT devices to evaluate their specific internet requirements.
+SpeedTest,Automated Speed Test API Integration,Use APIs to automate speed tests and retrieve results programmatically.
+SpeedTest,Cloud Server Speed Testing,Automate speed tests to measure the performance of cloud-hosted servers.
+SpeedTest,Edge Network Speed Validation,Automate speed tests to validate performance at the network's edge.
+SpeedTest,Automated Speed Test Scheduling,Schedule speed tests at regular intervals using scripts to ensure consistent monitoring.
+SpeedTest,Bandwidth Throttling Detection,Automate tests to detect bandwidth throttling by ISPs.
+SpeedTest,Video Streaming Speed Validation,Automate tests to ensure network speeds meet the requirements for HD and 4K video streaming.
+SpeedTest,VoIP Performance Testing,Automate speed tests to verify network performance for VoIP calls.
+SpeedTest,Gaming Network Performance Testing,"Automate speed tests to measure latency, jitter, and packet loss for online gaming."
+SpeedTest,VPN Speed Impact Analysis,Automate tests to measure the impact of VPN usage on internet speed.
+SpeedTest,Automated Home Network Speed Testing,Automate speed tests to monitor the performance of a home network.
+SpeedTest,Office Network Speed Validation,Automate speed tests to ensure office network performance meets business requirements.
+SpeedTest,Public Wi-Fi Speed Testing,Automate speed tests to evaluate the performance of public Wi-Fi networks.
+SpeedTest,ISP Outage Detection,Automate speed tests to detect potential ISP outages based on low or no speeds.
+SpeedTest,Data Center Speed Testing,Automate speed tests to monitor the performance of data center connections.
+SpeedTest,Automated Speed Test Visualization,"Generate automated visualizations (graphs, charts) of speed test results over time."
+SpeedTest,Regional ISP Speed Comparisons,Automate tests to compare ISPs' performance across different regions.
+SpeedTest,Speed Test Integration with Dashboards,Automate the integration of speed test results into network monitoring dashboards.
+SpeedTest,ISP Plan Evaluation,Automate speed tests to compare actual speeds with ISP plan specifications.
+SpeedTest,Network Congestion Analysis,Automate speed tests to identify network congestion during heavy usage periods.
+SpeedTest,Real-Time Speed Test Notifications,Automate notifications with real-time speed test results for network administrators.
+SpeedTest,Speed Test History Analysis,Automate the analysis of historical speed test data to identify trends or recurring issues.
+SpeedTest,ISP Switching Decision Support,Automate speed tests to gather data for deciding whether to switch ISPs.
+SpeedTest,Mobile Network Speed Testing,"Automate speed tests to evaluate the performance of mobile networks (3G, 4G, 5G)."
+SpeedTest,ISP Peak Time Policy Detection,Automate speed tests to detect ISP policies that throttle speeds during peak times.
+SpeedTest,Speed Test Data Export,Automate the export of speed test data to external tools or file formats like CSV or JSON.
+SpeedTest,Automated Speed Test for Remote Workers,Automate speed tests on remote workers' networks to ensure adequate performance for work.
+SpeedTest,Automated Speed Test Threshold Alerts,Automate alerts when speed test results fall below specific thresholds.
+SpeedTest,ISP Overprovisioning Detection,Automate speed tests to detect if ISPs are overprovisioning bandwidth.
+SpeedTest,Automated Reporting for SLA Violations,Automate reports that highlight SLA violations based on speed test results.
+SpeedTest,Cross-Time Zone Speed Performance Monitoring,Automate speed tests to monitor performance across different time zones.
+SpeedTest,Automated Speed Test Benchmarking,Automate benchmarking of speed test results against industry standards.
+SpeedTest,Backup Network Speed Validation,Automate speed tests to validate the performance of backup network connections.
+SpeedTest,Automated Multi-ISP Failover Speed Testing,Automate speed tests to validate failover mechanisms between multiple ISPs.
+SpeedTest,Satellite Internet Speed Monitoring,Automate speed tests for satellite internet connections to ensure reliable performance.
+SpeedTest,Rural vs Urban Network Speed Comparison,Automate tests to compare network speeds between rural and urban locations.
+SpeedTest,IoT Device Group Speed Testing,Automate speed tests to evaluate the performance of IoT device groups sharing the same network.
+SpeedTest,Application-Specific Speed Testing,"Automate tests to evaluate network speeds for specific applications, like video conferencing or file transfers."
+SpeedTest,ISP Speed Tier Validation,Automate speed tests to validate the performance of different ISP speed tiers.
+SpeedTest,Network Speed Degradation Analysis,Automate tests to identify patterns in network speed degradation over time.
+SpeedTest,Automated Speed Test Failures Logging,Automatically log instances of failed speed tests for troubleshooting.
+SpeedTest,Automated Speed Test API Integration,Use APIs to run automated speed tests and pull data programmatically.
+SpeedTest,Cloud Backup Speed Validation,Automate speed tests to measure upload speeds for cloud backup solutions.
+SpeedTest,High-Traffic Network Speed Validation,Automate tests to ensure network speeds meet required levels during high-traffic scenarios.
+SpeedTest,Real-Time Data Sync Speed Testing,Automate tests to validate speeds for real-time data synchronization applications.
+SpeedTest,Automated ISP Data Cap Monitoring,Automate speed tests to monitor performance after reaching ISP data caps.
+SpeedTest,Automated CDN Performance Analysis,Automate speed tests to measure the performance of Content Delivery Networks (CDNs).
+SpeedTest,Cross-Tenant Speed Testing,Automate tests to evaluate performance across multiple tenants in shared environments.
+SpeedTest,Automated Speed Test for SD-WAN Networks,Automate speed tests to monitor performance across SD-WAN networks.
+SpeedTest,Integration with Network,

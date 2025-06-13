@@ -1,0 +1,58 @@
+Category,Short Description,Description
+Asana Incident Management Template,Auto-create incident tasks,Automatically create incident tasks in Asana when an issue is logged or detected in external systems.
+Asana Incident Management Template,Notify on new incident creation,Send automated notifications to relevant team members or stakeholders when a new incident is created in Asana.
+Asana Incident Management Template,Auto-assign incidents to teams,"Automatically assign incidents to teams or individuals based on the type, severity, or category of the incident."
+Asana Incident Management Template,Auto-prioritize incidents,Automatically assign priority levels to incidents based on predefined criteria such as severity or urgency.
+Asana Incident Management Template,Auto-link related tasks,Automatically link related incident tasks in Asana to track dependencies and resolutions.
+Asana Incident Management Template,Notify on overdue incidents,Send reminders to incident owners or teams when an incident task is overdue or nearing its resolution deadline.
+Asana Incident Management Template,Auto-create subtasks for incidents,"Automatically generate subtasks for incident tasks, such as investigation, root cause analysis, and resolution."
+Asana Incident Management Template,Notify on incident status changes,"Send notifications to stakeholders when the status of an incident task changes (e.g., from ""Open"" to ""Resolved"")."
+Asana Incident Management Template,Auto-update incident severity,Automatically update incident severity based on changes in impact or the discovery of new details.
+Asana Incident Management Template,Auto-generate incident timelines,Automatically create incident timelines that capture key events and actions taken during the resolution process.
+Asana Incident Management Template,Auto-create incident dashboards,"Automatically generate dashboards in Asana to visualize incident trends, priorities, and resolutions."
+Asana Incident Management Template,Notify on SLA breaches,Send alerts to stakeholders or managers when incidents exceed their SLA (Service Level Agreements).
+Asana Incident Management Template,Auto-create incident playbooks,Automatically generate incident playbooks or workflows based on the type of incident logged in Asana.
+Asana Incident Management Template,Notify on critical incidents,Send immediate alerts to senior management or relevant teams when a critical or high-priority incident is logged.
+Asana Incident Management Template,Auto-close resolved incidents,Automatically mark incident tasks as complete when all associated subtasks or follow-ups are resolved.
+Asana Incident Management Template,Auto-create follow-up tasks,Automatically generate follow-up tasks in Asana for incidents that require additional investigation or monitoring.
+Asana Incident Management Template,Auto-generate root cause analysis tasks,Automatically create tasks for conducting root cause analysis on resolved incidents.
+Asana Incident Management Template,Notify on incident escalation,Send alerts when incidents are escalated to higher levels of management or specialized teams.
+Asana Incident Management Template,Auto-create incident categories,Automatically categorize incident tasks in Asana based on keywords or predefined rules in the description.
+Asana Incident Management Template,Notify on incident resolution,Send notifications to stakeholders when an incident task is resolved or closed.
+Asana Incident Management Template,Auto-create compliance reports,Automatically generate compliance reports for incident tasks to meet regulatory or audit requirements.
+Asana Incident Management Template,Auto-create recurring incident reviews,Automatically schedule recurring incident reviews in Asana to ensure lessons learned and follow-ups are completed.
+Asana Incident Management Template,Notify on duplicate incidents,Send alerts when duplicate incidents are detected and logged in Asana.
+Asana Incident Management Template,Auto-link incidents to projects,Automatically link incident tasks to relevant Asana projects for better visibility and tracking.
+Asana Incident Management Template,Auto-create incident dashboards for teams,Automatically create team-specific dashboards in Asana to track incidents assigned to them.
+Asana Incident Management Template,Notify on incident trends,Send alerts to stakeholders when specific incident trends or patterns are detected in Asana data.
+Asana Incident Management Template,Auto-create incident KPIs,"Automatically generate KPIs (Key Performance Indicators) for incident management, such as average response time and resolution time."
+Asana Incident Management Template,Auto-create incident workflows,Automatically generate workflows for incident response based on predefined templates or playbooks.
+Asana Incident Management Template,Notify on incident recurrence,Send alerts when similar incidents recur within a specified timeframe.
+Asana Incident Management Template,Auto-create SLA tracking tasks,Automatically create tasks to track SLA compliance for incidents in Asana.
+Asana Incident Management Template,Auto-create incident tags,Automatically tag incident tasks with relevant keywords or labels for easier filtering and reporting.
+Asana Incident Management Template,Notify on containment actions,Send notifications when containment actions are successfully executed for an incident.
+Asana Incident Management Template,Auto-create incident benchmarks,Automatically generate benchmarks to compare incident response performance over time.
+Asana Incident Management Template,Notify on incident misclassification,Send alerts when incident tasks are misclassified or require reclassification.
+Asana Incident Management Template,Auto-create incident severity heatmaps,Automatically generate heatmaps to visualize the severity of incidents across different categories or teams.
+Asana Incident Management Template,Auto-create incident response metrics,Automatically generate response metrics to measure the effectiveness of incident management efforts.
+Asana Incident Management Template,Notify on incident containment failures,Send alerts when containment actions fail or are incomplete for an incident in Asana.
+Asana Incident Management Template,Auto-escalate incidents,Automatically escalate incidents to higher priority or senior management when certain conditions are met.
+Asana Incident Management Template,Auto-create training tasks for teams,Automatically generate training tasks for teams based on incident trends or identified gaps in response processes.
+Asana Incident Management Template,Notify on overdue follow-ups,Send reminders to team members when follow-up tasks for incidents are overdue.
+Asana Incident Management Template,Auto-create incident response dashboards,Automatically generate dashboards in Asana to track incident response performance and trends.
+Asana Incident Management Template,Auto-create root cause analysis templates,Automatically generate root cause analysis templates in Asana for critical or high-priority incidents.
+Asana Incident Management Template,Notify on lessons learned,Send notifications when lessons learned from resolved incidents are added or updated in Asana.
+Asana Incident Management Template,Auto-create incident response SLAs,Automatically generate SLA (Service Level Agreement) tracking for incident tasks in Asana.
+Asana Incident Management Template,Notify on gaps in incident workflows,Send alerts when gaps or inefficiencies are identified in incident workflows or processes.
+Asana Incident Management Template,Auto-create improvement plans,Automatically generate improvement plans for incident management workflows based on identified gaps or trends.
+Asana Incident Management Template,Notify on incident readiness,Send alerts to stakeholders when teams are fully prepared or require additional resources for incident response.
+Asana Incident Management Template,Auto-create playbooks for critical incidents,Automatically generate playbooks in Asana for handling critical or high-priority incidents.
+Asana Incident Management Template,Auto-generate incident trends reports,Automatically create and distribute incident trend reports to stakeholders.
+Asana Incident Management Template,Notify on incident resolution verification,Send notifications when incident resolutions are verified and closed.
+Asana Incident Management Template,Auto-create response readiness dashboards,Automatically generate dashboards in Asana to track the readiness of incident response teams.
+Asana Incident Management Template,Auto-create recurring incident audits,Automatically schedule recurring audits in Asana to review past incidents and improve processes.
+Asana Incident Management Template,Notify on incident response effectiveness,Send alerts when incident response efforts are deemed effective or require improvement based on metrics.
+Asana Incident Management Template,Auto-create compliance tasks,Automatically generate tasks in Asana to ensure incidents meet regulatory or compliance requirements.
+Asana Incident Management Template,Auto-create performance benchmarks,Automatically generate performance benchmarks to assess incident management over time.
+Asana Incident Management Template,Notify on incident readiness improvements,Send alerts when improvements are made to incident readiness workflows or processes.
+Asana Incident Management Template,Auto-create summary reports for incidents,"Automatically generate incident summary reports, including timelines, actions, and resolutions."

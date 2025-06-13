@@ -1,0 +1,72 @@
+Category,Short Description,Description
+ActivTrak,Automated Employee Productivity Reports,Generate daily or weekly productivity reports for employees and send them to managers automatically.
+ActivTrak,Real-Time User Activity Alerts,Send automated alerts to managers when unusual user activity patterns are detected.
+ActivTrak,Idle Time Detection,Automatically track and report idle time for employees and alert managers when thresholds are exceeded.
+ActivTrak,Integration with Slack,Send productivity updates or alerts to Slack channels automatically.
+ActivTrak,Website Usage Monitoring,Automatically generate reports showing the most visited websites by employees.
+ActivTrak,Application Usage Reports,Track and send reports on application usage patterns to team leads for analysis.
+ActivTrak,Integration with Google Workspace,Sync employee activities with Google Workspace apps to monitor productivity.
+ActivTrak,Daily Team Productivity Summary,Email a daily summary of team activity and productivity levels to managers.
+ActivTrak,Custom Productivity Benchmarks,Set benchmarks for productivity and automatically alert managers when employees deviate from them.
+ActivTrak,Integration with Microsoft Teams,Send productivity insights and alerts to Microsoft Teams channels.
+ActivTrak,Employee Activity Heatmaps,Automatically generate heatmaps showing employee activity during work hours.
+ActivTrak,Unproductive App Usage Alerts,Alert managers when employees spend excessive time on unproductive applications.
+ActivTrak,Integration with Jira,Sync activity data with Jira tasks to track time spent on specific issues.
+ActivTrak,Workload Balancing Reports,Generate reports showing workload distribution across employees and suggest reallocation of tasks.
+ActivTrak,Integration with Trello,Automatically track time spent on Trello cards and sync it with ActivTrak.
+ActivTrak,Break Time Monitoring,Automatically track and report break times to ensure compliance with company policies.
+ActivTrak,Weekly Performance Trends,Generate weekly performance trend reports and send them to stakeholders.
+ActivTrak,Real-Time Screen Monitoring Alerts,Notify managers when unauthorized or risky behavior is detected on an employee's screen.
+ActivTrak,Integration with Asana,Sync time data on tasks from Asana to ActivTrak for better project tracking.
+ActivTrak,Overtime Monitoring,Track and alert managers when employees exceed their scheduled work hours.
+ActivTrak,Integration with Zapier,Automate workflows by connecting ActivTrak with other tools like Google Sheets or Airtable using Zapier.
+ActivTrak,Data Export to Google Sheets,Automatically export employee activity data to Google Sheets for custom reporting and analysis.
+ActivTrak,Employee Engagement Dashboards,Automatically update dashboards with real-time employee engagement data.
+ActivTrak,Custom Productivity Alerts,Send alerts when employees’ productivity falls below a specified threshold.
+ActivTrak,Integration with Salesforce,Track employee activity on Salesforce-related tasks and sync data for reporting.
+ActivTrak,Weekly Time Utilization Reports,Generate and send weekly reports on how employees utilize their work hours.
+ActivTrak,High-Risk Behavior Alerts,"Notify security teams when high-risk behaviors, such as accessing unauthorized websites, are detected."
+ActivTrak,Integration with HubSpot,Track time spent on HubSpot tasks and sync it with ActivTrak for better client management.
+ActivTrak,Custom Work Schedule Monitoring,Automatically monitor employee adherence to custom work schedules.
+ActivTrak,Integration with ClickUp,Sync task data between ClickUp and ActivTrak to monitor time spent on projects.
+ActivTrak,Employee Productivity Comparisons,Generate reports comparing productivity levels across teams or departments.
+ActivTrak,Integration with Basecamp,Track time spent on Basecamp projects and sync it with ActivTrak for reporting.
+ActivTrak,Application Blocking Alerts,Notify managers when employees attempt to access blocked applications.
+ActivTrak,Automated Goal Tracking Reports,Track employees' progress on goals and generate reports automatically.
+ActivTrak,Monthly Productivity Summaries,Automatically generate and email monthly summaries of productivity trends to stakeholders.
+ActivTrak,Employee Attendance Tracking,Track employee attendance based on computer activity logs.
+ActivTrak,Integration with FreshBooks,Sync activity data with FreshBooks for seamless invoicing and billing.
+ActivTrak,Employee Recognition Alerts,Notify managers when an employee exceeds productivity benchmarks to recognize their efforts.
+ActivTrak,Remote Work Productivity Monitoring,Automatically track productivity levels for remote employees and alert managers if performance drops.
+ActivTrak,Screen Time Limits,Monitor and alert employees if their screen time exceeds predefined limits.
+ActivTrak,Integration with Monday.com,Sync project task data from Monday.com to ActivTrak for activity tracking.
+ActivTrak,Weekly Team Collaboration Reports,Generate reports showing team collaboration levels based on activity data.
+ActivTrak,Integration with Airtable,Export ActivTrak data to Airtable for advanced reporting and analysis.
+ActivTrak,Employee Activity Leaderboards,Automatically update leaderboards showing the most productive employees in real-time.
+ActivTrak,Integration with Notion,Sync ActivTrak data with Notion databases for better documentation and reporting.
+ActivTrak,High-Value Task Monitoring,Track and prioritize time spent on high-value tasks automatically.
+ActivTrak,Integration with PayPal,Automate payments for freelancers or contractors based on activity logs in ActivTrak.
+ActivTrak,Custom Work Policy Alerts,"Notify employees when they violate custom productivity policies, such as excessive social media use."
+ActivTrak,Automated Screen Capture Reviews,Schedule automated reviews of screen captures for compliance and security purposes.
+ActivTrak,Project Time Allocation Reports,Generate reports showing how time is distributed across different projects.
+ActivTrak,Risky Application Usage Alerts,Notify managers when employees spend excessive time on potentially risky applications.
+ActivTrak,Integration with Wrike,Sync time tracking data from Wrike tasks to ActivTrak for better project management.
+ActivTrak,Focus Time Tracking,Automatically track periods of deep focus and analyze their impact on productivity.
+ActivTrak,Integration with Harvest,Sync time tracked in Harvest with ActivTrak for unified reporting.
+ActivTrak,Productivity Improvement Suggestions,Automatically suggest productivity improvements to employees based on activity patterns.
+ActivTrak,Integration with Toggl,Sync Toggl time entries with ActivTrak for better time and activity tracking.
+ActivTrak,Employee Activity Trend Analysis,Generate reports analyzing long-term activity trends to identify productivity improvements.
+ActivTrak,Integration with Xero,Sync employee productivity data with Xero for payroll and billing purposes.
+ActivTrak,Task Completion Notifications,Notify managers when tasks are marked as complete in integrated project management tools.
+ActivTrak,Monthly Risk Assessment Reports,Generate monthly reports assessing risks based on unproductive behavior or security violations.
+ActivTrak,Integration with Todoist,Create tasks in Todoist automatically based on activity data from ActivTrak.
+ActivTrak,Weekly Screen Capture Reviews,Automate weekly reviews of employee screen captures for compliance and productivity insights.
+ActivTrak,Automated Time Utilization Reports,Generate reports showing how employees utilize their time during work hours.
+ActivTrak,Integration with Zoho CRM,Track time spent on Zoho CRM leads and sync data with ActivTrak for better client management.
+ActivTrak,Employee Behavior Insights,"Automatically analyze and report on employee behavior patterns, highlighting areas for improvement."
+ActivTrak,Integration with Smartsheet,Sync task and activity data from Smartsheet to ActivTrak for better project oversight.
+ActivTrak,Remote Employee Engagement Reports,Generate reports on engagement levels for remote employees based on activity data.
+ActivTrak,Automated Employee Coaching Recommendations,Provide coaching recommendations to employees based on their productivity and activity patterns.
+ActivTrak,Integration with ClickUp,Sync task progress from ClickUp to ActivTrak and monitor time spent on each task.
+ActivTrak,Employee Time Zone Adjustments,Automatically adjust activity tracking for employees working in different time zones.
+ActivTrak,Integration with Hub,

@@ -1,0 +1,85 @@
+Category,Short Description,Description
+edX,Course Progress Tracking,Automate tracking of user progress across courses and generate reports on completion rates.
+edX,Personalized Course Recommendations,"Automatically suggest courses based on user interests, skills, and completed courses."
+edX,Certificate Generation,Automatically generate and deliver certificates upon successful course completion.
+edX,Learning Path Creation,Create personalized learning paths for users based on their goals and skill levels.
+edX,Enrollment Notifications,Notify users automatically when they enroll in a course or learning program.
+edX,Assignment Submission Reminders,Send automated reminders for pending assignments and their deadlines.
+edX,Content Quality Monitoring,"Automate checks for course content quality, including video resolution and audio clarity."
+edX,Quiz Auto-Grading,Automatically grade quizzes and provide instant feedback to learners.
+edX,Course Update Notifications,Notify enrolled students when a course is updated with new content.
+edX,Student Engagement Analytics,Generate automated reports on learner engagement metrics such as session duration and activity.
+edX,Discussion Forum Moderation,Automate flagging and moderation of inappropriate posts in discussion forums.
+edX,Peer Review Automation,Automate assignment distribution for peer review and provide feedback summaries.
+edX,Team Progress Reports,Automatically track and report on the progress of teams in enterprise learning accounts.
+edX,Compliance Training Automation,Assign and track compliance-related courses for organizations or users.
+edX,Multi-language Subtitle Generation,Automatically generate subtitles for video content in multiple languages to improve accessibility.
+edX,Course Popularity Tracking,Track and report on course popularity based on enrollments and reviews.
+edX,Skill Gap Analysis,Analyze user skills and recommend courses to bridge identified gaps.
+edX,Learning Schedule Optimization,Automatically create optimized learning schedules for users based on their availability.
+edX,Feedback Collection Automation,Send automated surveys to collect feedback after course completion.
+edX,Course Completion Certificates,Automatically track and issue certificates to students who meet completion criteria.
+edX,Real-time Progress Dashboards,Create dashboards showing real-time learner progress and performance metrics.
+edX,Enrollment Analytics,Track enrollment trends across courses and generate automated reports.
+edX,Gamification Features,Automate awarding badges and achievements for learner milestones.
+edX,Payment Processing Automation,Automate payment collection and processing for paid courses or programs.
+edX,Instructor Performance Metrics,Generate automated reports on instructor performance based on learner feedback and outcomes.
+edX,Course Accessibility Checks,Automate validation of content accessibility for compliance with accessibility guidelines.
+edX,Learning Goal Tracking,Track user progress toward personalized learning goals and send reminders.
+edX,Automated Course Discounts,Notify users of discounts or promotional offers for specific courses.
+edX,Time Spent Analysis,Track the time users spend in courses and analyze engagement levels.
+edX,Industry Skill Trend Analysis,Analyze and report on trending skills and courses based on industry demand.
+edX,Managerial Progress Alerts,Notify managers automatically about their team’s progress in enterprise accounts.
+edX,AI-driven Course Suggestions,"Use AI to recommend courses based on recent activity, behavior, and learning goals."
+edX,Team Learning Heatmaps,Generate heatmaps to visualize team learning activities and engagement trends.
+edX,Assignment Grading Automation,Automate grading of assignments and generate detailed feedback for learners.
+edX,User Retention Tracking,Track user retention rates across courses and identify factors influencing drop-offs.
+edX,Certification Renewal Reminders,Notify users when their earned certifications are nearing expiration.
+edX,Content Archiving,Automatically archive outdated or less relevant course content.
+edX,Course Impact Analysis,Analyze the impact of courses on career or skill development through automated surveys.
+edX,Automated Learning Nudges,Send motivational nudges to encourage learners to stay on track with their courses.
+edX,Corporate ROI Reports,Automatically calculate and report the ROI of corporate learning programs.
+edX,Learning Path Progress Notifications,Notify learners about their progress and milestones within a learning path.
+edX,Role-based Course Filtering,Automatically filter courses based on user roles or job profiles.
+edX,Skill Benchmarking Reports,Generate automated reports comparing a user’s skills to industry benchmarks.
+edX,Peer Learning Recommendations,Suggest courses based on what peers or colleagues are learning.
+edX,Certification Leaderboards,Create leaderboards to showcase top users with the most certifications.
+edX,Learning Activity Summaries,Send weekly or monthly summaries of learning activities to users.
+edX,Course Feedback Analysis,Analyze course reviews to identify strengths and areas for improvement.
+edX,Learning Path Adjustments,Dynamically adjust learning paths based on user progress and feedback.
+edX,Team Learning Leaderboards,Showcase top-performing teams in enterprise accounts through automated leaderboards.
+edX,Instructor Onboarding,"Automate the onboarding process for new instructors, including account setup and training materials."
+edX,Multi-team Progress Comparison,Generate reports comparing learning progress across multiple teams or departments.
+edX,AI-powered Skill Assessments,Use AI to automate skill assessments and recommend relevant courses.
+edX,Certification Tracking System,Automatically track and manage certifications earned by users.
+edX,Course Completion Leaderboards,Rank users based on course completion rates and display leaderboards.
+edX,Learning Impact Surveys,Automate surveys to measure the impact of completed courses on professional growth.
+edX,Real-time Enrollment Notifications,Notify administrators when enrollment numbers hit thresholds or trends emerge.
+edX,Automated Resource Sharing,Share course-related resources automatically with enrolled students.
+edX,AI-driven Content Suggestions,Suggest additional resources or courses based on user engagement patterns.
+edX,Progress-based Learning Rewards,Reward learners for achieving progress milestones within courses or programs.
+edX,Course Completion Predictions,Use machine learning models to predict course completion probabilities for learners.
+edX,Weekly Learning Insights,"Send weekly insights to learners about their progress, achievements, and next steps."
+edX,Enterprise Skill Matrix Reports,Generate skill matrix reports to identify organizational strengths and gaps.
+edX,Automated Learning Path Suggestions,Suggest learning paths based on completed certifications and future goals.
+edX,Course Access Management,Automate granting or revoking access to courses based on user roles or subscriptions.
+edX,Course Popularity Insights,Generate automated insights into the popularity of courses by enrollment and completion rates.
+edX,Instructor Resource Sharing,Share best practices and resources with instructors automatically.
+edX,Automated Knowledge Checks,Schedule knowledge checks periodically to reinforce learning.
+edX,Learning Resource Allocation,Allocate additional resources to learners automatically based on their progress.
+edX,Real-time Certification Analytics,Generate real-time analytics on certifications earned across the platform.
+edX,Skill Development Forecast,Forecast skill development timelines for learners based on their activity.
+edX,Cross-department Skill Analysis,Analyze and report on skill gaps across departments in an organization.
+edX,Learning Time Optimization,Automate suggestions to optimize time spent on learning activities.
+edX,Automated Course Impact Dashboards,Create dashboards to showcase the impact of courses on career growth.
+edX,Learning Path Heatmaps,Visualize user engagement and completion rates within learning paths.
+edX,Certification Goal Tracking,Help users track their progress toward certification goals automatically.
+edX,Enrollment Trend Analytics,Track and analyze enrollment trends across time periods for strategic decisions.
+edX,Resource Utilization Reports,Generate reports to analyze the utilization of learning resources.
+edX,Instructor Training Automation,Automate training programs for instructors to improve teaching quality.
+edX,Real-time Engagement Metrics,Generate real-time engagement metrics for courses and learning paths.
+edX,Automated Role-based Enrollments,Enroll users in courses automatically based on their roles or career paths.
+edX,Course Content Localization,Automate translation and localization of course content for different regions.
+edX,Multi-course Progress Summaries,Send summaries of progress across multiple courses to users.
+edX,Certification Renewal Analytics,Analyze and report on expiring certifications for learners.
+edX,AI-based Learning Insights,Use AI to generate insights on user learning behaviors and content effectiveness.

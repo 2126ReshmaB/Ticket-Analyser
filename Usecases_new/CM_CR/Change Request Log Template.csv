@@ -1,0 +1,51 @@
+Category,Short Description,Description
+Change Request Log Template,Auto-Populate Change Request IDs,Automatically generate unique IDs for each change request entry in the log to maintain consistency and avoid duplicates.
+Change Request Log Template,Auto-Assign Requester Details,"Automatically populate the requester’s information (e.g., name, email) based on a submitted form or user database."
+Change Request Log Template,Auto-Timestamp Change Requests,Automatically record the date and time when a change request is logged.
+Change Request Log Template,Auto-Assign Priority Levels,"Automatically assign priority levels (e.g., High, Medium, Low) based on predefined criteria like urgency or impact."
+Change Request Log Template,Auto-Notify Stakeholders,Send automated notifications to stakeholders when a new change request is logged.
+Change Request Log Template,Auto-Route Change Requests,Automatically route change requests to the appropriate team or individual for review based on category or type.
+Change Request Log Template,Auto-Validate Input Fields,Automatically validate required fields in the change request log to ensure no critical information is missing.
+Change Request Log Template,Auto-Calculate Estimated Effort,"Populate estimated effort (e.g., hours or resources required) based on predefined rules or historical data."
+Change Request Log Template,"Auto-Set Status to ""New""","Automatically set the status of newly logged change requests to ""New"" upon submission."
+Change Request Log Template,Auto-Update Status,"Automatically update the status of change requests (e.g., ""In Review,"" ""Approved,"" ""Completed"") as they progress through the workflow."
+Change Request Log Template,Auto-Create Approval Tasks,Automatically create tasks for approvers when a change request reaches the approval stage.
+Change Request Log Template,Auto-Notify on Approval Completion,Send notifications to the requester and team when a change request is approved or rejected.
+Change Request Log Template,Auto-Link Supporting Documents,"Automatically attach or link supporting documents (e.g., impact analysis, test cases) to the change request in the log."
+Change Request Log Template,Auto-Create Change Request Summary,"Automatically generate a summary of the change request, including key details, for easy review."
+Change Request Log Template,Auto-Assign Reviewers,Automatically assign reviewers to change requests based on their type or category.
+Change Request Log Template,Auto-Update Completion Dates,Automatically populate the completion date once a change request is marked as completed.
+Change Request Log Template,Auto-Calculate SLA Deadlines,Automatically calculate and populate SLA deadlines based on the date of submission and priority level.
+Change Request Log Template,Auto-Notify on SLA Breaches,Send automated alerts when a change request is nearing or has breached its SLA deadline.
+Change Request Log Template,Auto-Archive Completed Change Requests,Automatically archive completed or closed change requests to a separate log or file for record-keeping.
+Change Request Log Template,Auto-Generate Change Request Reports,"Automatically generate periodic reports of logged change requests, including their status, priority, and other key metrics."
+Change Request Log Template,Auto-Notify on Dependencies,Notify stakeholders when a change request has dependencies on other open requests.
+Change Request Log Template,Auto-Calculate Impact Scores,Automatically calculate the impact score of a change request based on predefined factors like system affected or user count.
+Change Request Log Template,Auto-Link to Project Management Tools,"Automatically link change requests to project management tools like Jira, Trello, or Asana for task tracking."
+Change Request Log Template,Auto-Create Audit Logs,"Automatically generate an audit trail for all actions taken on a change request (e.g., status changes, approvals)."
+Change Request Log Template,Auto-Notify on Rejected Requests,"Notify stakeholders when a change request is rejected, including the reason for rejection."
+Change Request Log Template,Auto-Update Change History,"Automatically log all changes made to a change request, such as updates to priority, status, or description."
+Change Request Log Template,Auto-Notify on Resource Allocation,"Notify team members when resources (e.g., developers, testers) are assigned to a change request."
+Change Request Log Template,Auto-Create Risk Assessment Fields,Automatically populate risk assessment fields based on predefined criteria or templates.
+Change Request Log Template,Auto-Flag Duplicate Requests,"Automatically flag duplicate change requests based on similar titles, descriptions, or requesters."
+Change Request Log Template,Auto-Assign Testing Tasks,Automatically create and assign testing tasks for approved change requests.
+Change Request Log Template,Auto-Notify on Dependency Resolution,Notify requesters when a dependent change request is resolved.
+Change Request Log Template,Auto-Generate Approval Reminders,Automatically send reminders to approvers for pending change requests nearing SLA deadlines.
+Change Request Log Template,Auto-Link to CMDB,Automatically link change requests to Configuration Items (CIs) in the CMDB for better impact analysis and tracking.
+Change Request Log Template,Auto-Notify on CI Changes,Notify stakeholders when a change request linked to a specific CI is approved or completed.
+Change Request Log Template,Auto-Generate Rollback Plans,Automatically create rollback plans for high-risk change requests.
+Change Request Log Template,Auto-Notify on Change Request Delays,Notify teams when a change request is delayed or overdue.
+Change Request Log Template,Auto-Create Meeting Agendas,Automatically create meeting agendas for change request review or approval meetings.
+Change Request Log Template,Auto-Update Approval Status,Automatically update the approval status of a change request when all required approvers have provided feedback.
+Change Request Log Template,Auto-Create Emergency Change Requests,"Automatically flag and create emergency change requests based on specific triggers, such as system outages."
+Change Request Log Template,Auto-Notify on Risk Threshold Exceeded,Send alerts when the risk score of a change request exceeds a predefined threshold.
+Change Request Log Template,Auto-Update Progress Fields,"Automatically update progress fields (e.g., percentage complete) based on linked tasks or dependencies."
+Change Request Log Template,Auto-Generate Change Request Templates,Automatically generate pre-filled change request templates for common request types.
+Change Request Log Template,Auto-Link Change Requests to Incidents,Automatically link change requests to related incidents in an ITSM tool.
+Change Request Log Template,Auto-Notify on Approval Rejections,Notify requesters when a change request is rejected during the approval process.
+Change Request Log Template,Auto-Track Budget Impact,Automatically track and log the financial impact of a change request in the change request log.
+Change Request Log Template,Auto-Create Post-Implementation Reviews,Automatically create tasks for post-implementation reviews when a change request is completed.
+Change Request Log Template,Auto-Notify on Field Changes,"Notify stakeholders when key fields (e.g., priority, status) are modified in a change request."
+Change Request Log Template,Auto-Generate Weekly Change Reports,Automatically generate and email a report of all change requests logged during the week.
+Change Request Log Template,Auto-Notify on Testing Completion,Notify the team when testing for a change request is successfully completed.
+Change Request Log Template,Auto-Tag High-Risk Requests,Automatically tag or flag high-risk change requests for additional review.

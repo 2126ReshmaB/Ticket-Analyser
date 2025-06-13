@@ -1,0 +1,53 @@
+Category,Short Description,Description
+Microsoft SharePoint,Automate Site Creation,"Automate the creation of SharePoint sites with predefined templates, permissions, and settings using PowerShell or Power Automate."
+Microsoft SharePoint,Automate User Permissions,Automate the assignment and revocation of user permissions to ensure proper access control and compliance.
+Microsoft SharePoint,Document Approval Workflow,Automate document approval processes to streamline feedback and decision-making.
+Microsoft SharePoint,Metadata Tagging,Automatically tag documents with metadata based on their content or location.
+Microsoft SharePoint,Automate List Item Creation,Automate the creation of list items based on external data or user inputs.
+Microsoft SharePoint,Automate Notifications,"Set up automated notifications for document updates, approvals, or task assignments."
+Microsoft SharePoint,Automate Document Routing,Route documents to specific libraries or folders based on metadata or content type.
+Microsoft SharePoint,Automate Version Control,Ensure version control is enabled and manage document versions automatically.
+Microsoft SharePoint,Automate Site Archiving,Archive inactive sites automatically based on predefined criteria.
+Microsoft SharePoint,Automate External Sharing,Automate the process of enabling or disabling external sharing for specific sites or libraries.
+Microsoft SharePoint,Automate Compliance Checks,Automate compliance checks to ensure documents meet regulatory requirements.
+Microsoft SharePoint,Automate Data Retention Policies,Apply and enforce data retention policies automatically across sites and libraries.
+Microsoft SharePoint,Automate Task Assignments,Automatically assign tasks to team members based on workload or predefined rules.
+Microsoft SharePoint,Automate Feedback Collection,Collect feedback from stakeholders automatically using workflows.
+Microsoft SharePoint,Automate Issue Tracking,Automate the tracking and resolution of issues reported by users.
+Microsoft SharePoint,Automate Site Branding,Apply consistent branding to all SharePoint sites automatically.
+Microsoft SharePoint,Automate Header and Footer Customization,Customize headers and footers across sites automatically using scripts.
+Microsoft SharePoint,Automate Document Conversion,"Convert documents to specific formats (e.g., PDF) automatically upon upload."
+Microsoft SharePoint,Automate Report Generation,Generate usage or activity reports automatically using PowerShell or Power BI.
+Microsoft SharePoint,Automate Workflow Migration,Migrate classic workflows to Power Automate flows automatically.
+Microsoft SharePoint,Automate Content Approval,Automate the approval of content before it is published.
+Microsoft SharePoint,Automate Site Deletion,Automatically delete unused or inactive sites after a certain period.
+Microsoft SharePoint,Automate User Onboarding,Automate the onboarding process by granting new users access to relevant sites and resources.
+Microsoft SharePoint,Automate User Offboarding,Automate the offboarding process by revoking access and archiving user data.
+Microsoft SharePoint,Automate Document Check-In/Check-Out,Enforce document check-in/check-out policies automatically.
+Microsoft SharePoint,Automate Content Migration,Migrate content between libraries or sites automatically using scripts.
+Microsoft SharePoint,Automate Search Optimization,Optimize search results by automating the addition of keywords and metadata.
+Microsoft SharePoint,Automate Site Usage Analytics,Collect and analyze site usage data automatically using Power BI or third-party tools.
+Microsoft SharePoint,Automate Data Backup,Automate the backup of SharePoint data to ensure data recovery in case of loss.
+Microsoft SharePoint,Automate List Export,Export SharePoint list data to Excel or other formats automatically.
+Microsoft SharePoint,Automate Library Cleanup,Remove duplicate or outdated files from libraries automatically.
+Microsoft SharePoint,Automate Content Categorization,Categorize content automatically based on predefined rules or AI models.
+Microsoft SharePoint,Automate Alerts for Policy Violations,"Set up automated alerts for policy violations, such as unauthorized access or data sharing."
+Microsoft SharePoint,Automate Document Expiry Notifications,Notify users automatically when documents are nearing their expiration date.
+Microsoft SharePoint,Automate Site Navigation Updates,Update site navigation menus automatically based on changes in site structure.
+Microsoft SharePoint,Automate Content Translation,Translate content automatically using Microsoft Translator or other tools.
+Microsoft SharePoint,Automate Calendar Synchronization,Sync SharePoint calendars with Outlook or other calendar tools automatically.
+Microsoft SharePoint,Automate Task Reminders,Send automated reminders for overdue tasks or upcoming deadlines.
+Microsoft SharePoint,Automate Document Metadata Updates,Update document metadata automatically based on changes in content or context.
+Microsoft SharePoint,Automate Site Template Application,Apply site templates automatically during site creation.
+Microsoft SharePoint,Automate Content Review Cycles,Schedule and automate periodic content reviews to ensure relevance and accuracy.
+Microsoft SharePoint,Automate Workflow Error Notifications,Notify administrators automatically when workflows encounter errors.
+Microsoft SharePoint,Automate Document Sharing Requests,Approve or deny document sharing requests automatically based on predefined rules.
+Microsoft SharePoint,Automate Site Permissions Audits,Conduct regular audits of site permissions automatically to ensure compliance.
+Microsoft SharePoint,Automate Content Backup to OneDrive,Backup SharePoint content to OneDrive automatically for additional redundancy.
+Microsoft SharePoint,Automate Document Watermarking,Add watermarks to documents automatically to indicate sensitivity or ownership.
+Microsoft SharePoint,Automate Site Activity Monitoring,Monitor site activity automatically and generate alerts for unusual behavior.
+Microsoft SharePoint,Automate Content Archiving,Archive old or unused content automatically based on retention policies.
+Microsoft SharePoint,Automate List Item Updates,Update list items automatically based on changes in related data or conditions.
+Microsoft SharePoint,Automate Document Library Permissions,Manage permissions for document libraries automatically based on user roles or groups.
+Microsoft SharePoint,Automate Content Publishing,Publish content automatically based on predefined schedules or triggers.
+Microsoft SharePoint,Automate Site Collection Management,"Manage site collections automatically, including creation, deletion, and updates."

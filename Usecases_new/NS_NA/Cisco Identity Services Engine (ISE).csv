@@ -1,0 +1,41 @@
+Category,Short Description,Description
+Cisco Identity Services Engine (ISE),Automate user onboarding,Automate the process of onboarding new users by creating user accounts and assigning appropriate access policies.
+Cisco Identity Services Engine (ISE),Automate device profiling,"Automatically profile devices connecting to the network to classify them based on their type, OS, and other attributes."
+Cisco Identity Services Engine (ISE),Automate guest user access,Create scripts to automate guest user account creation and expiration for temporary network access.
+Cisco Identity Services Engine (ISE),Automate policy updates,Automate the deployment of updated security policies across all network devices managed by ISE.
+Cisco Identity Services Engine (ISE),Automate certificate management,Automate the renewal and deployment of digital certificates for secure communication between devices.
+Cisco Identity Services Engine (ISE),Automate endpoint compliance checks,Automate compliance checks for endpoints to ensure they meet security requirements before granting network access.
+Cisco Identity Services Engine (ISE),Automate VLAN assignment,Automatically assign VLANs to devices based on their profiles or user roles.
+Cisco Identity Services Engine (ISE),Automate network access revocation,Automate the process of revoking network access for users or devices that violate security policies.
+Cisco Identity Services Engine (ISE),Automate backup and restore,Schedule and automate regular backups of ISE configurations and restore them when needed.
+Cisco Identity Services Engine (ISE),Automate license management,Automate the monitoring and renewal of ISE licenses to ensure uninterrupted service.
+Cisco Identity Services Engine (ISE),Automate posture assessment,Automate the posture assessment process to check if endpoints comply with security policies.
+Cisco Identity Services Engine (ISE),Automate endpoint quarantine,Automatically quarantine non-compliant or suspicious devices detected on the network.
+Cisco Identity Services Engine (ISE),Automate integration with Active Directory,Automate the integration of ISE with Active Directory for user authentication and policy enforcement.
+Cisco Identity Services Engine (ISE),Automate network device onboarding,"Automate the onboarding process for new network devices, including configuration and policy assignment."
+Cisco Identity Services Engine (ISE),Automate reporting,"Generate and schedule automated reports on network access, compliance, and security incidents."
+Cisco Identity Services Engine (ISE),Automate guest portal customization,Automate the customization of guest portals to match organizational branding.
+Cisco Identity Services Engine (ISE),Automate device certificate provisioning,Automatically provision device certificates for secure communication.
+Cisco Identity Services Engine (ISE),Automate endpoint remediation,"Automate remediation actions for non-compliant endpoints, such as installing updates or applying patches."
+Cisco Identity Services Engine (ISE),Automate network segmentation,Automate the creation and enforcement of network segmentation policies to isolate devices and users.
+Cisco Identity Services Engine (ISE),Automate API integration,Automate the integration of ISE with third-party tools and platforms using APIs.
+Cisco Identity Services Engine (ISE),Automate user role assignment,"Automatically assign roles to users based on their department, job function, or other criteria."
+Cisco Identity Services Engine (ISE),Automate device de-registration,Automate the removal of devices from the ISE database when they are no longer in use.
+Cisco Identity Services Engine (ISE),Automate guest user expiration,Automatically expire guest user accounts after a predefined period.
+Cisco Identity Services Engine (ISE),Automate network access testing,Automate testing of network access policies to ensure they are functioning as expected.
+Cisco Identity Services Engine (ISE),Automate rogue device detection,Automate the detection and alerting of rogue devices attempting to connect to the network.
+Cisco Identity Services Engine (ISE),Automate endpoint inventory,Generate automated inventory reports of all endpoints connected to the network.
+Cisco Identity Services Engine (ISE),Automate policy rollback,Automate the rollback of policies to a previous state in case of misconfiguration.
+Cisco Identity Services Engine (ISE),Automate multi-factor authentication enforcement,Automate the enforcement of multi-factor authentication for sensitive network access.
+Cisco Identity Services Engine (ISE),Automate network access for IoT devices,Automatically configure and enforce network access policies for IoT devices.
+Cisco Identity Services Engine (ISE),Automate user activity monitoring,Automate the monitoring and logging of user activity on the network for security audits.
+Cisco Identity Services Engine (ISE),Automate endpoint patch management,Automate the deployment of patches to endpoints to ensure they are up-to-date.
+Cisco Identity Services Engine (ISE),Automate integration with SIEM tools,Automate the integration of ISE with Security Information and Event Management (SIEM) tools for enhanced threat detection.
+Cisco Identity Services Engine (ISE),Automate BYOD onboarding,"Automate the onboarding process for Bring Your Own Device (BYOD) users, including policy assignment and compliance checks."
+Cisco Identity Services Engine (ISE),Automate network access for contractors,Automatically configure and enforce network access policies for contractors.
+Cisco Identity Services Engine (ISE),Automate endpoint isolation,Automatically isolate endpoints that exhibit suspicious behavior or violate policies.
+Cisco Identity Services Engine (ISE),Automate integration with cloud services,Automate the integration of ISE with cloud services for centralized policy management.
+Cisco Identity Services Engine (ISE),Automate guest Wi-Fi access,Automate the provisioning of guest Wi-Fi access credentials.
+Cisco Identity Services Engine (ISE),Automate compliance reporting,Generate automated compliance reports for regulatory audits.
+Cisco Identity Services Engine (ISE),Automate network access for remote workers,Automatically configure and enforce network access policies for remote workers.
+Cisco Identity Services Engine (ISE),Automate endpoint decommissioning,Automate the decommissioning of endpoints that are no longer in use.

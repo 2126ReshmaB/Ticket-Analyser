@@ -1,0 +1,68 @@
+Category,Short Description,Description
+Palo Alto Panorama,Automated Policy Deployment,Automate the deployment of security policies across multiple Palo Alto firewalls from Panorama.
+Palo Alto Panorama,Centralized Rule Management,"Automate the creation, modification, and deletion of firewall rules from a central location."
+Palo Alto Panorama,Compliance Report Generation,"Script the generation of compliance reports for frameworks like PCI DSS, HIPAA, and NIST."
+Palo Alto Panorama,Log Collection Automation,Automate the collection and consolidation of logs from all managed firewalls for centralized monitoring.
+Palo Alto Panorama,Device Configuration Backup,Automate regular backups of firewall configurations for disaster recovery and rollback purposes.
+Palo Alto Panorama,Rule Cleanup Automation,Automate the identification and removal of unused or redundant rules in the configuration.
+Palo Alto Panorama,Scheduled Configuration Push,Script the scheduled push of configuration changes to firewalls during maintenance windows.
+Palo Alto Panorama,High-Risk Rule Alerting,Automate alerts for high-risk rules that allow excessive permissions or wide access.
+Palo Alto Panorama,Policy Change Tracking,"Automate tracking of policy changes across all managed devices, including who made the changes and when."
+Palo Alto Panorama,Automated NAT Rule Management,Script the creation and management of NAT rules across firewalls from Panorama.
+Palo Alto Panorama,Application Usage Reporting,Automate the generation of reports on application usage trends across the network.
+Palo Alto Panorama,Real-Time Threat Alerts,Automate real-time alerting for detected threats or anomalies in network traffic.
+Palo Alto Panorama,Dynamic Address Group Updates,Automate updates to dynamic address groups based on tags applied to endpoints or devices.
+Palo Alto Panorama,Policy Base-lining,Automate the enforcement of baseline security policies across all managed firewalls.
+Palo Alto Panorama,Scheduled Software Updates,Automate the scheduling and deployment of software updates or patches to all managed firewalls.
+Palo Alto Panorama,Traffic Flow Analysis,Automate the analysis of traffic flows to identify bottlenecks or unauthorized access attempts.
+Palo Alto Panorama,Centralized SSL Decryption Policy,Automate the creation and deployment of SSL decryption policies to multiple devices.
+Palo Alto Panorama,User Activity Monitoring,Automate the logging and monitoring of user activity across the network for auditing purposes.
+Palo Alto Panorama,Rule Shadowing Detection,Automate the detection of shadowed rules that are hidden by more permissive rules.
+Palo Alto Panorama,Automated Compliance Checks,Automate the verification of firewall configurations against compliance requirements.
+Palo Alto Panorama,Threat Intelligence Integration,Script the integration of external threat intelligence feeds into Panorama to enhance security.
+Palo Alto Panorama,URL Filtering Updates,Automate updates to URL filtering categories and policies across all managed firewalls.
+Palo Alto Panorama,Bandwidth Monitoring Automation,Script the monitoring of bandwidth usage across firewalls to identify high-consuming users or applications.
+Palo Alto Panorama,Rule Expiry Management,Automate the management of temporary rules by setting expiration dates and generating alerts.
+Palo Alto Panorama,Role-Based Access Management,Automate the configuration of role-based access control for Panorama users.
+Palo Alto Panorama,Configuration Drift Detection,Automate the detection of discrepancies between Panorama configurations and firewall device configurations.
+Palo Alto Panorama,Automated Policy Cleanup Suggestions,Script the generation of suggestions for cleaning up outdated or unnecessary rules.
+Palo Alto Panorama,Device Health Monitoring,Automate the monitoring of the health and performance of all managed firewalls.
+Palo Alto Panorama,Centralized Log Retention Management,Automate the management of log retention policies to ensure storage efficiency and compliance.
+Palo Alto Panorama,Zone-based Rule Management,Automate the creation and management of zone-based rules across multiple devices.
+Palo Alto Panorama,Incident Response Automation,"Automate responses to incidents, such as blocking malicious IPs or disabling specific rules."
+Palo Alto Panorama,Real-Time Configuration Alerts,Automate alerts for unauthorized or unplanned configuration changes in Panorama or firewalls.
+Palo Alto Panorama,URL Filtering Report Automation,Automate the generation of URL filtering reports to analyze web usage and blocklists.
+Palo Alto Panorama,Application Risk Analysis,Automate the assessment of applications based on their risk levels and permissions.
+Palo Alto Panorama,Policy Migration,Script the migration of security policies from legacy systems to Panorama-managed firewalls.
+Palo Alto Panorama,Rule Impact Analysis,Automate the analysis of how rule changes will impact network traffic and security posture.
+Palo Alto Panorama,Firewall Inventory Management,Automate the inventorying of all managed firewalls for better visibility and lifecycle management.
+Palo Alto Panorama,Automated Threat Blocking,Script the automatic blocking of malicious traffic based on threat intelligence and logs.
+Palo Alto Panorama,Dynamic Updates for Threat Prevention,Automate the application of dynamic threat prevention updates to all managed devices.
+Palo Alto Panorama,Centralized VPN Configuration,Automate the configuration and management of VPN tunnels across multiple firewalls.
+Palo Alto Panorama,Audit Trail Generation,Automate the creation of audit trails for all policy and configuration changes.
+Palo Alto Panorama,Automated User-ID Mapping Updates,Script the dynamic update of User-ID mappings to ensure accurate identification of users.
+Palo Alto Panorama,Zone-based Traffic Reports,Automate the generation of reports that analyze traffic within and across zones.
+Palo Alto Panorama,Real-Time Vulnerability Alerts,Automate alerts for vulnerabilities detected in devices managed by Panorama.
+Palo Alto Panorama,Automated Access Review,Automate periodic reviews of access permissions to ensure compliance with the principle of least privilege.
+Palo Alto Panorama,Policy Validation Automation,Automate the validation of policies to ensure they meet organizational and security requirements.
+Palo Alto Panorama,High Availability Monitoring,Automate the monitoring of High Availability (HA) setups to ensure synchronization and uptime.
+Palo Alto Panorama,Automated Rule Rollback,Script the rollback of rules to a previous version in case of misconfigurations or performance issues.
+Palo Alto Panorama,Centralized App-ID Management,Automate the management of App-ID policies across all managed devices.
+Palo Alto Panorama,Policy Version Control,Automate the tracking and control of policy versions and enable rollback to previous configurations.
+Palo Alto Panorama,Firewall Rule Duplication Detection,Script the detection of duplicate rules across firewalls to reduce redundancy.
+Palo Alto Panorama,Automated Security Profiles Deployment,"Automate the deployment of security profiles like antivirus, anti-spyware, and vulnerability protection to all devices."
+Palo Alto Panorama,Geo-Location Blocking,Automate the configuration of geo-location-based blocking rules across managed firewalls.
+Palo Alto Panorama,Automated Log Export,Script the export of logs from Panorama to external systems for further analysis or archiving.
+Palo Alto Panorama,Firewall Firmware Updates,Automate the scheduling and deployment of firmware updates to firewalls managed by Panorama.
+Palo Alto Panorama,Policy Deviation Reporting,Automate the reporting of policy deviations from baseline configurations.
+Palo Alto Panorama,Bandwidth Utilization Alerts,Script alerts for bandwidth spikes to detect potential DDoS attacks or misconfigurations.
+Palo Alto Panorama,Automated Vulnerability Scans,Automate the scheduling and execution of vulnerability scans across firewalls.
+Palo Alto Panorama,Zone Protection Profile Updates,Automate updates to zone protection profiles to enhance security against threats.
+Palo Alto Panorama,Real-Time Policy Compliance Checks,Automate real-time monitoring of policies to ensure compliance with internal and external standards.
+Palo Alto Panorama,Session Monitoring,Automate the monitoring of active sessions to detect unusual activity or high session counts.
+Palo Alto Panorama,Automated Logging Profile Updates,Script the deployment of logging profile updates to all managed devices.
+Palo Alto Panorama,DNS Security Policy Updates,Automate the configuration and updates of DNS security policies for enhanced threat protection.
+Palo Alto Panorama,Application Dependency Mapping,Automate the mapping of application dependencies to ensure proper connectivity and avoid disruptions.
+Palo Alto Panorama,Real-Time DDoS Monitoring,Automate the detection and alerting of potential DDoS attacks in real-time.
+Palo Alto Panorama,Automated Rule Justification,Script the enforcement of rule justification requirements for better documentation and governance.
+Palo Alto Panorama,Network Segment Policy Updates,Automate updates to policies specific to network segments

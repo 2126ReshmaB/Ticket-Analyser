@@ -1,0 +1,65 @@
+Category,Short Description,Description
+SolarWinds Service Desk,Auto-Assign Tickets to Technicians,"Automatically assign tickets to technicians based on ticket category, priority, or department."
+SolarWinds Service Desk,Notify on SLA Breach,Send automated notifications to technicians and managers when an SLA is about to breach or has breached.
+SolarWinds Service Desk,Auto-Close Resolved Tickets,"Automatically close tickets that have been in the ""Resolved"" state for a specified number of days."
+SolarWinds Service Desk,Escalate Overdue Tickets,Automatically escalate tickets that exceed SLA time to higher-level support teams.
+SolarWinds Service Desk,Auto-Assign Priority to Tickets,Automatically assign ticket priorities based on keywords in the subject or description.
+SolarWinds Service Desk,Notify Users of Ticket Updates,Automatically notify users when their ticket status or priority changes.
+SolarWinds Service Desk,Reopen Tickets on User Response,Automatically reopen tickets if a user responds to a closed or resolved ticket.
+SolarWinds Service Desk,Notify on High-Priority Tickets,Send alerts to technicians and managers when high-priority tickets are logged.
+SolarWinds Service Desk,Auto-Create Tickets from Emails,Convert emails sent to the support mailbox into tickets automatically.
+SolarWinds Service Desk,Assign Tickets Based on Skills,Automatically route tickets to technicians with relevant skills to resolve the issue.
+SolarWinds Service Desk,Send Satisfaction Surveys After Resolution,Automatically send customer satisfaction surveys to users after their tickets are resolved.
+SolarWinds Service Desk,Generate Weekly SLA Reports,Automate the creation and distribution of weekly SLA performance reports for stakeholders.
+SolarWinds Service Desk,Auto-Categorize Tickets,Automatically categorize tickets based on keywords in the description or predefined rules.
+SolarWinds Service Desk,Notify on Major Incidents,Automatically notify all impacted users and stakeholders when a major incident is logged.
+SolarWinds Service Desk,Monitor Technician Workload,Track technician workloads automatically to ensure even distribution of tasks.
+SolarWinds Service Desk,Notify on VIP User Tickets,Send notifications to technicians when a ticket is submitted by a VIP user.
+SolarWinds Service Desk,Archive Old Tickets,Automatically archive tickets that have been closed for a specified period of time.
+SolarWinds Service Desk,Auto-Resolve Duplicate Tickets,Automatically resolve duplicate tickets by linking them to the original ticket.
+SolarWinds Service Desk,Notify on Ticket Escalation,Send alerts to technicians and managers whenever a ticket is escalated.
+SolarWinds Service Desk,Assign Tickets During After-Hours,Automatically assign tickets to on-call technicians for after-hours requests.
+SolarWinds Service Desk,Create Problem Records from Repeated Tickets,Automatically create a problem record when multiple tickets with the same issue are logged.
+SolarWinds Service Desk,Auto-Close Tickets Without User Response,Automatically close tickets if the user does not respond within a set time period after a resolution is provided.
+SolarWinds Service Desk,Generate Daily Ticket Reports,"Automate the creation of daily reports summarizing ticket activity, resolutions, and pending issues."
+SolarWinds Service Desk,Notify Users of Scheduled Maintenance,Automatically notify users about planned system maintenance through emails or portal alerts.
+SolarWinds Service Desk,Auto-Assign Tickets to Groups,Automatically route tickets to specific technician groups based on the issue type or request category.
+SolarWinds Service Desk,Monitor SLA Adherence,Automate SLA adherence tracking and notify managers of SLA violations.
+SolarWinds Service Desk,Auto-Tag Tickets for Reporting,Automatically tag tickets with relevant labels for easier tracking and reporting.
+SolarWinds Service Desk,Notify on Low Customer Satisfaction,Send alerts to managers when customer satisfaction scores fall below a defined threshold.
+SolarWinds Service Desk,Auto-Generate Knowledge Base Articles,Automatically create knowledge base articles from resolved tickets with detailed solutions.
+SolarWinds Service Desk,Create Tasks for New Employees,"Automatically generate onboarding tasks for new employees, such as account creation or hardware setup."
+SolarWinds Service Desk,Notify on High-Traffic Categories,Send alerts when specific ticket categories receive a high volume of requests in a short time.
+SolarWinds Service Desk,Update Tickets on Dependency Changes,Automatically update ticket status when dependent tasks or tickets are completed.
+SolarWinds Service Desk,Monitor Asset Warranty Expiry,Automatically notify the asset management team when an asset's warranty is about to expire.
+SolarWinds Service Desk,Escalate VIP Tickets,Automatically escalate tickets submitted by VIP users to higher-priority queues.
+SolarWinds Service Desk,Assign Tickets Based on Location,Automatically route tickets to technicians based on the user's location.
+SolarWinds Service Desk,Generate Monthly Performance Dashboards,Automate the creation of dashboards summarizing key metrics for the month.
+SolarWinds Service Desk,Notify on Outdated Knowledge Articles,Send reminders to update or archive knowledge base articles that have not been reviewed for a long time.
+SolarWinds Service Desk,Monitor Integration Failures,Automatically track failures in third-party integrations and generate alerts or tickets for investigation.
+SolarWinds Service Desk,Notify on Critical Asset Downtime,Automatically send alerts when critical assets experience downtime or performance degradation.
+SolarWinds Service Desk,Auto-Assign Change Requests,Automatically assign change requests to the appropriate change manager or team.
+SolarWinds Service Desk,Send SLA Achievement Alerts,Notify technicians when they successfully resolve tickets within SLA timelines.
+SolarWinds Service Desk,Auto-Categorize Change Requests,Automatically categorize change requests based on keywords or related services.
+SolarWinds Service Desk,Generate Asset Inventory Reports,Automate the creation of detailed asset inventory reports for IT teams.
+SolarWinds Service Desk,Notify on License Expiry,Automatically notify relevant teams when software licenses are nearing their expiration dates.
+SolarWinds Service Desk,Schedule Recurring Tasks,Automatically create recurring tasks for routine maintenance or audits.
+SolarWinds Service Desk,Auto-Assign Tickets for New Hardware,Automatically assign requests related to new hardware setup to the appropriate technicians.
+SolarWinds Service Desk,Monitor Unassigned Tickets,Automatically track unassigned tickets and notify managers if they remain unassigned for a specified time.
+SolarWinds Service Desk,Generate Ticket Trend Analysis,Automate the analysis of ticket trends over time and generate reports for management.
+SolarWinds Service Desk,Notify on Failed Scheduled Jobs,Automatically alert administrators when scheduled jobs fail to execute properly.
+SolarWinds Service Desk,Monitor Network Downtime,Automatically create tickets or send alerts when network downtime is detected.
+SolarWinds Service Desk,Auto-Update Fields in Tickets,Automatically update specific fields in tickets based on triggers or conditions.
+SolarWinds Service Desk,Notify on Unauthorized Access Attempts,Automatically alert security teams when unauthorized access attempts are detected in the system.
+SolarWinds Service Desk,Auto-Assign Tickets for Software Issues,Automatically route software-related tickets to specific technicians or groups.
+SolarWinds Service Desk,Generate Compliance Reports,Automate the creation of compliance reports for audits or regulatory requirements.
+SolarWinds Service Desk,Notify Users of Agent Assignments,Automatically notify users when a technician is assigned to their ticket.
+SolarWinds Service Desk,Auto-Renew Expiring Contracts,Automatically renew service contracts that are nearing expiry based on predefined rules.
+SolarWinds Service Desk,Auto-Create Child Tickets,Automatically create child tickets for larger requests that require multiple tasks to be completed.
+SolarWinds Service Desk,Notify on SLA Timer Resets,Send notifications when SLA timers are reset due to ticket status changes.
+SolarWinds Service Desk,Auto-Assign Onboarding Tasks,Automatically create and assign onboarding tasks for new employees.
+SolarWinds Service Desk,Monitor Disk Space Usage,Automatically generate alerts or tickets when server disk space usage exceeds predefined thresholds.
+SolarWinds Service Desk,Notify on Major Incident Resolution,Send automated notifications to all stakeholders when a major incident is resolved.
+SolarWinds Service Desk,Escalate Tickets for Negative Feedback,Automatically escalate tickets that receive negative customer satisfaction feedback.
+SolarWinds Service Desk,Monitor API Usage Limits,Automatically generate alerts when API usage approaches predefined thresholds.
+SolarWinds Service Desk,Auto-Create Tickets for Social Media Queries,Automatically generate tickets for customer queries posted on social media platforms.

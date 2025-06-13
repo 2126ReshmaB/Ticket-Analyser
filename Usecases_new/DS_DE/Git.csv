@@ -1,0 +1,94 @@
+Category,Short Description,Description
+Git,Auto-Initialize Repositories,Automate initializing Git repositories for new projects.
+Git,Auto-Commit Changes,Automate committing changes with pre-defined commit messages.
+Git,Branch Creation,Automate creating branches for specific tasks or features.
+Git,Branch Deletion,Automate the deletion of merged branches to keep repositories clean.
+Git,Merge Branches,Automate merging branches into the main branch after successful builds.
+Git,Pull Latest Changes,Automate pulling the latest changes from remote repositories.
+Git,Push Changes,Automate pushing committed changes to the remote repository.
+Git,Auto-Staging Changes,Automate staging all changes in the working directory.
+Git,Resolve Merge Conflicts,Automate resolving simple merge conflicts using predefined rules.
+Git,Clone Repositories,Automate cloning repositories to local systems.
+Git,Repository Backup,Automate backing up Git repositories to remote or cloud storage.
+Git,Auto-Tagging,Automate creating Git tags for releases based on version numbers.
+Git,Branch Renaming,Automate renaming branches to follow naming conventions.
+Git,Fetch Updates,Automate fetching remote updates without merging them.
+Git,Rebase Branches,Automate rebasing branches to keep commit history clean.
+Git,Repository Cleanup,Automate cleaning up unnecessary files and branches in repositories.
+Git,Log Analysis,Automate analyzing commit logs to identify changes and contributors.
+Git,Generate Changelogs,Automate generating changelogs from commit messages.
+Git,Auto-Delete Merged Branches,Automate deleting merged branches to maintain repository hygiene.
+Git,Automated Diff Generation,Automate generation of diffs between commits or branches.
+Git,Pre-Commit Hook Execution,Automate running pre-commit hooks like linting or tests.
+Git,Post-Commit Hook Execution,"Automate running scripts after commits, such as notifications."
+Git,Pre-Push Hook Execution,Automate running pre-push hooks for validation.
+Git,Auto-Resolve Conflicts,Automate resolving conflicts for specific file types using predefined rules.
+Git,Force Pull,Automate force pulling changes to overwrite local changes.
+Git,Auto-Checkout Branch,Automate checking out specific branches based on triggers.
+Git,Repository Health Check,"Automate checking repository health, such as uncommitted changes or detached HEAD."
+Git,Auto-Add Remotes,Automate adding multiple remotes to a repository.
+Git,Sync Forked Repository,Automate syncing forked repositories with the upstream repository.
+Git,Auto-Reset Changes,Automate resetting uncommitted changes to the last commit.
+Git,Squash Commits,Automate squashing commits before merging into the main branch.
+Git,Auto-Add Submodules,Automate adding and updating Git submodules within a repository.
+Git,Submodule Synchronization,Automate syncing submodules to the latest commit.
+Git,Auto-Remove Submodules,Automate removing unused submodules from repositories.
+Git,Repository Migration,Automate migrating repositories between different Git hosting platforms.
+Git,Repository Forking,Automate forking repositories to a personal or organizational account.
+Git,Auto-Archive Repositories,Automate archiving old or inactive repositories.
+Git,Auto-Create PRs,Automate creating pull requests after pushing feature branches.
+Git,Merge PRs,Automate merging pull requests after approval or CI success.
+Git,Auto-Revert Commits,Automate reverting specific commits in the repository.
+Git,Auto-Amend Commits,Automate amending the last commit with updated changes.
+Git,Auto-Generate Commit Messages,Automate generating commit messages based on changes made.
+Git,Clean Up Local Branches,Automate deleting local branches that have already been merged.
+Git,Auto-Checkout PR Branches,Automate checking out branches linked to open pull requests.
+Git,Auto-Update README,Automate updating README files with project details.
+Git,Auto-Generate Contributor List,Automate generating a list of contributors from commit history.
+Git,Automated Git Hooks Setup,Automate setting up Git hooks like pre-commit or post-merge hooks.
+Git,CI/CD Integration,Automate triggering CI/CD pipelines after commits or merges.
+Git,Auto-Bisect for Debugging,Automate using `git bisect` to find faulty commits.
+Git,Auto-Generate Git Ignore,Automate generating `.gitignore` files based on project type.
+Git,Track File Changes,Automate tracking changes in specific files or directories.
+Git,Repository Access Control,Automate setting access permissions for repositories.
+Git,Auto-Resolve Binary File Conflicts,Automate resolving conflicts in binary files like images or PDFs.
+Git,Stash Changes,Automate stashing changes for later use.
+Git,Apply Stash,Automate applying stashed changes to the working directory.
+Git,List Stashes,Automate listing all available stashes in a repository.
+Git,Delete Stashes,Automate deleting stashes that are no longer needed.
+Git,Auto-Enable LFS,Automate enabling Git LFS (Large File Storage) for specific file types.
+Git,LFS File Management,Automate tracking and pushing LFS files to remote repositories.
+Git,Auto-Resolve Line Endings,Automate resolving line ending conflicts between Windows and Linux.
+Git,Auto-Generate SSH Keys,Automate generating SSH keys for repository access.
+Git,SSH Key Integration,Automate integrating SSH keys into Git configuration.
+Git,Auto-Configure Git Author,Automate setting up global or local Git author information.
+Git,Auto-Configure Proxy Settings,Automate configuring proxy settings for Git.
+Git,Repository Size Check,Automate checking the size of repositories to identify large files.
+Git,Auto-Delete Large Files,Automate identifying and removing large files from history.
+Git,Repository Mirror Creation,Automate creating mirrors of repositories for backups.
+Git,Auto-Sync Mirrored Repositories,Automate syncing changes between mirrored repositories.
+Git,Commit History Cleanup,Automate cleaning up commit history for a cleaner log.
+Git,Automated Branch Protection,Automate setting branch protection rules on hosting platforms.
+Git,Repository Activity Report,Automate generating reports on repository activity and contributions.
+Git,Auto-Notify on Changes,Automate sending notifications for changes in specific branches.
+Git,Auto-Encrypt Sensitive Files,Automate encrypting sensitive files before committing.
+Git,Auto-Add License Files,Automate adding license files to new repositories.
+Git,Auto-Generate Release Notes,Automate creating release notes from tags and commit messages.
+Git,Repository Fork Updates,Automate updating forks from the original repository.
+Git,Auto-Verify Signatures,Automate verifying commit signatures for security.
+Git,Auto-Sign Commits,Automate signing commits with a GPG key.
+Git,Repository Status Check,Automate checking the status of repositories for pending changes.
+Git,Auto-Ignore Files,Automate adding files or directories to `.gitignore`.
+Git,Auto-Track Untracked Files,Automate tracking untracked files that meet specific criteria.
+Git,Auto-Delete Untracked Files,Automate removing untracked files from the working directory.
+Git,Auto-Generate Contribution Guidelines,Automate creating contribution guidelines for repositories.
+Git,Repository Duplication,Automate duplicating repositories for testing or sandboxing.
+Git,Auto-Generate Documentation,Automate generating project documentation based on code comments.
+Git,Repository Permissions Report,Automate generating reports on user permissions for repositories.
+Git,Auto-Add Webhooks,Automate adding webhooks for integrations like CI/CD or Slack notifications.
+Git,Auto-Generate API Clients,Automate generating API client code from repository contents.
+Git,Automated Workflow Setup,Automate setting up Git workflows like GitFlow.
+Git,Auto-Check Commit Standards,Automate validating commit messages against predefined standards.
+Git,Repository Tag Cleanup,Automate cleaning up unused or irrelevant tags.
+Git,Git Configuration Backup,Automate backing up Git config files for recovery.
+Git,Repository Disk Usage Report,Automate generating reports on disk usage by repositories.

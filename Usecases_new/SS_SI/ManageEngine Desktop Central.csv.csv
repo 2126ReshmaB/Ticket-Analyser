@@ -1,0 +1,71 @@
+Category,Short Description,Description
+ManageEngine Desktop Central,Automate Patch Deployment,"Automatically deploy patches for Windows, macOS, Linux, and third-party applications across endpoints."
+ManageEngine Desktop Central,Schedule Software Installation,Automate the installation of software on endpoints during specified non-business hours.
+ManageEngine Desktop Central,Uninstall Unauthorized Software,Automatically detect and remove unauthorized or blacklisted software from endpoints.
+ManageEngine Desktop Central,Deploy OS Updates,Automate the deployment of operating system updates to ensure devices stay secure and up to date.
+ManageEngine Desktop Central,Enforce Security Policies,Automatically apply security policies such as password complexity and screen lock settings on endpoints.
+ManageEngine Desktop Central,Monitor Endpoint Compliance,Automate compliance checks on endpoints to ensure they adhere to organizational policies.
+ManageEngine Desktop Central,Configure Firewall Settings,Automate the deployment of firewall configuration changes across devices.
+ManageEngine Desktop Central,Manage USB Device Access,Automate the restriction or enablement of USB device access on endpoints.
+ManageEngine Desktop Central,Remote Desktop Access,Automate the configuration of remote desktop settings for IT support staff to troubleshoot endpoints.
+ManageEngine Desktop Central,Deploy Antivirus Software,Automatically deploy antivirus software to endpoints to ensure endpoint security.
+ManageEngine Desktop Central,Monitor Disk Space,Automatically monitor disk space usage on endpoints and send alerts for low disk space.
+ManageEngine Desktop Central,Manage User Accounts,Automate the provisioning and de-provisioning of user accounts on endpoints.
+ManageEngine Desktop Central,Deploy Printer Drivers,Automatically deploy printer drivers and configure printers on endpoints.
+ManageEngine Desktop Central,Enforce BitLocker Encryption,Enforce and monitor BitLocker encryption on Windows endpoints for compliance.
+ManageEngine Desktop Central,Automate Software Updates,"Schedule and deploy updates for third-party software like Chrome, Adobe Reader, and Java."
+ManageEngine Desktop Central,Configure Proxy Settings,Automate the deployment of proxy configurations to ensure secure web access.
+ManageEngine Desktop Central,Deploy Wallpaper Settings,Automatically set corporate branding as desktop wallpapers for endpoints.
+ManageEngine Desktop Central,Track Software Usage,Automate the tracking of software usage data to identify under-utilized applications.
+ManageEngine Desktop Central,Enforce Browser Security Settings,"Automatically deploy browser security settings, such as disabling pop-ups or setting a corporate homepage."
+ManageEngine Desktop Central,Configure VPN Settings,Automate the deployment of VPN client configurations for secure remote access.
+ManageEngine Desktop Central,Deploy Custom Scripts,"Automate the execution of PowerShell, Batch, or VBScript scripts for endpoint-specific tasks."
+ManageEngine Desktop Central,Restrict Application Installations,Automatically prevent users from installing unauthorized applications on their devices.
+ManageEngine Desktop Central,Enforce Auto-Lock Policies,Automatically enforce auto-lock settings after inactivity to secure endpoints.
+ManageEngine Desktop Central,Schedule Reboot After Updates,Automate scheduled reboots after deploying software or operating system updates.
+ManageEngine Desktop Central,Deploy FileVault Encryption,Enforce disk encryption on macOS devices using FileVault.
+ManageEngine Desktop Central,Configure Group Policies,Automate the deployment of Group Policy settings to endpoints.
+ManageEngine Desktop Central,Monitor Endpoint Health,"Automatically gather metrics such as CPU usage, memory utilization, and app performance for endpoint health monitoring."
+ManageEngine Desktop Central,Deploy Office Applications,Automate the deployment of Microsoft Office or other productivity tools to devices.
+ManageEngine Desktop Central,Restrict Camera Access,Automatically restrict or disable camera access on endpoints for compliance.
+ManageEngine Desktop Central,Enable Remote Assistance,Automate the configuration of remote assistance tools for IT to support end users.
+ManageEngine Desktop Central,Monitor Event Logs,Automate the collection and analysis of event logs from endpoints for auditing and troubleshooting.
+ManageEngine Desktop Central,Manage Local Administrator Accounts,Automatically reset or disable local administrator accounts on endpoints.
+ManageEngine Desktop Central,Configure Time Zone Settings,Automate the configuration of time zone settings based on device locations.
+ManageEngine Desktop Central,Deploy Collaboration Tools,"Automate the deployment of tools like Microsoft Teams, Slack, or Zoom to endpoints."
+ManageEngine Desktop Central,Restrict External Storage,Automatically block external storage devices such as USB drives for sensitive endpoints.
+ManageEngine Desktop Central,Deploy Network Drives,Automate the mapping of shared network drives to user devices.
+ManageEngine Desktop Central,Monitor Installed Software,Automate the inventory tracking of installed software across all devices.
+ManageEngine Desktop Central,Enforce Application Whitelisting,Automatically enforce application whitelisting to prevent unapproved software from running.
+ManageEngine Desktop Central,Automate Device Inventory,Automatically update hardware and software inventory data for all endpoints.
+ManageEngine Desktop Central,Deploy Browser Extensions,Automatically deploy approved browser extensions like Grammarly or AdBlock across devices.
+ManageEngine Desktop Central,Enforce Disk Quotas,Automate the enforcement of disk quota policies to manage storage usage on endpoints.
+ManageEngine Desktop Central,Configure Backup Settings,Automate the deployment of backup policies to ensure critical data is backed up regularly.
+ManageEngine Desktop Central,Deploy Anti-Malware Tools,Automate the deployment and configuration of anti-malware tools like Malwarebytes.
+ManageEngine Desktop Central,Automate Compliance Reports,"Automatically generate compliance reports for software, patches, and security policies."
+ManageEngine Desktop Central,Configure Power Plans,Automate the deployment of energy-efficient power plans to reduce energy usage across endpoints.
+ManageEngine Desktop Central,Configure Startup Programs,Automate the addition or removal of startup programs to optimize system boot times.
+ManageEngine Desktop Central,Deploy Remote Desktop Tools,Automatically deploy remote desktop tools like AnyDesk or TeamViewer to endpoints.
+ManageEngine Desktop Central,Monitor Network Usage,Automate the monitoring and reporting of network usage statistics from endpoints.
+ManageEngine Desktop Central,Enforce Multi-Factor Authentication,Automate the deployment of MFA configurations for enhanced security on endpoints.
+ManageEngine Desktop Central,Disable Guest Accounts,Automatically detect and disable guest accounts on managed endpoints.
+ManageEngine Desktop Central,Configure Accessibility Settings,Automate the deployment of accessibility settings for users with special needs.
+ManageEngine Desktop Central,Install Developer Tools,"Automate the deployment of developer tools like Visual Studio, Git, or Docker on specific devices."
+ManageEngine Desktop Central,Monitor Battery Health,Automatically monitor battery performance on laptops for proactive maintenance.
+ManageEngine Desktop Central,Configure Proxy Settings,Automate the deployment of proxy configurations for web traffic management.
+ManageEngine Desktop Central,Deploy Language Packs,Automatically install language packs for devices requiring multilingual support.
+ManageEngine Desktop Central,Configure Default Browsers,Automate the configuration of default browsers for endpoint users.
+ManageEngine Desktop Central,Restrict Gaming Applications,Automatically block or uninstall gaming applications on work devices for productivity.
+ManageEngine Desktop Central,Deploy Printer Configurations,Automate the deployment of printer settings and configurations to endpoints.
+ManageEngine Desktop Central,Deploy Network Monitoring Agents,Automatically install network monitoring agents like SolarWinds or Zabbix on endpoints.
+ManageEngine Desktop Central,Schedule Patch Rollbacks,Automate the rollback of patches in case of compatibility issues.
+ManageEngine Desktop Central,Monitor Application Performance,Automate the monitoring of application performance metrics on managed devices.
+ManageEngine Desktop Central,Configure Content Filters,Automatically deploy content filtering rules for safe web browsing.
+ManageEngine Desktop Central,Enforce File Sharing Restrictions,Automate the enforcement of rules to restrict unauthorized file sharing.
+ManageEngine Desktop Central,Deploy Classroom Management Software,Automate the deployment of software like Google Classroom or Microsoft Teams for Education.
+ManageEngine Desktop Central,Configure Time Synchronization,Automate the configuration of NTP settings to ensure accurate system time.
+ManageEngine Desktop Central,Restrict Gaming Websites,Automatically block access to gaming or non-productive websites on managed devices.
+ManageEngine Desktop Central,Deploy Anti-Phishing Tools,Automate the deployment of anti-phishing tools or browser add-ons to protect users.
+ManageEngine Desktop Central,Configure Single Sign-On (SSO),Automate the deployment of SSO configurations for user authentication.
+ManageEngine Desktop Central,Track Hardware Warranty,Automatically collect and track device warranty information for inventory management.
+ManageEngine Desktop Central,Deploy Certificates,Automate the deployment of SSL

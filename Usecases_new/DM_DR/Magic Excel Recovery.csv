@@ -1,0 +1,63 @@
+Category,Short Description,Description
+Magic Excel Recovery,Recover deleted Excel files,Automate recovery of Excel files that were accidentally deleted from storage devices.
+Magic Excel Recovery,Recover Excel files from formatted drives,Automate recovery of Excel files from drives that were accidentally formatted.
+Magic Excel Recovery,Recover files from emptied Recycle Bin,Automate retrieval of Excel files deleted from the Recycle Bin.
+Magic Excel Recovery,Recover Excel files from corrupted partitions,Automate recovery of Excel files stored on partitions that have become corrupted.
+Magic Excel Recovery,Recover Excel files after system crash,Automate recovery of Excel files lost or damaged during a system crash.
+Magic Excel Recovery,Recover Excel files from external drives,"Automate recovery of Excel files stored on external drives, such as USB drives or external HDDs."
+Magic Excel Recovery,Recover Excel files from SSDs,"Automate recovery of Excel files stored on SSDs, even after TRIM operations."
+Magic Excel Recovery,Recover Excel files from SD cards,"Automate recovery of Excel files stored on SD or microSD cards used in cameras, smartphones, or other devices."
+Magic Excel Recovery,Recover Excel files from RAW partitions,Automate recovery of Excel files from partitions that have turned RAW and are no longer accessible.
+Magic Excel Recovery,Recover Excel files from FAT32 drives,Automate recovery of Excel files from FAT32-formatted drives or devices.
+Magic Excel Recovery,Recover Excel files from NTFS drives,Automate recovery of Excel files stored on NTFS-formatted drives.
+Magic Excel Recovery,Recover unsaved Excel files,Automate recovery of Excel files that were not saved before a crash or power outage.
+Magic Excel Recovery,Recover Excel files from BitLocker-encrypted drives,Automate recovery of Excel files from BitLocker-encrypted drives after decryption.
+Magic Excel Recovery,Recover Excel files from corrupted USB drives,Automate recovery of Excel files stored on USB drives that are no longer readable.
+Magic Excel Recovery,Recover Excel files from optical media,"Automate recovery of Excel files stored on CDs, DVDs, or Blu-ray discs."
+Magic Excel Recovery,Recover Excel files from lost partitions,Automate recovery of Excel files from partitions that have been deleted or are not recognized.
+Magic Excel Recovery,Recover Excel files after accidental deletion,Automate recovery of Excel files that were accidentally deleted using file managers.
+Magic Excel Recovery,Recover Excel files after a virus attack,Automate recovery of Excel files deleted or corrupted due to malware or virus attacks.
+Magic Excel Recovery,Recover Excel files after a power outage,Automate recovery of Excel files that were lost or damaged due to a sudden power failure.
+Magic Excel Recovery,Recover Excel files from system restore points,Automate recovery of Excel files from system restore snapshots.
+Magic Excel Recovery,Recover Excel files from damaged MBR,Automate recovery of Excel files stored on drives with a damaged Master Boot Record (MBR).
+Magic Excel Recovery,Recover Excel files from GPT drives,Automate recovery of Excel files from GUID Partition Table (GPT)-formatted drives.
+Magic Excel Recovery,Recover Excel files from corrupted RAID arrays,Automate recovery of Excel files stored on RAID arrays that have failed or degraded.
+Magic Excel Recovery,Recover Excel files from virtual drives,"Automate recovery of Excel files stored on virtual drive images, such as VHD or VMDK files."
+Magic Excel Recovery,Recover Excel files after improper ejection of storage devices,Automate recovery of Excel files from storage devices improperly ejected while files were open.
+Magic Excel Recovery,Recover Excel files from NAS devices,Automate recovery of Excel files stored on Network Attached Storage (NAS) devices.
+Magic Excel Recovery,Recover Excel files from cloud-synced storage,Automate recovery of Excel files stored locally and synced with cloud storage platforms after accidental deletion.
+Magic Excel Recovery,Recover Excel files with specific extensions,"Automate scanning and recovery of Excel files based on their extensions, such as .xls or .xlsx."
+Magic Excel Recovery,Recover Excel files with embedded macros,Automate recovery of Excel files containing embedded VBA macros.
+Magic Excel Recovery,Recover Excel files with charts and graphs,Automate recovery of Excel files containing charts and graphs.
+Magic Excel Recovery,Recover Excel files from hidden partitions,Automate recovery of Excel files stored on hidden or unallocated partitions.
+Magic Excel Recovery,Recover Excel files from corrupted boot sectors,Automate recovery of Excel files stored on drives with damaged boot sectors.
+Magic Excel Recovery,Recover Excel files from damaged file systems,Automate recovery of Excel files from drives with corrupted file systems.
+Magic Excel Recovery,Recover Excel files from removable drives,Automate recovery of Excel files stored on removable devices like pen drives or portable SSDs.
+Magic Excel Recovery,Recover Excel files from overwritten files,Automate recovery of older versions of Excel files that have been overwritten.
+Magic Excel Recovery,Recover Excel files from recycle bin backups,Automate recovery of Excel files that were deleted and moved to a recycle bin backup.
+Magic Excel Recovery,Recover Excel files from compressed drives,Automate recovery of Excel files stored on compressed drives.
+Magic Excel Recovery,Recover Excel files from fragmented disks,Automate recovery of Excel files from fragmented storage drives.
+Magic Excel Recovery,Recover Excel files after failed updates,Automate recovery of Excel files lost during a failed system or software update.
+Magic Excel Recovery,Recover Excel files from email attachments,Automate recovery of Excel files lost or deleted from email attachments.
+Magic Excel Recovery,Recover Excel files from smartphone storage,Automate recovery of Excel files stored on smartphone internal or external storage.
+Magic Excel Recovery,Recover Excel files from dual-boot systems,Automate recovery of Excel files lost during dual-boot OS installation.
+Magic Excel Recovery,Recover Excel files from old hard drives,Automate recovery of Excel files stored on old or aging hard drives.
+Magic Excel Recovery,Recover Excel files from Quick Format,Automate recovery of Excel files from drives that underwent a Quick Format operation.
+Magic Excel Recovery,Recover Excel files from deep scans,Automate scanning and recovering Excel files using a deep scan mode for maximum file recovery.
+Magic Excel Recovery,Recover Excel files after disk repartitioning,Automate recovery of Excel files lost during disk repartitioning or resizing.
+Magic Excel Recovery,Recover Excel files from logical drive failures,Automate recovery of Excel files from logical drives that have failed or are inaccessible.
+Magic Excel Recovery,Recover Excel files from network drives,Automate recovery of Excel files stored on network or shared drives.
+Magic Excel Recovery,Recover Excel files from encrypted files,Automate recovery of encrypted Excel files after providing the decryption key.
+Magic Excel Recovery,Recover Excel files from corrupted temporary files,Automate recovery of Excel files from temporary files generated during editing.
+Magic Excel Recovery,Recover Excel files from deleted partitions,Automate recovery of Excel files from partitions that have been deleted.
+Magic Excel Recovery,Recover Excel files after hardware failure,Automate recovery of Excel files lost due to hard drive or hardware component failure.
+Magic Excel Recovery,Recover Excel files from legacy storage devices,Automate recovery of Excel files stored on legacy devices like floppy disks or Zip drives.
+Magic Excel Recovery,Recover Excel files from hidden folders,Automate recovery of Excel files stored in hidden folders.
+Magic Excel Recovery,Recover Excel files from renamed extensions,Automate recovery of Excel files that have been renamed to non-standard extensions.
+Magic Excel Recovery,Recover Excel files from inaccessible drives,Automate recovery of Excel files stored on drives that are inaccessible due to errors.
+Magic Excel Recovery,Recover Excel files from RAID-0 configurations,Automate recovery of Excel files stored on RAID-0 (striped) configurations.
+Magic Excel Recovery,Recover Excel files from RAID-5 configurations,Automate recovery of Excel files stored on RAID-5 (parity) configurations.
+Magic Excel Recovery,Recover Excel files from hybrid drives,Automate recovery of Excel files stored on hybrid drives (HDD+SSD combinations).
+Magic Excel Recovery,Recover Excel files from bad sectors,Automate recovery of Excel files stored on drives with bad sectors.
+Magic Excel Recovery,Recover Excel files from corrupted registry entries,Automate recovery of Excel files affected by corrupted registry settings.
+Magic Excel Recovery,,

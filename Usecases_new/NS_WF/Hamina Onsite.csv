@@ -1,0 +1,67 @@
+Category,Short Description,Description
+Hamina Onsite,Automated Site Survey Data Collection,"Automate the collection of site survey data, including signal strength, noise levels, and interference."
+Hamina Onsite,Batch Upload of Survey Results,Automate the process of uploading multiple site survey results to the central platform for evaluation.
+Hamina Onsite,Real-Time Signal Visualization,Generate real-time signal heatmaps during site surveys to identify coverage gaps instantly.
+Hamina Onsite,Automatic Wall Material Detection,Automate the detection and classification of wall materials for accurate signal propagation analysis.
+Hamina Onsite,Automated AP Signal Strength Testing,Automate the testing of signal strength for all access points during a site survey.
+Hamina Onsite,Automated Zone Coverage Mapping,Use scripts to automate the mapping of zones with specific coverage requirements.
+Hamina Onsite,Scheduled Site Survey Notifications,Automate notifications and reminders for scheduled site surveys.
+Hamina Onsite,Automated Interference Detection,Detect and log wireless interference sources automatically during onsite surveys.
+Hamina Onsite,Automated Photo Tagging,Automate the tagging of captured photos with location and timestamp during site surveys.
+Hamina Onsite,Multi-Site Survey Data Aggregation,Automate the aggregation of survey data from multiple sites into a single report.
+Hamina Onsite,Automated Path Loss Measurements,Automate the measurement of path loss for various access point locations.
+Hamina Onsite,Real-Time Collaboration During Surveys,Enable automated data sharing and updates for team members conducting the survey simultaneously.
+Hamina Onsite,Automated Cable Length Estimation,Automate the estimation of cable lengths required based on AP placements and distance.
+Hamina Onsite,Automatic Obstruction Detection,Automate the identification of obstructions like furniture or pillars that may affect signal propagation.
+Hamina Onsite,Automated Signal-to-Noise Ratio Analysis,Automate the analysis of signal-to-noise ratios for better network quality assessment.
+Hamina Onsite,Instant QR Code Generation for AP Setup,Automate the generation of QR codes for access point configuration during onsite installations.
+Hamina Onsite,Automated AP Power Level Adjustments,Automate the adjustment of access point power levels during site surveys to optimize coverage.
+Hamina Onsite,Integration with Hamina Network Planner,Automate the synchronization of onsite data with the Hamina Network Planner tool for seamless updates.
+Hamina Onsite,Automated Survey Data Backup,Schedule and automate backups for all collected survey data.
+Hamina Onsite,Automated Multi-Floor Survey Data Merge,Automate the merging of survey data from multiple floors into a single report.
+Hamina Onsite,Automated RF Spectrum Analysis,Automate the analysis of RF spectrum data collected during site surveys.
+Hamina Onsite,Automated Network Validation,Automate the validation of network performance metrics like latency and throughput during site surveys.
+Hamina Onsite,Device Inventory Tracking During Surveys,Automate the tracking of network devices identified during onsite surveys.
+Hamina Onsite,Automated AP Channel Interference Checks,Automate the detection of channel interference for access points during site surveys.
+Hamina Onsite,Real-Time Survey Data Export,Automate the export of real-time survey data to external tools or platforms.
+Hamina Onsite,Automated Dead Zone Identification,Automate the identification of dead zones where no wireless signal is detected.
+Hamina Onsite,Automated Antenna Orientation Validation,Automate the validation of antenna orientation for optimal signal propagation.
+Hamina Onsite,Automated AP Placement Validation,Automate the validation of access point placement against the network design plan.
+Hamina Onsite,Automated Capture of Environmental Factors,Automate the collection of environmental factors such as temperature and humidity during site surveys.
+Hamina Onsite,Automated Signal Drop Testing,Automate testing for signal drops in specific areas during movement.
+Hamina Onsite,Automated Survey Result Comparison,Automate the comparison of survey results before and after network changes.
+Hamina Onsite,Automated Noise Floor Analysis,Automate the analysis of noise floors at different locations during the survey.
+Hamina Onsite,Automated Data Synchronization,Automate the synchronization of survey data across multiple devices used by surveyors.
+Hamina Onsite,Automated AP Naming Convention Validation,Automate the validation of access point naming conventions during setup.
+Hamina Onsite,Automated AP Signal Range Testing,Automate the validation of signal ranges for each access point during the survey.
+Hamina Onsite,Automated Multi-Band Survey Analysis,"Automate the analysis of Wi-Fi signals across multiple frequency bands (e.g., 2.4 GHz and 5 GHz)."
+Hamina Onsite,Automated Survey Equipment Calibration,Automate the calibration of survey equipment used during onsite visits.
+Hamina Onsite,Automated AP Software Version Validation,Automate the validation of access point software versions during surveys.
+Hamina Onsite,Automated Floor Plan Alignment,Automate the alignment of floor plan images with the physical site layout during surveys.
+Hamina Onsite,Automated Site Survey Checklist Validation,Automate the validation of checklist items for site surveys to ensure all tasks are completed.
+Hamina Onsite,Automated Survey Report Formatting,Automate the formatting of survey reports for consistent documentation.
+Hamina Onsite,Automated External Interference Detection,Automate the detection of interference from external sources such as neighboring networks.
+Hamina Onsite,Automated Signal Quality Alerts,Automatically generate alerts when signal quality drops below a predefined threshold during the survey.
+Hamina Onsite,Automated Survey Data Tagging by Zone,Automate the tagging of survey data with zone or area identifiers for easier analysis.
+Hamina Onsite,Automated Integration with Cloud Storage,Automate the uploading of survey data to cloud storage for backup and sharing.
+Hamina Onsite,Automated Signal Coverage Threshold Checks,Automate checks to ensure signal coverage meets the required thresholds in all areas.
+Hamina Onsite,Automated Site Survey Scheduling,Automate the scheduling of site surveys based on project timelines and resource availability.
+Hamina Onsite,Automated AP Configuration Validation,Automate checks to validate the configuration settings of access points during surveys.
+Hamina Onsite,Automated Surveyor Location Tracking,Automate the tracking of surveyor locations during site surveys for better coordination.
+Hamina Onsite,Automated Environmental Obstacle Logging,Automate the logging of environmental obstacles like metal objects that could affect signal propagation.
+Hamina Onsite,Automated Signal Drop Alerts,Generate automatic alerts when sudden signal drops are detected during surveys.
+Hamina Onsite,Automated Integration with Analytics Tools,Automate the export of survey data to analytics tools for deeper insights.
+Hamina Onsite,Automated Maintenance Task Scheduling,Automate the scheduling of maintenance tasks based on survey findings.
+Hamina Onsite,Automated Compliance Report Generation,Automate the generation of compliance reports based on survey data.
+Hamina Onsite,Automated Integration with Ticketing Tools,Automate the creation of tickets in project management tools based on survey findings.
+Hamina Onsite,Automated Device Compatibility Checks,Automate checks for compatibility of network devices with the survey results.
+Hamina Onsite,Automated Signal Hand-Off Testing,Automate the testing of signal hand-offs between access points during movement.
+Hamina Onsite,Automated Integration with Security Tools,Automate the export of survey data to security tools for vulnerability assessments.
+Hamina Onsite,Automated Survey Data Cleaning,Automate the cleaning and filtering of survey data for accurate analysis.
+Hamina Onsite,Automated Network Device Detection,Automate the detection of network devices encountered during surveys.
+Hamina Onsite,Automated Integration with CRM Tools,Automate the integration of survey data with customer relationship management (CRM) systems.
+Hamina Onsite,Automated Survey Data Localization,Automate the localization of survey data for different regions or languages.
+Hamina Onsite,Automated Survey Data Version Control,Automate version control to track changes in survey data over time.
+Hamina Onsite,Automated AP Signal Coverage Validation,Automate checks to validate that access point signal coverage meets design specifications.
+Hamina Onsite,Automated Integration with GIS Systems,Automate the integration of survey data with geographic information systems (GIS).
+Hamina Onsite,,

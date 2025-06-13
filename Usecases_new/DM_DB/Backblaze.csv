@@ -1,0 +1,66 @@
+Category,Short Description,Description
+Backblaze,Scheduled File Backups,Automate scheduled backups of files and folders to Backblaze B2 cloud storage.
+Backblaze,Incremental Backups,Automate incremental backups to save only changed files since the last backup.
+Backblaze,Differential Backups,Automate differential backups to capture changes since the last full backup.
+Backblaze,Backup of System Data,Automate the backup of entire system data to Backblaze for disaster recovery.
+Backblaze,Cloud-to-Cloud Backups,"Automate backups from one cloud service (e.g., AWS, Google Cloud) to Backblaze B2 for redundancy."
+Backblaze,Database Backups,"Automate database backups (e.g., MySQL, PostgreSQL) to Backblaze B2 storage."
+Backblaze,File Sync Across Regions,Automate syncing of files between Backblaze buckets in different regions.
+Backblaze,File Versioning,Automate file versioning management to keep previous versions of files for recovery.
+Backblaze,Auto-Delete Old File Versions,Automate deletion of older file versions after a retention period to manage storage costs.
+Backblaze,File Upload Automation,Automate the upload of files from a local directory to Backblaze B2 buckets.
+Backblaze,File Download Automation,Automate downloading files from Backblaze B2 buckets to a local directory.
+Backblaze,File Encryption Before Upload,Automate encryption of files before uploading to Backblaze for added security.
+Backblaze,File Decryption After Download,Automate decryption of files downloaded from Backblaze storage.
+Backblaze,Backup Compression,Automate compression of files before uploading them to Backblaze to save storage space.
+Backblaze,File Organization by Date,Automate organizing files in Backblaze buckets into folders based on their creation or modification date.
+Backblaze,File Organization by Type,"Automate sorting of files into folders based on file type (e.g., documents, images, videos)."
+Backblaze,File Organization by Size,"Automate the organization of files into folders based on their size (e.g., small, medium, large)."
+Backblaze,File Organization by Metadata,"Automate file organization based on metadata tags (e.g., project names, owners)."
+Backblaze,Backup Retention Policy Enforcement,Automate enforcement of backup retention policies to delete expired files.
+Backblaze,Scheduled Data Sync,Automate syncing data between Backblaze and local storage at scheduled intervals.
+Backblaze,Scheduled Backups to Cold Storage,Automate backups of old or rarely accessed data to Backblaze cold storage.
+Backblaze,Real-Time Backup Alerts,"Automate alerts for backup completion, failures, or errors via email or SMS."
+Backblaze,Backup Logs,Automate the creation and storage of logs for all backup activities.
+Backblaze,Pre-Backup File Cleanup,Automate the cleanup of temporary files before initiating a backup.
+Backblaze,Post-Backup Integrity Check,Automate verification of backup integrity after each backup process.
+Backblaze,Virtual Machine Backups,Automate backups of virtual machines like VMware or Hyper-V to Backblaze.
+Backblaze,NAS Backup Automation,Automate backups of data stored on Network Attached Storage (NAS) devices.
+Backblaze,Backup of Shared Drives,Automate backups of shared folders or network drives to Backblaze.
+Backblaze,Backup of External Drives,Automate backups of external USB or HDD drives to Backblaze cloud storage.
+Backblaze,Backup of IoT Data,Automate backups of IoT sensor or device data to Backblaze storage.
+Backblaze,Backup of Cloud Services,Automate backups of data from other cloud services like Google Drive or Dropbox to Backblaze.
+Backblaze,Backup of Social Media Data,Automate backups of social media data like Facebook posts or Instagram photos.
+Backblaze,Backup of Application Logs,Automate the backup of application logs to a Backblaze bucket for long-term storage.
+Backblaze,Multimedia Backup,"Automate backups of multimedia files, such as photos, videos, and audio files."
+Backblaze,Document Backup,Automate backups of important documents and spreadsheets.
+Backblaze,Large File Upload,Automate the upload of large files to Backblaze by splitting them into smaller chunks.
+Backblaze,Backup of Email Data,Automate backups of email accounts like Outlook or Thunderbird to Backblaze storage.
+Backblaze,CAD Files Backup,Automate backups of CAD files for engineering or design projects.
+Backblaze,Backup of Video Editing Projects,Automate backups of video editing project files and raw footage to Backblaze.
+Backblaze,Backup of Game Development Data,"Automate the backup of game development assets, code, and project files."
+Backblaze,Backup of Research Data,"Automate backups of research papers, experiment results, and datasets."
+Backblaze,Database Logs Backup,Automate backups of database transaction logs to Backblaze for disaster recovery.
+Backblaze,Backup of ERP Data,Automate backups of ERP (Enterprise Resource Planning) system data to Backblaze.
+Backblaze,Backup of CRM Data,Automate backups of CRM (Customer Relationship Management) system files to Backblaze.
+Backblaze,Backup of Financial Data,Automate backups of financial reports and accounting data to Backblaze.
+Backblaze,Backup of Legal Records,"Automate backups of legal records, contracts, and compliance documents to Backblaze."
+Backblaze,Backup of Medical Records,Automate backups of patient medical records and data for HIPAA compliance.
+Backblaze,Backup of Marketing Campaigns,"Automate backups of marketing campaign data, creative assets, and analytics reports to Backblaze."
+Backblaze,Backup of HR Files,"Automate backups of employee records, payroll data, and HR-related files to Backblaze."
+Backblaze,Backup of Inventory Data,Automate backups of inventory and logistics data to Backblaze.
+Backblaze,Backup of Manufacturing Data,Automate backups of manufacturing process documents and reports to Backblaze.
+Backblaze,Backup of Energy Data,Automate backups of energy consumption and production data to Backblaze.
+Backblaze,Backup of Weather Data,"Automate backups of meteorological data, such as weather forecasts and historical records, to Backblaze."
+Backblaze,Backup of Wildlife Data,"Automate backups of wildlife tracking, research, and conservation data to Backblaze."
+Backblaze,Backup of Space Mission Data,"Automate backups of space mission telemetry, logs, and results to Backblaze."
+Backblaze,Backup of Satellite Imagery,Automate backups of satellite imagery and GIS data to Backblaze for long-term storage.
+Backblaze,Backup of IoT Sensor Logs,Automate backups of logs from IoT devices or edge computing systems to Backblaze.
+Backblaze,Backup of Smart Home Data,Automate backups of smart home configurations and logs to Backblaze.
+Backblaze,Backup of Robotics Data,"Automate backups of robotics programming, sensor logs, and training datasets to Backblaze."
+Backblaze,Backup of Blockchain Data,Automate backups of blockchain ledger or cryptocurrency data to Backblaze for redundancy.
+Backblaze,Backup of Virtual Reality Projects,"Automate backups of VR (Virtual Reality) project files, assets, and environments to Backblaze."
+Backblaze,Backup of Augmented Reality Data,Automate backups of AR (Augmented Reality) applications and design files to Backblaze.
+Backblaze,Backup of 3D Printing Files,Automate backups of 3D printing designs and STL files to Backblaze.
+Backblaze,Drone Video Backup,"Automate backups of drone footage, telemetry data, and flight logs to Backblaze."
+Backblaze,Backup of Space Exploration Data,

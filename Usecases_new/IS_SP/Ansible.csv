@@ -1,0 +1,80 @@
+Category,Short Description,Description
+Ansible,Server provisioning,"Automate the provisioning of servers, including operating system installation and initial configuration."
+Ansible,Application deployment,Deploy applications across multiple servers with consistent configurations.
+Ansible,Configuration management,Manage and enforce system configurations across servers to ensure consistency.
+Ansible,Patch management,Automate the installation of security patches and updates on servers.
+Ansible,User account management,"Create, update, and delete user accounts across systems."
+Ansible,Database setup,"Automate the installation and configuration of databases like MySQL, PostgreSQL, or MongoDB."
+Ansible,Firewall configuration,Configure firewall rules to secure network traffic.
+Ansible,Load balancer setup,Automate the configuration of load balancers to distribute traffic across servers.
+Ansible,Backup automation,Automate the creation of backups for critical data and configurations.
+Ansible,Monitoring setup,"Configure monitoring tools like Nagios, Prometheus, or Zabbix to track system performance."
+Ansible,Log management,Automate the setup of centralized logging systems like ELK Stack or Splunk.
+Ansible,Cloud resource provisioning,"Automate the creation and management of cloud resources on AWS, Azure, or GCP."
+Ansible,Kubernetes cluster management,Automate the deployment and management of Kubernetes clusters.
+Ansible,CI/CD pipeline integration,Integrate Ansible with CI/CD pipelines to automate application deployments.
+Ansible,Network device configuration,Automate the configuration of network devices like routers and switches.
+Ansible,SSL certificate management,Automate the provisioning and renewal of SSL/TLS certificates.
+Ansible,Service restart automation,Automate the restart of services after configuration changes or updates.
+Ansible,Disk space monitoring,Automate the monitoring and alerting of disk space usage on servers.
+Ansible,Software installation,Automate the installation of software packages across multiple systems.
+Ansible,Security compliance enforcement,Enforce security compliance policies across IT environments.
+Ansible,Secret management integration,Integrate with tools like HashiCorp Vault to securely manage sensitive data.
+Ansible,Resource tagging,Automate the tagging of cloud resources for better cost management and organization.
+Ansible,Hybrid cloud management,Manage resources across on-premises and cloud environments.
+Ansible,Disaster recovery setup,Automate the creation of disaster recovery environments for business continuity.
+Ansible,API gateway configuration,Automate the setup of API gateways for managing and securing APIs.
+Ansible,Virtual machine provisioning,Automate the creation and configuration of virtual machines on hypervisors.
+Ansible,Container orchestration,Automate the deployment and management of containerized applications.
+Ansible,Resource cleanup,Automate the cleanup of unused or orphaned resources to reduce costs.
+Ansible,Multi-cloud deployment,Automate the deployment of resources across multiple cloud providers.
+Ansible,Edge computing setup,Automate the deployment of edge computing resources for low-latency applications.
+Ansible,Data lake creation,Automate the setup of data lakes using cloud storage services.
+Ansible,High availability configuration,Automate the setup of high availability clusters for critical applications.
+Ansible,Network topology visualization,Automate the generation of network topology diagrams.
+Ansible,Resource scaling,Automate the scaling of resources based on usage metrics.
+Ansible,Multi-region deployment,Deploy resources across multiple regions for redundancy and disaster recovery.
+Ansible,Static website hosting,Automate the setup of static website hosting on cloud platforms.
+Ansible,Resource state validation,Validate the state of resources to ensure they match the desired configuration.
+Ansible,Resource dependency management,Manage dependencies between resources to ensure proper deployment order.
+Ansible,Resource cost optimization,Automate the identification and optimization of underutilized resources.
+Ansible,Resource lifecycle management,"Manage the lifecycle of resources, including creation, updates, and deletion."
+Ansible,Identity federation setup,Automate the configuration of identity federation between systems.
+Ansible,Service mesh deployment,Automate the deployment of service mesh solutions like Istio or Linkerd.
+Ansible,Logging infrastructure setup,Automate the configuration of logging tools for centralized log management.
+Ansible,Resource quota enforcement,Enforce resource quotas to prevent over-provisioning.
+Ansible,Cloud-native CI/CD tools setup,Automate the deployment of cloud-native CI/CD tools like Jenkins or GitLab CI.
+Ansible,Resource monitoring dashboards,Automate the creation of dashboards for visualizing resource performance.
+Ansible,Multi-cloud failover setup,Automate failover configurations across multiple cloud providers.
+Ansible,Resource encryption,Automate the configuration of encryption for data at rest and in transit.
+Ansible,Stateful application deployment,Automate the deployment of stateful applications with persistent storage.
+Ansible,Resource snapshot automation,Automate the creation of resource snapshots for backup and recovery.
+Ansible,Resource provisioning templates,Create reusable templates for consistent resource provisioning.
+Ansible,Resource access auditing,Automate the auditing of resource access logs for security and compliance.
+Ansible,Resource scaling testing,Automate the testing of resource scaling configurations.
+Ansible,Resource lifecycle policies,Define and enforce lifecycle policies for resources.
+Ansible,Resource tagging automation,Automate the tagging of resources based on predefined policies.
+Ansible,Resource provisioning rollback,Automate the rollback of failed resource provisioning attempts.
+Ansible,Resource provisioning analytics,Automate the collection and analysis of resource provisioning metrics.
+Ansible,Resource provisioning notifications,Automate notifications for resource provisioning events.
+Ansible,Resource provisioning approval workflows,Automate approval workflows for resource provisioning.
+Ansible,Resource provisioning retries,Automate retries for failed resource provisioning attempts.
+Ansible,Resource provisioning error handling,Automate error handling for resource provisioning.
+Ansible,Resource provisioning rollback testing,Automate the testing of rollback mechanisms for resource provisioning.
+Ansible,Resource provisioning event triggers,Automate actions based on specific resource provisioning events.
+Ansible,Resource provisioning dependency checks,Automate checks for resource dependencies before provisioning.
+Ansible,Resource provisioning state locking,Automate state locking to prevent concurrent modifications.
+Ansible,Resource provisioning state migration,Automate the migration of resource states to remote backends.
+Ansible,Resource provisioning state validation,Automate the validation of resource states to ensure consistency.
+Ansible,Resource provisioning state visualization,Automate the visualization of resource states and dependencies.
+Ansible,Resource provisioning state analytics,Automate the analysis of resource states for optimization.
+Ansible,Resource provisioning state notifications,Automate notifications for changes in resource states.
+Ansible,Resource provisioning state approval workflows,Automate approval workflows for changes in resource states.
+Ansible,Resource provisioning state retries,Automate retries for failed state changes.
+Ansible,Resource provisioning state error handling,Automate error handling for state changes.
+Ansible,Resource provisioning state rollback testing,Automate the testing of rollback mechanisms for state changes.
+Ansible,Resource provisioning state event triggers,Automate actions based on specific state change events.
+Ansible,Resource provisioning state dependency checks,Automate checks for state dependencies before changes.
+Ansible,Resource provisioning state locking,Automate state locking to prevent concurrent modifications.
+Ansible,Resource provisioning state migration,Automate the migration of resource states to remote backends.
+Ansible,Resource provisioning state validation,Automate the validation of resource states to ensure consistency.

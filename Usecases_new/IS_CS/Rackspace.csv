@@ -1,0 +1,76 @@
+Category,Short Description,Description
+Rackspace,Auto-Scaling Cloud Servers,Automatically scale cloud servers based on CPU or memory usage using Rackspace APIs.
+Rackspace,Scheduled Server Backups,Automate the scheduling of backups for cloud servers using Rackspace Cloud Backup.
+Rackspace,Server Deployment with Predefined Configurations,Automate the deployment of servers with predefined configurations using Rackspace Cloud Servers API.
+Rackspace,Load Balancer Health Checks,Automate health checks for Rackspace Load Balancers to ensure application availability.
+Rackspace,Monitoring Alert Notifications,Set up automated alerts for resource usage using Rackspace Monitoring and integrate with email or Slack.
+Rackspace,Object Storage Lifecycle Management,Automate data archiving and deletion in Rackspace Cloud Files using lifecycle rules.
+Rackspace,Cloud Files Cross-Region Replication,Automate replication of Cloud Files data across regions for disaster recovery.
+Rackspace,Auto-Healing Cloud Servers,Automatically restart unhealthy cloud servers using Rackspace Monitoring and automation scripts.
+Rackspace,Firewall Rule Management,Automate the creation and management of firewall rules using Rackspace APIs.
+Rackspace,Server Tagging,Automate tagging of servers for better resource organization and cost tracking.
+Rackspace,Database Backup Automation,Automate backups for managed databases using Rackspace Cloud Databases API.
+Rackspace,Database Scaling,Automate scaling of managed databases based on workload using Rackspace APIs.
+Rackspace,Cloud Files Object Versioning,Enable and manage versioning for Cloud Files objects automatically.
+Rackspace,Server Snapshot Management,Automate the creation and deletion of server snapshots using Rackspace APIs.
+Rackspace,Monitoring Integration with Third-Party Tools,Automate integration of Rackspace Monitoring with tools like Datadog or New Relic.
+Rackspace,Cloud Files Access Monitoring,Monitor and alert on unauthorized access to Cloud Files containers.
+Rackspace,Infrastructure Drift Detection,Automate detection of infrastructure drift using Rackspace APIs or Terraform.
+Rackspace,Server Resize Automation,Automate resizing of servers based on application requirements using Rackspace APIs.
+Rackspace,Cloud Files Encryption Enforcement,Automate enforcement of encryption for Cloud Files containers.
+Rackspace,Server Deletion,Automate deletion of unused or obsolete servers using Rackspace APIs.
+Rackspace,Cloud Files Metadata Extraction,Automate extraction of metadata from Cloud Files objects for analysis.
+Rackspace,Real-Time Notifications,Automate real-time notifications for resource events using Rackspace Monitoring and webhooks.
+Rackspace,Log Analysis with Rackspace Intelligence,Automate log analysis using Rackspace Intelligence for troubleshooting and monitoring.
+Rackspace,Server Firewall Automation,Automate the setup of firewalls for new servers using predefined rules.
+Rackspace,Cloud Files Object Archiving,Automate archiving of objects in Cloud Files containers based on access patterns.
+Rackspace,Kubernetes Cluster Management,Automate the creation and scaling of Kubernetes clusters using Rackspace APIs.
+Rackspace,Cloud Files Object Deletion,Automate deletion of objects in Cloud Files containers based on lifecycle policies.
+Rackspace,Server Monitoring Setup,Automate the installation of monitoring agents on new servers.
+Rackspace,Cloud Files Public Access Blocking,Automate blocking of public access to Cloud Files containers for security.
+Rackspace,Database User Management,Automate the creation and management of database users using Rackspace APIs.
+Rackspace,Kubernetes Cluster Updates,Automate updates to Kubernetes clusters using Rackspace APIs.
+Rackspace,Cloud Files Object Migration,Automate migration of objects between Cloud Files containers.
+Rackspace,Server Startup Script Execution,Automate the execution of startup scripts on new servers.
+Rackspace,Cloud Files Object Compression,Automate compression of objects in Cloud Files containers to save storage space.
+Rackspace,Kubernetes Namespace Management,Automate the creation and management of namespaces in Kubernetes clusters.
+Rackspace,Cloud Files Object Restoration,Automate restoration of deleted objects in Cloud Files containers.
+Rackspace,Server Security Updates,Automate the installation of security updates on servers using scripts.
+Rackspace,Cloud Files Object Duplication,Automate duplication of objects in Cloud Files containers for redundancy.
+Rackspace,Kubernetes Pod Scaling,Automate scaling of Kubernetes pods based on resource usage.
+Rackspace,Cloud Files Object Tagging,Automate tagging of objects in Cloud Files containers for better organization.
+Rackspace,Server Cost Analysis,Automate cost analysis for servers using Rackspace APIs and third-party tools.
+Rackspace,Cloud Files Object Encryption,Automate encryption of objects in Cloud Files containers for data security.
+Rackspace,Kubernetes Cluster Backup,Automate backups of Kubernetes cluster configurations using scripts.
+Rackspace,Cloud Files Object Lifecycle Policies,Automate the creation and management of lifecycle policies for Cloud Files objects.
+Rackspace,Server Resource Allocation,Automate resource allocation for servers based on application needs.
+Rackspace,Cloud Files Object Access Logs,Automate collection and analysis of access logs for Cloud Files containers.
+Rackspace,Kubernetes Cluster Monitoring,Automate monitoring of Kubernetes clusters using third-party tools like Prometheus.
+Rackspace,Cloud Files Object Data Export,Automate data export workflows for Cloud Files objects.
+Rackspace,Server Network Configuration,Automate network configuration for servers using scripts.
+Rackspace,Cloud Files Object Data Import,Automate data import workflows for Cloud Files objects.
+Rackspace,Kubernetes Cluster Security Scans,Automate security scans for Kubernetes clusters using third-party tools.
+Rackspace,Cloud Files Object Data Synchronization,Automate synchronization of data between Cloud Files containers.
+Rackspace,Server Performance Optimization,Automate performance optimization for servers using monitoring and scripts.
+Rackspace,Cloud Files Object Data Validation,Automate validation of data integrity for Cloud Files objects.
+Rackspace,Kubernetes Cluster Role Management,Automate the creation and management of roles in Kubernetes clusters.
+Rackspace,Cloud Files Object Data Integration,Automate data integration workflows for Cloud Files objects.
+Rackspace,Server Application Deployment,Automate application deployment to servers using CI/CD pipelines.
+Rackspace,Cloud Files Object Data Backup,Automate backups for Cloud Files objects using scripts.
+Rackspace,Kubernetes Cluster Role Binding,Automate the creation and management of role bindings in Kubernetes clusters.
+Rackspace,Cloud Files Object Data Cleansing,Automate data cleansing workflows for Cloud Files objects.
+Rackspace,Server Resource Monitoring,Automate resource monitoring for servers using Rackspace Monitoring.
+Rackspace,Cloud Files Object Data Aggregation,Automate data aggregation workflows for Cloud Files objects.
+Rackspace,Kubernetes Cluster Pod Monitoring,Automate monitoring of pods in Kubernetes clusters using third-party tools.
+Rackspace,Cloud Files Object Data Transformation,Automate data transformation workflows for Cloud Files objects.
+Rackspace,Server Resource Scaling,Automate scaling of server resources based on application requirements.
+Rackspace,Cloud Files Object Data Export to Third-Party Tools,Automate exporting Cloud Files data to third-party tools for analysis.
+Rackspace,Kubernetes Cluster Pod Security,Automate security configurations for pods in Kubernetes clusters.
+Rackspace,Cloud Files Object Data Import from Third-Party Tools,Automate importing data from third-party tools to Cloud Files containers.
+Rackspace,Server Resource Deletion,Automate deletion of unused server resources using scripts.
+Rackspace,Cloud Files Object Data Synchronization Across Regions,Automate synchronization of Cloud Files data across different regions.
+Rackspace,Kubernetes Cluster Pod Updates,Automate updates to pods in Kubernetes clusters using scripts.
+Rackspace,Cloud Files Object Data Validation Across Regions,Automate validation of Cloud Files data integrity across regions.
+Rackspace,Server Resource Optimization,Automate optimization of server resources for cost efficiency.
+Rackspace,Cloud Files Object Data Encryption,Automate encryption of Cloud Files data for enhanced security.
+Rackspace,Kubernetes Cluster Pod Deletion,Automate deletion of unused pods in Kubernetes clusters.

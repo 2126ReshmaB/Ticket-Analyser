@@ -1,0 +1,61 @@
+Category,Short Description,Description
+EaseUS Data Recovery Wizard,Recover deleted files from Recycle Bin,Automate the recovery process of files deleted from the Recycle Bin after emptying it.
+EaseUS Data Recovery Wizard,Recover files lost due to accidental formatting,Automate the scanning and recovery of data from accidentally formatted drives.
+EaseUS Data Recovery Wizard,Retrieve files lost due to partition deletion,Automate the detection and restoration of data from deleted partitions.
+EaseUS Data Recovery Wizard,Recover files from RAW drives,Automate recovery of files from RAW or inaccessible drives.
+EaseUS Data Recovery Wizard,Recover files lost due to virus attacks,Automate the recovery of files deleted or corrupted during a virus attack.
+EaseUS Data Recovery Wizard,Recover data from a crashed operating system,Automate the recovery process for retrieving important files when the operating system fails to boot.
+EaseUS Data Recovery Wizard,Retrieve accidentally deleted photos,Automate the recovery of image files that were accidentally deleted.
+EaseUS Data Recovery Wizard,Recover lost videos,Automate the scanning and recovery of video files from various storage devices.
+EaseUS Data Recovery Wizard,Recover lost audio files,"Automate the recovery of audio files, including music and recordings."
+EaseUS Data Recovery Wizard,Recover files from USB drives,Automate the scanning and recovery of files from USB flash drives.
+EaseUS Data Recovery Wizard,Recover data from SD cards,"Automate the recovery of files from SD cards used in cameras, smartphones, or other devices."
+EaseUS Data Recovery Wizard,Recover lost documents,"Automate the recovery of document files such as Word, Excel, PDF, and PowerPoint files."
+EaseUS Data Recovery Wizard,Retrieve files after system updates,Automate recovery of files lost during system update processes.
+EaseUS Data Recovery Wizard,Recover files from external hard drives,Automate the scanning and recovery of data from external hard drives.
+EaseUS Data Recovery Wizard,Recover files from corrupted partitions,Automate the recovery of data from partitions that have become corrupted.
+EaseUS Data Recovery Wizard,Recover files from a failed hard drive,Automate the process of scanning and recovering data from failed hard drives.
+EaseUS Data Recovery Wizard,Recover files from SSD drives,"Automate recovery of data from SSDs, whether internal or external."
+EaseUS Data Recovery Wizard,Retrieve files from optical media like DVDs and CDs,Automate the recovery of files from damaged or unreadable optical discs.
+EaseUS Data Recovery Wizard,Recover data from network drives,Automate scanning and recovery of data from network drives or shared locations.
+EaseUS Data Recovery Wizard,Recover files from encrypted drives,Automate the recovery of files from encrypted drives after providing the decryption key.
+EaseUS Data Recovery Wizard,Restore files lost during file transfer,Automate the recovery of files that were interrupted or lost during transfer between devices.
+EaseUS Data Recovery Wizard,Recover files from cloud storage,Automate the recovery of locally cached files synced with cloud storage services.
+EaseUS Data Recovery Wizard,Recover files from virtual machines,Automate the recovery of files stored in a virtual machine environment.
+EaseUS Data Recovery Wizard,Recover files from software crashes,Automate the recovery of files lost due to software application crashes.
+EaseUS Data Recovery Wizard,Recover files from malware infections,Automate recovery of files that were damaged or deleted by malware or ransomware.
+EaseUS Data Recovery Wizard,Recover files with specific extensions,"Automate the scanning and recovery of files based on specific extensions (e.g., .jpg, .doc)."
+EaseUS Data Recovery Wizard,Recover files after unexpected system shutdown,Automate the recovery of files lost due to a sudden system power-off.
+EaseUS Data Recovery Wizard,Recover data from memory cards,Automate scanning and recovery of data from memory cards used in devices like cameras or handheld consoles.
+EaseUS Data Recovery Wizard,Recover files after accidental file overwrite,Automate the recovery of older versions of files that were accidentally overwritten.
+EaseUS Data Recovery Wizard,Recover files from BitLocker-encrypted drives,Automate the recovery of files from BitLocker encrypted drives after unlocking them.
+EaseUS Data Recovery Wizard,Recover files from system restore points,Automate recovery of files from system restore snapshots.
+EaseUS Data Recovery Wizard,Recover files deleted using Shift+Del,Automate the recovery of permanently deleted files that bypass the Recycle Bin.
+EaseUS Data Recovery Wizard,Recover files from camera storage,Automate the recovery of files directly from DSLR or other digital camera storage.
+EaseUS Data Recovery Wizard,Recover data from NAS devices,Automate data recovery from Network Attached Storage (NAS) devices.
+EaseUS Data Recovery Wizard,Recover files from RAID arrays,Automate the recovery of data from failed or degraded RAID configurations.
+EaseUS Data Recovery Wizard,Recover files from Linux ext2/ext3/ext4 partitions,Automate the recovery of data from Linux-based partitions.
+EaseUS Data Recovery Wizard,Recover files from Mac HFS+ or APFS partitions,Automate recovery of files from macOS HFS+ or APFS formatted drives.
+EaseUS Data Recovery Wizard,Recover files from Windows FAT32/exFAT partitions,Automate the recovery of files from FAT32 or exFAT formatted drives.
+EaseUS Data Recovery Wizard,Recover files from NTFS partitions,Automate the recovery of files from Windows NTFS-formatted drives.
+EaseUS Data Recovery Wizard,Recover files from lost dynamic partitions,Automate scanning and recovery of data from lost dynamic disk volumes.
+EaseUS Data Recovery Wizard,Recover files from corrupted MBR partitions,Automate recovery of data from partitions with a damaged Master Boot Record (MBR).
+EaseUS Data Recovery Wizard,Recover data from GPT partitions,Automate recovery of data from GUID Partition Table (GPT) disks.
+EaseUS Data Recovery Wizard,Recover files from accidentally deleted email attachments,Automate recovery of email attachments saved locally that were accidentally deleted.
+EaseUS Data Recovery Wizard,Recover files from corrupted Outlook PST/OST files,Automate recovery of data from corrupted Microsoft Outlook PST or OST files.
+EaseUS Data Recovery Wizard,"Recover lost archives (ZIP, RAR)",Automate recovery of deleted or lost compressed files such as ZIP or RAR.
+EaseUS Data Recovery Wizard,Recover hidden files,Automate recovery of files that are hidden due to corruption or malware.
+EaseUS Data Recovery Wizard,Recover files from disk image (.iso/.img),Automate recovery of data from disk image files like ISO or IMG.
+EaseUS Data Recovery Wizard,Recover files from bad sectors,Automate the recovery of data from hard drives with bad sectors.
+EaseUS Data Recovery Wizard,Recover files after disk cloning failures,Automate recovery of data when a disk cloning process fails.
+EaseUS Data Recovery Wizard,Recover data after partition resizing,Automate recovery of files lost during partition resizing operations.
+EaseUS Data Recovery Wizard,Recover files from inaccessible drives,"Automate recovery from drives that display errors like ""Drive is not accessible.”"
+EaseUS Data Recovery Wizard,Recover temporary files,Automate recovery of temporary files that were deleted unintentionally.
+EaseUS Data Recovery Wizard,Recover files after power surges,Automate recovery of files lost due to power surges or interruptions.
+EaseUS Data Recovery Wizard,Recover files using deep scan mode,Automate the process of running deep scans for comprehensive data recovery.
+EaseUS Data Recovery Wizard,Recover files from hidden partitions,Automate recovery of data from hidden or unallocated partitions.
+EaseUS Data Recovery Wizard,Recover files after drive initialization,Automate recovery of files from hard drives that were accidentally initialized.
+EaseUS Data Recovery Wizard,Recover files from broken USB ports,Automate recovery from drives connected through malfunctioning USB ports.
+EaseUS Data Recovery Wizard,Recover files from dual-boot systems,Automate recovery of data lost during dual-boot OS setup.
+EaseUS Data Recovery Wizard,Recover files from hybrid drives,Automate recovery of files stored on hybrid drives (HDD+SSD).
+EaseUS Data Recovery Wizard,Recover files from removable media,Automate

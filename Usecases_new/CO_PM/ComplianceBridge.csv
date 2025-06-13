@@ -1,0 +1,69 @@
+Category,Short Description,Description
+ComplianceBridge,Automate Policy Uploads,Automatically upload new policies to the system and assign them to appropriate categories.
+ComplianceBridge,Notify of Policy Updates,Send automated notifications to employees when policies are updated or revised.
+ComplianceBridge,Assign Policy Owners,Automatically assign ownership of policies to specific individuals or departments.
+ComplianceBridge,Schedule Policy Reviews,Automate periodic policy reviews and notify policy owners of upcoming deadlines.
+ComplianceBridge,Track Policy Acknowledgements,Automatically track employee acknowledgments of mandatory policies and generate reports.
+ComplianceBridge,Notify of Overdue Acknowledgements,Send reminders to employees who have not acknowledged mandatory policies by the deadline.
+ComplianceBridge,Archive Expired Policies,Automatically archive policies that are no longer valid or have expired.
+ComplianceBridge,Automate Policy Approval Workflows,Create automated workflows to route policies to the appropriate approvers for review and approval.
+ComplianceBridge,Notify Approvers of Pending Policies,Send automated reminders to approvers for policies awaiting their approval.
+ComplianceBridge,Generate Policy Compliance Reports,Automate the creation of reports summarizing policy compliance across teams or departments.
+ComplianceBridge,Monitor Policy Usage,Automatically track and report on how often policies are accessed or downloaded by employees.
+ComplianceBridge,Notify of Policy Review Deadlines,Send alerts to policy owners when review deadlines are approaching.
+ComplianceBridge,Assign Mandatory Reads,Automatically assign mandatory reads for critical policies to relevant employees.
+ComplianceBridge,Track Mandatory Read Completion,Monitor and report on the completion status of mandatory reads for compliance purposes.
+ComplianceBridge,Automate Policy Version Control,Automatically manage policy versions to ensure employees always access the latest version.
+ComplianceBridge,Notify of New Policies,Send automated notifications to employees when new policies are published.
+ComplianceBridge,Automate Metadata Assignment,Automatically assign metadata to policies for easier categorization and searchability.
+ComplianceBridge,Generate Policy Lifecycle Reports,"Automate the creation of reports summarizing the lifecycle status of policies (e.g., draft, review, published)."
+ComplianceBridge,Notify of Policy Gaps,Send alerts to administrators when gaps or missing policies are identified in the system.
+ComplianceBridge,Automate Employee Attestation Tracking,Track and report on employee attestations for compliance and audit purposes.
+ComplianceBridge,Notify of Missing Attestations,Send automated reminders to employees who have not completed required attestations.
+ComplianceBridge,Assign Policy-Related Training Modules,Automatically assign training modules related to specific policies to employees.
+ComplianceBridge,Track Training Completion,Monitor and report on the completion status of policy-related training modules.
+ComplianceBridge,Notify of Expiring Policies,Send automated alerts to policy owners when policies are nearing their expiration dates.
+ComplianceBridge,Automate Policy Distribution,"Automatically distribute policies to employees based on their roles, departments, or locations."
+ComplianceBridge,Notify of Policy Non-Compliance,Automatically alert supervisors when employees fail to comply with mandatory policy requirements.
+ComplianceBridge,Generate Policy Audit Trails,"Automate the creation of audit trails for policy changes, approvals, and acknowledgments."
+ComplianceBridge,Monitor Policy Access Logs,Track and report on who accessed specific policies and when.
+ComplianceBridge,Automate Policy Categorization,Automatically categorize policies into appropriate folders or categories based on metadata.
+ComplianceBridge,Notify of Ownership Changes,Send automated notifications when policy ownership is reassigned.
+ComplianceBridge,Automate Policy Deletion Requests,Create workflows for handling requests to delete outdated or redundant policies.
+ComplianceBridge,Notify of Approval Delays,Send reminders to approvers when policy approvals are delayed or overdue.
+ComplianceBridge,Assign Policy Reviewers,Automatically assign reviewers to policies based on their expertise or job roles.
+ComplianceBridge,Track Policy Review Progress,Monitor and report on the progress of policy reviews across departments.
+ComplianceBridge,Automate Policy Search Indexing,Automatically index policies for improved searchability and faster retrieval.
+ComplianceBridge,Notify of Policy Search Trends,Send reports on frequently searched policies to administrators for insights and improvements.
+ComplianceBridge,Automate Feedback Collection,Create workflows to collect feedback from employees on specific policies.
+ComplianceBridge,Notify of Feedback Requests,Send reminders to employees or managers to provide feedback on policies under review.
+ComplianceBridge,Automate Exception Requests,Create workflows to handle requests for exceptions to specific policies and route them to the appropriate approvers.
+ComplianceBridge,Notify of Exception Approvals,Send notifications to employees when their policy exception requests are approved or denied.
+ComplianceBridge,Automate Integration with HR Systems,Integrate policy tracking with HR systems to ensure all employees are notified of policies during onboarding.
+ComplianceBridge,Notify of Integration Errors,Send alerts when errors occur during integration with external systems like HR or payroll.
+ComplianceBridge,Automate Change Notifications,Send alerts to employees when significant changes are made to policies they have acknowledged.
+ComplianceBridge,Track Change History,Automatically log all changes made to policies and generate reports summarizing the history.
+ComplianceBridge,Automate Escalation Workflows,Create workflows to escalate policy-related tasks to higher management if deadlines are missed.
+ComplianceBridge,Notify of Escalation Actions,Send automated alerts when tasks or approvals are escalated.
+ComplianceBridge,Automate Compliance Dashboards,Automatically generate dashboards summarizing policy compliance metrics for management.
+ComplianceBridge,Notify of Compliance Trends,Send reports on compliance trends to administrators for insights and improvements.
+ComplianceBridge,Automate Training Reminders,Send automated reminders to employees about upcoming or incomplete policy-related training.
+ComplianceBridge,Notify of Training Gaps,Send alerts to supervisors when employees fail to complete required training modules.
+ComplianceBridge,Automate Reporting to Regulators,Automatically generate and submit reports to regulatory bodies summarizing compliance with policies.
+ComplianceBridge,Notify of Regulatory Updates,Send alerts to policy administrators when new regulatory requirements impact existing policies.
+ComplianceBridge,Automate Risk Assessments,Create workflows to assess risks associated with specific policies and track mitigation efforts.
+ComplianceBridge,Notify of Risk Assessment Results,Send reports on policy-related risk assessment outcomes to relevant stakeholders.
+ComplianceBridge,Automate Lifecycle Dashboards,Automatically generate dashboards summarizing the lifecycle stages of all policies in the organization.
+ComplianceBridge,Notify of Lifecycle Bottlenecks,Send alerts when bottlenecks are detected in the policy lifecycle process.
+ComplianceBridge,Automate Metadata Updates,Automatically update metadata for policies when changes are made to the content or ownership.
+ComplianceBridge,Notify of Metadata Errors,Send alerts to administrators when errors or inconsistencies are detected in policy metadata.
+ComplianceBridge,Automate Document Retention Policies,Automatically enforce document retention policies for compliance-related documents.
+ComplianceBridge,Notify of Retention Deadlines,Send reminders to administrators when retention deadlines for policies or documents are approaching.
+ComplianceBridge,Automate Policy Integration with SharePoint,Automatically integrate policy management with SharePoint for easier document access.
+ComplianceBridge,Notify of SharePoint Integration Errors,Send alerts to IT or administrators when errors occur during SharePoint integrations.
+ComplianceBridge,Automate Policy Attestation Reports,Generate automated reports summarizing employee attestations for compliance audits.
+ComplianceBridge,Notify of Attestation Trends,Send insights and trends related to attestation completion rates to administrators for analysis.
+ComplianceBridge,Automate Role-Based Policy Access,Automatically assign or revoke access to policies based on employee roles or job functions.
+ComplianceBridge,Notify of Unauthorized Access Attempts,Send alerts when unauthorized access attempts are detected for restricted policies.
+ComplianceBridge,Automate Policy Integration with Analytics,Automatically sync policy data with analytics platforms for advanced reporting and insights.
+ComplianceBridge,Notify of Analytics Insights,Send automated insights from analytics dashboards to administrators for decision-making.

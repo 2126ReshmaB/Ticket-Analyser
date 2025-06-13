@@ -1,0 +1,69 @@
+Category,Short Description,Description
+Sprinto,Automate User Access Reviews,Automatically generate and assign periodic user access review tasks to ensure proper role-based access control.
+Sprinto,Notify of Access Policy Violations,"Send automated alerts when user access policies are violated, such as unauthorized access to critical systems."
+Sprinto,Assign Security Awareness Training,Automatically assign security awareness training to new employees and track their progress.
+Sprinto,Track Employee Training Completion,Monitor and report on the completion status of employee training modules automatically.
+Sprinto,Notify of Pending Security Trainings,Send automated reminders to employees who have pending training modules.
+Sprinto,Automate Risk Assessments,Automatically assign and manage risk assessments for employees or systems.
+Sprinto,Generate Risk Assessment Reports,Automatically create detailed reports summarizing risk assessment results for management review.
+Sprinto,Notify of Risk Threshold Breaches,"Send alerts when risks exceed predefined thresholds, ensuring immediate mitigation steps are taken."
+Sprinto,Assign Corrective Actions for Risks,Automatically assign corrective actions to stakeholders based on identified risks.
+Sprinto,Track Risk Mitigation Progress,Monitor and report on the progress of risk mitigation efforts across teams.
+Sprinto,Notify of New Compliance Requirements,Automatically alert relevant teams when new compliance requirements or updates are introduced.
+Sprinto,Assign Compliance Tasks,Automatically assign compliance-related tasks to employees based on their roles.
+Sprinto,Generate Compliance Status Reports,Automate the creation of compliance status reports to track progress toward certification goals.
+Sprinto,Monitor Policy Acknowledgments,Automatically track employee acknowledgment of critical policies such as security or acceptable use policies.
+Sprinto,Notify of Policy Review Deadlines,Send automated reminders to policy owners when periodic policy reviews are due.
+Sprinto,Automate Policy Distribution,Distribute updated policies to employees automatically and track acknowledgment statuses.
+Sprinto,Archive Expired Policies,Automatically identify and archive policies that are no longer valid or relevant.
+Sprinto,Notify of Vendor Compliance Gaps,"Send alerts when vendors fail to meet compliance requirements, such as missing certifications or documentation."
+Sprinto,Assign Vendor Risk Assessments,Automatically assign vendor risk assessments to relevant team members.
+Sprinto,Monitor Vendor Risk Ratings,Track and report on vendor risk ratings automatically to ensure compliance with third-party risk management policies.
+Sprinto,Generate Vendor Compliance Reports,Automate the creation of reports summarizing vendor compliance statuses for audits.
+Sprinto,Notify of Vendor Contract Expirations,Send automated reminders to stakeholders when vendor contracts are nearing expiration.
+Sprinto,Automate Incident Reporting,Automatically create incident reports when security events or breaches are detected.
+Sprinto,Notify of New Security Incidents,Send alerts to relevant stakeholders when a new security incident is logged.
+Sprinto,Assign Incident Resolution Tasks,Automatically assign resolution tasks to relevant team members based on the nature of the incident.
+Sprinto,Track Incident Resolution Timelines,Monitor the progress and timelines of incident resolution efforts automatically.
+Sprinto,Generate Incident Root Cause Analysis Reports,Automate the creation of root cause analysis reports following an incident.
+Sprinto,Monitor Security Controls,Automatically monitor the implementation and effectiveness of critical security controls.
+Sprinto,Notify of Security Control Failures,Send alerts to stakeholders when a security control fails or is bypassed.
+Sprinto,Track Control Testing Results,Automate the tracking and reporting of control testing results to ensure compliance with standards like SOC 2 or ISO 27001.
+Sprinto,Schedule Control Testing Reviews,Automatically schedule periodic control testing reviews for relevant teams.
+Sprinto,Generate Control Effectiveness Reports,Create automated reports on the effectiveness of specific controls for audit purposes.
+Sprinto,Assign Internal Audit Tasks,Automatically assign internal audit tasks to auditors based on their expertise or responsibilities.
+Sprinto,Notify of Upcoming Audits,Send automated notifications about scheduled internal or external audits to relevant stakeholders.
+Sprinto,Track Audit Findings Resolution,Monitor and report on the resolution status of audit findings automatically.
+Sprinto,Generate Audit Reports,"Automatically create audit reports summarizing findings, recommendations, and resolutions."
+Sprinto,Schedule Audit Follow-Ups,Automate the scheduling of follow-up activities to ensure all audit findings are addressed.
+Sprinto,Notify of Non-Compliance Issues,Send automated alerts when non-compliance issues are identified during audits or assessments.
+Sprinto,Monitor Certification Progress,"Automatically track progress toward achieving certifications such as SOC 2, ISO 27001, or GDPR."
+Sprinto,Notify of Certification Renewal Deadlines,Send reminders to stakeholders when compliance certifications are nearing expiration or require renewal.
+Sprinto,Assign Certification Maintenance Tasks,Automatically assign tasks to maintain compliance with required certifications.
+Sprinto,Automate Security Logging,Automatically collect and store security logs for auditing and monitoring purposes.
+Sprinto,Notify of Anomalous Activity in Logs,Send alerts when suspicious or anomalous activity is detected in security logs.
+Sprinto,Generate Security Log Analysis Reports,Automate the creation of reports analyzing security logs for trends or potential risks.
+Sprinto,Monitor Employee Offboarding Processes,"Automatically ensure that all security and compliance-related tasks are completed during employee offboarding, such as deactivating accounts."
+Sprinto,Notify of Incomplete Offboarding Tasks,Send alerts when compliance-related tasks in the offboarding process remain incomplete.
+Sprinto,Assign Access Revocation Tasks,Automatically assign tasks to revoke access to systems and data during employee offboarding.
+Sprinto,Monitor Employee Onboarding Processes,"Automate compliance-related tasks during employee onboarding, such as assigning mandatory training or policies."
+Sprinto,Notify of Missing Onboarding Requirements,Send automated reminders to HR or relevant teams when onboarding compliance requirements are incomplete.
+Sprinto,Assign Role-Based Access Control Tasks,Automatically assign tasks to configure and verify role-based access control for new employees.
+Sprinto,Automate SLA Monitoring,Automatically track and report on compliance with Service Level Agreements (SLAs).
+Sprinto,Notify of SLA Breaches,"Send automated alerts when SLAs are breached, along with relevant details for resolution."
+Sprinto,Assign SLA Enforcement Tasks,Automatically assign tasks to relevant teams to enforce SLAs and resolve breaches.
+Sprinto,Automate Third-Party Risk Assessments,Automatically assign and track third-party risk assessments to ensure vendor compliance.
+Sprinto,Notify Vendors of Compliance Violations,Send automated alerts to vendors when they fail to meet compliance requirements.
+Sprinto,Schedule Vendor Compliance Check-Ins,Automatically schedule periodic check-ins with vendors to ensure ongoing compliance.
+Sprinto,Generate Vendor Risk Analysis Reports,Automate the creation of risk analysis reports for individual vendors.
+Sprinto,Monitor Data Encryption Policies,Automatically ensure that data encryption policies are enforced across systems and send alerts for non-compliance.
+Sprinto,Notify of Data Breaches,Send real-time alerts to stakeholders when a data breach is detected.
+Sprinto,Track Data Breach Response Timelines,Monitor and report on the timelines of data breach responses to ensure compliance with regulations.
+Sprinto,Automate GDPR Data Requests,"Automatically process and track GDPR data requests, such as ""Right to Access"" or ""Right to Erasure""."
+Sprinto,Notify of Pending GDPR Requests,Send reminders to compliance teams about pending GDPR data requests that need resolution.
+Sprinto,Generate GDPR Compliance Reports,Automate the creation of reports demonstrating GDPR compliance status.
+Sprinto,Monitor Security Vulnerabilities,Automatically track and report on security vulnerabilities detected in systems or applications.
+Sprinto,Notify of Critical Vulnerabilities,Send alerts when critical vulnerabilities are identified and require immediate action.
+Sprinto,Assign Vulnerability Mitigation Tasks,Automatically assign tasks to relevant teams to address identified vulnerabilities.
+Sprinto,Generate Vulnerability Trend Reports,Create automated reports analyzing trends in detected vulnerabilities over time.
+Sprinto,,

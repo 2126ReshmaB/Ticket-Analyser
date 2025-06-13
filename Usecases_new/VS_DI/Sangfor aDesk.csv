@@ -1,0 +1,86 @@
+Category,Short Description,Description
+Sangfor aDesk,Centralized Virtual Desktop Management,Manage virtual desktops through a centralized platform.
+Sangfor aDesk,Application Virtualization,Deliver virtualized applications to end users without local installations.
+Sangfor aDesk,Remote Desktop Access,Enable secure remote access to virtual desktops from any location.
+Sangfor aDesk,Multi-Device Compatibility,"Provide access to virtual desktops from PCs, Macs, tablets, and smartphones."
+Sangfor aDesk,Persistent Desktop Sessions,Maintain user settings and data across multiple sessions.
+Sangfor aDesk,Non-Persistent Desktop Sessions,Deliver temporary desktops for shared or task-based environments.
+Sangfor aDesk,Unified Workspace Access,"Provide users with a single interface to access desktops, apps, and files."
+Sangfor aDesk,Dynamic Resource Scaling,Automatically scale desktop resources based on real-time demand.
+Sangfor aDesk,GPU-Accelerated Virtual Desktops,Support resource-intensive applications with GPU-powered desktops.
+Sangfor aDesk,Role-Based Access Control,Assign access permissions based on user roles.
+Sangfor aDesk,Secure Data Encryption,Encrypt data at rest and in transit for secure communication.
+Sangfor aDesk,Real-Time Monitoring and Analytics,Track user activity and desktop performance in real time.
+Sangfor aDesk,Integration with Active Directory,Authenticate users using on-premises or cloud-based Active Directory.
+Sangfor aDesk,Centralized Application Delivery,Deliver applications to multiple users from a single control panel.
+Sangfor aDesk,Secure File Sharing,Enable secure sharing of files within virtual desktop environments.
+Sangfor aDesk,BYOD Compatibility,Allow users to securely access desktops using their personal devices.
+Sangfor aDesk,Thin Client Optimization,Optimize virtual desktop performance for thin-client devices.
+Sangfor aDesk,HTML5 Browser-Based Access,Provide desktop access through any HTML5-compatible web browser.
+Sangfor aDesk,Disaster Recovery for Desktops,Ensure business continuity with disaster recovery options.
+Sangfor aDesk,Multi-Cloud Desktop Deployment,Deploy virtual desktops across multiple cloud platforms.
+Sangfor aDesk,Real-Time Audio and Video Optimization,Optimize audio and video performance for communication tools like Zoom or Teams.
+Sangfor aDesk,Secure Clipboard Redirection,Control clipboard data transfers between virtual desktops and endpoint devices.
+Sangfor aDesk,Integration with Collaboration Tools,Support tools like Slack and Microsoft Teams within virtual desktops.
+Sangfor aDesk,Session Auto-Reconnection,Automatically reconnect users to their sessions after interruptions.
+Sangfor aDesk,Secure External Contractor Access,"Provide contractors with secure, temporary access to virtual desktops."
+Sangfor aDesk,Application Entitlement Management,Manage which users or groups can access specific applications.
+Sangfor aDesk,Remote Printing Support,Allow users to print documents from virtual desktops to local printers.
+Sangfor aDesk,Integration with Cloud Storage,Enable seamless file storage and access with cloud storage providers.
+Sangfor aDesk,Customizable Desktop Images,Create and deploy custom desktop images for different user groups.
+Sangfor aDesk,Endpoint Security Compliance,Enforce endpoint security checks before granting access to desktops.
+Sangfor aDesk,Session Timeout Policies,Configure session timeouts to enhance security and optimize resource usage.
+Sangfor aDesk,Multi-Monitor Support,Enable users to work with multiple monitors for increased productivity.
+Sangfor aDesk,GPU Workstations for CAD,Provide high-performance desktops for CAD and 3D rendering applications.
+Sangfor aDesk,Temporary Desktop Provisioning,Quickly deploy desktops for temporary or project-based workers.
+Sangfor aDesk,Integration with Office 365,Seamlessly integrate Office 365 applications into the virtual desktop environment.
+Sangfor aDesk,Integration with Identity Providers,Support single sign-on with identity providers like Okta or Azure AD.
+Sangfor aDesk,Real-Time Collaboration Support,Allow users to collaborate securely using shared virtual desktops.
+Sangfor aDesk,Scheduled Maintenance Automation,Automate desktop updates and maintenance during off-peak hours.
+Sangfor aDesk,Secure Gateway Access,Provide secure entry points for accessing virtual desktops remotely.
+Sangfor aDesk,Policy-Based Resource Allocation,Dynamically allocate resources based on user-defined policies.
+Sangfor aDesk,Application Usage Analytics,Track application usage to optimize licensing and performance.
+Sangfor aDesk,Secure API Access,Automate desktop management using secure API endpoints.
+Sangfor aDesk,Hybrid Cloud Desktop Deployments,Deploy desktops across both private and public cloud environments.
+Sangfor aDesk,Temporary Resource Scaling,Scale resources dynamically to meet short-term or seasonal demands.
+Sangfor aDesk,Desktop Pool Management,Organize desktops into pools for different teams or departments.
+Sangfor aDesk,Bandwidth Optimization,Optimize bandwidth usage for remote desktop users on low-speed networks.
+Sangfor aDesk,Real-Time Monitoring Dashboards,Use dashboards to monitor desktop health and user activity.
+Sangfor aDesk,Secure Network Segmentation,Isolate desktop traffic using network segmentation for enhanced security.
+Sangfor aDesk,BYOD Security Enforcement,Enforce security policies for users accessing desktops on personal devices.
+Sangfor aDesk,Desktop Cost Optimization,Reduce operational costs by optimizing desktop resource usage.
+Sangfor aDesk,Automated Desktop Updates,Push updates to virtual desktops without interrupting active sessions.
+Sangfor aDesk,GPU Workstations for Media Editing,Provide high-performance desktops for video editing and rendering workflows.
+Sangfor aDesk,Real-Time Desktop Provisioning,Instantly deploy desktops for new users or projects.
+Sangfor aDesk,Integration with Azure AD,Authenticate users and manage access using Azure Active Directory.
+Sangfor aDesk,Desktop Image Versioning,Maintain version histories of desktop images for easy rollbacks.
+Sangfor aDesk,Integration with Google Workspace,Enable seamless integration with Google Workspace applications.
+Sangfor aDesk,Flexible Application Scaling,Scale application resources dynamically based on user activity.
+Sangfor aDesk,Secure Application Isolation,Isolate applications to prevent conflicts and improve security.
+Sangfor aDesk,Desktop Performance Alerts,Receive real-time alerts for desktop performance issues.
+Sangfor aDesk,Licensing Compliance Tracking,Ensure compliance with software licensing requirements.
+Sangfor aDesk,Advanced Endpoint Monitoring,Monitor endpoint devices for compliance and performance.
+Sangfor aDesk,Secure Collaboration for Remote Teams,Enable secure collaboration for distributed teams using virtual desktops.
+Sangfor aDesk,Temporary Licensing Support,Provide temporary licensing options for short-term projects.
+Sangfor aDesk,GPU-Optimized Workstations for Simulations,Deliver desktops optimized for simulations and modeling tasks.
+Sangfor aDesk,Integration with Nutanix AHV,Deploy virtual desktops on Nutanix AHV for private cloud environments.
+Sangfor aDesk,Integration with AWS S3,Provide seamless file storage access using Amazon S3 integration.
+Sangfor aDesk,Context-Specific Access Policies,Apply access policies based on user location or device type.
+Sangfor aDesk,Multi-Region Desktop Deployment,Deploy desktops across multiple geographic regions for global teams.
+Sangfor aDesk,Resource Usage Analytics,Monitor and analyze desktop resource usage for optimization.
+Sangfor aDesk,Secure Data Backup for Desktops,Back up desktop environments to prevent data loss.
+Sangfor aDesk,Advanced Load Balancing Rules,Distribute user sessions across servers for optimized performance.
+Sangfor aDesk,AI-Based Desktop Optimization,Use AI to optimize desktop performance and resource allocation.
+Sangfor aDesk,Licensing Compliance Enforcement,Enforce licensing compliance across virtual desktop environments.
+Sangfor aDesk,Integration with Citrix Virtual Apps,Combine Sangfor aDesk with Citrix Virtual Apps for hybrid solutions.
+Sangfor aDesk,Integration with AWS WorkSpaces,Extend Sangfor aDesk capabilities alongside AWS WorkSpaces.
+Sangfor aDesk,Desktop Image Lifecycle Management,"Automate the provisioning, updating, and retiring of desktop images."
+Sangfor aDesk,Real-Time User Activity Tracking,Track user activity in real time for compliance and auditing.
+Sangfor aDesk,Integration with Collaboration Platforms,Seamlessly integrate with collaboration tools like Zoom or Slack.
+Sangfor aDesk,GPU Workstations for Game Development,Deliver desktops optimized for game development and testing.
+Sangfor aDesk,Hybrid Identity Management,Use hybrid identity solutions for seamless user authentication.
+Sangfor aDesk,Endpoint Device Whitelisting,Restrict desktop access to approved devices for added security.
+Sangfor aDesk,Resource Quota Management,Monitor and enforce resource quotas for desktop deployments.
+Sangfor aDesk,Desktop Session Timeout Alerts,Notify users and admins when sessions exceed predefined time limits.
+Sangfor aDesk,Integration with Cloud Identity Providers,Support authentication through cloud identity services like Okta.
+Sangfor aDesk,Real-Time Collaboration on Shared Desktops,Allow multiple users to collaborate securely on shared virtual desktops.

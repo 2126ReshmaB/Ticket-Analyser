@@ -1,0 +1,78 @@
+Category,Short Description,Description
+Tripwire,Monitor Critical System Files,Automatically track and detect changes to critical system files and configurations. Generate alerts when unauthorized modifications are detected.
+Tripwire,Security Configuration Compliance,Monitor system configurations against security baselines and automatically generate compliance reports for deviations.
+Tripwire,Vulnerability Assessment,Automatically scan systems for known vulnerabilities and generate prioritized remediation reports.
+Tripwire,PCI Compliance Monitoring,Track and report on PCI DSS compliance requirements by monitoring file integrity and system configurations.
+Tripwire,Active Directory Changes,Monitor and alert on unauthorized changes to Active Directory objects and configurations.
+Tripwire,Database Configuration Monitoring,Track changes to database configurations and alert on unauthorized modifications.
+Tripwire,HIPAA Compliance Reporting,Automatically generate HIPAA compliance reports by monitoring access to protected health information.
+Tripwire,SOX Compliance Monitoring,Track changes to financial systems and generate reports for SOX compliance requirements.
+Tripwire,Service Account Changes,Monitor and alert on modifications to service account configurations and permissions.
+Tripwire,Registry Modification Detection,Track and report unauthorized changes to Windows registry settings.
+Tripwire,Network Device Configuration,Monitor configuration changes on network devices and generate alerts for unauthorized modifications.
+Tripwire,Web Server Configuration,Track changes to web server configurations and detect unauthorized modifications.
+Tripwire,File Permission Changes,Monitor and alert on unauthorized changes to file permissions and access controls.
+Tripwire,System Patch Monitoring,Track system patch levels and alert on missing critical security updates.
+Tripwire,User Account Creation,Monitor and alert on unauthorized user account creation across systems.
+Tripwire,Scheduled Task Changes,Track modifications to scheduled tasks and detect potentially malicious additions.
+Tripwire,Group Policy Changes,Monitor and report on unauthorized modifications to Group Policy settings.
+Tripwire,Firewall Rule Changes,Track changes to firewall rules and alert on unauthorized modifications.
+Tripwire,Application Installation,Monitor and alert on unauthorized software installations across systems.
+Tripwire,System File Hash Verification,Automatically verify file hashes against known good values to detect tampering.
+Tripwire,Backup File Integrity,Monitor backup files for unauthorized modifications or corruption.
+Tripwire,Configuration Drift Detection,Track and report on systems that deviate from approved configurations.
+Tripwire,Security Policy Compliance,Monitor compliance with organizational security policies and generate violation reports.
+Tripwire,Log File Integrity,Track modifications to system log files to detect tampering attempts.
+Tripwire,Certificate Store Changes,Monitor changes to system certificate stores and alert on unauthorized modifications.
+Tripwire,Service Configuration Changes,Track modifications to system service configurations and startup parameters.
+Tripwire,DNS Configuration Changes,Monitor changes to DNS server configurations and zone files.
+Tripwire,DHCP Configuration Changes,Track modifications to DHCP server configurations and scope settings.
+Tripwire,File Share Permissions,Monitor changes to file share permissions and access controls.
+Tripwire,System Time Changes,Track unauthorized modifications to system time settings.
+Tripwire,Driver Installation,Monitor and alert on unauthorized driver installations.
+Tripwire,Registry Permission Changes,Track changes to registry key permissions and access controls.
+Tripwire,Network Share Changes,Monitor creation and modification of network shares.
+Tripwire,System Startup Changes,Track modifications to system startup configurations.
+Tripwire,USB Device Monitoring,Monitor and alert on unauthorized USB device connections.
+Tripwire,Process Creation Monitoring,Track and alert on suspicious process creation events.
+Tripwire,File Extension Changes,Monitor for suspicious file extension modifications.
+Tripwire,System Account Changes,Track modifications to system account configurations.
+Tripwire,Network Protocol Changes,Monitor changes to network protocol configurations.
+Tripwire,Service Account Permissions,Track changes to service account permissions and privileges.
+Tripwire,Registry Value Changes,Monitor specific registry values for unauthorized modifications.
+Tripwire,Network Interface Changes,Track changes to network interface configurations.
+Tripwire,System Driver Changes,Monitor modifications to system driver configurations.
+Tripwire,Scheduled Job Analysis,Track and analyze changes to scheduled jobs.
+Tripwire,File Ownership Changes,Monitor changes to file ownership attributes.
+Tripwire,System Call Monitoring,Track suspicious system calls that could indicate exploitation.
+Tripwire,Network Protocol Violations,Monitor for violations of expected network protocol behavior.
+Tripwire,Registry Key Permissions,Track changes to registry key permissions.
+Tripwire,Service Configuration Drift,Monitor service configurations for unauthorized changes.
+Tripwire,File Access Times,Track suspicious patterns of file access times.
+Tripwire,Monitor SSH Configuration,Monitor modifications to SSH configuration files and alert on unauthorized changes that may expose the system to vulnerabilities.
+Tripwire,Monitor for Unapproved Software,Detect and alert on the installation of unapproved or potentially malicious software applications on critical systems.
+Tripwire,File Integrity Monitoring for Web Content,"Monitor web content directories for unauthorized changes to HTML, PHP, or other web files to prevent web defacement."
+Tripwire,Compliance with Data Retention Policies,Automatically monitor and report on compliance with organizational data retention policies across systems.
+Tripwire,Monitor Security Patch Levels,Track and report on the application of security patches across systems and alert on non-compliance.
+Tripwire,System Configuration Backup and Restore,Automate the backup of system configurations and provide a mechanism for rapid restoration in case of unauthorized changes.
+Tripwire,SSL Certificate Expiration Monitoring,Monitor SSL certificate expiration dates and alert administrators to renew certificates before they expire.
+Tripwire,Detect Unusual User Behavior,Track user actions to detect unusual patterns that could indicate compromised accounts or insider threats.
+Tripwire,Monitor for Unauthorized Password Changes,Track changes to password files and alert on unauthorized modifications to user credentials.
+Tripwire,Track Changes to Security Groups,Monitor modifications to security groups in Active Directory or other environments and alert on unauthorized changes.
+Tripwire,Monitor Configuration Changes for Web Servers,"Track and alert on unauthorized changes to web server configurations, such as Apache or Nginx."
+Tripwire,Detect Changes in User Privileges,Monitor for changes in user privilege levels that could indicate a security breach or misuse of access rights.
+Tripwire,Analyze System Performance Metrics,"Monitor system performance metrics and alert when thresholds are exceeded, indicating potential issues."
+Tripwire,Monitor for Unauthorized Application Changes,Track changes to application files to detect unauthorized modifications or tampering.
+Tripwire,Network Traffic Monitoring for Anomalies,Monitor network traffic logs for unusual patterns that may indicate malicious activity or data exfiltration attempts.
+Tripwire,Monitor for Unauthorized Changes to System Policies,"Track changes to security policies (e.g., password policies) and alert on unauthorized modifications."
+Tripwire,Monitor Hardware Configuration Changes,"Track modifications to hardware configurations, such as CPU or memory changes, to detect unauthorized hardware modifications."
+Tripwire,Monitor Resource Utilization for Anomalies,"Track resource utilization (CPU, memory) to identify potential issues related to performance or security breaches."
+Tripwire,Automate Change Management Reporting,Generate automated reports on changes to systems and configurations for management review and compliance audits.
+Tripwire,Monitor for Unauthorized Access to Sensitive Data,Track access to sensitive files or directories and alert on unauthorized access attempts.
+Tripwire,Monitor for Configuration Changes in Cloud Environments,"Track changes to cloud infrastructure configurations (e.g., AWS, Azure) to ensure compliance and security."
+Tripwire,Monitor for Changes to System Services,Track modifications to running services and alert on unauthorized changes that could affect system availability.
+Tripwire,Monitor for Unauthorized Remote Access,Track remote access logs to detect unauthorized access attempts or suspicious remote sessions.
+Tripwire,Monitor for Changes to User Authentication Methods,"Track changes to authentication methods (e.g., MFA configurations) and alert on unauthorized modifications."
+Tripwire,Monitor for Changes to Backup Configurations,Track modifications to backup configurations and alert on unauthorized changes that may affect data recovery.
+Tripwire,Monitor for Changes to Security Software Configurations,Track changes to antivirus or endpoint security software configurations and alert on unauthorized modifications.
+Trip,,

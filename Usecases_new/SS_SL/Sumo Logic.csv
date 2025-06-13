@@ -1,0 +1,63 @@
+Category,Short Description,Description
+Sumo Logic,Automate log ingestion,"Automate the ingestion of logs from various sources such as servers, applications, and cloud platforms into Sumo Logic."
+Sumo Logic,Automate log parsing,Use scripts to parse raw log data into structured formats for easier analysis.
+Sumo Logic,Automate anomaly detection,Set up automated anomaly detection using machine learning to identify unusual patterns in log data.
+Sumo Logic,Automate alert creation,Automatically create alerts based on specific log patterns or thresholds.
+Sumo Logic,Automate dashboard updates,Update dashboards automatically with the latest log data and metrics.
+Sumo Logic,Automate compliance reporting,"Generate compliance reports for frameworks like PCI DSS, HIPAA, and GDPR automatically."
+Sumo Logic,Automate log retention policy enforcement,Enforce log retention policies by automating the deletion of logs older than a specified period.
+Sumo Logic,Automate user activity monitoring,Track and report on user activity within applications or systems using automated scripts.
+Sumo Logic,Automate threat detection,Use Sumo Logic's security analytics to automate the detection of potential threats in real-time.
+Sumo Logic,Automate log correlation,Correlate logs from multiple sources automatically to identify root causes of issues.
+Sumo Logic,Automate API usage tracking,Monitor and report on API usage across applications using automated scripts.
+Sumo Logic,Automate cloud cost monitoring,"Track cloud resource usage and costs using Sumo Logic's integration with cloud platforms like AWS, Azure, and GCP."
+Sumo Logic,Automate log-based performance monitoring,Monitor application performance by analyzing log data and setting up automated alerts for performance degradation.
+Sumo Logic,Automate log-based capacity planning,Use historical log data to forecast future capacity needs and automate resource planning.
+Sumo Logic,Automate log-based SLA tracking,Track service level agreements (SLAs) by analyzing log data and generating automated reports.
+Sumo Logic,Automate incident response workflows,Trigger automated incident response workflows based on specific log events or alerts.
+Sumo Logic,Automate log-based root cause analysis,Use scripts to analyze logs and identify the root cause of system or application issues.
+Sumo Logic,Automate log-based trend analysis,Analyze trends in log data over time to identify patterns and predict future issues.
+Sumo Logic,Automate log-based user behavior analytics,Monitor and analyze user behavior using log data to detect anomalies or potential security risks.
+Sumo Logic,Automate log-based error tracking,Track and report on application errors automatically using log data.
+Sumo Logic,Automate log-based downtime tracking,Monitor and report on system or application downtime using automated log analysis.
+Sumo Logic,Automate log-based compliance audits,Automate the generation of audit reports for compliance purposes using log data.
+Sumo Logic,Automate log-based access control monitoring,Monitor access control logs to detect unauthorized access attempts automatically.
+Sumo Logic,Automate log-based firewall monitoring,Analyze firewall logs to detect and respond to potential security threats automatically.
+Sumo Logic,Automate log-based network traffic analysis,Monitor and analyze network traffic logs to identify unusual patterns or potential issues.
+Sumo Logic,Automate log-based application health checks,Use log data to monitor the health of applications and trigger alerts for any issues.
+Sumo Logic,Automate log-based database monitoring,"Monitor database logs to track performance, errors, and security events automatically."
+Sumo Logic,Automate log-based API error tracking,Track API errors using log data and generate automated alerts for high error rates.
+Sumo Logic,Automate log-based container monitoring,"Monitor container logs to track performance, resource usage, and errors automatically."
+Sumo Logic,Automate log-based Kubernetes monitoring,"Use Sumo Logic to monitor Kubernetes logs and identify issues with pods, nodes, or clusters."
+Sumo Logic,Automate log-based CI/CD pipeline monitoring,Monitor logs from CI/CD pipelines to detect build or deployment failures automatically.
+Sumo Logic,Automate log-based microservices monitoring,Track and analyze logs from microservices to ensure they are functioning as expected.
+Sumo Logic,Automate log-based server monitoring,"Monitor server logs to track performance, resource usage, and errors automatically."
+Sumo Logic,Automate log-based virtual machine monitoring,Use Sumo Logic to monitor logs from virtual machines and identify performance or security issues.
+Sumo Logic,Automate log-based IoT device monitoring,"Monitor logs from IoT devices to track performance, connectivity, and security events."
+Sumo Logic,Automate log-based endpoint security monitoring,Use Sumo Logic to monitor endpoint security logs and detect potential threats automatically.
+Sumo Logic,Automate log-based email security monitoring,Analyze email security logs to detect phishing attempts or other email-based threats.
+Sumo Logic,Automate log-based DNS monitoring,Monitor DNS logs to detect unusual activity or potential security threats.
+Sumo Logic,Automate log-based web server monitoring,"Track and analyze web server logs to monitor performance, errors, and security events."
+Sumo Logic,Automate log-based load balancer monitoring,Monitor logs from load balancers to track traffic distribution and detect potential issues.
+Sumo Logic,Automate log-based storage monitoring,"Use Sumo Logic to monitor storage logs and track capacity, performance, and errors."
+Sumo Logic,Automate log-based backup monitoring,Monitor backup logs to ensure backups are completed successfully and detect any failures.
+Sumo Logic,Automate log-based disaster recovery testing,Use log data to monitor and validate disaster recovery tests automatically.
+Sumo Logic,Automate log-based compliance gap analysis,Identify gaps in compliance by analyzing log data and generating automated reports.
+Sumo Logic,Automate log-based vulnerability scanning,Integrate Sumo Logic with vulnerability scanning tools to analyze and report on scan results automatically.
+Sumo Logic,Automate log-based patch management tracking,Monitor patch management logs to ensure all systems are up to date and compliant.
+Sumo Logic,Automate log-based software license tracking,Track software license usage using log data to ensure compliance and optimize costs.
+Sumo Logic,Automate log-based asset inventory tracking,Use log data to maintain an up-to-date inventory of IT assets automatically.
+Sumo Logic,Automate log-based SLA compliance monitoring,Monitor SLA compliance using log data and generate automated reports for stakeholders.
+Sumo Logic,Automate log-based service desk integration,Integrate Sumo Logic with service desk tools to create tickets automatically based on log events.
+Sumo Logic,Automate log-based capacity utilization tracking,Track capacity utilization using log data and generate automated alerts for overutilization.
+Sumo Logic,Automate log-based energy consumption tracking,Monitor energy consumption logs to identify inefficiencies and optimize resource usage.
+Sumo Logic,Automate log-based environmental monitoring,Use log data to monitor environmental factors such as temperature and humidity in data centers.
+Sumo Logic,Automate log-based compliance policy enforcement,Enforce compliance policies by analyzing log data and flagging violations automatically.
+Sumo Logic,Automate log-based phishing detection,Detect phishing attempts by analyzing email and web traffic logs automatically.
+Sumo Logic,Automate log-based insider threat detection,Monitor user activity logs to detect potential insider threats automatically.
+Sumo Logic,Automate log-based DDoS attack detection,Use Sumo Logic to detect and respond to DDoS attacks by analyzing network traffic logs.
+Sumo Logic,Automate log-based malware detection,Detect malware infections by analyzing endpoint and network logs automatically.
+Sumo Logic,Automate log-based brute force attack detection,Identify brute force attacks by monitoring authentication logs for repeated failed login attempts.
+Sumo Logic,Automate log-based privilege escalation detection,Detect privilege escalation attempts by analyzing user activity logs.
+Sumo Logic,Automate log-based data exfiltration detection,"Monitor logs for signs of data exfiltration, such as large data transfers or unusual network activity."
+S,,

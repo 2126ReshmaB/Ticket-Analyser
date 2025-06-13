@@ -1,0 +1,69 @@
+Category,Short Description,Description
+PowerDMS,Automate User Account Creation,Automatically create new user accounts in PowerDMS when an employee joins the organization.
+PowerDMS,Bulk User Account Deletion,Automatically delete user accounts for employees who have left the organization.
+PowerDMS,Update User Roles,Automate the process of updating user roles based on their department or job title changes.
+PowerDMS,Assign Policies to Users,Automatically assign specific policies to users based on their department or job function.
+PowerDMS,Notify Users of New Policies,Automate email or in-app notifications to users when a new policy is published.
+PowerDMS,Monitor Policy Acknowledgment,Automatically track and report users who have acknowledged or signed off on policies.
+PowerDMS,Schedule Policy Review Reminders,Send automated reminders to policy owners for periodic reviews of policies.
+PowerDMS,Expire Old Policies,Automatically archive or expire policies that are no longer valid.
+PowerDMS,Generate Policy Compliance Reports,Automate the generation of compliance reports for management or audits.
+PowerDMS,Notify Users of Policy Updates,Automatically notify users when an existing policy is updated.
+PowerDMS,Automate Training Assignments,Assign training modules to employees automatically based on their roles or locations.
+PowerDMS,Track Training Completion,Automate the tracking and reporting of employee training completion statuses.
+PowerDMS,Send Training Reminders,Send automated reminders to employees who have not completed their assigned training modules.
+PowerDMS,Schedule Recurring Trainings,Automatically schedule recurring compliance training sessions.
+PowerDMS,Generate Training Completion Reports,Automate the generation of training completion reports for compliance purposes.
+PowerDMS,Policy Approval Workflows,Automate the approval process for new or updated policies by routing them to the appropriate stakeholders.
+PowerDMS,Send Approval Reminders,Send automated reminders to approvers who have pending policy approvals.
+PowerDMS,Notify Users of Expiring Certifications,Notify employees when their certifications are about to expire and provide steps for renewal.
+PowerDMS,Schedule Certification Renewals,Automate the scheduling and notification process for certification renewals.
+PowerDMS,Bulk Upload Documents,Automate the bulk upload of documents into PowerDMS for easy organization and access.
+PowerDMS,Archive Inactive Users,Automatically archive or deactivate user accounts that have been inactive for a specified period.
+PowerDMS,Assign Document Categories,Automatically assign categories or tags to documents for easier searchability.
+PowerDMS,Monitor Document Access Logs,Automate the monitoring and reporting of document access logs for compliance and security purposes.
+PowerDMS,Notify Users of New Training Modules,Automatically notify users when new training modules are added to the system.
+PowerDMS,Assign Training Based on Job Title,Create scripts to automatically assign training based on the user's job title or department.
+PowerDMS,Manage Version Control for Policies,"Automate version control for policies, ensuring that users always access the latest version."
+PowerDMS,Schedule System Usage Reports,Automatically generate and email system usage reports to administrators.
+PowerDMS,Automate Password Resets,Create a script to process user password resets automatically when triggered.
+PowerDMS,Monitor Login Activity,Automate the monitoring and reporting of user login activity for security purposes.
+PowerDMS,Remove Duplicate Documents,Automatically identify and remove duplicate documents in the system.
+PowerDMS,Automate Audit Trail Reports,Generate detailed audit trail reports automatically for compliance and investigation requirements.
+PowerDMS,Assign Compliance Checklists,Automatically create and assign compliance checklists to users or departments.
+PowerDMS,Generate Expiry Alerts for Policies,Notify responsible users when a policy is nearing its expiration date.
+PowerDMS,Automate Feedback Requests,Send automated feedback requests to employees after training or policy review.
+PowerDMS,Manage File Retention Policies,Automatically enforce file retention policies to delete or archive documents after a specified period.
+PowerDMS,Assign Onboarding Documents,Assign onboarding documents automatically to new employees when their accounts are created.
+PowerDMS,Notify Supervisors of Non-Compliance,Automatically notify supervisors when their team members are non-compliant with training or policy acknowledgment.
+PowerDMS,Send Escalation Reminders,Send automated escalation reminders to higher management if compliance tasks are overdue.
+PowerDMS,Automate Role-Based Permissions,Automatically assign role-based permissions to users based on their job titles or departments.
+PowerDMS,Sync User Data with HR Systems,Automate the synchronization of user data between PowerDMS and HR management systems.
+PowerDMS,Automate Document Approval Process,Streamline the document approval process by automating routing and notifications.
+PowerDMS,Generate Training Gap Analysis,Automate the creation of training gap analysis reports to identify untrained employees.
+PowerDMS,Send Notifications for Overdue Tasks,Notify users or administrators automatically when tasks like policy acknowledgments or trainings are overdue.
+PowerDMS,Automate Custom Reports Generation,Create scripts to generate custom reports tailored to organizational needs automatically.
+PowerDMS,Assign Policies by Location,Automatically assign location-specific policies to employees based on their assigned office.
+PowerDMS,Automate Compliance Audits,Schedule automated compliance audits and generate reports based on findings.
+PowerDMS,Monitor Policy Download Activity,Track and report policy download activity to ensure proper usage and compliance.
+PowerDMS,Assign Annual Policy Reviews,Automate the assignment of annual policy reviews to relevant stakeholders.
+PowerDMS,Schedule Weekly Compliance Summaries,Send automated weekly summaries of compliance statuses to management.
+PowerDMS,Sync Training Data with LMS,Automatically sync training data between PowerDMS and Learning Management Systems (LMS).
+PowerDMS,Generate Department-Wise Reports,Automate department-wise compliance reports for better insights and decision-making.
+PowerDMS,Automate User Group Assignments,Automatically assign users to specific groups based on their roles or departments.
+PowerDMS,Notify Admins of Inactive Policies,Automatically notify administrators of policies that have not been updated or accessed in a long time.
+PowerDMS,Send Policy Acknowledgment Summaries,Email periodic summaries of policy acknowledgment statuses to department heads.
+PowerDMS,Monitor Certification Expiry Trends,Generate automated reports to monitor trends in certification expirations across the organization.
+PowerDMS,Automate User Deactivation,Automatically deactivate user accounts after a specified duration of inactivity.
+PowerDMS,Notify Users of Policy Gaps,Send automated notifications to users about policies they have not acknowledged or reviewed.
+PowerDMS,Schedule Monthly Compliance Reviews,Automate scheduling of monthly compliance reviews for department managers.
+PowerDMS,Assign Emergency Response Plans,Automatically assign emergency response plans to relevant employees based on their responsibilities.
+PowerDMS,Automate Document Tagging,Automatically tag uploaded documents with relevant keywords for better organization.
+PowerDMS,Generate User Engagement Reports,Automate the generation of reports on user engagement with policies and training.
+PowerDMS,Manage Training Prerequisites,Automatically enforce prerequisites for certain training modules and notify users accordingly.
+PowerDMS,Monitor Document Update Frequency,Track and report how often specific documents or policies are updated.
+PowerDMS,Automate Compliance Certificates,Generate and distribute compliance certificates automatically upon training completion.
+PowerDMS,Send Notifications for Failed Tests,Notify users and supervisors automatically when training tests are failed.
+PowerDMS,Assign Crisis Management Policies,Automatically assign crisis management policies to relevant teams during emergencies.
+PowerDMS,Automate Feedback Collection,Gather employee feedback on policies or training through automated surveys.
+PowerDMS,Track External Policy Distribution,Monitor and report the distribution of policies to external stakeholders.

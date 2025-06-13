@@ -1,0 +1,79 @@
+Category,Short Description,Description
+Hardware Inventory Spreadsheet,Automated Inventory Updates,Automatically update the inventory spreadsheet with new hardware details from a central database or API.
+Hardware Inventory Spreadsheet,Barcode Scanning Integration,Use barcode scanners to scan hardware and populate the spreadsheet with relevant details automatically.
+Hardware Inventory Spreadsheet,Warranty Expiry Alerts,Automate alerts for hardware warranties that are about to expire.
+Hardware Inventory Spreadsheet,Hardware Lifecycle Tracking,Track the lifecycle of each hardware item automatically and update the spreadsheet accordingly.
+Hardware Inventory Spreadsheet,Asset Tagging,Generate and log unique asset tags for each hardware item in the spreadsheet automatically.
+Hardware Inventory Spreadsheet,Real-Time Stock Count,Automate real-time stock count for hardware items and reflect updates in the spreadsheet.
+Hardware Inventory Spreadsheet,Vendor Details Integration,Automatically pull vendor details for each hardware item and update the spreadsheet.
+Hardware Inventory Spreadsheet,Purchase Order Tracking,Track purchase orders related to hardware items and update their status in the spreadsheet.
+Hardware Inventory Spreadsheet,Maintenance Schedule Updates,Automate the addition of maintenance schedules for hardware items in the spreadsheet.
+Hardware Inventory Spreadsheet,Device Assignment Logging,Record which employee or department a specific hardware item is assigned to automatically.
+Hardware Inventory Spreadsheet,Depreciation Calculation,Automatically calculate hardware depreciation and log it in the spreadsheet.
+Hardware Inventory Spreadsheet,Hardware Status Monitoring,"Monitor hardware statuses (e.g., active, inactive, or faulty) and update the spreadsheet dynamically."
+Hardware Inventory Spreadsheet,Automated Report Generation,Generate reports on hardware inventory automatically from the spreadsheet.
+Hardware Inventory Spreadsheet,Hardware Age Tracking,Track the age of each hardware item and flag aging equipment for replacement.
+Hardware Inventory Spreadsheet,Serial Number Validation,Validate and log serial numbers of hardware items automatically.
+Hardware Inventory Spreadsheet,Inventory Reconciliation,Compare spreadsheet data with actual stock and reconcile discrepancies.
+Hardware Inventory Spreadsheet,Hardware Disposal Tracking,Track hardware disposal events and log details in the spreadsheet.
+Hardware Inventory Spreadsheet,Integrated Security Audit Logs,Record security audit results for hardware items automatically in the spreadsheet.
+Hardware Inventory Spreadsheet,Software-Hardware Mapping,Automatically map installed software to specific hardware items in the spreadsheet.
+Hardware Inventory Spreadsheet,Stock Threshold Alerts,Send alerts when hardware stock falls below predefined thresholds.
+Hardware Inventory Spreadsheet,Automated Backup Creation,Create automated backups of the hardware inventory spreadsheet for data security.
+Hardware Inventory Spreadsheet,Inventory Cost Analysis,Perform cost analysis of the total inventory and update results in the spreadsheet.
+Hardware Inventory Spreadsheet,Hardware Performance Metrics,"Log hardware performance metrics (CPU, memory, etc.) automatically in the spreadsheet for tracking."
+Hardware Inventory Spreadsheet,Asset Location Tracking,Track and update the physical location of hardware items automatically.
+Hardware Inventory Spreadsheet,Asset Ownership Transfers,Automate the process of recording ownership transfers for hardware in the spreadsheet.
+Hardware Inventory Spreadsheet,End-of-Life Notifications,"Set up alerts for hardware nearing its end-of-life, based on predefined lifecycle durations."
+Hardware Inventory Spreadsheet,IP Address Integration,Automatically log IP addresses for network-connected hardware in the inventory spreadsheet.
+Hardware Inventory Spreadsheet,Hardware Warranty Claims,Track warranty claims for specific hardware and update their status in the spreadsheet.
+Hardware Inventory Spreadsheet,Hardware Health Monitoring,"Log hardware health status (e.g., disk health, battery life) into the spreadsheet automatically."
+Hardware Inventory Spreadsheet,Spare Parts Inventory Management,Track spare parts inventory alongside hardware details in the spreadsheet.
+Hardware Inventory Spreadsheet,Automated Asset Audits,Automate audit processes for hardware inventory and log results in the spreadsheet.
+Hardware Inventory Spreadsheet,Hardware Usage Statistics,Record and analyze hardware usage statistics automatically in the spreadsheet.
+Hardware Inventory Spreadsheet,Bulk Hardware Import,Automate the import of bulk hardware data into the spreadsheet from external sources.
+Hardware Inventory Spreadsheet,QR Code Generation,Generate and log QR codes for hardware items in the spreadsheet for easy scanning.
+Hardware Inventory Spreadsheet,Power Consumption Tracking,Monitor and log power consumption data for hardware items automatically.
+Hardware Inventory Spreadsheet,Device Licensing Details,Track licensing details for hardware-related software and peripherals.
+Hardware Inventory Spreadsheet,Hardware Category Assignment,"Automatically assign categories (e.g., laptops, servers, routers) to hardware items."
+Hardware Inventory Spreadsheet,Automated Obsolescence Tracking,Track and flag obsolete hardware items in the inventory spreadsheet.
+Hardware Inventory Spreadsheet,Third-Party Integration,Integrate third-party inventory management tools to update the spreadsheet automatically.
+Hardware Inventory Spreadsheet,Firmware Update Logs,Record firmware update details for hardware items automatically.
+Hardware Inventory Spreadsheet,Device Compatibility Tracking,"Log compatibility details for hardware items (e.g., supported software or peripherals)."
+Hardware Inventory Spreadsheet,Asset Insurance Tracking,Track insurance details for hardware items and log expiry dates automatically.
+Hardware Inventory Spreadsheet,Automated Inventory Cleanup,Remove duplicate or outdated entries from the spreadsheet automatically.
+Hardware Inventory Spreadsheet,Environmental Impact Tracking,"Track and record environmental impact metrics (e.g., energy efficiency) for hardware."
+Hardware Inventory Spreadsheet,Network Device Inventory,Automate inventory updates specifically for network devices like routers and switches.
+Hardware Inventory Spreadsheet,Asset Movement Tracking,Track and log movements of hardware assets between locations or departments.
+Hardware Inventory Spreadsheet,Inventory Forecasting,Use historical data to forecast future hardware inventory needs automatically.
+Hardware Inventory Spreadsheet,Device Temperature Monitoring,Log temperature data for hardware items with monitoring capabilities.
+Hardware Inventory Spreadsheet,Automated Inventory Validation,Validate inventory data for accuracy and flag discrepancies automatically.
+Hardware Inventory Spreadsheet,Hardware Incident Tracking,"Log incidents (e.g., failures, repairs) related to hardware items and update the spreadsheet automatically."
+Hardware Inventory Spreadsheet,Automated Invoice Matching,Match hardware purchase invoices with inventory records and flag mismatches.
+Hardware Inventory Spreadsheet,Performance Benchmarking,Record and analyze performance benchmarks for hardware items in the spreadsheet.
+Hardware Inventory Spreadsheet,Device Calibration Logs,Track calibration schedules and logs for hardware requiring periodic calibration.
+Hardware Inventory Spreadsheet,Backup Device Tracking,Maintain and update records of backup devices in the inventory spreadsheet.
+Hardware Inventory Spreadsheet,Automated Stock Replenishment,Trigger stock replenishment processes automatically when inventory reaches thresholds.
+Hardware Inventory Spreadsheet,Hardware Repair Tracking,Track and log repair history for hardware items in the spreadsheet.
+Hardware Inventory Spreadsheet,Automated Asset Deactivation,Automatically deactivate retired or disposed assets in the spreadsheet.
+Hardware Inventory Spreadsheet,Hardware Utilization Analysis,Analyze utilization metrics for hardware and update the spreadsheet with insights.
+Hardware Inventory Spreadsheet,Device Encryption Status Tracking,Log encryption statuses of hardware devices in the inventory spreadsheet.
+Hardware Inventory Spreadsheet,Automated License Expiry Alerts,Notify when hardware-related software licenses are nearing expiry.
+Hardware Inventory Spreadsheet,Asset Classification Updates,Automatically update classifications for hardware based on predefined rules.
+Hardware Inventory Spreadsheet,Inventory Stocktake Scheduling,Automate scheduling for physical inventory stocktakes and log results in the spreadsheet.
+Hardware Inventory Spreadsheet,Asset Ownership Verification,Verify assigned ownership of hardware items and flag discrepancies.
+Hardware Inventory Spreadsheet,Hardware Cost Trending,Analyze and track cost trends for hardware items in the spreadsheet over time.
+Hardware Inventory Spreadsheet,Automated Vendor Comparison,Compare vendor pricing for hardware items automatically and log comparisons in the spreadsheet.
+Hardware Inventory Spreadsheet,IoT Device Inventory Integration,Sync IoT device data directly into the hardware inventory spreadsheet.
+Hardware Inventory Spreadsheet,Hardware Replacement Tracking,Track replacement cycles for hardware and update the spreadsheet accordingly.
+Hardware Inventory Spreadsheet,Device Downtime Logging,Log and track downtime for hardware items automatically.
+Hardware Inventory Spreadsheet,Automated Compliance Checks,Perform compliance checks for hardware inventory and flag non-compliant items.
+Hardware Inventory Spreadsheet,Cloud Resource Inventory,Automate inventory updates for cloud-based hardware resources.
+Hardware Inventory Spreadsheet,Power Backup Tracking,"Track backup power systems (e.g., UPS devices) and update their statuses in the spreadsheet."
+Hardware Inventory Spreadsheet,Device Connectivity Status,Log connectivity statuses for network-connected hardware devices in the spreadsheet.
+Hardware Inventory Spreadsheet,Hardware Upgrade Tracking,Track and log hardware upgrade details in the inventory spreadsheet automatically.
+Hardware Inventory Spreadsheet,Automated Device Health Reports,Generate automated health reports for hardware items and update the spreadsheet.
+Hardware Inventory Spreadsheet,Inventory Usage Optimization,Analyze inventory data to suggest optimization strategies for hardware usage.
+Hardware Inventory Spreadsheet,Device Configuration Logs,Log configuration details for hardware devices automatically.
+Hardware Inventory Spreadsheet,Inventory Data Visualization,Create automated charts and graphs to visualize hardware inventory data.
+Hardware Inventory Spreadsheet,Hardware Risk Assessment,

@@ -1,0 +1,88 @@
+Category,Short Description,Description
+CCleaner,Clean Temporary Files,Remove temporary files to free up disk space and improve performance.
+CCleaner,Clear Browser Cache,Delete browser cache to enhance browsing speed and privacy.
+CCleaner,Remove Unused Applications,Uninstall unnecessary programs to free up storage and improve system performance.
+CCleaner,Clean Registry Errors,Fix registry errors to improve system stability and reduce crashes.
+CCleaner,Manage Startup Programs,Disable unnecessary startup programs to speed up boot times.
+CCleaner,Delete Duplicate Files,Identify and remove duplicate files to reclaim storage space.
+CCleaner,Clear Recycle Bin,Empty the recycle bin to permanently delete unwanted files.
+CCleaner,Clean Downloaded Files,Remove old downloaded files to free up disk space.
+CCleaner,Optimize Hard Drive Performance,Clean junk files to improve hard drive efficiency.
+CCleaner,Clear System Logs,Delete old system logs to free up storage space.
+CCleaner,Clean Temporary System Files,Remove temporary system files to optimize performance.
+CCleaner,Clear DNS Cache,Flush the DNS cache to resolve connectivity issues.
+CCleaner,Clean Windows Event Logs,Remove old event logs to declutter the system.
+CCleaner,Manage Browser Extensions,Disable or remove unnecessary browser extensions to improve browser performance.
+CCleaner,Clean Clipboard Data,Clear clipboard history to protect sensitive information.
+CCleaner,Remove Old Restore Points,Delete outdated restore points to free up disk space.
+CCleaner,Clean Windows Update Files,Remove leftover Windows update files to reclaim storage.
+CCleaner,Analyze Disk Space Usage,Identify large files and folders consuming disk space.
+CCleaner,Clean Application Cache,Remove cached data from applications to improve performance.
+CCleaner,Clean Thumbnail Cache,Delete thumbnail cache to free up storage and refresh thumbnails.
+CCleaner,Clean Memory Dumps,Remove memory dump files created after system crashes.
+CCleaner,Clean Browser History,Delete browsing history to protect privacy.
+CCleaner,Clean Cookies,Remove cookies to enhance privacy and free up space.
+CCleaner,Clean Autofill Data,Delete saved autofill data to protect sensitive information.
+CCleaner,Clean Session Data,Remove session data to improve browser performance.
+CCleaner,Clean Download History,Clear download history to declutter browsers.
+CCleaner,Clean System Restore Cache,Free up space by cleaning the system restore cache.
+CCleaner,Clean Windows Explorer MRU,Remove most recently used (MRU) lists in Windows Explorer.
+CCleaner,Clean Font Cache,Clear font cache to resolve font-related issues.
+CCleaner,Clean Windows Search History,Delete search history to protect privacy.
+CCleaner,Clean Windows Error Reporting Files,Remove error reporting files to free up disk space.
+CCleaner,Clean Prefetch Data,Delete prefetch files to optimize system performance.
+CCleaner,Clean Windows Installer Files,Remove leftover installer files to reclaim storage.
+CCleaner,Clean Temporary Internet Files,Delete temporary internet files to improve browsing speed.
+CCleaner,Clean Windows Cache,Remove cached system files to optimize performance.
+CCleaner,Clean System Tray Notifications,Remove old system tray notifications to declutter the interface.
+CCleaner,Clean Windows Font Cache,Clear font cache to resolve font rendering issues.
+CCleaner,Clean Windows Thumbnail Cache,Remove thumbnail cache to refresh image previews.
+CCleaner,Clean Windows Temp Folder,Delete files in the Windows Temp folder to free up space.
+CCleaner,Clean Windows Installer Cache,Remove cached installer files to reclaim storage.
+CCleaner,Clean Windows Log Files,Delete old log files to optimize system performance.
+CCleaner,Clean Windows Update Cache,Remove cached Windows update files to free up space.
+CCleaner,Clean Windows Event Viewer Logs,Clear event viewer logs to declutter the system.
+CCleaner,Clean Windows Error Logs,Remove error logs to free up disk space.
+CCleaner,Clean Windows Crash Dumps,Delete crash dump files to reclaim storage.
+CCleaner,Clean Windows Debug Files,Remove debug files to optimize system performance.
+CCleaner,Clean Windows Temp Files,Delete temporary files to improve system efficiency.
+CCleaner,Clean Windows Prefetch Files,Remove prefetch files to optimize application loading times.
+CCleaner,Clean Windows Cache Files,Delete cached files to free up storage.
+CCleaner,Clean Windows System Files,Remove unnecessary system files to optimize performance.
+CCleaner,Clean Windows Installer Logs,Delete installer logs to free up disk space.
+CCleaner,Clean Windows Update Logs,Remove update logs to declutter the system.
+CCleaner,Clean Windows Backup Files,Delete old backup files to reclaim storage.
+CCleaner,Clean Windows Temporary Files,Remove temporary files to improve system performance.
+CCleaner,Clean Windows Error Reporting Cache,Delete error reporting cache to free up space.
+CCleaner,Clean Windows System Restore Files,Remove old system restore files to reclaim storage.
+CCleaner,Clean Windows System Logs,Delete system logs to optimize performance.
+CCleaner,Clean Windows System Cache,Remove cached system files to improve efficiency.
+CCleaner,Clean Windows System Temp Files,Delete temporary system files to free up space.
+CCleaner,Clean Windows System Error Logs,Remove error logs to declutter the system.
+CCleaner,Clean Windows System Debug Files,Delete debug files to optimize performance.
+CCleaner,Clean Windows System Backup Files,Remove old backup files to reclaim storage.
+CCleaner,Clean Windows System Update Files,Delete leftover update files to free up space.
+CCleaner,Clean Windows System Restore Cache,Remove restore cache to optimize performance.
+CCleaner,Clean Windows System Event Logs,Delete event logs to declutter the system.
+CCleaner,Clean Windows System Error Cache,Remove error cache to free up storage.
+CCleaner,Clean Windows System Debug Cache,Delete debug cache to optimize performance.
+CCleaner,Clean Windows System Backup Cache,Remove backup cache to reclaim storage.
+CCleaner,Clean Windows System Update Cache,Delete update cache to free up space.
+CCleaner,Clean Windows System Restore Logs,Remove restore logs to declutter the system.
+CCleaner,Clean Windows System Event Cache,Delete event cache to optimize performance.
+CCleaner,Clean Windows System Error Files,Remove error files to free up storage.
+CCleaner,Clean Windows System Debug Logs,Delete debug logs to optimize performance.
+CCleaner,Clean Windows System Backup Logs,Remove backup logs to reclaim storage.
+CCleaner,Clean Windows System Update Logs,Delete update logs to free up space.
+CCleaner,Clean Windows System Restore Files,Remove restore files to optimize performance.
+CCleaner,Clean Windows System Event Files,Delete event files to declutter the system.
+CCleaner,Clean Windows System Error Dumps,Remove error dumps to free up storage.
+CCleaner,Clean Windows System Debug Dumps,Delete debug dumps to optimize performance.
+CCleaner,Clean Windows System Backup Dumps,Remove backup dumps to reclaim storage.
+CCleaner,Clean Windows System Update Dumps,Delete update dumps to free up space.
+CCleaner,Clean Windows System Restore Dumps,Remove restore dumps to optimize performance.
+CCleaner,Clean Windows System Event Dumps,Delete event dumps to declutter the system.
+CCleaner,Clean Windows System Error Logs,Remove error logs to free up storage.
+CCleaner,Clean Windows System Debug Logs,Delete debug logs to optimize performance.
+CCleaner,Clean Windows System Backup Logs,Remove backup logs to reclaim storage.
+CCleaner,Clean Windows System Update Logs,Delete update logs to free up space.

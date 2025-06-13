@@ -1,0 +1,56 @@
+Category,Short Description,Description
+ServiceNow Software Asset Management,Automate software license compliance checks,Create a script to automatically verify software license compliance and generate compliance reports for audits.
+ServiceNow Software Asset Management,Automate discovery of unlicensed software,Automate the discovery of unlicensed software installed across managed devices to prevent compliance issues.
+ServiceNow Software Asset Management,Automate hardware and software inventory sync,Synchronize hardware and software inventory data from discovery tools into ServiceNow SAM regularly using scripts.
+ServiceNow Software Asset Management,Automate license allocation,Create a script to allocate software licenses to users or devices based on predefined usage policies.
+ServiceNow Software Asset Management,Automate license reclamation,Identify unused or underutilized software licenses and reclaim them automatically for reallocation to other users.
+ServiceNow Software Asset Management,Automate software usage tracking,Use scripts to track software usage across the organization and detect over-provisioned licenses.
+ServiceNow Software Asset Management,Automate contract renewal tracking,Automate the tracking of software contract renewal dates and send notifications to stakeholders.
+ServiceNow Software Asset Management,Automate license expiration notifications,Set up scripts to monitor license expiration dates and send alerts to administrators in advance.
+ServiceNow Software Asset Management,Automate software cost optimization,"Use scripts to analyze software costs and recommend cost-saving measures, such as license downgrades or cancellations."
+ServiceNow Software Asset Management,Automate user role-based license assignments,Automate license assignments based on user roles and department needs to ensure efficient allocation.
+ServiceNow Software Asset Management,Automate software request approvals,Implement a workflow script to automate software request approvals based on predefined business rules.
+ServiceNow Software Asset Management,Automate inactive user license cleanup,Identify users who are no longer active and automatically revoke their assigned software licenses.
+ServiceNow Software Asset Management,Automate software lifecycle management,"Automate the management of the software lifecycle, including procurement, deployment, usage, and retirement."
+ServiceNow Software Asset Management,Automate software installation tracking,Track software installations across devices and ensure they comply with organizational policies.
+ServiceNow Software Asset Management,Automate blacklisted software detection,Create a script to identify and report blacklisted software installed on managed devices.
+ServiceNow Software Asset Management,Automate license model updates,Automate the update of license models to reflect changes in vendor agreements or licensing terms.
+ServiceNow Software Asset Management,Automate software discovery reconciliation,Reconcile discovered software installations with purchased licenses to ensure compliance.
+ServiceNow Software Asset Management,Automate software bundling analysis,Analyze bundled software packages to ensure compliance with license agreements.
+ServiceNow Software Asset Management,Automate custom SAM report generation,"Use a script to generate custom reports for specific SAM use cases, such as license optimization or compliance gaps."
+ServiceNow Software Asset Management,Automate software removal for decommissioned devices,Automatically remove software from devices that are decommissioned or no longer in use.
+ServiceNow Software Asset Management,Automate cloud subscription tracking,"Monitor and track cloud subscription usage and costs for services like AWS, Azure, and Google Cloud."
+ServiceNow Software Asset Management,Automate license usage forecasting,Use historical data to forecast future license usage trends and plan procurement accordingly.
+ServiceNow Software Asset Management,Automate software patch compliance reporting,Automate the generation of patch compliance reports to ensure all applications are up to date.
+ServiceNow Software Asset Management,Automate inactive software removal,Identify and remove software installations that are no longer actively used by users or devices.
+ServiceNow Software Asset Management,Automate software license pooling,Create a pooled license system where unused licenses can be automatically reallocated to high-demand users.
+ServiceNow Software Asset Management,Automate vendor audit preparation,Generate compliance reports and relevant data to prepare for vendor audits.
+ServiceNow Software Asset Management,Automate cost allocation to departments,Use scripts to allocate software costs to different departments based on usage or license assignments.
+ServiceNow Software Asset Management,Automate software usage alerts,Set up alerts to notify administrators when software usage exceeds predefined thresholds.
+ServiceNow Software Asset Management,Automate license compliance remediation,Automate the process of addressing non-compliance issues by reallocating licenses or purchasing additional ones.
+ServiceNow Software Asset Management,Automate license key management,Create a script to track and manage software license keys to prevent loss or misuse.
+ServiceNow Software Asset Management,Automate license usage trend analysis,Analyze trends in software license usage to identify patterns and optimize allocations.
+ServiceNow Software Asset Management,Automate software retirement tracking,Track software that is retired or no longer supported and ensure its removal from all devices.
+ServiceNow Software Asset Management,Automate software installation approval,Streamline the process of approving software installations based on predefined rules.
+ServiceNow Software Asset Management,Automate software inventory normalization,Normalize software inventory data to ensure consistency and accuracy in reporting.
+ServiceNow Software Asset Management,Automate SAM dashboard updates,"Update SAM dashboards with real-time data on license compliance, usage, and costs."
+ServiceNow Software Asset Management,Automate software license compliance benchmarking,Compare the organization's license compliance status against industry standards or benchmarks.
+ServiceNow Software Asset Management,Automate software reconciliation reports,Generate reports to reconcile discovered software inventory with purchased licenses.
+ServiceNow Software Asset Management,Automate software compliance exception handling,Automate the handling of compliance exceptions by notifying stakeholders and recommending corrective actions.
+ServiceNow Software Asset Management,Automate inactive software license alerts,Notify administrators about inactive or unused licenses that can be reclaimed to optimize costs.
+ServiceNow Software Asset Management,Automate software cost variance analysis,Analyze variances in software costs between expected and actual expenditures.
+ServiceNow Software Asset Management,Automate user-based license tracking,Track individual user license assignments and usage to identify underutilized licenses.
+ServiceNow Software Asset Management,Automate license entitlement updates,Update license entitlements automatically when new software is procured or retired.
+ServiceNow Software Asset Management,Automate license renewal reminders,Send automated reminders to renew software licenses before expiration.
+ServiceNow Software Asset Management,Automate contract compliance checks,Verify that software contracts are being adhered to and identify any potential violations.
+ServiceNow Software Asset Management,Automate SaaS license management,Monitor and manage SaaS subscriptions and ensure compliance with subscription terms.
+ServiceNow Software Asset Management,Automate hybrid cloud software tracking,Track software usage and compliance across hybrid cloud environments.
+ServiceNow Software Asset Management,Automate external vendor license audits,Automate data collection and reporting for external vendor license audits.
+ServiceNow Software Asset Management,Automate software usage policy enforcement,Enforce organizational policies for software usage by identifying and flagging violations.
+ServiceNow Software Asset Management,Automate license reallocation based on usage,Automatically reallocate licenses to users or devices with higher usage needs.
+ServiceNow Software Asset Management,Automate license compliance risk scoring,Calculate risk scores for license compliance violations and prioritize remediation actions.
+ServiceNow Software Asset Management,Automate software cost trend reporting,Generate periodic reports on software cost trends to help with budgeting and forecasting.
+ServiceNow Software Asset Management,Automate software license surplus detection,Identify surplus licenses and recommend actions such as cancellations or optimizations.
+ServiceNow Software Asset Management,Automate SAM training tracking,Track and report on SAM-related training completed by employees to ensure compliance knowledge.
+ServiceNow Software Asset Management,Automate license usage audit trails,Maintain and review audit trails for license usage to ensure compliance during audits.
+ServiceNow Software Asset Management,Automate software deployment verification,Verify that all software deployments align with approved licenses and agreements.

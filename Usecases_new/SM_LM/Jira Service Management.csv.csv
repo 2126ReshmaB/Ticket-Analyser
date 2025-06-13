@@ -1,0 +1,73 @@
+Category,Short Description,Description
+Jira Service Management,Incident Ticket Creation,Automate incident ticket creation from monitoring tool alerts or email parsing.
+Jira Service Management,Automatic Ticket Assignment,Automate assigning tickets to appropriate teams or agents based on predefined rules such as priority or category.
+Jira Service Management,SLA Breach Alerts,Automate notifications to agents and stakeholders when SLA deadlines are about to be breached.
+Jira Service Management,Escalation Rules,Automate ticket escalation to higher-level support teams when SLA thresholds are exceeded.
+Jira Service Management,Priority Adjustment Based on Keywords,Automate ticket priority updates based on keywords or phrases in ticket descriptions.
+Jira Service Management,Auto-Categorization of Tickets,Automate categorizing incoming tickets based on content or predefined rules.
+Jira Service Management,Status Change Notifications,Automate sending notifications to users when the status of their tickets changes.
+Jira Service Management,Ticket Closure Automation,Automate ticket closure after verifying resolution details and customer satisfaction.
+Jira Service Management,Recurring Task Scheduling,Automate scheduling and creation of recurring service or maintenance tasks.
+Jira Service Management,Knowledge Base Article Creation,Automate generating knowledge base articles from resolved tickets.
+Jira Service Management,Knowledge Article Review,Automate reminders for reviewing and updating knowledge base articles nearing expiration.
+Jira Service Management,Change Request Workflow,"Automate workflows for change requests, including approval and task creation."
+Jira Service Management,Approval Notifications,Automate notifications to approvers for pending change requests or service requests.
+Jira Service Management,Scheduled Maintenance Notifications,Automate sending notifications about upcoming scheduled maintenance to users and stakeholders.
+Jira Service Management,User Onboarding Workflow,"Automate onboarding processes, including account creation, access provisioning, and equipment allocation."
+Jira Service Management,User Offboarding Workflow,"Automate offboarding workflows by disabling accounts, reclaiming assets, and revoking access."
+Jira Service Management,Password Reset Automation,Automate password reset requests through self-service portals or workflows.
+Jira Service Management,Service Catalog Updates,"Automate updates to the service catalog, including adding or retiring services."
+Jira Service Management,Dynamic Ticket Routing,Automate routing of tickets to appropriate queues based on dynamic conditions like location or team availability.
+Jira Service Management,SLA Reporting,Automate the creation of SLA compliance and breach reports for stakeholders.
+Jira Service Management,Incident Trend Analysis,Automate analysis of incident trends to identify recurring issues or bottlenecks.
+Jira Service Management,Root Cause Analysis,Automate the generation of root cause analysis reports for major incidents.
+Jira Service Management,Feedback Surveys,Automate sending customer satisfaction surveys after ticket resolution.
+Jira Service Management,Ticket Aging Reports,Automate generating reports to track unresolved or aging tickets.
+Jira Service Management,Duplicate Ticket Detection,Automate identifying and merging duplicate tickets to reduce redundancy.
+Jira Service Management,Event Correlation Automation,Automate correlating multiple events into a single ticket to streamline incident management.
+Jira Service Management,Integration with Monitoring Tools,Automate ticket creation based on alerts from monitoring tools like Nagios or Zabbix.
+Jira Service Management,Integration with Active Directory,Automate synchronization of user accounts and groups with Active Directory.
+Jira Service Management,Integration with Email Systems,Automate parsing emails to create tickets automatically in the system.
+Jira Service Management,Integration with Slack,Automate notifications and ticket updates to Slack for team collaboration.
+Jira Service Management,Asset Discovery,Automate discovering IT assets and updating the asset inventory in Jira.
+Jira Service Management,CMDB Updates,Automate updates to the Configuration Management Database (CMDB) when assets are added or modified.
+Jira Service Management,Dependency Mapping,Automate mapping dependencies between Configuration Items (CIs) in the CMDB.
+Jira Service Management,Vulnerability Management,Automate ticket creation and remediation tasks based on vulnerability scan results.
+Jira Service Management,Patch Management,Automate patch deployment workflows and create related tracking tickets.
+Jira Service Management,Software License Tracking,Automate tracking software licenses and sending alerts for renewals.
+Jira Service Management,Contract Expiry Alerts,Automate reminders for contract renewals or expirations.
+Jira Service Management,Recurring Report Generation,Automate the scheduling and delivery of recurring reports to stakeholders.
+Jira Service Management,SLA Breach Prediction,Automate predicting SLA breaches based on ticket activity trends and sending proactive alerts.
+Jira Service Management,Scheduled Workflow Execution,Automate the execution of workflows at predefined intervals or times.
+Jira Service Management,Multi-Language Notifications,Automate sending notifications in multiple languages based on user preferences.
+Jira Service Management,Incident Communication Templates,Automate the creation of reusable communication templates for incidents or outages.
+Jira Service Management,Audit Trail Maintenance,Automate generating audit trails for changes made in the system.
+Jira Service Management,Dynamic Form Fields,Automate displaying dynamic fields on forms based on ticket attributes.
+Jira Service Management,Multi-Channel Notifications,"Automate sending alerts and updates via email, SMS, and chat tools."
+Jira Service Management,Dynamic Approver Assignment,Automate the assignment of approvers for workflows based on ticket or request details.
+Jira Service Management,Knowledge Search Analytics,Automate analyzing search terms in the knowledge base to identify gaps in content.
+Jira Service Management,License Renewal Management,Automate tracking and sending reminders for software license renewals.
+Jira Service Management,Training Record Management,Automate tracking employee training and certification records.
+Jira Service Management,Endpoint Health Monitoring,Automate creation of tickets for endpoints requiring attention based on monitoring results.
+Jira Service Management,Cost Allocation Reports,Automate generating cost allocation reports for IT services and assets.
+Jira Service Management,Asset Lifecycle Tracking,"Automate workflows for tracking assets through their lifecycle stages, such as procurement, maintenance, and decommissioning."
+Jira Service Management,Gantt Chart Updates,Automate updating Gantt charts for project tracking and resource allocation.
+Jira Service Management,Outage Notifications,Automate sending notifications to users and stakeholders during planned or unplanned outages.
+Jira Service Management,Risk Assessment Automation,Automate risk assessment workflows for changes or incidents based on predefined criteria.
+Jira Service Management,Release Management,"Automate workflows for release management, including approvals and notifications."
+Jira Service Management,Resource Allocation,Automate tracking and allocation of IT resources based on project or ticket requirements.
+Jira Service Management,Incident Aging Alerts,Automate alerts for agents regarding tickets that have been unresolved beyond a specified time.
+Jira Service Management,Custom SLA Rules,Automate the creation of custom SLA rules based on unique business requirements.
+Jira Service Management,Workflow Error Reporting,Automate detection and reporting of errors in ticket workflows for troubleshooting.
+Jira Service Management,Role-Based Access Control Updates,Automate updates to user roles and permissions based on changes in organizational structure.
+Jira Service Management,CI Relationship Visualization,Automate generating relationship visualizations between assets in the CMDB.
+Jira Service Management,Feedback Analysis,Automate the analysis of customer feedback to identify trends and improve services.
+Jira Service Management,Incident Correlation,Automate correlating incidents based on shared attributes like root cause or affected systems.
+Jira Service Management,Ticket Volume Prediction,Automate forecasting ticket volume based on historical data to optimize resource planning.
+Jira Service Management,Proactive Maintenance Tickets,Automate the generation of proactive maintenance tickets based on asset performance data.
+Jira Service Management,API Integration for Third-Party Tools,Automate integration with third-party tools via API to streamline workflows.
+Jira Service Management,Incident Resolution Time Tracking,Automate tracking and reporting on average incident resolution times for performance improvement.
+Jira Service Management,SLA Compliance Dashboards,Automate updating SLA compliance dashboards to provide real-time insights.
+Jira Service Management,Knowledge Base Usage Reports,Automate generating reports on knowledge base usage to measure its effectiveness.
+Jira Service Management,Service Health Monitoring,Automate monitoring of service health and creating alerts for degraded performance.
+Jira Service Management,IT Budget Tracking,Automate tracking IT budgets and expenses based on ticket and

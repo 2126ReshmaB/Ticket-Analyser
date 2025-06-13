@@ -1,0 +1,252 @@
+Category,Description,Short_Description
+HR,Request to update employee emergency contact details.,Emergency contact update
+Facilities,Air conditioning unit not working in conference room.,AC issue in conference room
+Finance,Clarification needed regarding travel reimbursement claim.,Reimbursement clarification
+Admin,Printer paper needs restocking in the second floor bay.,Paper refill request
+Security,Lost access badge reported by employee in Block B.,Lost badge report
+Logistics,Delivery truck blocked the staff parking entrance.,Parking access issue
+Catering,Lunch not delivered to 3rd floor pantry on time.,Lunch delivery delay
+Maintenance,Ceiling light flickering near cubicle area.,Light flickering issue
+HR,Request for leave form correction.,Leave form correction
+Facilities,Elevator making loud noise when in operation.,Elevator noise issue
+Admin,Need additional chairs for training room.,Chair request
+Finance,Salary slip not generated for the month of April.,Salary slip missing
+Security,Stray dog spotted near back gate.,Stray animal report
+Maintenance,Toilet leakage in Ground Floor ladies restroom.,Restroom leakage
+Catering,Tea not served in evening break as scheduled.,Missed tea service
+Logistics,Parcel delivery delayed due to entry gate clearance.,Parcel delay
+Facilities,Carpet cleaning needed in meeting room B.,Carpet cleaning request
+HR,Employee name misspelled in ID card.,ID card correction
+Admin,Request for new stationary supplies.,Stationary request
+Finance,Issue with tax deduction in last salary.,Tax deduction issue
+Security,Unauthorized visitor entered staff area.,Unauthorized access
+Maintenance,Door hinge broken in conference room.,Door repair request
+Catering,Coffee machine not dispensing properly.,Coffee machine issue
+Logistics,Boxes left unattended near reception.,Unattended packages
+Facilities,Water cooler not dispensing cold water.,Water cooler issue
+HR,Onboarding documents not submitted in HR portal.,Onboarding delay
+Admin,Board marker pens have dried out.,Marker replacement
+Finance,Reimbursement form not available online.,Reimbursement form issue
+Security,CCTV monitor not displaying feed.,CCTV display issue
+Maintenance,Peeling paint in hallway near pantry.,Wall paint issue
+Catering,Shortage of cutlery in pantry.,Cutlery shortage
+Logistics,Request for moving office files to archive room.,File movement request
+Facilities,Broken tile in stairway needs fixing.,Broken tile report
+HR,Employee grievance submitted via email.,Grievance ticket
+Admin,Conference room booking system not showing availability.,Booking system complaint
+Finance,Bonus calculation request for Q4.,Bonus clarification
+Security,Alarm triggered accidentally in Block D.,False alarm report
+Maintenance,AC filter cleaning overdue.,AC filter issue
+Catering,Leftover food disposal issue in lunch area.,Food waste complaint
+Logistics,Cart used for document shifting is broken.,Broken cart report
+Facilities,Blind in window area is stuck halfway.,Window blind issue
+HR,New employee orientation kit not provided.,Orientation kit issue
+Admin,Request for whiteboard markers and notepads.,Stationary request
+Finance,Duplicate salary credited in error.,Duplicate salary issue
+Security,Exit gate sensor malfunctioning.,Gate sensor issue
+Maintenance,Fan not working in restroom.,Restroom fan issue
+Catering,Milk supply not sufficient for tea time.,Milk shortage
+Logistics,Pallet stacking request in storage room.,Storage request
+Facilities,Room temperature control not working.,Temperature control issue
+HR,Employee not receiving HR newsletters.,Newsletter delivery issue
+Admin,Wrong signage on training room door.,Signage correction
+Finance,Pending reimbursement from last financial year.,Old reimbursement issue
+Security,Staff requested escort for late night shift.,Escort service request
+Maintenance,Water seepage on walls near server room.,Water seepage issue
+Catering,Evening snack was not delivered.,Missed snack
+Logistics,Item wrongly delivered to other floor.,Misdelivery report
+Facilities,Window lock broken in cabin 102.,Window lock repair
+HR,Change in emergency contact details.,Contact info update
+Admin,Missing nameplate on new desk.,Nameplate request
+Finance,Travel allowance not updated in system.,TA update issue
+Security,Complaint about insufficient lighting in parking area.,Parking lights issue
+Maintenance,Loose plug socket in pantry.,Loose socket issue
+Catering,No tissue paper available in dining area.,Tissue supply issue
+Logistics,Boxes blocking corridor near fire exit.,Blocked corridor
+Facilities,Toilet flush not working properly.,Toilet flush repair
+HR,Employee issued wrong access badge.,Badge assignment error
+Admin,Request for additional dustbins in cubicles.,Dustbin request
+Finance,PF contribution mismatch in payslip.,PF error
+Security,Security staff late to shift.,Shift delay report
+Maintenance,Leaking pipe under wash basin.,Pipe leak report
+Catering,Request for more vegetarian meal boxes.,Veg meal request
+Logistics,File cartons misplaced during shifting.,Carton misplacement
+Facilities,Glass door needs realignment.,Glass door fix
+HR,Issue in uploading performance review form.,Review form issue
+Admin,Water bottles not available in training room.,Water bottle request
+Finance,Salary not credited to bank account.,Salary credit issue
+Security,Complaint regarding rude behavior by guard.,Guard behavior complaint
+Maintenance,Broken hand dryer in restroom.,Hand dryer issue
+Catering,Milk spilled in pantry fridge.,Milk spill complaint
+Logistics,Need help shifting furniture.,Furniture shift request
+Facilities,Lift button panel flickering.,Lift button issue
+HR,Employee joined but system access pending.,Access pending issue
+Admin,Training projector not functional.,Projector issue
+Finance,Issue with form 16 download.,Form 16 issue
+Security,Main gate intercom not working.,Intercom issue
+Maintenance,Ceiling fan loose and noisy.,Fan repair request
+Catering,Breakfast arrived cold.,Cold breakfast complaint
+Logistics,Insufficient packing material for files.,Packing supply issue
+Facilities,Stained wall in reception area.,Wall cleaning
+HR,Request to re-issue lost ID card.,Lost ID card reissue
+Admin,Missing markers in meeting room.,Markers missing
+Finance,Query on tax computation.,Tax query
+Security,Visitor not signed out properly.,Visitor log issue
+Maintenance,Tap water flow very slow.,Tap water flow issue
+Catering,Lunch not served on time.,Lunch delay
+Logistics,Items wrongly tagged.,Tagging issue
+Facilities,Restroom mirror broken.,Mirror repair
+HR,Request to update bank details.,Bank details update
+Jira Service Management,"Track, assign, and resolve IT support tickets efficiently using Jira Service Management.",Manage IT support tickets
+Jira Service Management,Automatically assign tickets to the appropriate agents or teams using Jira Service Management workflows.,Automate ticket assignment
+Jira Service Management,Track and ensure adherence to Service Level Agreements (SLAs) with Jira Service Management’s SLA tracking tools.,Monitor SLA compliance
+Jira Service Management,Provide customers or employees access to self-service portals for resolving common issues using Jira Service Management.,Enable self-service portals
+Jira Service Management,"Manage and track IT assets, including hardware and software, using Jira Service Management’s asset management module.",Track asset management
+Jira Service Management,Log and track change requests to IT systems for better governance using Jira Service Management.,Handle change management requests
+Jira Service Management,Analyze ticket resolution times to improve service efficiency using Jira Service Management analytics.,Monitor ticket resolution times
+Jira Service Management,"Connect Jira Service Management with external tools like Slack, Microsoft Teams, or Confluence for better collaboration.",Integrate with third-party tools
+Jira Service Management,Categorize and prioritize incidents based on urgency or impact using Jira Service Management’s priority matrix.,Provide incident priority categorization
+Jira Service Management,Store and share knowledge articles for common issues and solutions using Jira Service Management.,Create a centralized knowledge base
+Jira Service Management,Use the Jira Service Management CMDB to manage and track configuration items and their relationships.,Track configuration management items
+Jira Service Management,Route tickets automatically to the appropriate teams or agents based on predefined rules in Jira Service Management.,Enable automated ticket routing
+Jira Service Management,Track ongoing incidents in real time with updates and notifications using Jira Service Management.,Provide real-time incident tracking
+Jira Service Management,Log and manage HR-related requests such as leave approvals or payroll inquiries with Jira Service Management.,Use Jira Service Management for HR ticketing
+Jira Service Management,Streamline customer onboarding tasks and track progress using Jira Service Management’s workflows.,Handle customer onboarding workflows
+Jira Service Management,Track the performance of IT services and generate reports using Jira Service Management dashboards.,Monitor IT service performance
+Jira Service Management,Log and resolve recurring issues by managing problem resolution workflows in Jira Service Management.,Manage problem resolution processes
+Jira Service Management,Create and manage disaster recovery plans using Jira Service Management’s project and task management tools.,Plan disaster recovery strategies
+Jira Service Management,"Accept and track tickets from email, chat, and web portals into Jira Service Management’s centralized platform.",Enable multi-channel ticketing
+Jira Service Management,Automate and track employee onboarding processes with Jira Service Management workflows.,Handle employee onboarding tasks
+Jira Service Management,Identify recurring issues and address root causes using Jira Service Management’s analytics tools.,Track recurring service issues
+Jira Service Management,Notify agents and managers when SLA deadlines are approaching or breached using Jira Service Management.,Provide SLA breach alerts
+Jira Service Management,Track and manage periodic IT asset audits using Jira Service Management’s asset management module.,Use Jira Service Management for asset audits
+Jira Service Management,Set role-based permissions to ensure secure access to sensitive data in Jira Service Management.,Enable role-based data access
+Jira Service Management,Monitor software licenses to ensure compliance and avoid penalties using Jira Service Management.,Track software license compliance
+Jira Service Management,Build custom dashboards to track real-time metrics and KPIs in Jira Service Management.,Create custom IT dashboards
+Jira Service Management,Log and track facilities-related requests such as maintenance or room bookings in Jira Service Management.,Use Jira Service Management for facilities requests
+Jira Service Management,Send proactive updates to users about ongoing or potential issues using Jira Service Management.,Enable proactive issue notifications
+Jira Service Management,Facilitate approval workflows for IT system changes using Jira Service Management’s change management tools.,Handle IT change approval processes
+Jira Service Management,View complete histories of customer interactions and issues in Jira Service Management for better support.,Track customer issue histories
+Jira Service Management,Automatically escalate unresolved tickets to higher support tiers using Jira Service Management workflows.,Provide automated ticket escalations
+Jira Service Management,Monitor tickets reopened after resolution to identify areas needing improvement in Jira Service Management.,Track ticket reopen rates
+Jira Service Management,Manage and track procurement tasks and approvals using Jira Service Management workflows.,Use Jira Service Management for procurement tracking
+Jira Service Management,Send automated updates to users during service outages using Jira Service Management’s incident tools.,Enable automated outage communications
+Jira Service Management,Log and resolve IT service requests efficiently using Jira Service Management’s request management features.,Handle IT service requests
+Jira Service Management,Track the health and performance of IT systems with Jira Service Management’s monitoring tools.,Monitor IT operation health
+Jira Service Management,Plan and monitor software deployments using Jira Service Management’s project management tools.,Use Jira Service Management for compliance tracking
+Jira Service Management,Track and manage capacity planning for IT systems using Jira Service Management analytics.,Track software deployment workflows
+Jira Service Management,Analyze user feedback and ticket sentiment to improve service quality using Jira Service Management.,Plan capacity management strategies
+Jira Service Management,"Filter tickets by priority, department, or type for faster handling using Jira Service Management.",Enable ticket sentiment analysis
+Jira Service Management,Monitor unresolved tickets and reduce backlogs using Jira Service Management’s reporting tools.,Provide advanced ticket filtering
+Jira Service Management,Use templates to standardize recurring tasks and workflows in Jira Service Management.,Track IT support backlogs
+Jira Service Management,Log and track customer refund requests and approvals using Jira Service Management workflows.,Create recurring task templates
+Jira Service Management,Collaborate across departments to resolve tickets efficiently using Jira Service Management.,Handle refund requests
+Jira Service Management,Send automatic updates to users and agents about ticket progress using Jira Service Management.,Manage multi-department ticketing
+Jira Service Management,Generate SLA compliance reports for performance tracking in Jira Service Management.,Provide automated ticket notifications
+Jira Service Management,Plan and manage preventive maintenance tasks for data centers using Jira Service Management.,Use Jira Service Management for SLA reporting
+Jira Service Management,Provide support for global teams by managing region-specific requests in Jira Service Management.,Track data center maintenance tasks
+Jira Service Management,Analyze the impact of incidents on business operations using Jira Service Management’s reporting tools.,Handle multi-region IT support
+Jira Service Management,Create detailed reports on IT service performance using Jira Service Management dashboards.,Enable incident impact analysis
+Jira Service Management,Log and manage requests specific to hybrid work setups using Jira Service Management.,Generate IT service performance reports
+Jira Service Management,Monitor and track milestones for IT projects using Jira Service Management’s project management features.,Handle hybrid work environment requests
+Zoho Desk,"Track, assign, and resolve customer support tickets efficiently using Zoho Desk.",Track IT project milestones
+Zoho Desk,Automatically assign tickets to agents or teams based on predefined rules in Zoho Desk.,Manage customer support tickets
+Zoho Desk,Track and ensure adherence to Service Level Agreements (SLAs) with Zoho Desk’s SLA tracking tools.,Automate ticket assignment
+Zoho Desk,Provide customers access to self-service portals for resolving common issues using Zoho Desk.,Monitor SLA compliance
+Zoho Desk,"Manage and track IT assets, including hardware and software, using Zoho Desk’s asset management module.",Enable self-service portals
+Zoho Desk,Log and track change requests to IT systems for better governance using Zoho Desk.,Track asset management
+Zoho Desk,Analyze ticket resolution times to improve service efficiency using Zoho Desk analytics.,Handle change management requests
+Zoho Desk,"Connect Zoho Desk with external tools like Slack, Microsoft Teams, or Zoho CRM for better collaboration.",Monitor ticket resolution times
+Zoho Desk,Categorize and prioritize incidents based on urgency or impact using Zoho Desk’s priority matrix.,Integrate with third-party tools
+Zoho Desk,Store and share knowledge articles for common issues and solutions using Zoho Desk.,Provide incident priority categorization
+Zoho Desk,Use Zoho Desk to manage and track configuration items and their relationships.,Create a centralized knowledge base
+Zoho Desk,Route tickets automatically to the appropriate teams or agents based on predefined rules in Zoho Desk.,Track configuration management items
+Zoho Desk,Track ongoing incidents in real time with updates and notifications using Zoho Desk.,Enable automated ticket routing
+Zoho Desk,Log and manage HR-related requests such as leave approvals or payroll inquiries with Zoho Desk.,Provide real-time incident tracking
+Zoho Desk,Streamline customer onboarding tasks and track progress using Zoho Desk’s workflows.,Use Zoho Desk for HR ticketing
+Zoho Desk,Track the performance of IT services and generate reports using Zoho Desk dashboards.,Handle customer onboarding workflows
+Zoho Desk,Log and resolve recurring issues by managing problem resolution workflows in Zoho Desk.,Monitor IT service performance
+Zoho Desk,Create and manage disaster recovery plans using Zoho Desk’s project and task management tools.,Manage problem resolution processes
+Zoho Desk,"Accept and track tickets from email, chat, and web portals into Zoho Desk’s centralized platform.",Plan disaster recovery strategies
+Zoho Desk,Automate and track employee onboarding processes with Zoho Desk workflows.,Enable multi-channel ticketing
+Zoho Desk,Identify recurring issues and address root causes using Zoho Desk’s analytics tools.,Handle employee onboarding tasks
+Zoho Desk,Notify agents and managers when SLA deadlines are approaching or breached using Zoho Desk.,Track recurring service issues
+Zoho Desk,Track and manage periodic IT asset audits using Zoho Desk’s asset management module.,Provide SLA breach alerts
+Zoho Desk,Set role-based permissions to ensure secure access to sensitive data in Zoho Desk.,Use Zoho Desk for asset audits
+Zoho Desk,Monitor software licenses to ensure compliance and avoid penalties using Zoho Desk.,Enable role-based data access
+Zoho Desk,Build custom dashboards to track real-time metrics and KPIs in Zoho Desk.,Track software license compliance
+Zoho Desk,Log and track facilities-related requests such as maintenance or room bookings in Zoho Desk.,Create custom IT dashboards
+Zoho Desk,Send proactive updates to users about ongoing or potential issues using Zoho Desk.,Use Zoho Desk for facilities requests
+Zoho Desk,Facilitate approval workflows for IT system changes using Zoho Desk’s change management tools.,Enable proactive issue notifications
+Zoho Desk,View complete histories of customer interactions and issues in Zoho Desk for better support.,Handle IT change approval processes
+Zoho Desk,Automatically escalate unresolved tickets to higher support tiers using Zoho Desk workflows.,Track customer issue histories
+Zoho Desk,Monitor tickets reopened after resolution to identify areas needing improvement in Zoho Desk.,Provide automated ticket escalations
+Zoho Desk,Manage and track procurement tasks and approvals using Zoho Desk workflows.,Track ticket reopen rates
+Zoho Desk,Send automated updates to users during service outages using Zoho Desk’s incident tools.,Use Zoho Desk for procurement tracking
+Zoho Desk,Log and resolve IT service requests efficiently using Zoho Desk’s request management features.,Enable automated outage communications
+Zoho Desk,Track the health and performance of IT systems with Zoho Desk’s monitoring tools.,Handle IT service requests
+Zoho Desk,Track compliance-related activities and documentation securely in Zoho Desk.,Monitor IT operation health
+Zoho Desk,Plan and monitor software deployments using Zoho Desk’s project management tools.,Use Zoho Desk for compliance tracking
+Zoho Desk,Track and manage capacity planning for IT systems using Zoho Desk analytics.,Track software deployment workflows
+Zoho Desk,Analyze user feedback and ticket sentiment to improve service quality using Zoho Desk.,Plan capacity management strategies
+Zoho Desk,"Filter tickets by priority, department, or type for faster handling using Zoho Desk.",Enable ticket sentiment analysis
+Zoho Desk,Monitor unresolved tickets and reduce backlogs using Zoho Desk’s reporting tools.,Provide advanced ticket filtering
+Zoho Desk,Use templates to standardize recurring tasks and workflows in Zoho Desk.,Track IT support backlogs
+Zoho Desk,Log and track customer refund requests and approvals using Zoho Desk workflows.,Create recurring task templates
+Zoho Desk,Collaborate across departments to resolve tickets efficiently using Zoho Desk.,Handle refund requests
+Zoho Desk,Send automatic updates to users and agents about ticket progress using Zoho Desk.,Manage multi-department ticketing
+Zoho Desk,Generate SLA compliance reports for performance tracking in Zoho Desk.,Provide automated ticket notifications
+Zoho Desk,Plan and manage preventive maintenance tasks for data centers using Zoho Desk.,Use Zoho Desk for SLA reporting
+Zoho Desk,Provide support for global teams by managing region-specific requests in Zoho Desk.,Track data center maintenance tasks
+Zoho Desk,Analyze the impact of incidents on business operations using Zoho Desk’s reporting tools.,Handle multi-region IT support
+Zoho Desk,Create detailed reports on IT service performance using Zoho Desk dashboards.,Enable incident impact analysis
+Zoho Desk,Log and manage requests specific to hybrid work setups using Zoho Desk.,Generate IT service performance reports
+Zoho Desk,Monitor and track milestones for IT projects using Zoho Desk’s project management features.,Handle hybrid work environment requests
+Zoho Desk,Manage and document internal audit tasks and findings using Zoho Desk workflows.,Track IT project milestones
+Zoho Desk,Track and implement continuous service improvements using Zoho Desk analytics and tasks.,Use Zoho Desk for internal audits
+Zoho Desk,Set up tiered escalation workflows to handle complex issues in Zoho Desk.,Plan service improvement initiatives
+Zoho Desk,Monitor resolution times and other KPIs to improve service efficiency using Zoho Desk.,Provide tiered support workflows
+Zoho Desk,Allow multiple agents to collaborate on resolving complex tickets in Zoho Desk.,Track ticket resolution KPIs
+Zoho Desk,Track vendor communication and performance using Zoho Desk workflows.,Enable multi-agent ticket collaboration
+Zoho Desk,Quickly escalate critical incidents to senior teams using Zoho Desk workflows.,Use Zoho Desk for vendor management
+Zoho Desk,Update users on service outage statuses through automated notifications in Zoho Desk.,Handle high-priority incident escalations
+Zoho Desk,Use Zoho Desk’s API to create custom workflows and integrations for specific needs.,Provide outage status updates
+Zoho Desk,Track the performance and health of cloud systems using Zoho Desk’s monitoring tools.,Integrate with API for custom workflows
+Zoho Desk,Log and resolve employee HR cases efficiently with Zoho Desk workflows.,Monitor cloud infrastructure health
+Zoho Desk,Manage refund approvals and monitor their progress using Zoho Desk.,Use Zoho Desk for HR case management
+Zoho Desk,Plan for seasonal surges in IT service requests using Zoho Desk’s resource management tools.,Track refund approval processes
+Zoho Desk,Prioritize and track VIP customer requests using Zoho Desk’s ticketing tools.,Handle seasonal IT demands
+Zoho Desk,Log and manage e-learning content or training requests using Zoho Desk.,Provide VIP customer support
+Zoho Desk,Monitor team performance and identify bottlenecks using Zoho Desk analytics.,Use Zoho Desk for e-learning requests
+Zoho Desk,Prioritize incidents automatically based on severity or impact using Zoho Desk.,Analyze support team productivity
+Zoho Desk,Organize and track hybrid team schedules and requests using Zoho Desk.,Enable automated incident prioritization
+Zoho Desk,Log and track contract renewal tasks and deadlines using Zoho Desk.,Track hybrid work schedules
+Zoho Desk,Support multiple brands or departments with centralized ticketing in Zoho Desk.,Manage contract renewals
+Zoho Desk,Monitor customer retention efforts and tasks using Zoho Desk workflows.,Provide multi-brand support
+Zoho Desk,Plan and track IT system migration tasks using Zoho Desk’s project management tools.,Track customer retention initiatives
+Zoho Desk,Generate compliance audit reports to ensure adherence to regulations using Zoho Desk.,Handle IT system migrations
+Zoho Desk,Monitor IT system performance in real time using Zoho Desk dashboards.,Provide compliance audit reports
+Zoho Desk,Organize and monitor employee training schedules and tasks with Zoho Desk workflows.,Enable real-time performance monitoring
+Zoho Desk,Organize and track tasks for virtual IT events using Zoho Desk.,Track team training schedules
+Zoho Desk,Track and manage key milestones for innovation projects using Zoho Desk.,Plan virtual IT conferences
+Zoho Desk,Automate HR case workflows such as leave approvals using Zoho Desk.,Track innovation project milestones
+Zoho Desk,Track and manage desk or room reservations for hybrid offices using,Enable workflow automation for HR requests
+Zoho Desk,Send proactive updates to customers about upcoming changes or known issues using Zoho Desk.,Manage hybrid office reservations
+Zoho Desk,Analyze customer satisfaction scores over time to identify service improvement areas using Zoho Desk.,Enable proactive customer engagement
+Zoho Desk,Handle customer queries in multiple languages using Zoho Desk’s multilingual capabilities.,Track customer satisfaction trends
+Zoho Desk,Set up automated follow-up reminders for unresolved tickets using Zoho Desk workflows.,Provide multilingual support
+Zoho Desk,Connect Zoho Desk to payment gateways to manage billing-related customer queries.,Automate ticket follow-ups
+Zoho Desk,Track and resolve subscription-related issues such as renewals or cancellations using Zoho Desk.,Integrate with payment systems
+Zoho Desk,Combine duplicate tickets into a single thread for streamlined resolution in Zoho Desk.,Handle subscription management queries
+Zoho Desk,Monitor agent availability in real-time to assign tickets effectively using Zoho Desk.,Enable ticket merging workflows
+Zoho Desk,Set up tiered workflows to handle customer issues based on complexity using Zoho Desk.,Track agent availability
+Zoho Desk,Analyze customer sentiment in tickets to identify dissatisfaction and improve service quality using Zoho Desk.,Provide tiered customer support
+Zoho Desk,Prepare for seasonal increases in ticket volume by automating workflows in Zoho Desk.,Track ticket sentiment analysis
+Zoho Desk,Prioritize and escalate tickets from high-value customers using Zoho Desk workflows.,Handle seasonal ticket surges
+Zoho Desk,Monitor refund requests to identify patterns and improve resolution processes using Zoho Desk.,Provide VIP customer escalations
+Zoho Desk,Use Zoho Desk’s API to create custom workflows and integrations for specific business needs.,Track refund request trends
+Zoho Desk,Notify customers about service outages and provide real-time updates using Zoho Desk.,Enable API-based custom integrations
+Zoho Desk,Monitor and manage loyalty program-related queries using Zoho Desk workflows.,Provide outage communication updates
+Zoho Desk,Log and track IT system upgrade requests using Zoho Desk’s ticketing system.,Track customer loyalty initiatives
+Zoho Desk,Organize and manage hybrid work-related support requests using Zoho Desk.,Handle IT system upgrade requests
+

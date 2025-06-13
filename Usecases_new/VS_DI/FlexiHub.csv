@@ -1,0 +1,84 @@
+Category,Short Description,Description
+FlexiHub,Remote USB Device Sharing,Share USB devices over the internet or local network securely.
+FlexiHub,Cross-Platform Device Connectivity,"Connect USB devices between Windows, macOS, Linux, and Android systems."
+FlexiHub,Secure Data Transmission,Encrypt data during USB device sharing to ensure secure communication.
+FlexiHub,Remote Printer Access,Access and use printers connected to remote computers.
+FlexiHub,USB Dongle Sharing,Share USB dongles for software licensing across multiple locations.
+FlexiHub,Remote Scanner Access,Use scanners connected to remote computers for document processing.
+FlexiHub,Remote Webcam Sharing,Share webcams for video conferencing or surveillance purposes.
+FlexiHub,Remote Smart Card Reader Access,Enable secure access to smart card readers from remote locations.
+FlexiHub,Remote External Hard Drive Access,Access external hard drives connected to remote computers.
+FlexiHub,Remote USB Flash Drive Access,Share USB flash drives for file transfers between remote systems.
+FlexiHub,Remote Serial Port Sharing,Share serial port devices like modems or barcode scanners over the network.
+FlexiHub,IoT Device Connectivity,Connect IoT devices remotely for testing and monitoring.
+FlexiHub,Remote Medical Equipment Access,Share medical devices like ultrasound machines for remote diagnostics.
+FlexiHub,Remote POS System Integration,Connect point-of-sale devices to remote systems for centralized management.
+FlexiHub,Remote Debugging Tools Access,Share debugging tools like JTAG programmers for remote development.
+FlexiHub,Remote USB Camera Access,Use USB cameras connected to remote systems for monitoring or streaming.
+FlexiHub,Remote USB Microphone Sharing,Share USB microphones for remote audio recording or conferencing.
+FlexiHub,Remote USB Game Controller Access,Connect USB game controllers to remote systems for gaming or testing.
+FlexiHub,Remote USB Audio Device Sharing,Share USB audio devices like speakers or headphones remotely.
+FlexiHub,Remote USB Keyboard Access,Use USB keyboards connected to remote systems for input purposes.
+FlexiHub,Remote USB Mouse Sharing,Share USB mice for remote control of systems.
+FlexiHub,Remote USB Hub Sharing,Share multiple USB devices connected to a single USB hub remotely.
+FlexiHub,Remote USB Card Reader Access,Access USB card readers for data transfer or authentication remotely.
+FlexiHub,Remote USB Modem Sharing,Share USB modems for internet connectivity across remote systems.
+FlexiHub,Remote USB GPS Device Access,Connect GPS devices to remote systems for location tracking.
+FlexiHub,Remote USB Fingerprint Scanner Access,Share fingerprint scanners for secure authentication remotely.
+FlexiHub,Remote USB Biometric Device Sharing,Enable remote access to biometric devices for identity verification.
+FlexiHub,Remote USB Barcode Scanner Access,Share barcode scanners for inventory or retail management remotely.
+FlexiHub,Remote USB Thermal Printer Access,Use thermal printers connected to remote systems for label printing.
+FlexiHub,Remote USB Signature Pad Sharing,Share signature pads for remote document signing.
+FlexiHub,Remote USB VR Headset Access,Connect VR headsets to remote systems for virtual reality applications.
+FlexiHub,Remote USB Joystick Sharing,Share joysticks for remote gaming or simulation purposes.
+FlexiHub,Remote USB MIDI Device Access,Connect MIDI devices to remote systems for music production.
+FlexiHub,Remote USB Oscilloscope Sharing,Share oscilloscopes for remote electronics testing and diagnostics.
+FlexiHub,Remote USB Logic Analyzer Access,Use logic analyzers connected to remote systems for circuit debugging.
+FlexiHub,Remote USB CNC Machine Access,Share CNC machines for remote manufacturing or prototyping.
+FlexiHub,Remote USB 3D Printer Sharing,Connect 3D printers to remote systems for printing tasks.
+FlexiHub,Remote USB VR Controller Access,Share VR controllers for remote virtual reality experiences.
+FlexiHub,Remote USB Medical Scanner Access,Share medical imaging devices like CT or MRI scanners remotely.
+FlexiHub,Remote USB RFID Reader Access,Connect RFID readers to remote systems for inventory tracking.
+FlexiHub,Remote USB Blood Pressure Monitor Access,Share blood pressure monitors for remote patient monitoring.
+FlexiHub,Remote USB ECG Device Sharing,Enable remote access to ECG devices for cardiac diagnostics.
+FlexiHub,Remote USB Ultrasound Device Access,Share ultrasound devices for remote medical imaging.
+FlexiHub,Remote USB Ventilator Access,Connect ventilators to remote systems for telemedicine applications.
+FlexiHub,Remote USB Infusion Pump Sharing,Share infusion pumps for remote healthcare management.
+FlexiHub,Remote USB Lab Equipment Access,Connect lab equipment like spectrometers to remote systems.
+FlexiHub,Remote USB Microscope Sharing,Share microscopes for remote scientific research or education.
+FlexiHub,Remote USB Thermal Camera Access,Connect thermal cameras to remote systems for temperature monitoring.
+FlexiHub,Remote USB Drone Controller Access,Share drone controllers for remote piloting or testing.
+FlexiHub,Remote USB Industrial Equipment Access,Connect industrial devices like PLCs to remote systems.
+FlexiHub,Remote USB Sewing Machine Sharing,Share sewing machines for remote textile manufacturing.
+FlexiHub,Remote USB Label Printer Access,Use label printers connected to remote systems for logistics.
+FlexiHub,Remote USB Plotter Sharing,Share plotters for remote design or engineering tasks.
+FlexiHub,Remote USB CNC Router Access,Connect CNC routers to remote systems for woodworking or machining.
+FlexiHub,Remote USB Laser Cutter Sharing,Share laser cutters for remote manufacturing or prototyping.
+FlexiHub,Remote USB Heat Press Access,Connect heat press machines to remote systems for printing tasks.
+FlexiHub,Remote USB Embroidery Machine Sharing,Share embroidery machines for remote textile production.
+FlexiHub,Remote USB Smart Home Device Access,Connect smart home devices to remote systems for monitoring.
+FlexiHub,Remote USB Weather Station Sharing,Share weather stations for remote environmental monitoring.
+FlexiHub,Remote USB Telescope Access,Connect telescopes to remote systems for astronomy research.
+FlexiHub,Remote USB Spectrometer Sharing,Share spectrometers for remote scientific analysis.
+FlexiHub,Remote USB pH Meter Access,Connect pH meters to remote systems for chemical testing.
+FlexiHub,Remote USB Flow Meter Sharing,Share flow meters for remote industrial monitoring.
+FlexiHub,Remote USB Pressure Sensor Access,Connect pressure sensors to remote systems for testing.
+FlexiHub,Remote USB Temperature Sensor Sharing,Share temperature sensors for remote environmental monitoring.
+FlexiHub,Remote USB Humidity Sensor Access,Connect humidity sensors to remote systems for climate control.
+FlexiHub,Remote USB Light Sensor Sharing,Share light sensors for remote testing or automation.
+FlexiHub,Remote USB Motion Sensor Access,Connect motion sensors to remote systems for security monitoring.
+FlexiHub,Remote USB Vibration Sensor Sharing,Share vibration sensors for remote industrial diagnostics.
+FlexiHub,Remote USB Gas Detector Access,Connect gas detectors to remote systems for safety monitoring.
+FlexiHub,Remote USB Smoke Detector Sharing,Share smoke detectors for remote fire safety systems.
+FlexiHub,Remote USB Radiation Detector Access,Connect radiation detectors to remote systems for safety monitoring.
+FlexiHub,Remote USB Water Quality Sensor Sharing,Share water quality sensors for remote environmental testing.
+FlexiHub,Remote USB Soil Sensor Access,Connect soil sensors to remote systems for agricultural monitoring.
+FlexiHub,Remote USB Wind Sensor Sharing,Share wind sensors for remote weather monitoring.
+FlexiHub,Remote USB Solar Panel Monitor Access,Connect solar panel monitors to remote systems for energy tracking.
+FlexiHub,Remote USB Battery Tester Sharing,Share battery testers for remote diagnostics and maintenance.
+FlexiHub,Remote USB Electric Vehicle Charger Access,Connect EV chargers to remote systems for monitoring.
+FlexiHub,Remote USB Smart Meter Sharing,Share smart meters for remote energy consumption tracking.
+FlexiHub,Remote USB Barcode Printer Access,Use barcode printers connected to remote systems for inventory management.
+FlexiHub,Remote USB POS Terminal Sharing,Share POS terminals for remote retail operations.
+FlexiHub,Remote USB Payment Terminal Access,Connect payment terminals to remote systems for secure transactions.
+FlexiHub,Remote USB Card Payment Reader Sharing,Share card payment readers for remote financial operations.

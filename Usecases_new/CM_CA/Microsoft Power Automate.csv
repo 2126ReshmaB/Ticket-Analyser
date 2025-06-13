@@ -1,0 +1,70 @@
+Category,Short Description,Description
+Microsoft Power Automate,Automate email notifications,"Automatically send email notifications for specific events, such as task assignments or file uploads."
+Microsoft Power Automate,Schedule recurring tasks,"Automate the scheduling of recurring tasks, such as weekly reports or daily reminders."
+Microsoft Power Automate,Sync files between SharePoint and OneDrive,Automatically sync files between SharePoint and OneDrive to ensure data consistency.
+Microsoft Power Automate,Automate approval workflows,"Create workflows to automate approval processes for documents, leave requests, or expense reports."
+Microsoft Power Automate,Notify on file changes in SharePoint,Send notifications when files in a specific SharePoint folder are modified.
+Microsoft Power Automate,Automate data entry,Extract data from forms or emails and automatically populate it into a database or spreadsheet.
+Microsoft Power Automate,Generate daily reports,Automate the generation and distribution of daily reports to stakeholders.
+Microsoft Power Automate,Sync calendar events,Automatically sync calendar events between Outlook and Google Calendar.
+Microsoft Power Automate,Automate social media posting,Schedule and automate social media posts across platforms like Twitter and LinkedIn.
+Microsoft Power Automate,Notify on overdue tasks,Send reminders for overdue tasks in Microsoft Planner or other task management tools.
+Microsoft Power Automate,Automate invoice processing,Extract data from invoices and automatically update accounting systems.
+Microsoft Power Automate,Sync CRM data,Automatically sync customer data between a CRM system like Salesforce and Microsoft Dynamics.
+Microsoft Power Automate,Automate email sorting,"Move emails to specific folders based on predefined rules, such as sender or subject."
+Microsoft Power Automate,Notify on low inventory,Send alerts when inventory levels drop below a certain threshold.
+Microsoft Power Automate,Automate employee onboarding,"Streamline the onboarding process by automating account creation, permissions, and welcome emails."
+Microsoft Power Automate,Automate leave request approvals,Create workflows to handle leave requests and approvals automatically.
+Microsoft Power Automate,Sync data between Excel and SharePoint,Automatically update SharePoint lists when changes are made in Excel spreadsheets.
+Microsoft Power Automate,Automate customer feedback collection,Collect customer feedback from forms and store it in a database for analysis.
+Microsoft Power Automate,Notify on new form submissions,Send notifications when a new response is submitted through Microsoft Forms.
+Microsoft Power Automate,Automate task creation in Planner,Automatically create tasks in Microsoft Planner based on flagged emails or other triggers.
+Microsoft Power Automate,Automate document translation,Use AI Builder to translate documents into multiple languages automatically.
+Microsoft Power Automate,Notify on upcoming deadlines,Send reminders for approaching deadlines in projects or tasks.
+Microsoft Power Automate,Automate meeting scheduling,Automatically schedule meetings based on participant availability.
+Microsoft Power Automate,Sync data between databases,Automate data synchronization between SQL Server and other databases.
+Microsoft Power Automate,Automate file backups,Create backups of important files to cloud storage services like OneDrive or Dropbox.
+Microsoft Power Automate,Notify on new customer inquiries,Send alerts when new customer inquiries are received through email or web forms.
+Microsoft Power Automate,Automate newsletter distribution,Schedule and send newsletters to subscribers automatically.
+Microsoft Power Automate,Automate task reminders,Send automated reminders for tasks due soon in Microsoft To Do or Planner.
+Microsoft Power Automate,Automate data validation,Validate data entries in forms or spreadsheets and notify users of errors.
+Microsoft Power Automate,Automate file sharing,Automatically share files with team members or external partners based on predefined rules.
+Microsoft Power Automate,Notify on system errors,Send alerts when system errors or failures are detected in IT systems.
+Microsoft Power Automate,Automate survey analysis,Collect and analyze survey responses automatically using Power BI.
+Microsoft Power Automate,Automate customer onboarding,Streamline the customer onboarding process by automating welcome emails and account setup.
+Microsoft Power Automate,Automate project status updates,Send automated project status updates to stakeholders via email or Teams.
+Microsoft Power Automate,Automate file versioning,Maintain and manage file versions automatically in SharePoint or OneDrive.
+Microsoft Power Automate,Notify on new opportunities in CRM,Send alerts when new sales opportunities are added to a CRM system.
+Microsoft Power Automate,Automate contract approvals,Create workflows to automate the review and approval of contracts.
+Microsoft Power Automate,Automate recurring billing,Schedule and automate recurring billing processes for subscriptions or services.
+Microsoft Power Automate,Automate data export to Power BI,Export data from various sources to Power BI for visualization and analysis.
+Microsoft Power Automate,Notify on new hires,Send notifications to HR and IT teams when a new employee is hired.
+Microsoft Power Automate,Automate password reset requests,Streamline the password reset process by automating user verification and password updates.
+Microsoft Power Automate,Automate compliance reporting,Generate and distribute compliance reports automatically to relevant teams.
+Microsoft Power Automate,Automate customer support ticket routing,Automatically route customer support tickets to the appropriate team or agent.
+Microsoft Power Automate,Automate sales report generation,Generate and distribute sales reports to the sales team automatically.
+Microsoft Power Automate,Automate event registration,Collect and manage event registrations automatically using Microsoft Forms and SharePoint.
+Microsoft Power Automate,Notify on new leads,Send alerts to the sales team when new leads are added to the CRM system.
+Microsoft Power Automate,Automate IT asset tracking,Track and manage IT assets automatically using SharePoint lists and Power Automate.
+Microsoft Power Automate,Automate training reminders,Send reminders to employees about upcoming training sessions or deadlines.
+Microsoft Power Automate,Automate invoice approvals,Streamline the invoice approval process by automating notifications and approvals.
+Microsoft Power Automate,Automate customer satisfaction surveys,Send automated customer satisfaction surveys after support interactions.
+Microsoft Power Automate,Automate meeting follow-ups,Send follow-up emails or tasks after meetings automatically.
+Microsoft Power Automate,Automate vendor management,Streamline vendor onboarding and communication processes using automated workflows.
+Microsoft Power Automate,Automate payroll processing,Automate payroll calculations and approvals to ensure timely payments.
+Microsoft Power Automate,Automate marketing campaign tracking,Track and analyze marketing campaign performance automatically using Power BI.
+Microsoft Power Automate,Automate customer loyalty program management,Manage customer loyalty programs automatically by tracking points and sending rewards.
+Microsoft Power Automate,Automate IT support ticket escalation,Automatically escalate unresolved IT support tickets to higher-level teams.
+Microsoft Power Automate,Automate employee recognition,Send automated recognition emails or messages for employee achievements.
+Microsoft Power Automate,Automate compliance audits,Schedule and automate compliance audit tasks and reminders.
+Microsoft Power Automate,Automate project task assignments,Automatically assign project tasks to team members based on their roles or availability.
+Microsoft Power Automate,Automate customer order tracking,Send automated order tracking updates to customers via email or SMS.
+Microsoft Power Automate,Automate IT system monitoring,Monitor IT systems and send alerts for performance issues or downtime.
+Microsoft Power Automate,Automate employee exit processes,Streamline the offboarding process by automating account deactivation and exit surveys.
+Microsoft Power Automate,Automate customer complaint resolution,Route customer complaints to the appropriate team and track resolution progress automatically.
+Microsoft Power Automate,Automate inventory restocking,Send automated restocking requests to suppliers when inventory levels are low.
+Microsoft Power Automate,Automate travel request approvals,Create workflows to handle travel requests and approvals automatically.
+Microsoft Power Automate,Automate customer account updates,Automatically update customer account information in the CRM system.
+Microsoft Power Automate,Automate employee performance reviews,Schedule and automate performance review reminders and notifications.
+Microsoft Power Automate,Automate IT change management,Streamline IT change management processes by automating approvals and notifications.
+Microsoft Power Automate,,

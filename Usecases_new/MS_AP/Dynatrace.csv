@@ -1,0 +1,72 @@
+Category,Short Description,Description
+Dynatrace,Automate Dashboard Creation,Use scripts to create custom dashboards programmatically for consistent monitoring across teams and applications.
+Dynatrace,Alert Configuration Automation,Automate the creation and management of alerts for critical metrics using the Dynatrace API.
+Dynatrace,Automated Problem Detection Setup,Script the configuration of automated problem detection to identify anomalies and deviations in real time.
+Dynatrace,Log Integration Setup,Automate the integration of Dynatrace with logging tools like Splunk or ELK for centralized log management.
+Dynatrace,Synthetic Monitoring Automation,Use scripts to set up synthetic monitoring for web application performance and availability tests.
+Dynatrace,Service Flow Mapping,Automate the mapping of service flows to provide visibility into application dependencies and transaction flow.
+Dynatrace,API Key Rotation,Automate periodic rotation of Dynatrace API tokens to improve security and compliance.
+Dynatrace,Custom Tagging of Entities,"Script the tagging of monitored entities (hosts, services, applications) based on predefined rules for better organization."
+Dynatrace,Alert Noise Reduction,Group related alerts automatically to reduce noise and focus on high-priority incidents.
+Dynatrace,Automated SLA Monitoring,Automate the monitoring and reporting of SLA compliance for critical services and applications.
+Dynatrace,User Session Monitoring Setup,Script the configuration of Real User Monitoring (RUM) to track user behavior and performance.
+Dynatrace,Cloud Cost Monitoring,Automate the monitoring of cloud resource usage and costs using Dynatrace APIs.
+Dynatrace,Deployment Marker Automation,Add deployment markers automatically to correlate performance changes with software deployments.
+Dynatrace,Automated Alert Routing,Route alerts automatically to the appropriate teams or individuals based on severity or predefined rules.
+Dynatrace,Application Flow Map Optimization,Automate the optimization of application flow maps for better visualization of service dependencies.
+Dynatrace,Health Rule Configuration,"Use scripts to configure and update health rules for applications, hosts, and services."
+Dynatrace,Database Performance Monitoring,"Automate the setup of database performance monitoring, including query optimization and alerting."
+Dynatrace,Synthetic Test Maintenance,Script updates to synthetic tests as application endpoints or APIs change.
+Dynatrace,Automated Log Forwarding,Forward logs automatically to external systems for centralized analysis and storage.
+Dynatrace,Dynamic Alert Threshold Adjustment,Automate the adjustment of alert thresholds based on historical performance trends or seasonal variations.
+Dynatrace,Service Dependency Analysis,Use scripts to analyze service dependencies and visualize application architecture.
+Dynatrace,Automated Incident Escalation,Automate the escalation of incidents to higher-level teams or management based on severity.
+Dynatrace,Real-Time Performance Analysis,Script real-time analysis of application performance to identify bottlenecks and issues.
+Dynatrace,Automated SLA Reporting,Use scripts to generate and distribute SLA compliance reports to stakeholders.
+Dynatrace,Custom Metric Collection,Automate the collection and submission of custom business metrics to Dynatrace for monitoring.
+Dynatrace,Integration Deployment Automation,"Automate the deployment of integrations with tools like ServiceNow, PagerDuty, or Slack for streamlined workflows."
+Dynatrace,Automated Root Cause Analysis,Use scripts to trigger root cause analysis for performance issues using AI-powered problem detection.
+Dynatrace,Log Anomaly Detection,Automate the detection of anomalies in logs using Dynatrace's AI capabilities.
+Dynatrace,Application Inventory Management,Script the automated management of application and service inventory using the API.
+Dynatrace,Automated Capacity Planning,Use scripts to forecast and plan for future resource capacity needs based on historical data.
+Dynatrace,Automated Problem Resolution,Resolve problems automatically using predefined workflows or remediation scripts triggered by Dynatrace.
+Dynatrace,Automated Baseline Setup,Configure baselines for application performance metrics automatically to detect deviations.
+Dynatrace,Alert Suppression Automation,Automate alert suppression during maintenance windows or planned downtimes.
+Dynatrace,Automated Log Parsing,Parse and analyze logs automatically to extract meaningful insights and detect issues.
+Dynatrace,Workload Automation,Automate workload distribution across hosts and services to optimize resource utilization.
+Dynatrace,Dynamic Resource Allocation,Use scripts to dynamically allocate resources to applications based on real-time performance data.
+Dynatrace,Automated Synthetic Test Rotation,Rotate synthetic test configurations automatically to align with changing testing needs.
+Dynatrace,Automated SLA Breach Notifications,"Notify stakeholders automatically when SLA breaches occur, including detailed performance reports."
+Dynatrace,Application Performance Comparison,Automate the comparison of application performance before and after deployments using historical data.
+Dynatrace,Automated Application Discovery,Discover and onboard new applications automatically for monitoring in Dynatrace.
+Dynatrace,Automated Report Scheduling,Script the generation and scheduled distribution of performance reports to teams or stakeholders.
+Dynatrace,Automated Anomaly Detection,Configure anomaly detection automatically to identify unusual behavior in metrics or transactions.
+Dynatrace,Automated Error Budget Tracking,Track error budgets automatically for services to ensure reliability standards are met.
+Dynatrace,Application Tier Management,"Automate the management of application tiers, including updates, additions, and removals."
+Dynatrace,Automated Integration Testing,Automate the testing of integrations with Dynatrace to ensure they are functioning correctly.
+Dynatrace,Automated Log Retention Policy,Enforce log retention policies automatically to comply with compliance or business requirements.
+Dynatrace,Alert De-duplication Automation,De-duplicate alerts automatically to reduce noise and focus on meaningful incidents.
+Dynatrace,Automated Alert Escalation Workflows,Create automated workflows to escalate alerts to the appropriate teams or stakeholders based on severity.
+Dynatrace,Automated KPI Monitoring,Monitor key performance indicators (KPIs) automatically for business-critical applications.
+Dynatrace,Automated Alert History Analysis,Analyze alert history automatically to identify trends and optimize alert configurations.
+Dynatrace,Automated Health Dashboard Updates,Update health dashboards automatically as new metrics or services are added.
+Dynatrace,Automated Log Indexing,Index logs automatically to improve searchability and analysis.
+Dynatrace,Automated Application Scaling,Automate scaling of applications based on performance trends and predefined thresholds.
+Dynatrace,Automated Maintenance Window Setup,Use scripts to create and manage maintenance windows to suppress alerts during planned downtimes.
+Dynatrace,Automated Deployment Validation,Validate application deployments automatically by comparing post-deployment performance against baselines.
+Dynatrace,Automated Incident Auditing,Use scripts to audit incident history and ensure compliance with response standards.
+Dynatrace,Automated Synthetic Test Validation,Validate synthetic tests automatically to ensure accurate monitoring configurations.
+Dynatrace,Automated Application Restart Alerts,Use scripts to monitor and alert when applications or services are restarted unexpectedly.
+Dynatrace,Alert Priority Automation,Prioritize alerts automatically based on severity or business impact.
+Dynatrace,Automated Problem Correlation,Correlate problems across services and infrastructure automatically to identify root causes.
+Dynatrace,Automated SLA Violation Analysis,Analyze SLA violations automatically to identify the root causes and affected components.
+Dynatrace,Automated Cost Analysis,Automate analysis of cloud and infrastructure costs using Dynatrace metrics and dashboards.
+Dynatrace,Automated Business Impact Analysis,Use scripts to analyze the business impact of performance issues automatically.
+Dynatrace,Automated Custom Alerts,Create custom alert configurations automatically for specific business or technical requirements.
+Dynatrace,Automated Dashboard Sharing,Share dashboards automatically with teams or stakeholders based on predefined rules.
+Dynatrace,Automated Application Health Checks,Run periodic health checks on applications automatically and generate reports.
+Dynatrace,Automated Transaction Tracing,Configure transaction tracing automatically to monitor end-to-end performance of user requests.
+Dynatrace,Automated Data Retention Policies,"Enforce data retention policies automatically for metrics, logs, and events."
+Dynatrace,Automated Event Correlation,Correlate events automatically across infrastructure and applications for better analysis.
+Dynatrace,Automated Alert Workflow Testing,Test alert workflows automatically to ensure proper routing and escalation.
+Dynatrace,Automated,

@@ -1,0 +1,70 @@
+Category,Short Description,Description
+Dropbox,Automate file organization,"Automatically organize files into folders based on file type, name, or creation date using a script."
+Dropbox,Backup files to another account,Automate the process of backing up files from one Dropbox account to another for redundancy.
+Dropbox,Delete duplicate files,Identify and delete duplicate files in Dropbox to save storage space.
+Dropbox,Generate file usage reports,"Create a script to generate reports on file usage, including last accessed date, size, and owner."
+Dropbox,Share files with specific users,Automate file sharing with predefined users or groups based on folder or file criteria.
+Dropbox,Set expiration dates for shared links,Automatically set expiration dates for shared links to ensure security and restrict access after a set period.
+Dropbox,Convert files to PDF,"Automate the conversion of Word, Excel, or presentation files to PDF format within Dropbox."
+Dropbox,Sync local folder with Dropbox,Create a script to sync a local folder with Dropbox to ensure changes are reflected in real-time.
+Dropbox,Notify on file changes,Send email or Slack notifications when specific files or folders are modified in Dropbox.
+Dropbox,Archive old files,Automatically move files older than a specific date to an archive folder for better organization.
+Dropbox,Rename files in bulk,Automate the renaming of multiple files based on a predefined naming convention or pattern.
+Dropbox,Monitor storage usage,Generate automated reports on Dropbox storage usage and send alerts when nearing storage limits.
+Dropbox,Create folder structures,"Automatically create predefined folder structures for projects, clients, or teams."
+Dropbox,Sync Dropbox with external apps,"Automate syncing Dropbox with other apps like Google Drive, OneDrive, or Box."
+Dropbox,Export Dropbox data to a CSV file,"Export metadata of files (e.g., name, size, last modified date) to a CSV for analysis or reporting."
+Dropbox,Automate file approvals,Create workflows to automate file approval processes using Dropbox and integrated tools like Slack or email.
+Dropbox,Track file downloads,Monitor and log file download activities for shared files in Dropbox.
+Dropbox,Automate file uploads,Automatically upload files from a local machine or a specific directory to Dropbox at scheduled intervals.
+Dropbox,Create file templates,Automate the creation of file templates for repetitive tasks like creating invoices or reports.
+Dropbox,Sync Dropbox with Google Photos,Automate syncing of photos or images between Dropbox and Google Photos for backup or sharing.
+Dropbox,Delete old shared links,Identify and delete expired or unused shared links to maintain security and reduce clutter.
+Dropbox,Automate folder permissions,Automatically set folder permissions for new or existing folders based on predefined rules or user roles.
+Dropbox,Generate file previews,Create and share file previews automatically for specific file types like images or documents.
+Dropbox,Automate file tagging,Add tags or labels to files in Dropbox based on their content or metadata for easier searching.
+Dropbox,Sync Dropbox with CRM,Automate syncing of files between Dropbox and a CRM system like Salesforce or HubSpot.
+Dropbox,Schedule file deletions,Automatically delete files after a specific period to free up storage space.
+Dropbox,Automate file versioning,Maintain and manage multiple file versions automatically for collaborative projects.
+Dropbox,Create shared team folders,"Automate the creation of shared team folders for departments or projects, complete with permissions."
+Dropbox,Sync Dropbox with Trello,Automate syncing Dropbox files with project management tools like Trello or Asana.
+Dropbox,Automate file compression,Compress large files automatically before uploading them to Dropbox to save storage space.
+Dropbox,Notify on shared file access,Send notifications when someone accesses or downloads a shared file.
+Dropbox,Automate file recovery,Create a script to recover accidentally deleted files from the Dropbox trash folder.
+Dropbox,Sync Dropbox with Microsoft Teams,Automate syncing of files between Dropbox and collaboration tools like Microsoft Teams.
+Dropbox,Automate file encryption,Encrypt sensitive files automatically before uploading them to Dropbox for enhanced security.
+Dropbox,Generate audit logs,"Create audit logs for file activities, including uploads, downloads, edits, and deletions."
+Dropbox,Automate file sharing with expiration,Share files with expiration dates automatically set to enhance security and enforce time-limited access.
+Dropbox,Sync Dropbox with Gmail attachments,Automatically save email attachments from Gmail to Dropbox folders.
+Dropbox,Automate folder backups,Create scheduled backups of specific folders to another cloud service or a local drive.
+Dropbox,Notify on low storage,Send storage alerts when Dropbox usage exceeds a certain threshold or is running low.
+Dropbox,Automate file metadata updates,Update file metadata automatically based on predefined rules or workflows.
+Dropbox,Sync Dropbox with cloud databases,Automate syncing of files between Dropbox and cloud databases like Firebase or AWS S3.
+Dropbox,Automate file access revocation,Revoke access to shared files automatically after a set period or project completion.
+Dropbox,Generate file summaries,"Use AI tools to create summaries of file contents (e.g., text or documents) directly in Dropbox."
+Dropbox,Automate file uploads from forms,Automatically upload files submitted through web forms to Dropbox for storage and processing.
+Dropbox,Sync Dropbox with accounting software,Automate syncing of invoices or receipts between Dropbox and accounting tools like QuickBooks or Xero.
+Dropbox,Automate file sorting,"Sort files into folders automatically based on their names, extensions, or other metadata."
+Dropbox,Notify on unauthorized access,Send alerts when unauthorized access to files or folders is detected in Dropbox.
+Dropbox,Automate file sharing with groups,Share files or folders automatically with predefined Dropbox groups or teams.
+Dropbox,Sync Dropbox with ERP systems,Automate syncing of files between Dropbox and ERP systems like SAP or NetSuite.
+Dropbox,Automate file cleanup,Automatically delete temporary or unnecessary files to free up space in Dropbox.
+Dropbox,Generate file access statistics,"Create reports detailing file access statistics, including views, downloads, and edits."
+Dropbox,Automate file uploads with APIs,Upload files to Dropbox automatically using APIs or SDKs for integration.
+Dropbox,Sync Dropbox with online learning platforms,Automate syncing of course materials or submissions between Dropbox and platforms like Moodle or Canvas.
+Dropbox,Automate file sharing with clients,Share files or folders automatically with clients based on project or folder criteria.
+Dropbox,Notify on file upload completion,Send notifications when large or important file uploads are completed successfully.
+Dropbox,Automate file sharing with external partners,Share files automatically with external partners based on predefined workflows or sharing policies.
+Dropbox,Sync Dropbox with HR systems,"Automate syncing of employee documents, onboarding files, or payroll data between Dropbox and HR systems like Workday or BambooHR."
+Dropbox,Automate file sharing with contractors,Automatically share project files or folders with contractors based on role or project.
+Dropbox,Notify on file deletion,Send alerts when files are deleted from specific folders or shared locations.
+Dropbox,Automate file sharing with vendors,Share files automatically with vendors based on predefined rules or folder structures.
+Dropbox,Sync Dropbox with marketing tools,"Automate syncing of marketing assets, campaign data, or reports between Dropbox and tools like HubSpot or Marketo."
+Dropbox,Automate file sharing with stakeholders,Share files or updates automatically with stakeholders based on project criteria or progress.
+Dropbox,Notify on file access requests,Send notifications when someone requests access to a restricted file or folder.
+Dropbox,Automate file sharing with board members,"Share board meeting documents, presentations, or reports with board members automatically."
+Dropbox,Notify on file upload errors,Send alerts when file uploads fail due to issues such as storage limits or unsupported formats.
+Dropbox,Automate file sharing with media partners,"Share press releases, media kits, or other assets automatically with media partners based on folder rules."
+Dropbox,Sync Dropbox with design tools,Automate syncing of design files between Dropbox and tools like Adobe Creative Cloud or Figma.
+Dropbox,Automate file sharing with legal teams,Automatically share legal documents or contracts with legal teams for review or approval.
+Dropbox,,

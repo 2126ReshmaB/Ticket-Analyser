@@ -1,0 +1,79 @@
+Category,Short Description,Description
+Incident Reporting Software,Auto-Fill Incident Date,Automatically populate the incident date field with the current date.
+Incident Reporting Software,Auto-Generate Report ID,Generate unique report IDs for each new incident automatically.
+Incident Reporting Software,Prepopulate User Details,"Fetch and auto-fill user details (e.g., name, department) from user profiles."
+Incident Reporting Software,Incident Categorization,"Automatically classify incidents into categories like hardware, software, or human error."
+Incident Reporting Software,Risk Assessment,Calculate risk scores based on incident data and predefined risk factors.
+Incident Reporting Software,Auto-Assign Case Owner,Assign incidents to investigators or team members based on availability or expertise.
+Incident Reporting Software,Email Notifications,Send automated email alerts to stakeholders when a new incident is reported.
+Incident Reporting Software,Escalation Notification,Automatically escalate incidents to managers if not resolved within a specific timeframe.
+Incident Reporting Software,Attach Evidence Automatically,"Auto-attach evidence (e.g., screenshots, logs) to incident reports from a specified folder."
+Incident Reporting Software,Report Submission Reminder,Send reminders to users to complete and submit pending incident reports.
+Incident Reporting Software,Real-Time Field Validation,Validate required fields in the form as users fill them out to prevent errors.
+Incident Reporting Software,Auto-Save Drafts,Automatically save report drafts periodically to prevent data loss.
+Incident Reporting Software,Duplicate Incident Detection,Identify and flag duplicate incident reports based on similar content.
+Incident Reporting Software,Integration with Ticketing Systems,Automatically create tickets in platforms like Jira or ServiceNow for reported incidents.
+Incident Reporting Software,Dashboard Updates,Automatically update dashboards with real-time incident data and statuses.
+Incident Reporting Software,Auto-Assign Incident Priority,Assign incident priority levels based on severity and impact indicators.
+Incident Reporting Software,Generate Incident Summary Reports,Create concise summaries of incidents for management review automatically.
+Incident Reporting Software,Incident Trend Analysis,Analyze historical incident data for trends and patterns.
+Incident Reporting Software,SLA Monitoring,Track SLA adherence for resolving incidents and notify if deadlines are missed.
+Incident Reporting Software,Custom Report Templates,Generate custom templates for specific incident types or departments.
+Incident Reporting Software,Auto-Generate Visual Reports,"Create visual reports (e.g., graphs, charts) from incident data automatically."
+Incident Reporting Software,Integration with SIEM Tools,Send incident data to SIEM tools for further analysis and monitoring.
+Incident Reporting Software,Incident Status Updates,Automatically notify users about updates to the status of their reported incidents.
+Incident Reporting Software,Multi-Language Support,Translate incident reports into various languages for multilingual teams.
+Incident Reporting Software,Incident Closure Workflow,"Automate the steps required to close incidents, including final reviews and approvals."
+Incident Reporting Software,Incident Archive Automation,Archive old incident reports based on retention policies automatically.
+Incident Reporting Software,Incident Severity Prediction,Predict the severity of new incidents using machine learning models.
+Incident Reporting Software,Audit Trail Generation,Automatically generate an audit trail for all changes made to an incident report.
+Incident Reporting Software,Integration with Compliance Tools,Link incident data to compliance tools to ensure regulatory adherence.
+Incident Reporting Software,Auto-Generate Incident Timeline,Automatically create a timeline of events for each incident.
+Incident Reporting Software,Keyword-Based Risk Detection,Highlight risks in incident descriptions based on keywords or phrases.
+Incident Reporting Software,Integration with HR Software,Notify HR automatically for incidents involving employee-related issues.
+Incident Reporting Software,Incident Reporting via Mobile Apps,Automate the submission of reports from mobile devices to the central system.
+Incident Reporting Software,Predefined Incident Resolutions,Suggest possible resolutions for incidents based on historical data.
+Incident Reporting Software,Integration with Legal Teams,Notify legal teams automatically for incidents with potential legal implications.
+Incident Reporting Software,Scheduled Data Backups,Automate the backup of all incident data to a secure location.
+Incident Reporting Software,Incident Retention Policy Enforcement,Automatically delete old incident reports based on retention timelines.
+Incident Reporting Software,Anonymization of Sensitive Data,Automatically redact sensitive data in incident reports before sharing.
+Incident Reporting Software,Auto-Populate Linked Policies,Attach relevant organizational policies to incident reports based on content.
+Incident Reporting Software,Incident Escalation Workflow,Automate the escalation process for incidents requiring higher-level attention.
+Incident Reporting Software,Incident Data Consolidation,Consolidate data from multiple incident reports into a master report.
+Incident Reporting Software,Integration with Threat Intelligence,Fetch related threat intelligence data for incidents from external systems.
+Incident Reporting Software,Auto-Generate Risk Mitigation Steps,Suggest risk mitigation steps based on incident details.
+Incident Reporting Software,AI-Powered Incident Analysis,Use AI to analyze incident data and identify patterns or anomalies.
+Incident Reporting Software,Report Ownership Transfer,Automate the transfer of report ownership when investigators or teams change.
+Incident Reporting Software,Incident Investigation Workflow,Automate the process of assigning and tracking investigation tasks.
+Incident Reporting Software,Bulk Incident Upload,Enable bulk uploading of incidents into the system via CSV or other formats.
+Incident Reporting Software,Integration with Forensic Tools,Fetch forensic evidence like logs and screenshots automatically for incidents.
+Incident Reporting Software,Incident Correlation Analysis,Correlate incidents to identify broader trends or linked events.
+Incident Reporting Software,Real-Time Collaboration,Enable multiple users to work on the same incident report in real time.
+Incident Reporting Software,Custom Notification Rules,Configure automated alerts for specific incident types or severity levels.
+Incident Reporting Software,Incident Reporting via Chatbots,Allow users to report incidents via chatbot interfaces.
+Incident Reporting Software,Scheduled Report Generation,Automate the generation of weekly or monthly incident summary reports.
+Incident Reporting Software,Incident Approval Workflow,Automate the approval process for submitted reports.
+Incident Reporting Software,Auto-Generate Incident Resolutions,Pull from a database of resolutions for similar incidents and auto-suggest fixes.
+Incident Reporting Software,Incident Impact Estimation,Estimate the potential impact of incidents based on predefined parameters.
+Incident Reporting Software,Integration with Workflow Automation Tools,Use tools like Zapier to automate repetitive workflows for incident reporting.
+Incident Reporting Software,Incident Data Tagging,Automatically tag reports with relevant keywords for easier categorization.
+Incident Reporting Software,Scheduled Incident Escalation,Escalate incidents automatically if they remain unresolved for a defined period.
+Incident Reporting Software,Incident Documentation Generator,Automatically generate detailed documentation for high-priority incidents.
+Incident Reporting Software,Real-Time Incident Alerts,Send real-time alerts for critical incidents to relevant stakeholders.
+Incident Reporting Software,Incident Ownership Reminder,Notify investigators about pending incidents they are responsible for.
+Incident Reporting Software,Training Data Collection,Collect data from incident reports for training machine learning algorithms.
+Incident Reporting Software,Incident Reporting API Integration,Automate the submission of reports via third-party applications using APIs.
+Incident Reporting Software,Integration with Risk Management Tools,Link incidents to risk management systems for further analysis.
+Incident Reporting Software,Compliance Reporting Automation,Automatically generate reports required for compliance audits.
+Incident Reporting Software,Customized Notifications,Send personalized notifications to users based on their roles.
+Incident Reporting Software,Incident Impact Metrics,"Generate metrics (e.g., downtime, affected users) from incident data automatically."
+Incident Reporting Software,Integration with Collaboration Platforms,Automatically share incidents or updates on platforms like Slack or Teams.
+Incident Reporting Software,Incident Workflow Customization,Automate custom workflows for specific types of incidents.
+Incident Reporting Software,Auto-Generate Incident Checklists,Provide investigators with predefined checklists for handling different types of incidents.
+Incident Reporting Software,Incident Report Validation,Validate reports for completeness and accuracy before submission.
+Incident Reporting Software,Integration with Backup Systems,Automatically back up incident reports to secure storage solutions like AWS or Google Drive.
+Incident Reporting Software,Incident Report Analytics,"Generate analytics on incident trends, resolutions, and response times."
+Incident Reporting Software,Incident Closure Notifications,Notify users when their reported incidents are resolved and closed.
+Incident Reporting Software,Case Study Creation,Auto-create case studies from resolved incidents for training purposes.
+Incident Reporting Software,Incident Resolution Time Tracking,Track and report on the time taken to resolve incidents.
+Incident Reporting Software,Incident Data Export,Automate the export of

@@ -1,0 +1,75 @@
+Category,Short Description,Description
+Feedbackify,Auto-send thank-you emails,Automatically send personalized thank-you emails to users after submitting feedback.
+Feedbackify,Categorize feedback automatically,"Use keywords in feedback to assign categories (e.g., ""bug report,"" ""feature request"") automatically."
+Feedbackify,Export feedback to Google Sheets,Automatically sync all feedback submissions to a connected Google Sheets file for collaboration.
+Feedbackify,Notify teams via Slack,Automatically notify specific Slack channels when new feedback is submitted.
+Feedbackify,Create tickets in Jira,Automatically create Jira tickets for bug reports submitted through Feedbackify.
+Feedbackify,Send escalation alerts,Notify managers automatically when critical or high-priority feedback is received.
+Feedbackify,Auto-tag feedback by sentiment,"Use sentiment analysis to tag feedback as ""positive,"" ""neutral,"" or ""negative."""
+Feedbackify,Generate weekly feedback reports,Automatically generate and email weekly reports summarizing feedback trends to stakeholders.
+Feedbackify,Sync with CRM tools,Automatically sync feedback with CRM tools like Salesforce or HubSpot to update customer records.
+Feedbackify,Integrate with Trello,Create Trello cards automatically for actionable feedback items.
+Feedbackify,Auto-translate feedback,Translate feedback into different languages using translation APIs for global teams.
+Feedbackify,Auto-close resolved feedback,"Automatically mark feedback as ""resolved"" after associated issues are closed."
+Feedbackify,Track response time,Monitor how long it takes to act on feedback and generate response-time reports automatically.
+Feedbackify,Send follow-up surveys,Trigger follow-up surveys automatically for users who leave feedback.
+Feedbackify,Export feedback to CSV,Automatically export feedback to CSV format for offline analysis.
+Feedbackify,Update product roadmap,Use feedback to automatically update a product roadmap in tools like Jira or Trello.
+Feedbackify,Notify users of resolved issues,Send automated notifications to users when their feedback has been addressed.
+Feedbackify,Categorize feedback by region,Group feedback submissions automatically based on the geographic location of the user.
+Feedbackify,Auto-create GitHub issues,Create GitHub issues from feedback related to software bugs or feature requests.
+Feedbackify,Conduct sentiment analysis,Analyze text feedback automatically to understand user sentiment and satisfaction.
+Feedbackify,Integrate with Zendesk,Automatically create Zendesk tickets for customer feedback that requires follow-up.
+Feedbackify,Auto-create Asana tasks,Generate Asana tasks automatically for actionable feedback items.
+Feedbackify,Create Notion pages,Automatically create and organize Notion pages for feedback submissions.
+Feedbackify,Generate word clouds,Create word clouds from feedback submissions to visualize trends and common themes.
+Feedbackify,Auto-respond to duplicate feedback,Automatically identify and respond to duplicate feedback by referencing the original submission.
+Feedbackify,Sync with Airtable,Push feedback submissions into Airtable for advanced tracking and categorization.
+Feedbackify,Notify teams via Microsoft Teams,Post notifications in Microsoft Teams channels whenever new feedback is received.
+Feedbackify,Auto-prioritize feedback,"Automatically prioritize feedback based on keywords, sentiment, or submission frequency."
+Feedbackify,Auto-assign feedback to teams,Route feedback submissions to relevant teams or departments based on predefined rules.
+Feedbackify,Export feedback to Excel,Export feedback to Excel automatically for detailed analysis and reporting.
+Feedbackify,Auto-tag high-priority feedback,"Automatically tag feedback as high-priority based on keywords like ""urgent"" or ""critical."""
+Feedbackify,Generate dashboards in Power BI,Push feedback data to Power BI to create real-time dashboards and monitor trends.
+Feedbackify,Auto-send reminders for unresolved feedback,Automatically send reminders to team members for unresolved feedback items.
+Feedbackify,Track satisfaction trends,Generate automated reports to track satisfaction trends over time based on feedback sentiment.
+Feedbackify,Integrate with Dropbox,Automatically save feedback submissions and reports to Dropbox for secure storage.
+Feedbackify,Auto-create milestones in ClickUp,Generate ClickUp milestones based on feedback that requires action.
+Feedbackify,Monitor feedback volume,Set up automated alerts when feedback volumes exceed a specific threshold.
+Feedbackify,Conduct keyword analysis,Use scripts to analyze keywords in feedback submissions and generate insights.
+Feedbackify,Track duplicate feedback,Automatically identify duplicate feedback submissions to reduce redundancy.
+Feedbackify,Send follow-up content,"Automatically send personalized follow-up content (e.g., guides, tutorials) to users based on their feedback."
+Feedbackify,Auto-update customer personas,Update customer personas dynamically based on recurring feedback trends.
+Feedbackify,Generate heatmaps for feedback,Create heatmaps showing the geographic distribution of feedback submissions.
+Feedbackify,Auto-translate feedback summaries,Translate feedback summaries for international stakeholders or teams.
+Feedbackify,Integrate with Intercom,Sync feedback into Intercom to enhance customer communication and engagement.
+Feedbackify,Auto-generate thank-you pages,Create personalized thank-you pages dynamically based on feedback submissions.
+Feedbackify,Track feedback lifecycle,Monitor the lifecycle of feedback from submission to resolution automatically.
+Feedbackify,Sync feedback with SharePoint,Push feedback submissions into SharePoint lists for centralized team collaboration.
+Feedbackify,Auto-categorize feedback by department,"Automatically assign feedback submissions to departments like support, sales, or development."
+Feedbackify,Auto-update Trello boards,Sync feedback submissions with Trello boards to track progress on actionable items.
+Feedbackify,Monitor sentiment changes,Automatically generate reports on shifts in sentiment trends over time.
+Feedbackify,Auto-send escalation alerts,Send alerts to senior management when critical or negative feedback is submitted.
+Feedbackify,Auto-create surveys,Generate follow-up surveys automatically based on feedback submissions.
+Feedbackify,Notify users of implemented feedback,Send automated updates to users when their feedback has been implemented.
+Feedbackify,Sync feedback with Monday.com,Create tasks or update boards in Monday.com based on feedback submissions.
+Feedbackify,Auto-create PowerPoint presentations,Generate PowerPoint slides summarizing feedback trends for presentations.
+Feedbackify,Auto-track feedback response times,Measure how quickly feedback submissions are addressed and notify teams of delays.
+Feedbackify,Export feedback to JSON,Convert feedback data into JSON format for integration with external systems.
+Feedbackify,Auto-prioritize feature requests,Automatically rank feature requests based on user demand and organizational goals.
+Feedbackify,Integrate with HubSpot,Sync feedback data with HubSpot to enhance customer profiles and engagement.
+Feedbackify,Auto-send satisfaction surveys,Automatically send satisfaction surveys to users who provide feedback.
+Feedbackify,Track feedback by user role,"Segment feedback submissions by user roles (e.g., admin, customer) for better insights."
+Feedbackify,Notify developers of technical feedback,Automatically route technical feedback to development teams for immediate action.
+Feedbackify,Auto-prioritize bug reports,Automatically prioritize bug reports based on severity and frequency.
+Feedbackify,Generate quarterly feedback summaries,Create automated quarterly reports summarizing feedback themes and trends.
+Feedbackify,Integrate with Mailchimp,Sync feedback email addresses with Mailchimp to update mailing lists automatically.
+Feedbackify,Monitor recurring issues,Automatically track recurring feedback issues and notify relevant teams.
+Feedbackify,Conduct A/B testing on feedback forms,Automatically test different feedback form designs to optimize engagement.
+Feedbackify,Auto-share feedback on social media,Automatically share approved feedback or testimonials on platforms like Twitter or LinkedIn.
+Feedbackify,Track feedback from VIP customers,Identify and track feedback from high-value customers for prioritized action.
+Feedbackify,Auto-create tickets in Freshdesk,Push feedback submissions into Freshdesk to create actionable support tickets.
+Feedbackify,Monitor unresolved feedback trends,Automatically report on unresolved feedback trends to improve resolution rates.
+Feedbackify,Auto-create customer success strategies,Use recurring feedback trends to dynamically create customer success playbooks.
+Feedbackify,Generate customer satisfaction dashboards,Create real-time dashboards to monitor customer satisfaction metrics.
+Feedbackify,,

@@ -1,0 +1,87 @@
+Category,Short Description,Description
+IBM ILOG CPLEX,Optimize Supply Chain Logistics,Minimize transportation costs and delivery times in supply chain operations.
+IBM ILOG CPLEX,Workforce Scheduling Optimization,Create efficient employee schedules to meet workload demands.
+IBM ILOG CPLEX,Portfolio Risk Management,Allocate investments to minimize risk while maintaining desired returns.
+IBM ILOG CPLEX,Advertising Budget Allocation,Optimize ad budgets across channels to maximize ROI.
+IBM ILOG CPLEX,Resource Allocation in Projects,Assign resources effectively to meet project deadlines and reduce costs.
+IBM ILOG CPLEX,Minimize Production Costs,Optimize resource usage to reduce manufacturing costs while meeting demand.
+IBM ILOG CPLEX,Delivery Route Optimization,Plan optimal delivery routes to minimize fuel costs and travel time.
+IBM ILOG CPLEX,Inventory Management Optimization,Balance stock levels to reduce holding costs and prevent stockouts.
+IBM ILOG CPLEX,Maximize Sales Revenue,Determine optimal pricing strategies to maximize revenue.
+IBM ILOG CPLEX,Classroom Scheduling Optimization,"Create conflict-free schedules for classrooms, teachers, and courses."
+IBM ILOG CPLEX,Product Mix Optimization,Identify the best mix of products to maximize profitability.
+IBM ILOG CPLEX,Energy Consumption Optimization,Reduce energy usage while maintaining operational efficiency.
+IBM ILOG CPLEX,Call Center Staffing,Schedule call center agents to meet customer demand effectively.
+IBM ILOG CPLEX,Diet Planning Optimization,Create cost-effective meal plans that meet nutritional requirements.
+IBM ILOG CPLEX,Transportation Fleet Management,Determine the optimal number of vehicles needed for operations.
+IBM ILOG CPLEX,Marketing Campaign Optimization,Allocate resources to the most effective marketing strategies.
+IBM ILOG CPLEX,Disaster Relief Resource Allocation,Distribute relief resources efficiently to maximize impact.
+IBM ILOG CPLEX,Construction Project Planning,Optimize timelines and resource allocation to minimize delays.
+IBM ILOG CPLEX,Facility Location Optimization,Identify the best location for facilities to reduce operational costs.
+IBM ILOG CPLEX,Retail Pricing Optimization,Set optimal prices for retail products to maximize profits.
+IBM ILOG CPLEX,Non-Profit Resource Allocation,Allocate resources to maximize the impact of non-profit programs.
+IBM ILOG CPLEX,Production Line Balancing,Balance workloads across production lines to minimize downtime.
+IBM ILOG CPLEX,Advertising Spend Optimization,Allocate budgets to maximize engagement and conversions.
+IBM ILOG CPLEX,Classroom Seating Arrangements,Arrange seating layouts to maximize space utilization efficiently.
+IBM ILOG CPLEX,Employee Training Schedule Optimization,Minimize training costs while ensuring all employees are trained effectively.
+IBM ILOG CPLEX,Loan Repayment Planning,Optimize loan repayment schedules to minimize interest costs.
+IBM ILOG CPLEX,Irrigation Scheduling for Farms,Plan irrigation schedules to minimize water usage while maximizing crop yield.
+IBM ILOG CPLEX,Optimize Supplier Selection,Choose suppliers to minimize costs and ensure quality standards.
+IBM ILOG CPLEX,School Bus Route Optimization,Plan bus routes to minimize travel time and fuel consumption.
+IBM ILOG CPLEX,Material Blending Optimization,Determine the best blend of materials to meet production requirements.
+IBM ILOG CPLEX,Maintenance Scheduling Optimization,Schedule maintenance tasks to reduce downtime and operational costs.
+IBM ILOG CPLEX,IT Resource Allocation,Distribute IT resources to improve operational efficiency.
+IBM ILOG CPLEX,Customer Delivery Route Planning,Plan delivery schedules to minimize costs and enhance service reliability.
+IBM ILOG CPLEX,Warehouse Space Utilization,Arrange inventory to maximize storage efficiency in warehouses.
+IBM ILOG CPLEX,Factory Layout Optimization,Design factory layouts to improve workflow and productivity.
+IBM ILOG CPLEX,Distribution Center Operations,Streamline operations to minimize handling costs and improve throughput.
+IBM ILOG CPLEX,Renewable Energy Usage Optimization,Balance energy production and consumption from renewable sources.
+IBM ILOG CPLEX,Employee Task Assignments,Assign tasks based on employee skills and availability to maximize productivity.
+IBM ILOG CPLEX,Traffic Flow Optimization,Optimize signal timings to reduce congestion and travel delays.
+IBM ILOG CPLEX,Marketing ROI Maximization,Maximize returns by allocating resources to high-performing campaigns.
+IBM ILOG CPLEX,Hotel Room Pricing Optimization,Adjust room rates dynamically to maximize occupancy and revenue.
+IBM ILOG CPLEX,Transportation Network Optimization,Plan routes to minimize travel costs and improve efficiency.
+IBM ILOG CPLEX,Volunteer Assignment Optimization,Assign volunteers to tasks to maximize efficiency and impact.
+IBM ILOG CPLEX,Capital Budgeting Optimization,Select the most profitable projects to invest in while staying under budget.
+IBM ILOG CPLEX,Event Budget Allocation,Optimize spending to maximize attendee satisfaction at events.
+IBM ILOG CPLEX,Investment Diversification Optimization,Allocate investments to achieve the best balance of risk and return.
+IBM ILOG CPLEX,Classroom Timetable Optimization,Create schedules that avoid conflicts and maximize resource utilization.
+IBM ILOG CPLEX,Road Construction Resource Planning,Minimize delays and costs in road construction projects.
+IBM ILOG CPLEX,Packaging Cost Optimization,Design packaging to minimize costs while meeting sustainability goals.
+IBM ILOG CPLEX,Utility Cost Reduction,Optimize energy and water usage to cut operational costs.
+IBM ILOG CPLEX,Social Media Campaign Optimization,Allocate resources to maximize engagement on digital platforms.
+IBM ILOG CPLEX,Disaster Recovery Resource Allocation,Plan resource allocation for disaster recovery to minimize downtime.
+IBM ILOG CPLEX,Water Distribution Optimization,Ensure equitable water distribution while minimizing waste.
+IBM ILOG CPLEX,Optimize Hospital Staffing,Schedule hospital staff to meet patient care demands efficiently.
+IBM ILOG CPLEX,Manufacturing Workflow Optimization,Streamline manufacturing processes to reduce time and costs.
+IBM ILOG CPLEX,Portfolio Diversification for Risk Management,Minimize risk by diversifying asset allocations effectively.
+IBM ILOG CPLEX,Building Energy Efficiency Optimization,Reduce energy consumption while maintaining comfort levels.
+IBM ILOG CPLEX,Optimize Airport Gate Assignments,Assign gates to flights to minimize delays and improve operations.
+IBM ILOG CPLEX,Employee Overtime Scheduling,Minimize overtime costs while ensuring adequate shift coverage.
+IBM ILOG CPLEX,Product Launch Planning,Allocate resources to maximize the success of product launches.
+IBM ILOG CPLEX,Call Center Workflow Optimization,Streamline workflows to reduce wait times and improve customer satisfaction.
+IBM ILOG CPLEX,E-Commerce Logistics Optimization,Plan delivery schedules to minimize costs and maximize customer satisfaction.
+IBM ILOG CPLEX,Retail Store Layout Optimization,Design store layouts to improve customer flow and increase sales.
+IBM ILOG CPLEX,Fundraising Campaign Optimization,Allocate resources to maximize donations in fundraising campaigns.
+IBM ILOG CPLEX,Food Delivery Operations Optimization,Plan delivery routes to ensure timely and cost-effective service.
+IBM ILOG CPLEX,Optimize Airport Runway Utilization,Schedule flights to maximize runway efficiency and minimize delays.
+IBM ILOG CPLEX,Traffic Signal Timing Optimization,Adjust signal timings to reduce congestion and improve traffic flow.
+IBM ILOG CPLEX,Research Funding Allocation,Distribute research budgets to maximize innovation and results.
+IBM ILOG CPLEX,Fleet Maintenance Scheduling,Plan maintenance tasks to reduce breakdowns and extend vehicle lifespan.
+IBM ILOG CPLEX,Agricultural Yield Optimization,Allocate resources to maximize crop production while reducing costs.
+IBM ILOG CPLEX,School Resource Allocation,Distribute resources to maximize student outcomes in education.
+IBM ILOG CPLEX,Demand Response in Energy Grids,Balance energy loads during peak times to reduce grid strain.
+IBM ILOG CPLEX,Parking Management Optimization,Plan parking spaces to minimize congestion and maximize utilization.
+IBM ILOG CPLEX,Employee Retention Strategies,Allocate resources to initiatives that improve employee retention.
+IBM ILOG CPLEX,Carbon Emission Reduction,Optimize operations to minimize environmental impact.
+IBM ILOG CPLEX,Travel Itinerary Optimization,Create efficient travel plans to save time and reduce costs.
+IBM ILOG CPLEX,Community Project Resource Allocation,Distribute resources to maximize the impact of community development projects.
+IBM ILOG CPLEX,Supply Chain Risk Mitigation,Allocate resources to minimize disruptions in supply chain operations.
+IBM ILOG CPLEX,Advertising Channel Effectiveness Optimization,Allocate budgets to the best-performing advertising channels.
+IBM ILOG CPLEX,Renewable Energy Integration,Optimize integration of renewable energy sources into the grid.
+IBM ILOG CPLEX,IT Workflow Optimization,Streamline IT workflows to reduce downtime and improve productivity.
+IBM ILOG CPLEX,Educational Resource Utilization,Optimize teaching resources to maximize learning outcomes.
+IBM ILOG CPLEX,Industrial Waste Management Optimization,Plan waste disposal to minimize costs and environmental impact.
+IBM ILOG CPLEX,Diversity Hiring Optimization,Allocate hiring efforts to meet diversity and inclusion goals.
+IBM ILOG CPLEX,Campaign Fund Allocation Optimization,Allocate campaign resources to maximize voter engagement.
+IBM ILOG CPLEX,Fleet Fuel Efficiency Optimization,

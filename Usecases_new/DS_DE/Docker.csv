@@ -1,0 +1,90 @@
+Category,Short Description,Description
+Docker,Auto-Build Docker Images,Automate building Docker images from `Dockerfile` for consistent builds.
+Docker,Container Deployment,Automate deploying containers to production environments.
+Docker,Image Cleanup,Automate removal of unused or dangling images to free up disk space.
+Docker,Container Cleanup,Automate stopping and removing unused or exited containers.
+Docker,Network Setup,Automate creation and configuration of Docker networks for container communication.
+Docker,Volume Management,"Automate creating, attaching, and cleaning up Docker volumes."
+Docker,Image Tagging,Automate tagging Docker images with version numbers or environment details.
+Docker,Multi-Stage Build Setup,Automate the setup of multi-stage builds for smaller image sizes.
+Docker,Automated Rollbacks,Automate rolling back to a previous Docker image version in case of failure.
+Docker,Health Check Automation,Automate adding health check configurations to containers.
+Docker,Resource Monitoring,"Automate monitoring resource usage (CPU, memory) of running containers."
+Docker,Logging Setup,Automate setting up centralized logging for Docker containers.
+Docker,Auto-Pull Images,Automate pulling the latest images from Docker Hub or custom registries.
+Docker,Image Registry Cleanup,Automate cleaning up old or unused images in private registries.
+Docker,Container Scaling,Automate scaling containers up or down based on workload requirements.
+Docker,Automated Backups,Automate backups of container volumes and data.
+Docker,Security Scanning,Automate scanning Docker images for vulnerabilities using tools like Trivy.
+Docker,Auto-Restart Containers,Automate restarting stopped or failed containers.
+Docker,Environment Variable Injection,Automate injecting environment variables into containers during runtime.
+Docker,Auto-Generate `Dockerfile`,Automate creating `Dockerfile` templates for common use cases.
+Docker,Service Discovery,Automate service discovery for containers running in a cluster.
+Docker,CI/CD Pipeline Integration,Automate Docker builds and deployments within CI/CD pipelines.
+Docker,Container Health Checks,Automate monitoring and logging the health status of running containers.
+Docker,Multi-Container Orchestration,Automate deploying multi-container setups using `docker-compose`.
+Docker,Image Versioning,Automate versioning of Docker images based on application updates.
+Docker,Auto-Update Containers,Automate updating running containers with newer image versions.
+Docker,Auto-Remove Stopped Containers,Automate removing containers that are in a stopped state.
+Docker,Port Mapping Automation,Automate mapping ports for containers based on predefined rules.
+Docker,Automated Secrets Management,Automate the injection of secrets into containers securely.
+Docker,Build Cache Cleanup,Automate clearing Docker build cache to free up disk space.
+Docker,Image Export and Import,Automate exporting and importing Docker images between environments.
+Docker,Private Registry Setup,Automate setting up private Docker registries for image storage.
+Docker,Auto-Generate Compose Files,Automate generating `docker-compose.yml` files for multi-container setups.
+Docker,Load Balancing Containers,Automate setting up load balancers for containers in a clustered environment.
+Docker,Auto-Stop Idle Containers,Automate stopping containers that have been idle for a defined time period.
+Docker,Time-Based Container Restart,Automate restarting containers on a time-based schedule.
+Docker,Automated Network Cleanup,Automate removing unused Docker networks.
+Docker,Container Migration,Automate migrating containers between different environments.
+Docker,Service Failover,Automate failover to backup containers in case of service failure.
+Docker,Image Compression,Automate compressing Docker images for faster transfers.
+Docker,Host Resource Limiting,Automate setting CPU and memory limits for containers.
+Docker,Multi-Arch Image Building,"Automate building Docker images for multiple architectures (e.g., ARM, x86)."
+Docker,Auto-Deploy Staging Environments,Automate deploying staging environments using Docker.
+Docker,Config File Injection,Automate injecting configuration files into containers.
+Docker,Auto-Create User Accounts,Automate creating user accounts in containers during build.
+Docker,Automatic Logs Rotation,Automate log rotation for containers to prevent excessive disk usage.
+Docker,Orphan Volume Cleanup,Automate identifying and removing orphaned Docker volumes.
+Docker,Image Build Notifications,Automate sending notifications after successful or failed image builds.
+Docker,Container Restart Policies,Automate applying restart policies to containers for better resilience.
+Docker,Automated Load Testing,Automate load testing on containers and services.
+Docker,Auto-Generate Kubernetes YAML,Automate creating Kubernetes YAML files for Docker container deployment.
+Docker,Dependency Installation,Automate installing dependencies in containers during build.
+Docker,Pre-Build Validation,Automate validating `Dockerfile` syntax before building images.
+Docker,Container State Reports,Automate generating reports on the state of running containers.
+Docker,Auto-Add Host Entries,Automate adding host entries in containers for internal networking.
+Docker,Cross-Platform Testing,Automate testing of containers on multiple operating systems.
+Docker,Swarm Cluster Setup,Automate setting up Docker Swarm clusters for container orchestration.
+Docker,Automated Registry Authentication,Automate authenticating to private Docker registries.
+Docker,Auto-Update Dependencies,Automate updating dependencies in containers during rebuilds.
+Docker,Container Snapshotting,Automate creating snapshots of container states for testing or recovery.
+Docker,Persistent Storage Setup,Automate configuring persistent storage volumes for containers.
+Docker,Container Start/Stop Scheduling,Automate scheduling start and stop times for containers.
+Docker,Automated Service Scaling,Automate scaling services in Docker Swarm based on demand.
+Docker,Container Resource Optimization,Automate optimizing resource usage for running containers.
+Docker,Auto-Generate Helm Charts,Automate generating Helm charts for Docker container deployments in Kubernetes.
+Docker,Data Volume Backups,Automate backing up data volumes to external storage.
+Docker,Auto-Generate Build Context,Automate setting up build contexts for complex multi-service projects.
+Docker,Container Event Alerts,"Automate sending alerts for specific container events (e.g., crashes)."
+Docker,Image Vulnerability Alerts,Automate sending alerts for vulnerabilities in Docker images.
+Docker,Container Uptime Reports,Automate generating uptime reports for critical containers.
+Docker,Canary Deployment,Automate deploying canary releases using Docker containers.
+Docker,Automated Blue-Green Deployment,Automate blue-green deployments for minimizing downtime.
+Docker,Container Dependency Graph,Automate generating graphs of container dependencies in a system.
+Docker,Test Container Creation,Automate creating containers specifically for running integration tests.
+Docker,Debug Container Setup,Automate setting up debug containers with additional tools pre-installed.
+Docker,Automated Image Rebuilds,Automate rebuilding images when base images are updated.
+Docker,External Storage Integration,Automate attaching external storage to Docker containers.
+Docker,Auto-Attach Networks,Automate attaching containers to specific Docker networks.
+Docker,Automated Service Failover,Automate failing over services to backup containers in case of failure.
+Docker,Real-Time Metrics Collection,Automate collecting real-time metrics from running Docker containers.
+Docker,Image Upload to Registry,Automate uploading images to public or private registries after builds.
+Docker,Auto-Remove Logs,Automate removing old container logs to free up disk space.
+Docker,Container Dependency Validation,Automate validating container dependencies before deployment.
+Docker,Auto-Scale Worker Nodes,Automate scaling worker nodes in Docker Swarm based on resource usage.
+Docker,Automated SSL Integration,Automate adding SSL certificates to containers for secure communication.
+Docker,Multi-Cloud Deployment,Automate deploying Docker containers across multiple cloud providers.
+Docker,Auto-Generate GraphQL Servers,Automate creating GraphQL server containers for APIs.
+Docker,Image Build Time Optimization,Automate optimizing the build time of large Docker images.
+Docker,Containerized Application Testing,Automate testing of applications inside Dockerized environments.

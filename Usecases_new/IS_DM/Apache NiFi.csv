@@ -1,0 +1,74 @@
+Category,Short Description,Description
+Apache NiFi,Social Media API Integration,"Automates data ingestion from APIs like Twitter, Facebook, and YouTube for analytics."
+Apache NiFi,IoT Sensor Data Collection,Collects and processes data from IoT devices for real-time monitoring and analytics.
+Apache NiFi,Log File Aggregation,Aggregates log files from multiple servers into a centralized storage system.
+Apache NiFi,Real-Time Data Streaming,Streams real-time data from Kafka to a data warehouse for analytics.
+Apache NiFi,Database to Database ETL,"Transfers and transforms data between two databases, such as MySQL to PostgreSQL."
+Apache NiFi,File Transfer Automation,Automates file transfers between FTP servers and cloud storage platforms.
+Apache NiFi,Data Encryption During Transfer,Encrypts sensitive data during transfer between systems to ensure security.
+Apache NiFi,Data Deduplication,Identifies and removes duplicate records from datasets during dataflows.
+Apache NiFi,Data Quality Validation,Validates data against predefined rules before loading into target systems.
+Apache NiFi,Cloud Storage Integration,Automates data movement between on-premises systems and cloud storage like AWS S3 or Azure Blob.
+Apache NiFi,Data Lake Ingestion,Ingests raw data into a data lake for storage and future processing.
+Apache NiFi,Real-Time Fraud Detection,Processes transactional data in real-time to identify fraudulent activities.
+Apache NiFi,IoT Device Alerts,Automates alerts from IoT devices by integrating sensor data with alerting systems.
+Apache NiFi,Data Transformation,"Transforms data formats (e.g., JSON to XML) for compatibility between systems."
+Apache NiFi,Batch Data Processing,Automates batch processing of large datasets for nightly updates.
+Apache NiFi,API Data Integration,Extracts data from REST APIs and loads it into databases or analytics platforms.
+Apache NiFi,Data Masking,Masks sensitive data fields to comply with GDPR or HIPAA regulations.
+Apache NiFi,E-commerce Data Sync,Syncs e-commerce platform data like Shopify with ERP systems.
+Apache NiFi,Data Archiving,Archives historical data into low-cost storage systems for compliance.
+Apache NiFi,Real-Time Order Tracking,Provides real-time order tracking by integrating order management systems with logistics providers.
+Apache NiFi,Data Pipeline Monitoring,Tracks and monitors automated data pipelines to detect failures or bottlenecks.
+Apache NiFi,Data Replication,Creates real-time or scheduled replicas of databases for backup or analytics use.
+Apache NiFi,Social Media Sentiment Analysis,Collects and processes social media data for sentiment analysis.
+Apache NiFi,Data Partitioning,Partitions large datasets for faster processing and querying.
+Apache NiFi,Multi-Cloud Data Integration,"Transfers data between multiple cloud environments like AWS, Azure, and Google Cloud."
+Apache NiFi,Data Merge Automation,Merges datasets from different sources into a single cohesive dataset.
+Apache NiFi,IoT Data Enrichment,Enriches IoT data by adding metadata or contextual information before analysis.
+Apache NiFi,Log File Parsing,Parses and transforms log files for error detection and analysis.
+Apache NiFi,Data Governance Policy Enforcement,Ensures data governance policies are enforced across integrated systems.
+Apache NiFi,Real-Time Weather Data Integration,Processes and integrates weather data for logistics or agricultural applications.
+Apache NiFi,Data Compression,Compresses large datasets during transfer to save bandwidth and storage.
+Apache NiFi,Data Lineage Tracking,Tracks data lineage across systems to ensure compliance and traceability.
+Apache NiFi,Predictive Maintenance Data Processing,Processes IoT sensor data for predictive maintenance in manufacturing.
+Apache NiFi,Customer Feedback Integration,Syncs customer feedback from survey tools into analytics systems.
+Apache NiFi,Real-Time Alerts for System Failures,Triggers real-time alerts for system failures by integrating monitoring tools with notification systems.
+Apache NiFi,Data Normalization,Normalizes data from different sources into a consistent structure.
+Apache NiFi,Data Encryption Key Management,Automates encryption key management during dataflows for secure communication.
+Apache NiFi,Data Sampling for Testing,Extracts representative data samples for testing purposes.
+Apache NiFi,Multi-Format File Handling,"Processes and transforms files in diverse formats like XML, JSON, CSV, and Parquet."
+Apache NiFi,ETL Workflow Automation,Orchestrates complex ETL workflows involving multiple systems.
+Apache NiFi,GDPR Compliance Automation,"Automates data processing tasks to meet GDPR requirements, such as data erasure requests."
+Apache NiFi,Telecom Billing Data Processing,Automates processing of telecom billing data for error detection and reporting.
+Apache NiFi,Banking Transaction Reconciliation,Integrates banking systems with ERP platforms for automated transaction reconciliation.
+Apache NiFi,Subscription Renewal Automation,Automates subscription renewal processes by integrating billing and CRM systems.
+Apache NiFi,Real-Time Sales Analytics,Integrates sales data from CRM and POS systems for real-time sales analytics.
+Apache NiFi,Customer Churn Prediction,Syncs data from CRM and analytics tools to predict customer churn and enable proactive action.
+Apache NiFi,Data Backup Automation,Automates data backups from operational systems to cloud storage.
+Apache NiFi,Retail Sales Channel Integration,Syncs data from multiple retail sales channels into a central database for analysis.
+Apache NiFi,Field Service Data Integration,Syncs field service data with ERP and inventory systems for operational efficiency.
+Apache NiFi,Education System Integration,Integrates student data from multiple education platforms for centralized reporting.
+Apache NiFi,Energy Usage Monitoring,Processes energy usage data from smart meters and integrates with billing systems.
+Apache NiFi,Supply Chain Data Integration,"Syncs supply chain data between logistics, inventory, and procurement systems."
+Apache NiFi,Customer Support Analytics,Integrates support ticket data with analytics platforms for performance insights.
+Apache NiFi,Real-Time Fraud Detection,Automates fraud detection by integrating transactional data with fraud analytics tools.
+Apache NiFi,Contract Management Integration,Syncs contract data between legal and procurement systems for tracking and reporting.
+Apache NiFi,Real-Time Stock Price Integration,Automates ingestion of stock price data from financial APIs for analysis.
+Apache NiFi,Healthcare Data Integration,Integrates patient data from multiple health systems while maintaining HIPAA compliance.
+Apache NiFi,Data Quality Checks,Automates data quality checks during integration workflows to ensure accuracy.
+Apache NiFi,Customer Data Unification,Consolidates customer data from multiple systems into a single customer view.
+Apache NiFi,Workflow Orchestration,Orchestrates complex workflows involving multiple systems and processes.
+Apache NiFi,Data Transformation for Machine Learning,Prepares and cleanses data for machine learning model training.
+Apache NiFi,Public Dataset Integration,Extracts and integrates public datasets like government statistics for research projects.
+Apache NiFi,Document Metadata Extraction,Extracts metadata from documents like PDFs and Word files for indexing.
+Apache NiFi,Supplier Data Integration,Consolidates supplier data into ERP or procurement systems.
+Apache NiFi,Multi-Tenant Data Integration,Facilitates integration between multi-tenant applications and centralized systems.
+Apache NiFi,Marketing Campaign Data Sync,Automates syncing of marketing campaign data with analytics tools for performance tracking.
+Apache NiFi,Help Desk Integration,Syncs help desk tools like Zendesk with CRM systems for seamless customer support.
+Apache NiFi,Real-Time Alerts for IoT Devices,Automates alerts from IoT devices by integrating sensor data with alerting systems.
+Apache NiFi,Data Governance Workflows,Automates workflows for data governance and compliance tracking.
+Apache NiFi,Real-Time Data Synchronization,Enables real-time data synchronization between operational and analytical systems.
+Apache NiFi,Data Encryption During Transfer,Encrypts sensitive data during transfer between systems to ensure security.
+Apache NiFi,Data Aggregation,Aggregates data from multiple sources to create consolidated reports.
+Apache NiFi,Data Validation,Validates data against predefined business rules before loading into target systems.

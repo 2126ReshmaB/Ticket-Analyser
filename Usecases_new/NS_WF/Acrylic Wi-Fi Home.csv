@@ -1,0 +1,70 @@
+Category,Short Description,Description
+Acrylic Wi-Fi Home,Automated Signal Strength Monitoring,Automate periodic monitoring of Wi-Fi signal strength for all detected networks.
+Acrylic Wi-Fi Home,Real-Time Signal Drop Alerts,Automatically trigger alerts when Wi-Fi signal strength drops below a defined threshold.
+Acrylic Wi-Fi Home,Wi-Fi Channel Congestion Analysis,Automate the analysis of Wi-Fi channel usage to identify and recommend less congested channels.
+Acrylic Wi-Fi Home,Bandwidth Usage Monitoring,Automatically monitor bandwidth usage across connected devices.
+Acrylic Wi-Fi Home,Rogue Access Point Detection,Automate the detection of unauthorized or rogue access points in the vicinity.
+Acrylic Wi-Fi Home,Multi-Band Frequency Analysis,Automate the scanning and analysis of both 2.4 GHz and 5 GHz frequency bands.
+Acrylic Wi-Fi Home,Wi-Fi Security Protocol Validation,"Automate the validation of security protocols (e.g., WPA2, WPA3) used by nearby wireless networks."
+Acrylic Wi-Fi Home,Hidden Network Detection,Automate the detection of hidden Wi-Fi networks in the area.
+Acrylic Wi-Fi Home,Signal-to-Noise Ratio Analysis,Automate the calculation of SNR to optimize network performance.
+Acrylic Wi-Fi Home,Packet Loss Monitoring,Automatically track and log packet loss for specific networks.
+Acrylic Wi-Fi Home,Wi-Fi Speed Testing,Automate the testing of download and upload speeds for Wi-Fi networks.
+Acrylic Wi-Fi Home,Channel Reassignment Recommendations,Automatically recommend alternative channels to reduce interference.
+Acrylic Wi-Fi Home,Wi-Fi Coverage Mapping,Automate the creation of a Wi-Fi coverage map to visualize signal strength across the home.
+Acrylic Wi-Fi Home,Historical Performance Logging,Automate the logging of network performance metrics over time.
+Acrylic Wi-Fi Home,Device Connection Monitoring,Automate tracking of devices connected to the Wi-Fi network.
+Acrylic Wi-Fi Home,Real-Time Network Congestion Alerts,Automatically trigger alerts when network congestion is detected.
+Acrylic Wi-Fi Home,AP Placement Validation,Automate analysis of access point placement based on signal strength and coverage.
+Acrylic Wi-Fi Home,Wi-Fi Device Inventory Management,Automate the creation and management of an inventory of devices connected to the network.
+Acrylic Wi-Fi Home,Wi-Fi Encryption Strength Analysis,Automate the analysis of encryption strength for all detected networks.
+Acrylic Wi-Fi Home,Real-Time Latency Monitoring,Automate latency measurements for real-time applications like video calls and gaming.
+Acrylic Wi-Fi Home,Multi-SSID Analysis,Automate the analysis of multiple SSIDs for signal strength and security.
+Acrylic Wi-Fi Home,Wi-Fi Roaming Analysis,Automate the tracking of device roaming between access points to identify connectivity interruptions.
+Acrylic Wi-Fi Home,AP Firmware Validation,Automate the validation of firmware versions for connected access points.
+Acrylic Wi-Fi Home,Network Downtime Detection,Automatically detect and log instances of network downtime.
+Acrylic Wi-Fi Home,Bandwidth Allocation Analysis,Automate the analysis of bandwidth allocation per device or application.
+Acrylic Wi-Fi Home,Channel Width Optimization,Automate the analysis and optimization of channel width settings for access points.
+Acrylic Wi-Fi Home,Real-Time Interference Detection,Automatically detect and log interference sources that affect network performance.
+Acrylic Wi-Fi Home,Wi-Fi Device Connection Stability Analysis,Automate analysis of connection stability for specific devices on the network.
+Acrylic Wi-Fi Home,AP Load Monitoring,Automate the monitoring of access point load to detect overutilization.
+Acrylic Wi-Fi Home,Automated Backup of Network Configurations,Automatically back up network settings and configurations to prevent data loss.
+Acrylic Wi-Fi Home,Real-Time Alerts for Rogue Devices,Automatically generate alerts when unauthorized devices connect to the network.
+Acrylic Wi-Fi Home,ISP Speed Validation,Automate tests to verify if the ISP speed matches the promised bandwidth.
+Acrylic Wi-Fi Home,Video Streaming Test Automation,Automate testing to ensure Wi-Fi performance meets streaming requirements for HD or 4K video.
+Acrylic Wi-Fi Home,Real-Time AP Health Monitoring,Automate the monitoring of access point health metrics such as uptime and performance.
+Acrylic Wi-Fi Home,Signal Propagation Analysis,Automate analysis of Wi-Fi signal propagation to identify areas with weak coverage.
+Acrylic Wi-Fi Home,Automated Heatmap Updates,Automatically update Wi-Fi heatmaps with real-time signal strength data.
+Acrylic Wi-Fi Home,Device Bandwidth Usage Tracking,Automate tracking of bandwidth usage for individual devices on the network.
+Acrylic Wi-Fi Home,Real-Time QoS Monitoring,Automate the monitoring of Quality of Service (QoS) metrics to ensure optimal performance.
+Acrylic Wi-Fi Home,Network Scalability Analysis,Automate analysis to determine if the network can support additional devices or traffic.
+Acrylic Wi-Fi Home,Wi-Fi Traffic Pattern Analysis,Automate analysis of traffic patterns across devices and applications.
+Acrylic Wi-Fi Home,Wi-Fi Authentication Type Detection,"Automate detection of authentication methods (e.g., WPA2-Enterprise) used by networks."
+Acrylic Wi-Fi Home,Network Efficiency Analysis,"Automate analysis of network efficiency metrics, such as throughput per device."
+Acrylic Wi-Fi Home,Automated Rogue AP Blocking,Automate blocking of rogue access points detected on the network.
+Acrylic Wi-Fi Home,Signal Drop Detection,Automatically detect and log instances of significant signal drops.
+Acrylic Wi-Fi Home,Network Performance Benchmarks,Automate benchmarking of network performance against industry standards.
+Acrylic Wi-Fi Home,ISP SLA Compliance Monitoring,Automate monitoring of ISP performance to validate compliance with Service Level Agreements (SLAs).
+Acrylic Wi-Fi Home,Real-Time Alerts for Low SNR,Automatically trigger alerts when the Signal-to-Noise Ratio (SNR) falls below acceptable levels.
+Acrylic Wi-Fi Home,Wi-Fi Dead Zone Mapping,Automate the mapping of dead zones to visualize areas with no Wi-Fi coverage.
+Acrylic Wi-Fi Home,Automated Wi-Fi Dependability Testing,Automate reliability testing for Wi-Fi networks under different conditions.
+Acrylic Wi-Fi Home,Automated Hidden SSID Scanning,Automatically scan and log hidden SSIDs in the area.
+Acrylic Wi-Fi Home,Multi-Floor Heatmap Creation,Automate the creation of heatmaps for multiple floors in a building.
+Acrylic Wi-Fi Home,Real-Time Wi-Fi Performance Alerts,Automatically generate alerts when specific performance thresholds are breached.
+Acrylic Wi-Fi Home,Real-Time Bandwidth Utilization Alerts,Automatically trigger alerts when bandwidth usage exceeds predefined limits.
+Acrylic Wi-Fi Home,Automated Channel Overlap Detection,Automatically detect overlapping Wi-Fi channels to minimize interference.
+Acrylic Wi-Fi Home,Wi-Fi Signal Strength Benchmarking,Automate benchmarking of signal strength against predefined standards.
+Acrylic Wi-Fi Home,Wi-Fi Network Expansion Planning,Automate planning for network expansion by analyzing coverage requirements.
+Acrylic Wi-Fi Home,Automated Latency Alerts,Automatically generate alerts when latency exceeds acceptable thresholds.
+Acrylic Wi-Fi Home,Automated Wi-Fi Network Prioritization,"Automate prioritization of Wi-Fi networks based on signal strength, security, and other factors."
+Acrylic Wi-Fi Home,Device Connection History Logging,Automate logging of connection history for all devices on the network.
+Acrylic Wi-Fi Home,Automated Network Downtime Alerts,Automatically generate alerts when network downtime is detected.
+Acrylic Wi-Fi Home,Wi-Fi Device Location Estimation,Automate estimation of device locations based on signal strength and triangulation.
+Acrylic Wi-Fi Home,Real-Time Alerts for Weak Encryption,Automatically trigger alerts when networks with weak encryption are detected.
+Acrylic Wi-Fi Home,Automated Wi-Fi Traffic Visualization,Automatically generate visualizations of traffic patterns for analysis.
+Acrylic Wi-Fi Home,Automated Wi-Fi Troubleshooting Workflow,Automate common troubleshooting workflows for Wi-Fi issues like interference or weak signals.
+Acrylic Wi-Fi Home,Device-Specific Wi-Fi Testing,Automate Wi-Fi testing tailored to specific devices to ensure compatibility and performance.
+Acrylic Wi-Fi Home,Automated Wi-Fi Vulnerability Scanning,Automatically scan networks for security vulnerabilities like open ports or weak encryption.
+Acrylic Wi-Fi Home,Real-Time Alerts for High Latency,Automatically trigger alerts when latency spikes are detected.
+Acrylic Wi-Fi Home,Automated ISP Performance Reports,Automatically generate periodic reports on ISP performance metrics.
+Acrylic Wi-Fi Home,Automated Device Disconnect Detection,Automatically detect and log when

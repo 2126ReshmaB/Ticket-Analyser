@@ -1,0 +1,75 @@
+Category,Short Description,Description
+Cobbler,Bare-metal provisioning,Automate the provisioning of bare-metal servers with operating systems and initial configurations.
+Cobbler,PXE boot setup,Configure PXE boot environments for network-based OS installations.
+Cobbler,Multi-distro provisioning,"Automate the provisioning of multiple Linux distributions, such as CentOS, Ubuntu, Debian, and Fedora."
+Cobbler,Kickstart file management,Automate the creation and management of Kickstart files for Red Hat-based systems.
+Cobbler,Preseed file automation,Manage Preseed files for automated Ubuntu and Debian installations.
+Cobbler,DHCP server integration,Integrate Cobbler with DHCP servers to assign IP addresses dynamically during provisioning.
+Cobbler,DNS server configuration,Automate DNS server updates to register newly provisioned systems.
+Cobbler,TFTP server setup,Configure and manage TFTP servers to enable network-based installations.
+Cobbler,ISO image management,Automate the importing and management of ISO images for operating system deployments.
+Cobbler,Virtual machine provisioning,Automate the deployment of virtual machines on hypervisors like KVM and VMware.
+Cobbler,OS profile creation,Create OS profiles to standardize and simplify system builds across environments.
+Cobbler,Repository mirroring,Mirror OS repositories locally to reduce external dependency and improve installation speed.
+Cobbler,Network boot automation,Automate network boot configurations for deploying operating systems over the network.
+Cobbler,Kernel parameter customization,Customize kernel parameters during operating system installations.
+Cobbler,System reinstallation,Automate the reinstallation of operating systems on existing machines for troubleshooting or upgrades.
+Cobbler,Multi-architecture support,"Provision systems with different architectures, such as x86\_64 and ARM, using Cobbler profiles."
+Cobbler,Host inventory tracking,Maintain an inventory of all provisioned systems with detailed information.
+Cobbler,Auto-installation of updates,Automate the installation of OS updates during provisioning using post-installation scripts.
+Cobbler,Partitioning automation,Define and automate disk partitioning schemes during OS provisioning.
+Cobbler,Network interface configuration,"Configure network interfaces during provisioning, including static IP or DHCP settings."
+Cobbler,Default gateway setup,Automate the configuration of default gateways for provisioned systems.
+Cobbler,VLAN setup,Configure VLAN settings for network interfaces during provisioning.
+Cobbler,Hostname assignment,Automate hostname assignment for provisioned systems based on predefined naming conventions.
+Cobbler,Post-installation scripts,Automate system configurations using post-installation scripts after provisioning.
+Cobbler,Multi-boot environment setup,Configure systems to support multi-boot environments with different operating systems.
+Cobbler,RAID configuration automation,Automate RAID setup during provisioning for improved storage performance or redundancy.
+Cobbler,BIOS firmware updates,Automate BIOS/UEFI firmware updates as part of the provisioning workflow.
+Cobbler,UEFI boot support,Configure and support UEFI-based provisioning for modern hardware.
+Cobbler,Secure boot integration,Automate the setup of Secure Boot for improved system security during provisioning.
+Cobbler,Remote provisioning,Enable remote OS provisioning for systems in remote data centers using Cobbler.
+Cobbler,Auto-synchronization of configurations,Automatically synchronize configuration changes across Cobbler-managed systems.
+Cobbler,Role-based access control,Implement role-based access control for Cobbler administrators to manage provisioning securely.
+Cobbler,Multi-environment provisioning,"Manage provisioning for different environments, such as development, staging, and production."
+Cobbler,Load balancer provisioning,Automate the provisioning of load balancers for traffic distribution.
+Cobbler,Monitoring agent setup,"Automate the installation of monitoring agents, such as Nagios or Zabbix, during provisioning."
+Cobbler,Centralized logging setup,Configure centralized logging systems like ELK Stack during OS provisioning.
+Cobbler,Time synchronization configuration,Automate the setup of NTP or Chrony for time synchronization during system provisioning.
+Cobbler,SSH key deployment,Deploy SSH keys to provisioned systems for secure access.
+Cobbler,Certificate management,Automate the deployment of SSL/TLS certificates during provisioning.
+Cobbler,Software package installation,Install required software packages during the provisioning process.
+Cobbler,Security hardening,Automate OS security hardening using predefined scripts during provisioning.
+Cobbler,Puppet agent installation,Automate the installation of Puppet agents for configuration management.
+Cobbler,Ansible agent deployment,Deploy Ansible agents or configurations during the provisioning process.
+Cobbler,Chef client installation,Automate the installation of Chef clients on provisioned systems.
+Cobbler,Custom boot menu creation,Create custom boot menus for PXE environments to provide OS options during provisioning.
+Cobbler,High availability setup,"Automate the provisioning of high availability clusters, including shared storage and network configurations."
+Cobbler,Centralized user authentication,Configure LDAP or Active Directory for centralized authentication during provisioning.
+Cobbler,Multi-network provisioning,Configure systems with multiple network interfaces during provisioning.
+Cobbler,Backup server provisioning,Automate the setup of backup servers during the provisioning process.
+Cobbler,Database server provisioning,"Provision database servers with pre-configured settings for MySQL, PostgreSQL, or MongoDB."
+Cobbler,DevOps environment setup,"Automate the provisioning of DevOps environments with pre-installed tools like Jenkins, Docker, or Kubernetes."
+Cobbler,Web server provisioning,"Provision web servers with pre-configured settings for Apache, Nginx, or Tomcat."
+Cobbler,Application server provisioning,Automate the setup of application servers with required dependencies and configurations.
+Cobbler,Storage server provisioning,"Automate the provisioning of storage servers with pre-defined configurations, such as NFS or iSCSI."
+Cobbler,Data center provisioning,Automate the provisioning of systems across multiple data centers.
+Cobbler,Cloud-init integration,Use Cobbler with Cloud-init to automate cloud instance initialization.
+Cobbler,System rollback automation,Enable rollback capabilities for failed installations or configuration changes.
+Cobbler,Multi-tenant provisioning,Manage provisioning for multiple tenants or organizations using Cobbler profiles.
+Cobbler,API-driven provisioning,Automate provisioning workflows using Cobbler’s REST API.
+Cobbler,Proxy server configuration,Configure proxy servers during system provisioning for secure and filtered internet access.
+Cobbler,IPv6 provisioning support,Automate the provisioning of systems with IPv6 configurations.
+Cobbler,Resource pool management,Manage and allocate resource pools for provisioning based on hardware availability.
+Cobbler,Host tagging,Use tagging to categorize and manage provisioned hosts for better organization.
+Cobbler,Power management integration,Integrate Cobbler with IPMI or other power management tools to control server power states.
+Cobbler,Multi-OS dual boot setup,Automate the provisioning of dual-boot systems with multiple operating systems.
+Cobbler,Template-based provisioning,Use templates in Cobbler to standardize and automate provisioning workflows.
+Cobbler,Host decommissioning,Automate the decommissioning of outdated or unused systems.
+Cobbler,Host status tracking,Track the provisioning status of hosts and generate detailed reports.
+Cobbler,Compliance enforcement,Automate compliance checks and enforce organizational policies during provisioning.
+Cobbler,Network topology provisioning,Automate the provisioning of systems with specific network topologies.
+Cobbler,Raidless storage setup,Automate the setup of non-RAID storage configurations for systems.
+Cobbler,Edge computing provisioning,Automate edge computing environment setups for low-latency workloads.
+Cobbler,IoT device provisioning,Automate the provisioning of IoT devices with Linux-based operating systems.
+Cobbler,System health check automation,Perform health checks on provisioned systems to ensure proper configuration

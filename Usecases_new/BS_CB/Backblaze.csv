@@ -1,0 +1,60 @@
+Category,Short Description,Description
+Backblaze,Automated Backup Job Creation,"Automate the creation of backup jobs for files, folders, and systems to Backblaze B2 Cloud Storage."
+Backblaze,Scheduled Backups,"Automate the scheduling of backups to run daily, weekly, or monthly based on organizational preferences."
+Backblaze,Incremental Backups,"Automate incremental backups to save only the changes made since the last backup, reducing storage usage and backup time."
+Backblaze,Differential Backups,"Automate differential backups to save changes made since the last full backup, ensuring faster recovery."
+Backblaze,Retention Policy Enforcement,Automate the enforcement of retention policies to archive or delete old backups based on predefined rules.
+Backblaze,Backup Monitoring,Automate monitoring of backup job statuses and receive alerts for failures or warnings.
+Backblaze,Backup Failure Recovery,Automate retry mechanisms for failed backup jobs to ensure data is protected without manual intervention.
+Backblaze,Backup Verification,Automate verification of backup integrity to ensure data can be restored successfully.
+Backblaze,Disaster Recovery Testing,Automate disaster recovery simulations to validate backup restorability in the event of system failure.
+Backblaze,Backup for Local Files,Automate the backup of local files and folders to Backblaze B2 Cloud Storage.
+Backblaze,Backup for Network Drives,Automate backups for data stored on network-attached storage (NAS) devices to Backblaze.
+Backblaze,Backup for External Drives,Automate the backup of data from external drives to Backblaze cloud storage.
+Backblaze,Cloud-to-Cloud Backup,Automate backups between different cloud storage providers using Backblaze as a target destination.
+Backblaze,Multi-Cloud Backup Management,Automate the management of backups across multiple cloud accounts using Backblaze as centralized storage.
+Backblaze,Application Backup,Automate the backup of applications and their configuration data to Backblaze.
+Backblaze,Database Backup,"Automate the backup of relational or non-relational databases like MySQL, MongoDB, or PostgreSQL to Backblaze."
+Backblaze,VM Backup,Automate virtual machine (VM) backups from platforms like VMware or Hyper-V to Backblaze.
+Backblaze,SaaS Application Backup,Automate backups for SaaS applications like Microsoft 365 or Google Workspace to Backblaze storage.
+Backblaze,Endpoint Device Backup,"Automate backup of endpoint devices like laptops, desktops, and mobile devices to Backblaze."
+Backblaze,Ransomware Protection,Automate backups with built-in ransomware protection using versioning and immutability features.
+Backblaze,Backup Encryption,Automate encryption for sensitive data during backup to ensure security and compliance.
+Backblaze,Backup Compression,Automate compression of backup files to optimize storage usage and save costs.
+Backblaze,Backup Alerts and Notifications,"Automate email or SMS notifications for backup completions, warnings, and errors."
+Backblaze,Backup Reporting,Automate generation of detailed backup reports for auditing and compliance purposes.
+Backblaze,Retention for Archived Data,Automate the retention and archiving of long-term or infrequently accessed data.
+Backblaze,Backup for Legal Hold,Automate the backup of data under legal hold to ensure compliance with regulatory or legal requirements.
+Backblaze,Backup for Compliance,"Automate the backup process to meet regulatory standards like GDPR, HIPAA, or PCI DSS."
+Backblaze,Backup for Financial Systems,"Automate the backup of financial documents, software, and databases to ensure compliance and business continuity."
+Backblaze,Backup for Media Files,"Automate the backup of large media files like videos, images, and audio files for creative teams."
+Backblaze,Backup for Healthcare Data,Automate the backup of sensitive healthcare data in compliance with HIPAA regulations.
+Backblaze,Backup for Educational Institutions,"Automate backup processes for schools, colleges, or universities to protect student and administrative data."
+Backblaze,Backup for Government Data,Automate the backup of sensitive government data to ensure security and compliance with public sector regulations.
+Backblaze,Backup for Non-Profit Organizations,Automate the backup of critical data for non-profit organizations to protect against data loss.
+Backblaze,Backup for SMBs,Automate backup processes for small- and medium-sized businesses to ensure data availability and continuity.
+Backblaze,Backup for Large Enterprises,Automate backup management for large enterprises with complex data storage needs using Backblaze.
+Backblaze,Backup for Hybrid Environments,Automate backup for hybrid environments that combine on-premises storage with Backblaze cloud storage.
+Backblaze,Backup for AWS S3-Compatible Applications,Automate backups for applications compatible with AWS S3 by using Backblaze B2 as the storage backend.
+Backblaze,Backup for Kubernetes,Automate the backup of Kubernetes cluster data and configurations to Backblaze B2.
+Backblaze,Backup for IoT Devices,Automate the backup of data generated by IoT devices to ensure availability and integrity.
+Backblaze,Backup for Smart Devices,"Automate the backup of data from smart devices like smartphones, tablets, and smart TVs."
+Backblaze,Backup for Edge Computing,Automate the backup of edge computing data to Backblaze for centralized storage and disaster recovery.
+Backblaze,Backup for E-Commerce Platforms,Automate the backup of e-commerce platforms like Shopify or Magento to ensure business continuity.
+Backblaze,Backup for CRM Systems,Automate the backup of CRM systems like Salesforce or HubSpot to protect customer data.
+Backblaze,Backup for ERP Systems,Automate the backup of ERP systems like SAP or Oracle for business continuity and compliance.
+Backblaze,Backup for AI and Machine Learning Models,"Automate the backup of AI/ML models, datasets, and configurations to Backblaze storage."
+Backblaze,Backup for Blockchain Data,Automate the backup of blockchain and distributed ledger data to Backblaze.
+Backblaze,Backup for Cryptocurrency Wallets,Automate the backup of private keys and wallet files for cryptocurrency users.
+Backblaze,Backup for Video Surveillance Systems,Automate the backup of video surveillance or CCTV footage to Backblaze for secure storage.
+Backblaze,Media Production Backup,"Automate backups for media production workflows, including video editing and post-production files."
+Backblaze,Backup for Marketing Data,"Automate the backup of marketing data like campaign assets, analytics, and reports to Backblaze."
+Backblaze,Backup for Legal Documents,"Automate the backup of contracts, legal documents, and compliance records to Backblaze."
+Backblaze,Backup for Development Environments,"Automate the backup of source code repositories, CI/CD pipelines, and development tools to Backblaze."
+Backblaze,Backup for Collaboration Tools,"Automate the backup of collaboration tools like Microsoft Teams, Slack, and Google Chat."
+Backblaze,Backup for Archived Data,Automate the archiving of old or infrequently accessed data to Backblaze for cost-effective storage.
+Backblaze,Multi-Region Backup,Automate backups across multiple geographic regions for redundancy and disaster recovery.
+Backblaze,Backup Policy Automation,Automate the enforcement of backup policies to ensure consistency across all devices and systems.
+Backblaze,Multi-Tenant Backup Management,Automate backup management for multiple tenants or customers using Backblaze as the primary storage solution.
+Backblaze,Backup for Legal Hold,Automate the process of retaining data under legal hold to ensure compliance with legal and regulatory requirements.
+Backblaze,Cloud-to-Local Data Sync,Automate the synchronization of cloud backups to local storage devices for additional redundancy.

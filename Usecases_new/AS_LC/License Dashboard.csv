@@ -1,0 +1,71 @@
+Category,Short Description,Description
+License Dashboard,Automate license procurement,Automatically generate purchase requests for new licenses when the available count drops below a threshold.
+License Dashboard,Track license utilization trends,Generate automated reports showing trends in license usage over time to help forecast future needs.
+License Dashboard,Automate license allocation,Automatically assign licenses to users based on their roles and departments.
+License Dashboard,Revoke unused licenses,Detect and revoke licenses from users who haven't used them for a defined period.
+License Dashboard,Generate license compliance reports,Automate the generation of compliance reports to ensure the organization adheres to licensing agreements.
+License Dashboard,Notify of license expiration,Send automated alerts to administrators when licenses are nearing their expiration date.
+License Dashboard,Automate license renewal,Automatically trigger renewal processes for licenses that are about to expire.
+License Dashboard,Optimize license allocation,Identify underutilized licenses and reassign them to other users or departments.
+License Dashboard,Automate cost tracking,Track and report license costs for each department or project automatically.
+License Dashboard,Integrate with HR systems,Automate license assignment and revocation based on employee onboarding and offboarding events.
+License Dashboard,Identify duplicate licenses,Detect and flag duplicate license assignments to the same user or device.
+License Dashboard,Notify users of license assignments,Automatically notify users via email when they are assigned a new license.
+License Dashboard,Automate license audits,Schedule and run automated audits to verify that all licenses are properly allocated and compliant.
+License Dashboard,Automate license allocation for new projects,Automatically assign licenses to team members when new projects are created.
+License Dashboard,Generate departmental license usage reports,"Create scripts to generate usage reports by department, showing how licenses are being utilized."
+License Dashboard,Detect unauthorized license use,Automatically detect and flag licenses being used on unauthorized devices or by unauthorized users.
+License Dashboard,Automate vendor license tracking,Track and maintain information about licenses purchased from multiple vendors automatically.
+License Dashboard,Notify admins of license shortages,Send automated alerts to administrators when the number of available licenses falls below a certain threshold.
+License Dashboard,Manage license pools,Automate the creation and management of license pools for specific departments or teams.
+License Dashboard,Automate license transfer approvals,Streamline the approval process for transferring licenses between users.
+License Dashboard,Track license usage by application,Generate automated reports showing which applications are consuming the most licenses.
+License Dashboard,Notify users of license expiration,Send automated reminders to users about upcoming license expirations.
+License Dashboard,Integrate with IT asset management tools,Automatically sync license data with IT asset management systems for a centralized view of resources.
+License Dashboard,Automate compliance notifications,Notify admins or teams when licenses are non-compliant with vendor agreements.
+License Dashboard,Automate license type upgrades,Automatically upgrade licenses for users whose roles or requirements have changed.
+License Dashboard,Automate license revocation approvals,Streamline the process of approving revocations of licenses no longer in use.
+License Dashboard,Generate user-specific license usage reports,Create automated reports showing how individual users are utilizing their assigned licenses.
+License Dashboard,Notify admins of expired licenses,Send alerts to administrators about licenses that have already expired.
+License Dashboard,Automate license reallocation,Reallocate licenses from inactive users to active users automatically.
+License Dashboard,Track license usage by geographic location,Generate reports on license usage by region or office location.
+License Dashboard,Automate temporary license issuance,Automatically assign temporary licenses to contractors or short-term employees with expiration dates.
+License Dashboard,Manage license budgets,Track and automate the budgeting process for licenses across departments.
+License Dashboard,Automate unused license detection,Identify and flag licenses that haven't been used in a specified period.
+License Dashboard,Notify admins of over-allocated licenses,Send alerts when more licenses are assigned than are available in the pool.
+License Dashboard,Generate license expiration calendars,Create and update a calendar view of upcoming license expirations automatically.
+License Dashboard,Automate license compliance gap analysis,Identify gaps in license compliance automatically by comparing usage against license agreements.
+License Dashboard,Manage license keys,Store and retrieve license keys securely and automatically assign them to users.
+License Dashboard,Automate license cost allocation,Allocate license costs to departments or projects based on usage automatically.
+License Dashboard,Track license usage trends by time period,"Generate reports showing how license usage changes over time (e.g., weekly, monthly, yearly)."
+License Dashboard,Notify users of license revocation,"Automatically notify users when their licenses are revoked, including reasons for the action."
+License Dashboard,Automate license allocation for new hires,Automatically assign licenses to new employees based on their roles during onboarding.
+License Dashboard,Automate license allocation for organizational changes,Reassign licenses automatically when employees switch roles or departments.
+License Dashboard,Automate software installation tracking,Track which licenses correspond to installed software instances across devices.
+License Dashboard,Track license usage by department,Generate reports showing license usage by department for cost and compliance analysis.
+License Dashboard,Automate license pooling for shared resources,Create and manage shared license pools that can be dynamically assigned to users as needed.
+License Dashboard,Automate license deactivation for terminated employees,Automatically revoke licenses when employees leave the organization.
+License Dashboard,Generate license cost savings reports,Identify and report on potential cost savings by optimizing license usage.
+License Dashboard,Integrate with procurement systems,Sync license data with procurement tools to manage purchases and renewals automatically.
+License Dashboard,Generate vendor-specific license reports,Create automated reports showing license usage and compliance per vendor.
+License Dashboard,Notify admins of license cost overruns,Send alerts when license costs exceed budgeted amounts.
+License Dashboard,Automate software usage tracking,Track and report on software usage to ensure licenses are being used effectively.
+License Dashboard,Generate user access history,Report on user access history to identify when and how licenses were used.
+License Dashboard,Automate inactive user detection,Notify admins of users who haven't accessed their licenses in a specified period.
+License Dashboard,Automate license allocation for seasonal employees,Assign licenses to seasonal employees automatically with expiration dates at the end of their contracts.
+License Dashboard,Automate license reconciliation,Match license purchases with usage data to identify discrepancies automatically.
+License Dashboard,Automate contract renewal tracking,Track license contract renewal dates and send reminders to administrators.
+License Dashboard,Notify admins of license underutilization,Alert admins about licenses that are underutilized or unused.
+License Dashboard,Automate software version tracking,Track which versions of software are linked to specific licenses and notify when updates are required.
+License Dashboard,Automate license allocation for specific projects,Assign licenses to users working on specific projects automatically.
+License Dashboard,Generate license inventory reports,Create reports showing the complete inventory of licenses and their current status.
+License Dashboard,Automate license sharing policies,"Implement and enforce policies for shared licenses, such as time limits or user restrictions."
+License Dashboard,Notify users of license availability,Automatically notify users when requested licenses become available.
+License Dashboard,Track license usage by user role,"Generate usage reports segmented by user roles, such as admin, editor, or viewer."
+License Dashboard,Automate license reallocation during project completion,Reassign licenses from completed projects to new or ongoing projects automatically.
+License Dashboard,Automate license key distribution,Distribute license keys to users securely and automatically upon assignment.
+License Dashboard,Monitor license usage across multiple locations,Track and report on license usage across offices or geographic regions.
+License Dashboard,Automate license agreement version tracking,Track updates to license agreements and ensure compliance with the latest versions.
+License Dashboard,Generate license usage statistics,Create automated dashboards showing detailed statistics on license usage.
+License Dashboard,Automate license allocation for mergers and acquisitions,Reallocate licenses during mergers or acquisitions based on the new organizational structure.
+License Dashboard,Notify admins of license compliance risks,Send alerts about potential compliance

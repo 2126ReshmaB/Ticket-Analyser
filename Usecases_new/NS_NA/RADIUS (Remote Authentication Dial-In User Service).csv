@@ -1,0 +1,47 @@
+Category,Short Description,Description
+RADIUS (Remote Authentication Dial-In User Service),Automate RADIUS client configuration,"Automate the addition, update, or removal of RADIUS clients for network authentication."
+RADIUS (Remote Authentication Dial-In User Service),Automate backup of RADIUS configurations,Automate scheduled backups of RADIUS server configurations to ensure recovery and compliance.
+RADIUS (Remote Authentication Dial-In User Service),Automate user authentication logs export,Automate the export of user authentication logs for auditing and analysis purposes.
+RADIUS (Remote Authentication Dial-In User Service),Automate certificate-based authentication setup,Automate the configuration of certificate-based authentication for secure access.
+RADIUS (Remote Authentication Dial-In User Service),Automate integration with Active Directory,Automate the integration of RADIUS with Active Directory for centralized user management and authentication.
+RADIUS (Remote Authentication Dial-In User Service),Automate VLAN assignment,Automate the assignment of VLANs to users or devices based on network policies.
+RADIUS (Remote Authentication Dial-In User Service),Automate conditional access policies,"Automate the setup of conditional access policies for users based on device type, location, or time."
+RADIUS (Remote Authentication Dial-In User Service),Automate failed login alerts,Automate the generation and delivery of alerts for failed login attempts to identify potential security breaches.
+RADIUS (Remote Authentication Dial-In User Service),Automate multi-factor authentication enforcement,Automate the enforcement of multi-factor authentication for users requiring elevated access.
+RADIUS (Remote Authentication Dial-In User Service),Automate RADIUS server health checks,Automate periodic health checks of RADIUS servers to ensure availability and performance.
+RADIUS (Remote Authentication Dial-In User Service),Automate load balancing for RADIUS servers,Automate the configuration of load balancing across multiple RADIUS servers for better distribution of authentication requests.
+RADIUS (Remote Authentication Dial-In User Service),Automate logging for accounting requests,Automate the logging of accounting requests for tracking user session details.
+RADIUS (Remote Authentication Dial-In User Service),Automate guest user access policies,"Automate the creation of policies for guest user access, including time-limited access settings."
+RADIUS (Remote Authentication Dial-In User Service),Automate integration with VPN servers,Automate the configuration of RADIUS as a RADIUS server for VPN authentication.
+RADIUS (Remote Authentication Dial-In User Service),Automate user role-based access policies,Automate the enforcement of role-based access control policies for users in different departments or groups.
+RADIUS (Remote Authentication Dial-In User Service),Automate IP address filtering,Automate the configuration of IP address filters for restricting access to specific IP ranges or devices.
+RADIUS (Remote Authentication Dial-In User Service),Automate RADIUS timeout settings,Automate the configuration of timeout settings for RADIUS authentication requests.
+RADIUS (Remote Authentication Dial-In User Service),Automate NPS service monitoring,Automate the monitoring of the RADIUS service to ensure it is running and responsive.
+RADIUS (Remote Authentication Dial-In User Service),Automate certificate renewal for RADIUS,Automate the renewal and deployment of server certificates used by RADIUS for secure communication.
+RADIUS (Remote Authentication Dial-In User Service),Automate user authentication reports,Automate the generation of user authentication success and failure reports for compliance.
+RADIUS (Remote Authentication Dial-In User Service),Automate device-based policy enforcement,"Automate the enforcement of policies based on device types (e.g., laptops, smartphones)."
+RADIUS (Remote Authentication Dial-In User Service),Automate integration with wireless access points,Automate the configuration of RADIUS to authenticate users connecting via wireless access points (WAPs).
+RADIUS (Remote Authentication Dial-In User Service),Automate session timeout policies,Automate the enforcement of session timeout policies for all authenticated users.
+RADIUS (Remote Authentication Dial-In User Service),Automate integration with third-party RADIUS clients,Automate the setup of third-party RADIUS clients for authentication through RADIUS.
+RADIUS (Remote Authentication Dial-In User Service),Automate 802.1X authentication setup,Automate the configuration of 802.1X authentication for secure wired and wireless networks.
+RADIUS (Remote Authentication Dial-In User Service),Automate policy conflict resolution,Automate the detection and resolution of conflicts in RADIUS policies.
+RADIUS (Remote Authentication Dial-In User Service),Automate integration with Azure AD,Automate the configuration of RADIUS with Azure Active Directory for cloud-based authentication.
+RADIUS (Remote Authentication Dial-In User Service),Automate integration with monitoring tools,Automate the integration of RADIUS with monitoring tools like Microsoft System Center for centralized health and performance tracking.
+RADIUS (Remote Authentication Dial-In User Service),Automate user lockout policies,Automate the configuration of policies to lock out users after multiple failed authentication attempts.
+RADIUS (Remote Authentication Dial-In User Service),Automate dynamic RADIUS attributes configuration,Automate the setup of dynamic RADIUS attributes to provide custom access for specific users or devices.
+RADIUS (Remote Authentication Dial-In User Service),Automate fallback RADIUS server configurations,Automate the setup of fallback RADIUS servers to ensure high availability during outages.
+RADIUS (Remote Authentication Dial-In User Service),Automate NAS (Network Access Server) configurations,Automate the configuration of NAS devices for centralized authentication using RADIUS.
+RADIUS (Remote Authentication Dial-In User Service),Automate accounting logs cleanup,Automate the cleanup of old accounting logs to save storage and maintain system performance.
+RADIUS (Remote Authentication Dial-In User Service),Automate integration with SIEM tools,Automate the integration of RADIUS with SIEM tools for real-time security monitoring and analysis.
+RADIUS (Remote Authentication Dial-In User Service),Automate group policy integration,Automate the linking of RADIUS with group policies for seamless user authentication and access control.
+RADIUS (Remote Authentication Dial-In User Service),Automate authentication request prioritization,Automate the prioritization of authentication requests based on predefined criteria such as user type or location.
+RADIUS (Remote Authentication Dial-In User Service),Automate dual RADIUS server configuration,Automate the setup of primary and secondary RADIUS servers for redundancy and failover.
+RADIUS (Remote Authentication Dial-In User Service),Automate NAS vendor-specific attributes,Automate the addition of vendor-specific attributes for NAS devices in RADIUS policies.
+RADIUS (Remote Authentication Dial-In User Service),Automate network policy backups,Automate scheduled backups of network policies to prevent data loss due to misconfiguration.
+RADIUS (Remote Authentication Dial-In User Service),Automate integration with MFA providers,Automate the integration of RADIUS with third-party multi-factor authentication (MFA) providers for enhanced security.
+RADIUS (Remote Authentication Dial-In User Service),Automate wireless user authentication logs,Automate the logging of authentication attempts made by wireless users for audit purposes.
+RADIUS (Remote Authentication Dial-In User Service),Automate monitoring of authentication trends,Automate the generation of reports to identify trends in authentication requests and failures.
+RADIUS (Remote Authentication Dial-In User Service),Automate RADIUS certificate binding,Automate the binding of certificates to RADIUS for secure communication and authentication.
+RADIUS (Remote Authentication Dial-In User Service),Automate RADIUS accounting data export,Automate the export of RADIUS accounting data for billing and analysis purposes.
+RADIUS (Remote Authentication Dial-In User Service),Automate user activity notifications,Automate the delivery of notifications to administrators about unusual user activity detected in authentication logs.
+RADIUS (Remote Authentication Dial-In User Service),Automate integration with endpoint protection tools,Automate the configuration of endpoint protection tools to enforce compliance before authentication.

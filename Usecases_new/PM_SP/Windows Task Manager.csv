@@ -1,0 +1,90 @@
+Category,Short Description,Description
+Windows Task Manager,Monitor CPU Usage,Track CPU usage to identify resource-intensive processes.
+Windows Task Manager,Monitor Memory Usage,Analyze memory consumption to detect potential bottlenecks.
+Windows Task Manager,Monitor Disk Usage,Monitor disk activity to identify high read/write operations.
+Windows Task Manager,Monitor Network Activity,Track network usage to detect bandwidth-intensive applications.
+Windows Task Manager,End Unresponsive Tasks,Terminate unresponsive programs to restore system stability.
+Windows Task Manager,View Active Processes,Display a list of all running processes on the system.
+Windows Task Manager,Check Application Status,"Identify applications that are running, not responding, or suspended."
+Windows Task Manager,Monitor GPU Usage,Track GPU activity and memory usage for graphics-intensive tasks.
+Windows Task Manager,Monitor Background Processes,View and manage background processes consuming system resources.
+Windows Task Manager,View Startup Programs,Manage programs that run automatically on system startup.
+Windows Task Manager,Monitor App Resource Usage,Check resource consumption for individual applications.
+Windows Task Manager,Monitor System Uptime,Track the duration since the system was last restarted.
+Windows Task Manager,View Hardware Specifications,"Display CPU, memory, and disk specifications in the Performance tab."
+Windows Task Manager,Analyze Process Details,"View detailed information about processes, such as PID and status."
+Windows Task Manager,Monitor System Performance,Track overall system performance metrics like CPU and memory usage.
+Windows Task Manager,Check App History,View resource usage history for applications over time.
+Windows Task Manager,Manage Startup Impact,Identify and disable startup programs with high impact on boot time.
+Windows Task Manager,Monitor Ethernet Usage,"Track Ethernet network activity, including upload and download speeds."
+Windows Task Manager,Monitor Wi-Fi Usage,Track Wi-Fi network usage and signal strength.
+Windows Task Manager,Monitor Disk I/O,Analyze disk input/output operations for individual processes.
+Windows Task Manager,View User Sessions,Display details about active and disconnected user sessions.
+Windows Task Manager,Manage User Processes,View and manage processes associated with specific user accounts.
+Windows Task Manager,View Logical Processor Usage,Monitor CPU usage across individual logical processors.
+Windows Task Manager,Monitor App Power Usage,Analyze the power consumption of running applications.
+Windows Task Manager,Monitor System Resources in Real Time,Track system resource usage dynamically in real time.
+Windows Task Manager,View Process Tree,Display parent-child relationships between processes.
+Windows Task Manager,Monitor Virtual Memory Usage,Track virtual memory usage by individual applications.
+Windows Task Manager,Check Process Priority,View and adjust the priority of running processes.
+Windows Task Manager,Monitor Page File Usage,Analyze page file activity to optimize memory performance.
+Windows Task Manager,Monitor Thread Count,Track the number of threads used by each process.
+Windows Task Manager,Manage App Execution State,Identify applications that are actively running or suspended.
+Windows Task Manager,Monitor System Interrupts,Track hardware interrupts affecting system performance.
+Windows Task Manager,Monitor Cached Memory Usage,Analyze how much memory is being cached for faster access.
+Windows Task Manager,Monitor Kernel Times,Track kernel-mode CPU usage separately from user-mode usage.
+Windows Task Manager,Monitor System Handles,View the number of handles used by each process.
+Windows Task Manager,View Process Command Lines,Display the command line arguments used to launch processes.
+Windows Task Manager,Monitor CPU Frequency,Track the current operating frequency of the CPU.
+Windows Task Manager,Check GPU Engine Usage,Monitor which GPU engine is being utilized by applications.
+Windows Task Manager,Analyze Disk Queue Length,Track the number of queued read/write requests for storage devices.
+Windows Task Manager,View Disk Capacity,Check the total and available storage space for each drive.
+Windows Task Manager,Monitor TCP Connections,View the number of TCP connections used by applications.
+Windows Task Manager,View Process Network Activity,Track network data sent and received by individual processes.
+Windows Task Manager,View Desktop App Resource Usage,Analyze resource consumption for desktop applications.
+Windows Task Manager,Monitor Power Throttling,Identify processes that are throttled to save power.
+Windows Task Manager,Analyze System Resource Allocation,View how resources are distributed across applications.
+Windows Task Manager,Monitor GPU Temperature,Track the temperature of the GPU for thermal management.
+Windows Task Manager,Filter Processes by Resource Usage,"Sort processes by CPU, memory, or disk usage in descending order."
+Windows Task Manager,Monitor System Context Switches,Track the rate of context switches occurring on the CPU.
+Windows Task Manager,Terminate Background Services,End unnecessary services running in the background.
+Windows Task Manager,Create Dump Files,Generate process dump files for debugging and analysis.
+Windows Task Manager,Monitor GPU Memory Usage,Track the amount of memory used by GPU-intensive applications.
+Windows Task Manager,Monitor Network Adapter Speed,Display the current speed of active network adapters.
+Windows Task Manager,Monitor Shared Memory Usage,Track shared memory usage by processes.
+Windows Task Manager,View Process I/O Statistics,Analyze input/output statistics for individual processes.
+Windows Task Manager,Monitor CPU Core Usage,View CPU usage per individual core for detailed analysis.
+Windows Task Manager,View Disk Health Status,Check the health and status of connected storage drives.
+Windows Task Manager,Monitor App History Metrics,Track resource usage metrics for apps over time.
+Windows Task Manager,Manage Suspended Processes,Identify and terminate processes that are in a suspended state.
+Windows Task Manager,Monitor GPU Utilization by Applications,View how much GPU each application is consuming.
+Windows Task Manager,View System Summary Statistics,"Display summarized statistics for CPU, memory, disk, and network."
+Windows Task Manager,Monitor System Paging Activity,Track paging activity to optimize memory performance.
+Windows Task Manager,Monitor Non-Paged Pool Usage,Analyze memory usage in the non-paged pool.
+Windows Task Manager,View Open File Handles,Check which files are open by each process.
+Windows Task Manager,Monitor Session Resource Usage,Track system resource usage by individual user sessions.
+Windows Task Manager,Analyze System Swap Activity,Monitor swap file activity for memory optimization.
+Windows Task Manager,View App Startup Delays,Identify which apps are delaying system startup.
+Windows Task Manager,Monitor USB Device Usage,Track USB device activity and connected peripherals.
+Windows Task Manager,Monitor Resource Utilization Over Time,Graphically view how resource utilization changes over time.
+Windows Task Manager,Monitor GPU Compute Usage,Analyze compute workloads being performed by the GPU.
+Windows Task Manager,Monitor Power Usage Trends,Track power consumption trends for running applications.
+Windows Task Manager,Analyze Process I/O Priorities,View and adjust the I/O priorities of processes.
+Windows Task Manager,Monitor CPU Usage by Process,Identify processes consuming the most CPU resources.
+Windows Task Manager,Monitor GPU Encoding/Decoding,Track GPU usage for video encoding and decoding processes.
+Windows Task Manager,Monitor Disk Write Speeds,Measure the speed at which data is being written to storage.
+Windows Task Manager,Monitor Disk Read Speeds,Measure the speed at which data is being read from storage.
+Windows Task Manager,Manage Startup Applications,Enable or disable applications from launching at startup.
+Windows Task Manager,View System Hardware Utilization,"Display real-time usage of CPU, memory, disk, and network."
+Windows Task Manager,Monitor TCP/IP Connections,View active TCP/IP connections and their statuses.
+Windows Task Manager,Monitor System Kernel Times,Track how much time the CPU spends in kernel mode.
+Windows Task Manager,View GPU Engine Utilization,Break down GPU usage by engine type for detailed insights.
+Windows Task Manager,Monitor Process Suspension,Identify and analyze processes that are suspended by the system.
+Windows Task Manager,Monitor GPU Power Consumption,Track power usage of the GPU for energy efficiency.
+Windows Task Manager,Monitor System Handle Count,View the total number of handles being used by the system.
+Windows Task Manager,Monitor Memory Compression,Track memory compression activity to improve performance.
+Windows Task Manager,Monitor Paging File Size,View the current size and usage of the system paging file.
+Windows Task Manager,Monitor System Threads,Track the number of threads running on the system.
+Windows Task Manager,Monitor Shared GPU Memory Usage,Analyze the usage of shared GPU memory across applications.
+Windows Task Manager,Monitor Application Priority Levels,Identify and adjust the priority levels for running applications.
+Windows Task Manager,View Historical Resource Usage,"Examine historical data for CPU, memory, and network usage."

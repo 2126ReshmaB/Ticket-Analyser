@@ -1,0 +1,58 @@
+Category,Short Description,Description
+ForgeRock,Automate User Provisioning,Automatically provision user accounts in connected systems based on HR or business workflows using ForgeRock Identity Management.
+ForgeRock,Automate User Deprovisioning,Automatically revoke or disable user accounts in connected systems when employees leave the organization.
+ForgeRock,Automate Role-Based Access Control,"Automatically assign roles to users based on their department, job title, or other attributes using ForgeRock Access Management."
+ForgeRock,Automate Access Certification,Automate access certification campaigns to review and validate user access rights periodically.
+ForgeRock,Automate Password Resets,Enable users to reset passwords automatically using self-service functionality in ForgeRock Identity Cloud.
+ForgeRock,Automate Group Membership Updates,Automatically update group memberships based on user attributes or role changes.
+ForgeRock,Automate Application Access Requests,Automatically approve or deny application access requests based on predefined rules and workflows.
+ForgeRock,Automate User Onboarding,Provision new users with access to required applications and roles on their first day using ForgeRock Identity Management.
+ForgeRock,Automate User Offboarding,Revoke access to all applications and resources when a user leaves the organization.
+ForgeRock,Automate Compliance Reporting,"Generate compliance reports automatically to track user access, role assignments, and policy adherence."
+ForgeRock,Automate Identity Risk Scoring,Automatically calculate and assign risk scores to user identities based on their access and activities.
+ForgeRock,Automate Privileged Access Management,Automatically manage and monitor privileged access to critical systems and applications.
+ForgeRock,Automate Access Reviews,Schedule and automate periodic access reviews to validate user access rights and ensure compliance.
+ForgeRock,Automate Role Mining,Automatically identify and recommend roles by analyzing user access patterns and entitlements.
+ForgeRock,Automate Policy Violations Remediation,"Automatically detect and remediate policy violations, such as segregation of duties (SoD) conflicts."
+ForgeRock,Automate Policy Enforcement,"Enforce security and compliance policies such as password complexity, session timeouts, and access restrictions."
+ForgeRock,Automate Application Role Management,Automatically manage application roles based on user attributes or group memberships.
+ForgeRock,Automate Risk-Based Access Control,Enforce additional access controls for high-risk users or activities automatically.
+ForgeRock,Automate Identity Lifecycle Management,"Manage the entire identity lifecycle, including provisioning, updates, and deprovisioning, using automated workflows."
+ForgeRock,Automate User Attribute Sync,Automatically sync user attributes between ForgeRock and connected applications to maintain consistency.
+ForgeRock,Automate Audit Log Exports,Export audit logs automatically to external monitoring tools or storage systems for analysis.
+ForgeRock,Automate User Access Requests,Enable users to request access to applications and resources via automated workflows.
+ForgeRock,Automate Role Audits,Schedule and automate audits of roles to ensure they align with business requirements and compliance policies.
+ForgeRock,Automate Account Reconciliation,Automatically reconcile accounts between ForgeRock and connected applications to identify discrepancies.
+ForgeRock,Automate Application Provisioning,Automatically provision access to new applications when users are onboarded or roles are updated.
+ForgeRock,Automate Application Deprovisioning,Automatically deprovision access to applications when users leave the organization or no longer require access.
+ForgeRock,Automate Access Certification Campaigns,"Automate the scheduling, distribution, and tracking of access certification campaigns."
+ForgeRock,Automate Policy Exceptions Approval,Automatically route policy exception requests for review and approval based on predefined workflows.
+ForgeRock,Automate Identity Analytics,"Generate identity analytics reports automatically to detect trends, anomalies, or high-risk user activities."
+ForgeRock,Automate Segregation of Duties (SoD) Checks,Automatically check for and resolve SoD conflicts during access requests.
+ForgeRock,Automate User Login Analytics,"Automatically analyze user login activities to identify trends, anomalies, or potential security risks."
+ForgeRock,Automate Data Cleanup,"Automatically identify and remove stale, duplicate, or orphaned accounts."
+ForgeRock,Automate Integration with HR Systems,"Sync user data between HR systems and ForgeRock to automate onboarding, offboarding, and role updates."
+ForgeRock,Automate Password Policy Updates,Automatically update and enforce password policies across connected applications.
+ForgeRock,Automate Compliance Policy Enforcement,"Enforce compliance policies, such as GDPR, HIPAA, or SOX, using automated workflows."
+ForgeRock,Automate Event-Based Workflows,"Trigger specific workflows automatically based on events like user creation, role changes, or group membership updates."
+ForgeRock,Automate Risk-Based Authentication,Enforce additional authentication measures automatically for high-risk users or activities.
+ForgeRock,Automate User Behavior Monitoring,Automatically monitor and analyze user behavior to detect anomalies or potential security risks.
+ForgeRock,Automate Identity Federation,Configure and manage identity federation between ForgeRock and partner organizations automatically.
+ForgeRock,Automate Application Discovery,Automatically discover new applications and integrate them into ForgeRock for centralized access management.
+ForgeRock,Automate Privileged Account Monitoring,Continuously monitor and audit privileged account usage for compliance and security purposes.
+ForgeRock,Automate Role Recommendations,Use AI-driven insights to recommend roles for users based on their access patterns and entitlements.
+ForgeRock,Automate SoD Policy Updates,Automatically update segregation of duties (SoD) policies based on changes in business requirements.
+ForgeRock,Automate Compliance Certification Reports,Generate compliance certification reports automatically and distribute them to stakeholders.
+ForgeRock,Automate Integration with ITSM Tools,Integrate with ITSM tools like ServiceNow to automate incident creation and resolution based on ForgeRock events.
+ForgeRock,Automate User Consent Management,Automatically manage user consent for data sharing with connected applications.
+ForgeRock,Automate Role Cleanup,Identify and remove unused or redundant roles automatically to streamline access management.
+ForgeRock,Automate Password Expiry Notifications,Notify users automatically when their passwords are about to expire.
+ForgeRock,Automate High-Risk Account Monitoring,Continuously monitor high-risk accounts and trigger alerts for suspicious activities.
+ForgeRock,Automate Role-Based Notifications,"Automatically notify stakeholders of changes to roles, including additions, deletions, or modifications."
+ForgeRock,Automate Application Access Reviews,Schedule and automate reviews of user access to applications to ensure compliance and reduce risk.
+ForgeRock,Automate Identity Lifecycle Audits,Schedule and automate audits of the identity lifecycle process to ensure compliance and efficiency.
+ForgeRock,Automate Integration with Cloud Platforms,"Automatically configure and manage provisioning for cloud platforms like AWS, Azure, or Google Cloud."
+ForgeRock,Automate Idle Account Notifications,"Notify users automatically if their accounts are inactive for a certain period, prompting them to take action."
+ForgeRock,Automate Login Failure Alerts,Automatically alert administrators or security teams after multiple failed login attempts.
+ForgeRock,Automate Policy Conflict Resolution,Automatically detect and resolve conflicts between access policies.
+ForgeRock,Automate Manager Access Reviews,Schedule and automate access reviews for managers to validate their team members' access rights.

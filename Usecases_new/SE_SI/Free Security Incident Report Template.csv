@@ -1,0 +1,72 @@
+Category,Short Description,Description
+Free Security Incident Report Template,Auto-Fill Incident Date,Script to automatically populate the incident date field based on the current date.
+Free Security Incident Report Template,Auto-Assign Report ID,Generate unique report IDs for every new incident report automatically.
+Free Security Incident Report Template,Auto-Fill Incident Location,Automatically populate location details using GPS or IP-based geolocation.
+Free Security Incident Report Template,Prepopulate User Information,"Fetch and fill user details like name, contact, and department based on login credentials."
+Free Security Incident Report Template,Incident Categorization,"Classify incidents into predefined categories (e.g., phishing, malware) based on keywords in the report description."
+Free Security Incident Report Template,Severity Score Calculation,"Automatically calculate the severity of the incident based on predefined indicators (e.g., data loss, system downtime)."
+Free Security Incident Report Template,Auto-Attach Evidence Files,"Attach relevant files (e.g., screenshots) from a designated folder automatically to the report."
+Free Security Incident Report Template,Real-Time Validation,"Validate required fields in the form as the user fills them in, ensuring no incomplete submissions."
+Free Security Incident Report Template,Email Notification for Submission,Send an automated email notification to the security team when a report is submitted.
+Free Security Incident Report Template,Scheduled Report Reminders,Automatically send reminders to users to submit pending incident reports before deadlines.
+Free Security Incident Report Template,Generate Summary Reports,Create a summarized report of all incidents submitted within a specific timeframe.
+Free Security Incident Report Template,Report Submission Timestamp,Automatically record the exact submission time for each report.
+Free Security Incident Report Template,Keyword-Based Risk Detection,Highlight potential risks in the report based on specific keywords or phrases.
+Free Security Incident Report Template,Auto-Flagging Critical Incidents,Automatically flag incidents with high severity for immediate review.
+Free Security Incident Report Template,Integration with Ticketing System,"Automatically create a ticket in a ticketing system (e.g., Jira, ServiceNow) for every submitted incident report."
+Free Security Incident Report Template,Multi-Language Support,Translate the report into different languages for multilingual teams.
+Free Security Incident Report Template,Auto-Generate Incident Summary,Summarize long incident descriptions into concise summaries using NLP.
+Free Security Incident Report Template,User Activity Logs,"Automatically log the user activity (e.g., edits, submissions) for audit purposes."
+Free Security Incident Report Template,Template Version Control,Track and apply updates to the incident report template automatically.
+Free Security Incident Report Template,Auto-Assign Investigator,Assign incidents to investigators based on workload or expertise.
+Free Security Incident Report Template,Duplicate Incident Detection,Detect duplicate incident reports submitted within a short timeframe.
+Free Security Incident Report Template,Report Approval Workflow,Automate the routing of reports through an approval workflow.
+Free Security Incident Report Template,Audit Trail Generation,Automatically generate an audit trail for all modifications to the incident report.
+Free Security Incident Report Template,Incident Trend Analysis,Analyze submitted reports to identify trends or patterns in incidents.
+Free Security Incident Report Template,Auto-Generate Charts and Graphs,"Automatically create visualizations (e.g., pie charts, bar graphs) from incident data."
+Free Security Incident Report Template,Anonymization of Personal Data,Automatically redact sensitive personal data from the report before sharing.
+Free Security Incident Report Template,Integration with Threat Intelligence Platforms,Automatically fetch related threat intelligence data for the reported incident.
+Free Security Incident Report Template,Auto-Generate Incident Timeline,Generate a timeline of events based on the incident description.
+Free Security Incident Report Template,Incident Type Prediction,Use machine learning to predict the type of incident based on the description text.
+Free Security Incident Report Template,Real-Time Collaboration,Allow multiple users to work on the same incident report simultaneously and sync updates automatically.
+Free Security Incident Report Template,Customized Incident Templates,Generate custom templates for specific departments or incident categories automatically.
+Free Security Incident Report Template,Auto-Generate Incident Resolutions,Suggest possible resolutions for incidents based on historical data.
+Free Security Incident Report Template,Incident Escalation Notifications,Automatically notify supervisors for incidents requiring escalation.
+Free Security Incident Report Template,Integration with Incident Database,Save submitted reports into a centralized incident database automatically.
+Free Security Incident Report Template,Incident Closure Workflow,Automate the workflow for reviewing and closing incidents.
+Free Security Incident Report Template,Mobile-Friendly Reports,Automatically generate mobile-optimized incident report templates.
+Free Security Incident Report Template,Integration with Email Systems,Fetch incident details from email reports and auto-fill the template.
+Free Security Incident Report Template,Auto-Set Incident Priority,"Assign priority levels to incidents based on predefined criteria (e.g., impact, urgency)."
+Free Security Incident Report Template,Bulk Incident Report Upload,Automate the process of uploading multiple incident reports at once.
+Free Security Incident Report Template,Cross-Reference Incident Data,Automatically check submitted reports against known incident databases for correlations.
+Free Security Incident Report Template,Scheduled Data Backups,Automate regular backups of all incident reports to a secure location.
+Free Security Incident Report Template,Report Encryption,Automatically encrypt reports before saving or sharing them.
+Free Security Incident Report Template,Integration with Risk Management Tools,Automatically link incidents to risk management tools for further analysis.
+Free Security Incident Report Template,Automated Stakeholder Updates,Send automated status updates to stakeholders when incidents are updated.
+Free Security Incident Report Template,Incident Impact Estimation,Automatically estimate the potential impact of an incident based on predefined parameters.
+Free Security Incident Report Template,Data Consistency Checks,"Validate the consistency of incident data (e.g., matching dates, locations) in real-time."
+Free Security Incident Report Template,Auto-Save Drafts,Automatically save drafts of incident reports to prevent data loss.
+Free Security Incident Report Template,Integration with Forensic Tools,"Automatically fetch forensic data (e.g., logs) related to incidents."
+Free Security Incident Report Template,Incident Report Archiving,Automate the archiving of old incident reports based on retention policies.
+Free Security Incident Report Template,AI-Powered Risk Mitigation Suggestions,Use AI to suggest risk mitigation steps based on the submitted report.
+Free Security Incident Report Template,Report Status Dashboard,Automatically update a dashboard showing the status of all submitted reports.
+Free Security Incident Report Template,Auto-Populate External References,"Add references (e.g., links to policies) to the report automatically based on its content."
+Free Security Incident Report Template,Integration with Legal Teams,Automatically notify legal teams for incidents with potential legal implications.
+Free Security Incident Report Template,Report Ownership Transfer,"Automate the transfer of report ownership (e.g., when an investigator changes)."
+Free Security Incident Report Template,Data Breach Notification Workflow,Automatically trigger data breach notifications based on incident details.
+Free Security Incident Report Template,Incident Closure Analytics,Analyze closed incidents to identify root causes and patterns.
+Free Security Incident Report Template,Integration with SIEM Tools,Automatically send incident data to SIEM tools for real-time monitoring.
+Free Security Incident Report Template,Report Retention Policy Enforcement,Automate the deletion of incident reports after a specified retention period.
+Free Security Incident Report Template,Auto-Generate Incident Metrics,"Create metrics (e.g., average resolution time) from incident report data."
+Free Security Incident Report Template,Incident Reporting Portal,Automate the creation of a self-service portal for submitting incident reports.
+Free Security Incident Report Template,Incident Follow-Up Notifications,Automatically notify users for follow-up actions required on incidents they reported.
+Free Security Incident Report Template,Policy Violation Detection,Automatically flag incidents that indicate potential policy violations.
+Free Security Incident Report Template,Incident Escalation Workflow,Automate the escalation process for unresolved incidents.
+Free Security Incident Report Template,Integration with Compliance Tools,Link incident reports to compliance tools to ensure regulatory requirements are met.
+Free Security Incident Report Template,Automatic Report Formatting,Format reports according to predefined standards automatically.
+Free Security Incident Report Template,Incident Data Tagging,Automatically tag reports with relevant keywords for easy categorization.
+Free Security Incident Report Template,Integration with HR Tools,Notify HR automatically for incidents involving employees.
+Free Security Incident Report Template,Custom Notification Rules,Set up automated notifications for specific incident types or severity levels.
+Free Security Incident Report Template,Incident Correlation Analysis,Correlate similar incidents to identify broader trends or threats.
+Free Security Incident Report Template,Integration with Workflow Automation Tools,Automate the entire incident handling process with tools like Zapier or Microsoft Power Automate.
+Free Security Incident Report Template,Incident SLA Monitoring,Automatically monitor and report on SLA adherence for incident resolution

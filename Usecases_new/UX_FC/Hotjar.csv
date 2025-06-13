@@ -1,0 +1,66 @@
+Category,Short Description,Description
+Hotjar,Auto-save heatmaps to cloud storage,"Automatically export and save heatmaps to Google Drive, Dropbox, or OneDrive for archival and sharing purposes."
+Hotjar,Notify team of new recordings,"Automatically send notifications to Slack, Microsoft Teams, or email when a new session recording is available."
+Hotjar,Sync heatmaps with Google Sheets,Push heatmap data into Google Sheets for real-time collaboration and analysis.
+Hotjar,Trigger surveys after specific events,"Use scripts to automatically trigger surveys when users complete specific actions, such as making a purchase or abandoning a cart."
+Hotjar,Export session recordings to CSV,"Automatically export session recording metadata (e.g., session duration, pages visited) to a CSV file for further analysis."
+Hotjar,Integrate insights with Trello,Automatically create Trello cards for high-priority user issues identified through recordings or heatmaps.
+Hotjar,Auto-categorize feedback,"Automatically categorize user feedback submitted via Hotjar surveys to predefined categories (e.g., bugs, suggestions, praise)."
+Hotjar,Send alerts for rage clicks,Notify product or development teams when Hotjar detects rage clicks or other frustration signals in user sessions.
+Hotjar,Sync feedback with CRM,Push user feedback from Hotjar into CRM systems like HubSpot or Salesforce to enhance customer profiles.
+Hotjar,Identify high-exit pages,Use scripts to analyze session recordings and identify pages where users frequently exit.
+Hotjar,Auto-tag session recordings,"Automatically tag session recordings based on specific user actions or issues (e.g., form abandonment, navigation errors)."
+Hotjar,Trigger emails for feedback responses,"Send automated emails to internal teams when specific feedback is submitted (e.g., low satisfaction scores)."
+Hotjar,Schedule weekly heatmap reports,Automatically generate and email weekly heatmap reports to stakeholders for review.
+Hotjar,Sync recordings with Notion,Automatically create pages in Notion for session recordings to document and share insights.
+Hotjar,Auto-translate feedback,Translate user feedback into preferred languages for global teams using translation APIs.
+Hotjar,Track recurring user behavior,Automatically identify recurring patterns in user behavior across session recordings.
+Hotjar,Auto-create tasks in Asana,Generate tasks in Asana based on insights from Hotjar recordings or feedback submissions.
+Hotjar,Monitor user frustration signals,"Automatically track and report user frustration signals, such as repeated clicks or rapid navigation actions."
+Hotjar,Sync with Power BI,"Push Hotjar data (e.g., heatmaps, feedback scores) into Power BI for custom dashboards and analytics."
+Hotjar,Auto-respond to feedback submissions,Send automated thank-you or follow-up emails to users who submit feedback via Hotjar.
+Hotjar,Track form drop-off points,Automatically analyze and report on the specific fields where users abandon form submissions.
+Hotjar,Auto-tag feedback by sentiment,"Use sentiment analysis to tag feedback as positive, neutral, or negative automatically."
+Hotjar,Notify developers of usability issues,"Automatically notify development teams when session recordings highlight usability issues (e.g., broken links, slow-loading pages)."
+Hotjar,Integrate with Slack,"Post real-time notifications in Slack channels for new feedback, heatmaps, or recordings."
+Hotjar,Generate survey insights reports,Automatically create reports summarizing survey insights and email them to stakeholders.
+Hotjar,Sync feedback with Airtable,Push user feedback into Airtable for organized tracking and categorization.
+Hotjar,Track satisfaction score trends,Automatically monitor and report trends in user satisfaction scores over time.
+Hotjar,Auto-create GitHub issues,Generate GitHub issues from user feedback related to technical bugs or feature requests.
+Hotjar,Export recordings to Dropbox,Automatically save session recordings to Dropbox for team collaboration and storage.
+Hotjar,Schedule daily user activity reports,"Send automated daily reports summarizing user activity, including session recordings and heatmap data."
+Hotjar,Auto-create customer personas,Use recurring user behavior data to dynamically update or create customer personas.
+Hotjar,Identify high-value user actions,"Track and report on key user actions (e.g., purchases, sign-ups) from session recordings."
+Hotjar,Auto-share survey results,Automatically share survey results with stakeholders via email or collaboration tools like Microsoft Teams.
+Hotjar,Monitor mobile vs desktop behavior,Automatically compare and report user behavior differences between mobile and desktop sessions.
+Hotjar,Auto-generate funnel analysis reports,"Use session recordings to automatically generate reports on user funnel performance (e.g., drop-off rates, conversion points)."
+Hotjar,Integrate with Intercom,Sync Hotjar feedback with Intercom to enhance customer communication and follow-up.
+Hotjar,Auto-send NPS surveys,Trigger Net Promoter Score (NPS) surveys to users based on specific behaviors or interactions.
+Hotjar,Track low-performing pages,Automatically identify and report pages with low engagement or high bounce rates.
+Hotjar,Sync with SharePoint,Automatically sync Hotjar insights with SharePoint for centralized documentation and collaboration.
+Hotjar,Monitor rage-click trends,Track and analyze trends in rage clicks over time to identify recurring user experience issues.
+Hotjar,Create quarterly UX performance reports,"Generate and share quarterly reports summarizing user behavior, satisfaction, and heatmap insights."
+Hotjar,Auto-categorize session recordings,"Organize session recordings automatically based on criteria like device type, browser, or user location."
+Hotjar,Auto-track survey response rates,Monitor and report on survey completion and response rates automatically.
+Hotjar,Sync feedback with Monday.com,Push actionable feedback into Monday.com to create tasks or update project boards.
+Hotjar,Auto-tag recordings by user type,"Automatically tag session recordings based on whether the user is a new visitor, returning customer, or logged-in user."
+Hotjar,Generate behavior heatmaps,"Automatically generate heatmaps for specific user behaviors (e.g., clicks, scrolls) and share them with stakeholders."
+Hotjar,Track page scroll depth,Report automatically on how far users scroll on specific pages and identify where they lose interest.
+Hotjar,Auto-create customer success playbooks,Use recurring user behavior patterns to dynamically generate playbooks for customer success teams.
+Hotjar,Notify designers of usability feedback,Automatically send feedback related to UI/UX issues to design teams for review.
+Hotjar,Sync with Dropbox,Save heatmaps and session recording data automatically to Dropbox for archival purposes.
+Hotjar,Identify underperforming CTAs,Automatically analyze and report on call-to-action (CTA) buttons with low click rates.
+Hotjar,Auto-track onboarding performance,Monitor user behavior during onboarding flows and generate reports on completion rates and drop-offs.
+Hotjar,Export survey responses to JSON,Convert survey responses into JSON format for integration with external systems.
+Hotjar,Monitor session durations,Track and report on session durations to identify engagement trends across different pages.
+Hotjar,Auto-track cart abandonment,Use session recordings to automatically track and report on cart abandonment rates.
+Hotjar,Sync with Notion,"Automatically create Notion pages for key insights, such as heatmap trends or survey results."
+Hotjar,Generate user behavior timelines,Automatically create timelines of user behavior across session recordings for detailed analysis.
+Hotjar,Monitor form completion rates,Track form field completion rates and generate reports to identify friction points.
+Hotjar,Auto-create tasks in ClickUp,Generate ClickUp tasks for actionable insights derived from session recordings or feedback.
+Hotjar,Auto-track bounce rates,Monitor and report on bounce rates for specific pages automatically.
+Hotjar,Generate feedback word clouds,Use user feedback to create word clouds that highlight recurring themes or issues.
+Hotjar,Notify teams of high-priority feedback,Automatically alert relevant teams when feedback with specific keywords or sentiment is submitted.
+Hotjar,Sync with Airtable,"Push recordings, heatmap data, or feedback into Airtable for advanced categorization and tracking."
+Hotjar,Auto-tag recordings by country,Use user geolocation to automatically tag session recordings by country.
+Hotjar,,

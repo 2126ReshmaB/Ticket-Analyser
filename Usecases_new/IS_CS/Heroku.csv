@@ -1,0 +1,72 @@
+Category,Short Description,Description
+Heroku,Automate App Deployment,Automate app deployment to Heroku using Git or CI/CD pipelines.
+Heroku,Automatic Config Vars Update,Use scripts to update configuration variables for an app in Heroku.
+Heroku,Scale Dynos Automatically,Automate scaling of dynos based on traffic and resource usage using monitoring and scripts.
+Heroku,Automated Add-On Installation,Automate the installation of add-ons like databases or monitoring tools to applications.
+Heroku,Scheduled App Restarts,Automate scheduled restarts of Heroku apps for maintenance purposes.
+Heroku,Backup Heroku Postgres Automatically,Automate backups for Heroku Postgres databases using scripts or Heroku Scheduler.
+Heroku,CI/CD Pipeline Setup,Automate the creation of CI/CD pipelines for Heroku apps.
+Heroku,Log Drain Setup,Automate setting up log drains to external monitoring systems like LogDNA or Papertrail.
+Heroku,Environment-Specific Config Management,"Automate the configuration of environment variables across staging, testing, and production environments."
+Heroku,Add-on Cost Tracking,Automate the tracking of costs for Heroku add-ons and dynos using API scripts.
+Heroku,Dyno Auto-Scaling Based on Load,Implement scripts to auto-scale dynos based on load metrics like CPU or response time.
+Heroku,Automated Alerts for App Failures,Set up automated alerts for app failures or crashes using monitoring tools and scripts.
+Heroku,Automated Domain Management,Automate the addition and removal of custom domains for apps.
+Heroku,App Health Monitoring,Automate app health monitoring and alerts for downtime or performance degradation.
+Heroku,Automated SSL Certificate Renewal,Automate the renewal of SSL certificates for custom domains using Let’s Encrypt or similar tools.
+Heroku,Log Analysis Automation,Automate analysis of logs using external tools or scripts to detect anomalies or issues.
+Heroku,Automated Database Migration,Automate database schema migrations during the app deployment process.
+Heroku,Auto-Provisioning Staging Environments,Automate the provisioning of staging environments for testing using pipelines and scripts.
+Heroku,Heroku Postgres Monitoring,Automate the monitoring of Heroku Postgres database metrics like query performance and storage usage.
+Heroku,Automated App Rollbacks,Implement scripts to automatically roll back to a previous app version in case of deployment failures.
+Heroku,Scheduled Dyno Scaling,Automate scaling of dynos during specific time windows to handle periodic traffic spikes.
+Heroku,Automated Add-On Removal,Automate the removal of unused add-ons to optimize costs.
+Heroku,Auto-Generate Environment Variable Secrets,Automate the generation and updating of secure environment variables like API keys.
+Heroku,Database Connection Pooling,Automate the setup and configuration of database connection pooling for better performance.
+Heroku,Log Drains Cleanup,Automate the removal of unused log drains to maintain a clean configuration.
+Heroku,Automated App Monitoring Integration,Automate the integration of external monitoring tools like New Relic or Datadog into Heroku apps.
+Heroku,Buildpack Updates,Automate the updating of buildpacks to the latest version for security and performance improvements.
+Heroku,Automated Error Reporting,Integrate error reporting tools like Sentry and automate the setup for error tracking.
+Heroku,Auto-Deploy New Git Branches,Automate the deployment of new Git branches to staging or production environments.
+Heroku,App Performance Monitoring,Automate performance monitoring and set alerts for slow response times or high memory usage.
+Heroku,Add-on Usage Reports,Automate the generation of reports for add-on usage and associated costs.
+Heroku,Automated Log Rotation,Automate the rotation of logs to prevent excessive storage usage.
+Heroku,Scheduled Maintenance Pages,Automate the setup of maintenance pages during scheduled downtimes.
+Heroku,App Status Notifications,"Automate notifications to Slack or email when the app status changes (e.g., crashes, restarts)."
+Heroku,Release Notes Automation,Automate the generation of release notes during deployments.
+Heroku,Auto-Generate API Documentation,Automate the generation of API documentation during the app build process.
+Heroku,Automated Log Export,Automate the export of logs to storage solutions like AWS S3 or Google Cloud Storage.
+Heroku,Auto-Delete Old Builds,Automate the deletion of old app builds to save space and reduce costs.
+Heroku,Custom Metrics Monitoring,Automate the tracking of custom app metrics using monitoring tools.
+Heroku,Auto-Sync Environment Configurations,Automate syncing of environment configurations across multiple Heroku apps.
+Heroku,App Uptime Monitoring,Automate uptime monitoring and alerts for downtime incidents.
+Heroku,Trigger CI/CD Pipelines from External Systems,Automate triggering of CI/CD pipelines based on external events or systems.
+Heroku,Automated App Deletion,Automate the deletion of unused apps to optimize costs.
+Heroku,Auto-Cleanup Environment Variables,Automate the removal of unused or outdated environment variables.
+Heroku,Multi-Environment Testing,Automate testing across multiple staging environments before deploying to production.
+Heroku,Automated Billing Reports,Automate the generation and delivery of billing and resource usage reports.
+Heroku,Auto-Upgrade App Dependencies,Automate the upgrading of app dependencies during deployment.
+Heroku,Database Index Optimization,Automate the monitoring and optimization of database indexes for better performance.
+Heroku,Auto-Scale Workers,Automate the scaling of worker dynos based on job queue length.
+Heroku,Automated Health Checks,Automate health checks for endpoints and apps using monitoring scripts.
+Heroku,Auto-Generate App Reports,Automate the generation of app performance and usage reports.
+Heroku,Dependency Vulnerability Scanning,Automate scanning of app dependencies for vulnerabilities during deployment.
+Heroku,Auto-Archive Logs,Automate the archiving of logs for long-term storage.
+Heroku,Auto-Enable HTTP/2,Automate the configuration of HTTP/2 for faster app performance.
+Heroku,Automated Static Asset Deployment,Automate the deployment of static assets to content delivery networks (CDNs).
+Heroku,Auto-Update SSL/TLS Settings,Automate the updating of SSL/TLS settings for improved security.
+Heroku,Automated Feature Toggles,Automate the setup and management of feature toggles for apps.
+Heroku,Auto-Configure Logging Levels,Automate the configuration of logging levels for debugging or production environments.
+Heroku,DNS Record Automation,Automate the setup and updating of DNS records for Heroku apps.
+Heroku,Auto-Generate Deployment Scripts,Automate the creation of deployment scripts for faster setup.
+Heroku,Scheduled Task Execution,Automate scheduled tasks or cron jobs using Heroku Scheduler.
+Heroku,App Scaling Based on Time Zones,Automate app scaling based on traffic patterns in different time zones.
+Heroku,Automated Build Status Notifications,Automate notifications for build status (success or failure) to Slack or email.
+Heroku,Multi-Region App Deployment,Automate the deployment of apps to multiple Heroku regions for better global availability.
+Heroku,App Restart Automation,Automate app restarts after deployments or configuration changes.
+Heroku,Auto-Update Buildpacks,Automate the updating of buildpacks to ensure compatibility with the latest app dependencies.
+Heroku,Automated Scaling for Scheduled Jobs,Automate scaling of worker dynos for running scheduled jobs during load peaks.
+Heroku,Database Query Optimization,Automate analysis and optimization of database queries for performance improvements.
+Heroku,Auto-Configure Add-On Permissions,Automate the configuration of permissions for Heroku add-ons.
+Heroku,Auto-Generate API Keys,Automate the generation of API keys and their storage in environment variables.
+Heroku,Automated Resource Cleanup,"Automate cleanup of unused resources like logs, configs, and add-ons to"

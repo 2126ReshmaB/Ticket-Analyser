@@ -1,0 +1,75 @@
+Category,Short Description,Description
+Microsoft Teams,Auto-Create Teams for New Projects,Automatically create a new team whenever a project is added in tools like Jira or Trello.
+Microsoft Teams,Scheduled Meeting Reminders,Notify team members automatically about upcoming meetings via Teams chat.
+Microsoft Teams,Auto-Add Users to Teams,Automatically add users to specific Teams channels based on their department or role.
+Microsoft Teams,Daily Standup Notifications,Send daily reminders to the team before standup meetings.
+Microsoft Teams,Integration with Jira,Post updates in Teams when new issues are created or resolved in Jira.
+Microsoft Teams,Task Completion Notifications,Notify Teams channels when tasks are marked as complete in project management tools like Asana or Monday.com.
+Microsoft Teams,Auto-Archive Inactive Teams,Automatically archive Teams channels that are inactive for a specified period.
+Microsoft Teams,Poll Automation,Automatically post polls in Teams channels to collect feedback or votes.
+Microsoft Teams,Weekly Team Summary,Generate and post a weekly summary of team activities and accomplishments in Teams.
+Microsoft Teams,Integration with Outlook,Automatically sync Outlook calendar events with Teams channels.
+Microsoft Teams,New Hire Welcome Messages,Send automated welcome messages to new hires in Teams when they are added to the organization.
+Microsoft Teams,Daily Focus Time Alerts,Notify users when their focus time starts and block distractions in Teams.
+Microsoft Teams,Integration with Power Automate,"Automate workflows like task creation, message posting, or approvals using Power Automate and Teams."
+Microsoft Teams,File Upload Notifications,Notify Teams channels when new files are uploaded to shared folders in SharePoint or OneDrive.
+Microsoft Teams,Custom Birthday Notifications,Automatically post birthday wishes in Teams channels for team members.
+Microsoft Teams,Meeting Transcript Upload,Automatically upload meeting transcripts to the Files tab after a Teams meeting.
+Microsoft Teams,Integration with GitHub,Notify Teams channels when pull requests are created or merged in GitHub.
+Microsoft Teams,Automated Channel Creation,Create Teams channels automatically based on predefined templates for new projects or departments.
+Microsoft Teams,Weekly Planner Sync,Sync weekly tasks from Microsoft Planner to Teams channels automatically.
+Microsoft Teams,Integration with Salesforce,Post updates in Teams channels when new leads or opportunities are created in Salesforce.
+Microsoft Teams,Auto-Tagging in Conversations,Automatically tag specific users in Teams based on message content.
+Microsoft Teams,Integration with SharePoint,Automatically share updates from SharePoint lists or libraries to Teams channels.
+Microsoft Teams,Meeting Attendance Reports,Automatically generate and send attendance reports after each Teams meeting.
+Microsoft Teams,Daily Weather Updates,Post daily weather updates in Teams channels for remote or field teams.
+Microsoft Teams,Auto-Greet New Members,Send automated greeting messages to new members joining a Teams channel.
+Microsoft Teams,Task Assignment Alerts,Notify team members in Teams when tasks are assigned to them in tools like Planner or Trello.
+Microsoft Teams,Integration with Power BI,Automatically post Power BI dashboard updates or insights in Teams channels.
+Microsoft Teams,Recurring Meeting Creation,Automatically schedule and create recurring meetings in Teams for weekly or monthly events.
+Microsoft Teams,Out-of-Office Notification,Automatically notify Teams channels when a user sets their status to out-of-office in Outlook.
+Microsoft Teams,Incident Reporting Alerts,Automatically post alerts in Teams channels when incidents are logged in IT service tools like ServiceNow.
+Microsoft Teams,Integration with Azure DevOps,Notify Teams channels when new work items are created or updated in Azure DevOps.
+Microsoft Teams,Daily Productivity Tips,Share daily productivity tips or best practices automatically in Teams channels.
+Microsoft Teams,Bot for FAQ Responses,Create an automated bot to answer frequently asked questions in Teams channels.
+Microsoft Teams,Integration with Google Calendar,Sync events from Google Calendar to Teams channels automatically.
+Microsoft Teams,Scheduled Social Posts,"Post scheduled social or motivational messages in Teams channels (e.g., ""Happy Friday!"")."
+Microsoft Teams,Integration with HubSpot,Notify Teams when new sales deals or customer tickets are created in HubSpot.
+Microsoft Teams,Channel Moderation Alerts,Automatically notify moderators when inappropriate messages are flagged in Teams.
+Microsoft Teams,Integration with Freshdesk,Notify Teams channels when new support tickets are created or updated in Freshdesk.
+Microsoft Teams,Document Expiry Alerts,Automatically notify Teams channels when shared documents are about to expire.
+Microsoft Teams,Weekly Team Check-Ins,Automate weekly check-in forms for team members and share responses in Teams.
+Microsoft Teams,New Channel Member Alerts,Notify team owners when new members are added to a Teams channel.
+Microsoft Teams,Integration with Zendesk,Post updates in Teams channels when support tickets are resolved in Zendesk.
+Microsoft Teams,Integration with Dropbox,Notify Teams when new files are uploaded to shared Dropbox folders.
+Microsoft Teams,Channel Cleanup Reminders,Automatically remind channel owners to clean up old conversations or files.
+Microsoft Teams,Integration with Airtable,Post updates in Teams when Airtable records are created or updated.
+Microsoft Teams,Weekly Goal Tracking,Post weekly goal progress updates automatically in Teams channels.
+Microsoft Teams,Auto-Post Meeting Agendas,Automatically share meeting agendas in Teams channels before scheduled meetings.
+Microsoft Teams,Integration with Notion,Share Notion updates or notes automatically in Teams channels.
+Microsoft Teams,Task Reminder Notifications,Send reminders in Teams for upcoming deadlines or overdue tasks from Microsoft Planner.
+Microsoft Teams,Integration with Smartsheet,Notify Teams when Smartsheet tasks are updated or completed.
+Microsoft Teams,Custom Reaction Analytics,Track how many reactions certain messages in Teams channels receive and generate reports.
+Microsoft Teams,Auto-Post Daily News Updates,Automatically post daily news or industry updates in Teams channels.
+Microsoft Teams,Meeting Follow-Up Tasks,"Create and assign follow-up tasks automatically after meetings, posting them in Teams."
+Microsoft Teams,Weekly Recognition Messages,Automate weekly recognition messages for high-performing team members in Teams channels.
+Microsoft Teams,Integration with Xero,Notify Teams channels when invoices are created or updated in Xero.
+Microsoft Teams,File Versioning Alerts,Notify Teams when new versions of files are uploaded to shared folders.
+Microsoft Teams,Auto-Post Company Announcements,Automatically share company announcements in Teams channels.
+Microsoft Teams,Weekly Fun Activity Posts,Schedule posts for fun activities like quizzes or games in Teams channels.
+Microsoft Teams,Integration with Toggl,Post time-tracking updates from Toggl in Teams channels.
+Microsoft Teams,Custom Incident Escalation,Automatically escalate incidents to Teams channels when issues are unresolved for a set time.
+Microsoft Teams,Integration with Harvest,Notify Teams when timesheets or invoices are approved in Harvest.
+Microsoft Teams,New Channel Creation Alerts,Notify admins whenever new Teams channels are created.
+Microsoft Teams,Integration with Zoho CRM,Post updates in Teams when new leads or deals are created in Zoho CRM.
+Microsoft Teams,Channel Analytics Reports,Automatically generate and share usage analytics reports for Teams channels.
+Microsoft Teams,Integration with QuickBooks,Notify Teams when invoices are paid or overdue in QuickBooks.
+Microsoft Teams,Auto-Post Team Birthdays,Automatically share birthday reminders for team members in Teams channels.
+Microsoft Teams,New Hire Announcements,Post automated announcements in Teams when new employees join the company.
+Microsoft Teams,Auto-Close Old Conversations,Automatically close or archive old Teams conversations to reduce clutter.
+Microsoft Teams,Integration with Airtable,Sync Airtable updates with Teams channels for real-time task tracking.
+Microsoft Teams,Custom Poll Results Sharing,Automatically share poll results in Teams channels after voting ends.
+Microsoft Teams,Integration with PayPal,Post payment confirmations in Teams channels when transactions are completed in PayPal.
+Microsoft Teams,Monthly Team Performance Summary,Share monthly performance summaries automatically in Teams channels.
+Microsoft Teams,Integration with Google Drive,Notify Teams when files are shared or updated in Google Drive.
+Microsoft Teams,Approval Workflow Notifications,Notify Teams channels when approval workflows

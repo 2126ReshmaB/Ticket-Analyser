@@ -1,0 +1,98 @@
+Category,Short Description,Description
+Eclipse,Auto Project Setup,"Automate the creation of new projects with predefined settings, folders, and configurations."
+Eclipse,Build Configuration Automation,"Automate the setup of multiple build configurations for different environments (e.g., Debug, Release)."
+Eclipse,Code Style Enforcement,Enforce coding standards by automating formatting and linting rules using scripts or plugins.
+Eclipse,Dependency Management,"Automate the addition, removal, and update of dependencies like Maven or Gradle libraries."
+Eclipse,Source Control Integration,"Automate Git/SVN operations like commits, pulls, merges, and branch creation directly in Eclipse."
+Eclipse,Unit Test Generation,Automatically generate unit test stubs for Java classes and methods.
+Eclipse,Continuous Compilation,Automate continuous compilation of code after every file change.
+Eclipse,Code Cleanup,"Automate the cleanup of unused imports, redundant code, and formatting inconsistencies."
+Eclipse,Exporting Projects,"Automate exporting projects into JAR, WAR, or EAR files."
+Eclipse,Code Refactoring,Automate common refactoring tasks like renaming variables or methods across the project.
+Eclipse,Debugging Setup,Automate the setup of debugging configurations for new projects.
+Eclipse,Error Log Parsing,Automate error log analysis and generate error summaries for debugging.
+Eclipse,API Documentation Generation,Automatically generate JavaDocs for all public classes and methods.
+Eclipse,Test Execution,Automate running test cases and generating reports within the IDE.
+Eclipse,Workspace Backup,Automate regular backups of your Eclipse workspace.
+Eclipse,Plugin Management,Automate the installation and update of Eclipse plugins.
+Eclipse,Code Coverage Reports,Automate the generation of code coverage reports after running tests.
+Eclipse,Code Template Management,Automate the management and sharing of custom code templates.
+Eclipse,Code Formatting,Automatically format code based on predefined standards.
+Eclipse,Build Notifications,Automate sending notifications for build successes or failures.
+Eclipse,Project Import,Automate the import of existing projects into the workspace.
+Eclipse,Environment Configuration,Automate the setup of Java Development Kit (JDK) or other SDKs.
+Eclipse,Resource Cleanup,Automate the cleanup of unused resources and assets in projects.
+Eclipse,Version Upgrade,Automate upgrading the Eclipse IDE to the latest version.
+Eclipse,Library Inclusion,Automate adding external libraries to projects.
+Eclipse,Project Archival,Automate archiving projects that are no longer active.
+Eclipse,Dependency Updates,Automate checking for and updating outdated dependencies.
+Eclipse,Workspace Synchronization,Automate synchronizing workspace settings across devices.
+Eclipse,Build Script Generation,Automate the creation of build scripts like Maven POM or Gradle build files.
+Eclipse,Log File Management,Automate the generation and cleanup of application log files.
+Eclipse,Database Connection Setup,Automate configuring database connections in Eclipse.
+Eclipse,Code Snippet Insertion,Automate the insertion of commonly used code snippets during development.
+Eclipse,Test Data Generation,Automate the generation of test data for unit or integration testing.
+Eclipse,Java Compiler Settings,Automate configuring Java compiler settings for projects.
+Eclipse,Project Documentation Export,Automate exporting project documentation in various formats like HTML or PDF.
+Eclipse,Code Quality Checks,Automate running tools like Checkstyle or PMD to ensure code quality.
+Eclipse,Build Artifact Cleanup,Automate the cleanup of old build artifacts like JARs or WARs.
+Eclipse,Multi-Project Builds,Automate the build process for solutions with multiple interdependent projects.
+Eclipse,Automated Testing Integration,Automate the integration of testing frameworks like JUnit or TestNG.
+Eclipse,Merge Conflict Resolution,Automate resolving common merge conflicts in code.
+Eclipse,Code Dependency Analysis,Automate analyzing dependencies between classes and packages.
+Eclipse,Team Settings Synchronization,Automate syncing workspace and project settings across team members.
+Eclipse,Performance Profiling,Automate profiling applications to identify bottlenecks.
+Eclipse,Code Review Preparation,Automate preparing code for review by ensuring formatting and standards compliance.
+Eclipse,Maven Build Automation,Automate Maven builds directly from Eclipse.
+Eclipse,Gradle Build Automation,Automate Gradle builds directly from Eclipse.
+Eclipse,Error Marker Cleanup,Automate clearing error markers for resolved issues.
+Eclipse,Static Code Analysis,Automate running static code analysis tools like SonarLint.
+Eclipse,Annotation Validation,Automate the validation of annotations like @Override or @Deprecated.
+Eclipse,XML Schema Validation,Automate validating XML files against defined schemas.
+Eclipse,Memory Leak Detection,Automate detecting and reporting memory leaks in applications.
+Eclipse,Version Control History Reports,Automate generating reports on version control history.
+Eclipse,Hotfix Deployment,Automate deploying hotfixes to production environments.
+Eclipse,Code Coverage Thresholds,Automate setting and enforcing code coverage thresholds.
+Eclipse,Test Suite Creation,Automate creating test suites for integration and regression testing.
+Eclipse,Java Build Path Setup,Automate configuring the Java build path for projects.
+Eclipse,Automated Refactoring Rules,Automate applying refactoring rules across multiple files or projects.
+Eclipse,Continuous Integration Scripts,Automate generating CI/CD pipeline scripts.
+Eclipse,Code Metrics Reports,Automate generating reports on code metrics like cyclomatic complexity.
+Eclipse,Dead Code Detection,Automate identifying and removing dead or unused code.
+Eclipse,Project Metadata Cleanup,Automate cleaning up project metadata files like .classpath or .project.
+Eclipse,Plugin Dependency Resolver,Automate resolving plugin dependency conflicts.
+Eclipse,Automated Debugging Scripts,Automate the generation of debugging scripts for common issues.
+Eclipse,Workspace Migration,Automate migrating workspaces between different machines or environments.
+Eclipse,Build Time Tracking,Automate tracking and reporting build times to optimize performance.
+Eclipse,Code Completion Suggestions,Automate customizing code completion suggestions for specific projects.
+Eclipse,Resource Bundles Management,Automate updating and managing resource bundles for internationalization.
+Eclipse,Continuous Deployment Integration,Automate deploying builds to a remote server directly from Eclipse.
+Eclipse,Automated Code Comparison,Automate comparing code changes between two versions of a file.
+Eclipse,Java Version Upgrade,Automate upgrading Java versions for existing projects.
+Eclipse,Auto-Generation of Getter/Setter,Automate generating getter and setter methods for class fields.
+Eclipse,File Encoding Management,Automate validating and fixing file encodings for cross-platform compatibility.
+Eclipse,Performance Test Reports,Automate generating performance test reports after execution.
+Eclipse,Java EE Configuration,Automate configuring Java EE settings for enterprise projects.
+Eclipse,Custom Launch Configurations,Automate creating custom launch configurations for debugging.
+Eclipse,Automated Build Fail Alerts,Automate sending alerts for build failures to teams.
+Eclipse,Integration with Jenkins,Automate integrating Eclipse builds with Jenkins pipelines.
+Eclipse,Automated File Renaming,Automate renaming files and updating references in the code.
+Eclipse,Code Migration Scripts,Automate migrating code to newer frameworks or libraries.
+Eclipse,Import Optimization,Automate the organization of imports in Java files.
+Eclipse,Code Structure Visualization,Automate generating visual diagrams for class hierarchies or dependencies.
+Eclipse,IDE Performance Monitoring,Automate monitoring and improving Eclipse IDE performance.
+Eclipse,Automated Bug Reports,Automate generating and exporting detailed bug reports.
+Eclipse,Integration with Docker,Automate running and managing Docker containers directly from Eclipse.
+Eclipse,Build Artifact Publishing,Automate publishing build artifacts to repositories like Nexus or Artifactory.
+Eclipse,Eclipse Workspace Cleaner,Automate cleaning up unused or temporary files in the workspace.
+Eclipse,Eclipse Theme Switching,Automate switching between Eclipse themes based on preferences.
+Eclipse,Remote Debugging Setup,Automate setting up remote debugging configurations.
+Eclipse,Code Module Packaging,Automate packaging code modules into reusable libraries.
+Eclipse,Automated API Testing,Automate API testing directly from Eclipse.
+Eclipse,JavaFX Project Setup,Automate setting up JavaFX projects with required dependencies.
+Eclipse,Automated UML Diagram Generation,Automate generating UML diagrams from Java classes.
+Eclipse,Spring Boot Project Configuration,Automate configuring Spring Boot projects with required dependencies.
+Eclipse,Code Execution Logs,Automate capturing and storing code execution logs for debugging.
+Eclipse,Integration with Kubernetes,Automate deploying applications to Kubernetes clusters from Eclipse.
+Eclipse,Multi-Language Project Setup,Automate setting up projects with support for multiple languages like Java and Python.
+Eclipse,Automated Annotation Processing,Automate processing custom annotations during project builds.

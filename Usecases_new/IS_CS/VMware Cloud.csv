@@ -1,0 +1,69 @@
+Category,Short Description,Description
+VMware Cloud,Auto-Scaling Virtual Machines,Automatically scale virtual machines based on CPU or memory usage using vSphere Auto Scaling policies.
+VMware Cloud,VM Backup Scheduling,Automate the scheduling of backups for virtual machines using vSphere Data Protection or third-party tools.
+VMware Cloud,VM Deployment with Templates,Automate the deployment of virtual machines using pre-configured vSphere templates.
+VMware Cloud,vSphere Cluster Health Monitoring,Automate health checks for vSphere clusters using vRealize Operations Manager.
+VMware Cloud,vSAN Storage Policy Enforcement,Automate the enforcement of vSAN storage policies for data protection and performance.
+VMware Cloud,NSX Firewall Rule Management,Automate the creation and management of NSX firewall rules using APIs or scripts.
+VMware Cloud,vSphere Host Patching,Automate patching of vSphere hosts using vSphere Lifecycle Manager.
+VMware Cloud,VM Snapshot Management,Automate the creation and deletion of VM snapshots using PowerCLI or vSphere APIs.
+VMware Cloud,vSphere Log Analysis,Automate log analysis using vRealize Log Insight for troubleshooting and monitoring.
+VMware Cloud,vSphere VM Power Management,"Automate power operations (start, stop, restart) for virtual machines using PowerCLI."
+VMware Cloud,NSX Load Balancer Configuration,Automate the setup and configuration of NSX load balancers for application availability.
+VMware Cloud,vSphere Resource Pool Management,Automate the creation and management of resource pools in vSphere for workload isolation.
+VMware Cloud,vSphere Tagging Automation,Automate tagging of vSphere resources for better organization and cost tracking.
+VMware Cloud,vRealize Automation Blueprint Deployment,Automate the deployment of blueprints in vRealize Automation for consistent infrastructure provisioning.
+VMware Cloud,vSphere VM Migration,Automate the migration of virtual machines between hosts or clusters using vMotion.
+VMware Cloud,NSX Security Group Management,Automate the creation and management of NSX security groups for micro-segmentation.
+VMware Cloud,vSphere Performance Monitoring,Automate performance monitoring and alerting for virtual machines using vRealize Operations Manager.
+VMware Cloud,vSphere Cluster Auto-Healing,Automatically replace failed hosts in a vSphere cluster using vSphere HA.
+VMware Cloud,vSphere VM Disk Expansion,Automate the expansion of virtual machine disks based on storage usage thresholds.
+VMware Cloud,vSphere Host Configuration Drift Detection,Automate detection of configuration drift in vSphere hosts using vRealize Configuration Manager.
+VMware Cloud,NSX Edge Gateway Configuration,Automate the setup and management of NSX Edge Gateways for network routing and security.
+VMware Cloud,vSphere VM Template Updates,Automate updates to VM templates to ensure they include the latest patches and configurations.
+VMware Cloud,vSphere Cluster Capacity Planning,Automate capacity planning for vSphere clusters using vRealize Operations Manager.
+VMware Cloud,vSphere VM Backup Verification,Automate verification of VM backups to ensure data integrity and recoverability.
+VMware Cloud,NSX Distributed Firewall Automation,Automate the configuration of NSX Distributed Firewall rules for enhanced security.
+VMware Cloud,vSphere VM Network Configuration,Automate the configuration of virtual machine network settings using PowerCLI.
+VMware Cloud,vSphere Host Maintenance Mode,Automate the process of placing hosts into maintenance mode for patching or upgrades.
+VMware Cloud,vSphere VM Clone Automation,Automate the cloning of virtual machines for testing or development purposes.
+VMware Cloud,vSphere VM Resource Allocation,Automate the allocation of CPU and memory resources to virtual machines based on workload requirements.
+VMware Cloud,vSphere VM Deletion,Automate the deletion of unused or obsolete virtual machines to optimize resources.
+VMware Cloud,vSphere VM Tagging for Cost Tracking,Automate tagging of virtual machines for cost tracking and reporting.
+VMware Cloud,vSphere VM Power State Reporting,Automate reporting of virtual machine power states using PowerCLI or vSphere APIs.
+VMware Cloud,vSphere VM Disk Cleanup,Automate cleanup of unused or orphaned virtual machine disks to free up storage.
+VMware Cloud,vSphere VM Network Adapter Management,Automate the addition or removal of network adapters for virtual machines.
+VMware Cloud,vSphere VM Snapshot Cleanup,Automate the cleanup of old or unused VM snapshots to optimize storage usage.
+VMware Cloud,vSphere VM Performance Optimization,Automate performance optimization for virtual machines using vRealize Operations Manager.
+VMware Cloud,vSphere VM Backup Scheduling,Automate the scheduling of backups for virtual machines using vSphere Data Protection.
+VMware Cloud,vSphere VM Power Policy Enforcement,Automate enforcement of power policies for virtual machines to optimize energy usage.
+VMware Cloud,vSphere VM Disk Encryption,Automate the encryption of virtual machine disks using vSphere Encryption.
+VMware Cloud,vSphere VM Network Security,Automate the configuration of network security settings for virtual machines.
+VMware Cloud,vSphere VM Resource Monitoring,Automate monitoring of virtual machine resource usage using vRealize Operations Manager.
+VMware Cloud,vSphere VM Backup Retention Policy,Automate enforcement of backup retention policies for virtual machines.
+VMware Cloud,vSphere VM Disk Snapshot Management,Automate the management of disk snapshots for virtual machines.
+VMware Cloud,vSphere VM Network Traffic Monitoring,Automate monitoring of network traffic for virtual machines using vRealize Network Insight.
+VMware Cloud,vSphere VM Disk Performance Monitoring,Automate monitoring of disk performance for virtual machines using vRealize Operations Manager.
+VMware Cloud,vSphere VM Backup Restoration,Automate the restoration of virtual machine backups using vSphere Data Protection.
+VMware Cloud,vSphere VM Disk Space Monitoring,Automate monitoring of disk space usage for virtual machines using vRealize Operations Manager.
+VMware Cloud,vSphere VM Network Configuration Backup,Automate the backup of network configurations for virtual machines.
+VMware Cloud,vSphere VM Disk Space Cleanup,Automate cleanup of unused disk space for virtual machines.
+VMware Cloud,vSphere VM Network Adapter Configuration,Automate the configuration of network adapters for virtual machines.
+VMware Cloud,vSphere VM Disk Space Optimization,Automate optimization of disk space usage for virtual machines.
+VMware Cloud,vSphere VM Network Traffic Optimization,Automate optimization of network traffic for virtual machines.
+VMware Cloud,vSphere VM Disk Space Allocation,Automate allocation of disk space for virtual machines.
+VMware Cloud,vSphere VM Network Traffic Allocation,Automate allocation of network traffic for virtual machines.
+VMware Cloud,vSphere VM Disk Space Monitoring and Reporting,Automate monitoring and reporting of disk space usage for virtual machines.
+VMware Cloud,vSphere VM Network Traffic Monitoring and Reporting,Automate monitoring and reporting of network traffic for virtual machines.
+VMware Cloud,vSphere VM Disk Space Cleanup and Optimization,Automate cleanup and optimization of disk space usage for virtual machines.
+VMware Cloud,vSphere VM Network Traffic Optimization and Allocation,Automate optimization and allocation of network traffic for virtual machines.
+VMware Cloud,vSphere VM Disk Space Allocation and Monitoring,Automate allocation and monitoring of disk space for virtual machines.
+VMware Cloud,vSphere VM Network Traffic Allocation and Monitoring,Automate allocation and monitoring of network traffic for virtual machines.
+VMware Cloud,vSphere VM Disk Space Optimization and Monitoring,Automate optimization and monitoring of disk space usage for virtual machines.
+VMware Cloud,vSphere VM Network Traffic Optimization and Monitoring,Automate optimization and monitoring of network traffic for virtual machines.
+VMware Cloud,vSphere VM Disk Space Cleanup and Monitoring,Automate cleanup and monitoring of disk space usage for virtual machines.
+VMware Cloud,vSphere VM Network Traffic Cleanup and Monitoring,Automate cleanup and monitoring of network traffic for virtual machines.
+VMware Cloud,vSphere VM Disk Space Optimization and Cleanup,Automate optimization and cleanup of disk space usage for virtual machines.
+VMware Cloud,vSphere VM Network Traffic Optimization and Cleanup,Automate optimization and cleanup of network traffic for virtual machines.
+VMware Cloud,vSphere VM Disk Space Allocation and Cleanup,Automate allocation and cleanup of disk space for virtual machines.
+VMware Cloud,vSphere VM Network Traffic Allocation and Cleanup,Automate allocation and cleanup of network traffic for virtual machines.

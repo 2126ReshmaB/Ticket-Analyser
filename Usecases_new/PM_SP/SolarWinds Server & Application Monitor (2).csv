@@ -1,0 +1,81 @@
+Category,Short Description,Description
+SolarWinds Server & Application Monitor,Monitor Server Health Metrics,"Track CPU, memory, and disk usage to ensure server performance."
+SolarWinds Server & Application Monitor,Application Performance Monitoring,Monitor application response times and performance metrics.
+SolarWinds Server & Application Monitor,Real-Time Alert Notifications,Receive instant alerts for server or application performance issues.
+SolarWinds Server & Application Monitor,Monitor Virtual Machines,Track the performance and health of virtual machines.
+SolarWinds Server & Application Monitor,Database Performance Monitoring,Monitor database queries and performance bottlenecks.
+SolarWinds Server & Application Monitor,Monitor Cloud Applications,Track the performance of cloud-hosted applications and services.
+SolarWinds Server & Application Monitor,Server Uptime Monitoring,Ensure servers remain operational with continuous uptime tracking.
+SolarWinds Server & Application Monitor,Monitor Web Server Performance,Track metrics like HTTP response times and server load.
+SolarWinds Server & Application Monitor,Custom Application Monitoring,Create custom monitors for proprietary or third-party applications.
+SolarWinds Server & Application Monitor,Monitor Application Dependencies,Identify and monitor dependencies between applications and services.
+SolarWinds Server & Application Monitor,Monitor Hardware Health,"Track hardware metrics like temperature, fan speed, and power supply."
+SolarWinds Server & Application Monitor,Monitor Active Directory Performance,Ensure Active Directory services are running efficiently.
+SolarWinds Server & Application Monitor,Monitor Email Servers,Track the performance of email servers like Exchange or SMTP.
+SolarWinds Server & Application Monitor,Monitor Application Logs,Collect and analyze application logs for troubleshooting.
+SolarWinds Server & Application Monitor,Monitor Network Latency,Track latency between servers and applications to identify bottlenecks.
+SolarWinds Server & Application Monitor,Monitor Storage Performance,Track storage I/O and capacity to prevent bottlenecks.
+SolarWinds Server & Application Monitor,Monitor Cloud Infrastructure,Track the performance of cloud-hosted servers and services.
+SolarWinds Server & Application Monitor,Monitor Kubernetes Clusters,Track the health and performance of Kubernetes clusters.
+SolarWinds Server & Application Monitor,Monitor Microservices,Ensure microservices are running efficiently and without errors.
+SolarWinds Server & Application Monitor,Monitor Containerized Applications,Track the performance of containerized applications like Docker.
+SolarWinds Server & Application Monitor,Monitor Web Application Performance,Track metrics like page load times and user interactions.
+SolarWinds Server & Application Monitor,Monitor Middleware Performance,Track middleware like Apache Kafka or RabbitMQ for performance issues.
+SolarWinds Server & Application Monitor,Monitor API Performance,Track API response times and error rates.
+SolarWinds Server & Application Monitor,Monitor Server Processes,Track and manage processes running on servers.
+SolarWinds Server & Application Monitor,Monitor Windows Services,Ensure critical Windows services are running without interruptions.
+SolarWinds Server & Application Monitor,Monitor Linux Servers,Track performance metrics for Linux-based servers.
+SolarWinds Server & Application Monitor,Monitor Server Disk Usage,Track disk space usage to prevent storage-related issues.
+SolarWinds Server & Application Monitor,Monitor Server Temperature,Ensure server hardware operates within safe temperature ranges.
+SolarWinds Server & Application Monitor,Monitor Server Power Supply,Track power supply metrics to prevent hardware failures.
+SolarWinds Server & Application Monitor,Monitor Server Fan Speed,Ensure server fans are operating correctly to prevent overheating.
+SolarWinds Server & Application Monitor,Monitor Server Cluster Health,Track the performance of clustered server environments.
+SolarWinds Server & Application Monitor,Monitor Server Load Balancers,Ensure load balancers distribute traffic efficiently.
+SolarWinds Server & Application Monitor,Monitor Server Backup Processes,Track the status of server backup jobs to ensure data safety.
+SolarWinds Server & Application Monitor,Monitor Server Patch Updates,Ensure servers are up-to-date with the latest patches and updates.
+SolarWinds Server & Application Monitor,Monitor Server Boot Times,Track server boot times to identify startup issues.
+SolarWinds Server & Application Monitor,Monitor Server Resource Allocation,Track resource usage to optimize server performance.
+SolarWinds Server & Application Monitor,Monitor Server Failover Events,Track failover events to ensure high availability.
+SolarWinds Server & Application Monitor,Monitor Server Configuration Changes,Track configuration changes to identify potential issues.
+SolarWinds Server & Application Monitor,Monitor Server Event Logs,Collect and analyze server event logs for troubleshooting.
+SolarWinds Server & Application Monitor,Monitor Server Network Interfaces,Track network interface performance and bandwidth usage.
+SolarWinds Server & Application Monitor,Monitor Server CPU Usage,Track CPU usage to prevent performance bottlenecks.
+SolarWinds Server & Application Monitor,Monitor Server Memory Usage,Track memory usage to ensure optimal server performance.
+SolarWinds Server & Application Monitor,Monitor Server Disk I/O,Track disk input/output operations to identify bottlenecks.
+SolarWinds Server & Application Monitor,Monitor Server Latency,Track server response times to ensure low latency.
+SolarWinds Server & Application Monitor,Monitor Server Error Rates,Track error rates to identify and resolve issues quickly.
+SolarWinds Server & Application Monitor,Monitor Server Availability,Ensure servers remain available and accessible to users.
+SolarWinds Server & Application Monitor,Monitor Server Downtime,Track and analyze server downtime to improve reliability.
+SolarWinds Server & Application Monitor,Monitor Server Performance Trends,Analyze historical performance trends to predict future issues.
+SolarWinds Server & Application Monitor,Monitor Server Resource Utilization,Track resource utilization to optimize server workloads.
+SolarWinds Server & Application Monitor,Monitor Server SLA Compliance,Ensure servers meet service-level agreements for uptime and performance.
+SolarWinds Server & Application Monitor,Monitor Server Capacity Planning,Plan server capacity to meet future demand.
+SolarWinds Server & Application Monitor,Monitor Server Scalability,Track server scalability to handle increased workloads.
+SolarWinds Server & Application Monitor,Monitor Server Security Events,Track security events to identify potential threats.
+SolarWinds Server & Application Monitor,Monitor Server Authentication Logs,Track authentication logs to detect unauthorized access attempts.
+SolarWinds Server & Application Monitor,Monitor Server Firewall Logs,Analyze firewall logs to ensure secure server operations.
+SolarWinds Server & Application Monitor,Monitor Server Compliance,Ensure servers comply with regulatory and organizational standards.
+SolarWinds Server & Application Monitor,Monitor Server Resource Contention,Identify resource contention issues affecting server performance.
+SolarWinds Server & Application Monitor,Monitor Server Application Crashes,Track application crashes to identify root causes.
+SolarWinds Server & Application Monitor,Monitor Server Application Updates,Ensure applications are updated to the latest versions.
+SolarWinds Server & Application Monitor,Monitor Server Application Dependencies,Track dependencies to ensure seamless application performance.
+SolarWinds Server & Application Monitor,Monitor Server Application Logs,Collect and analyze logs for application troubleshooting.
+SolarWinds Server & Application Monitor,Monitor Server Application Errors,Track application error rates to resolve issues quickly.
+SolarWinds Server & Application Monitor,Monitor Server Application Latency,Track application response times to ensure low latency.
+SolarWinds Server & Application Monitor,Monitor Server Application Throughput,Track application throughput to ensure optimal performance.
+SolarWinds Server & Application Monitor,Monitor Server Application Resource Usage,Track resource usage for applications running on servers.
+SolarWinds Server & Application Monitor,Monitor Server Application SLA Compliance,Ensure applications meet service-level agreements for performance.
+SolarWinds Server & Application Monitor,Monitor Server Application Scalability,Track application scalability to handle increased workloads.
+SolarWinds Server & Application Monitor,Monitor Server Application Availability,Ensure applications remain available and accessible to users.
+SolarWinds Server & Application Monitor,Monitor Server Application Downtime,Track and analyze application downtime to improve reliability.
+SolarWinds Server & Application Monitor,Monitor Server Application Trends,Analyze historical application performance trends.
+SolarWinds Server & Application Monitor,Monitor Server Application Security,Track application security events to identify potential threats.
+SolarWinds Server & Application Monitor,Monitor Server Application Authentication,Track authentication events for applications to detect unauthorized access.
+SolarWinds Server & Application Monitor,Monitor Server Application Firewall Logs,Analyze firewall logs for applications to ensure secure operations.
+SolarWinds Server & Application Monitor,Monitor Server Application Compliance,Ensure applications comply with regulatory and organizational standards.
+SolarWinds Server & Application Monitor,Monitor Server Application Resource Contention,Identify resource contention issues affecting application performance.
+SolarWinds Server & Application Monitor,Monitor Server Application Crash Reports,Track crash reports to identify and resolve application issues.
+SolarWinds Server & Application Monitor,Monitor Server Application Update Logs,Track application update logs to ensure successful updates.
+SolarWinds Server & Application Monitor,Monitor Server Application Dependency Changes,Track changes in application dependencies to prevent disruptions.
+SolarWinds Server & Application Monitor,Monitor Server Application Error Logs,Collect and analyze error logs for application troubleshooting.
+SolarWinds Server & Application Monitor,Monitor Server Application Performance Metrics,Track key performance metrics for applications running on servers.

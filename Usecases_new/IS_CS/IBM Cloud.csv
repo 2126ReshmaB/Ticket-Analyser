@@ -1,0 +1,77 @@
+Category,Short Description,Description
+IBM Cloud,Auto-Scaling Virtual Servers,Automatically scale virtual server instances based on CPU or memory usage using IBM Cloud Auto-Scaling policies.
+IBM Cloud,Object Storage Lifecycle Management,Automate data archiving and deletion in IBM Cloud Object Storage using lifecycle policies.
+IBM Cloud,Cloud Functions for File Processing,Trigger IBM Cloud Functions to process files uploaded to Object Storage.
+IBM Cloud,Infrastructure Deployment with Schematics,Automate the deployment of infrastructure using IBM Cloud Schematics and Terraform templates.
+IBM Cloud,Database Backup Scheduling,Schedule automated backups for IBM Cloud Databases using IBM Cloud Backup.
+IBM Cloud,Kubernetes Cluster Autoscaling,Automatically scale Kubernetes clusters based on workload using IBM Cloud Kubernetes Service.
+IBM Cloud,Monitoring Alert Notifications,Set up IBM Cloud Monitoring alerts to notify teams of resource issues via email or Slack.
+IBM Cloud,Key Rotation in Secrets Manager,Automate the rotation of secrets stored in IBM Cloud Secrets Manager using IBM Cloud Functions.
+IBM Cloud,Application Deployment with DevOps,Automate application deployment to IBM Cloud using IBM Cloud Continuous Delivery pipelines.
+IBM Cloud,Security Threat Response,Automate responses to security threats detected by IBM Security QRadar using IBM Cloud Functions.
+IBM Cloud,Event-Driven Workflows with Event Streams,Trigger workflows when events occur in IBM Cloud services using Event Streams and Cloud Functions.
+IBM Cloud,Auto-Tagging Resources,Use IBM Cloud Functions to automatically tag resources for cost tracking and management.
+IBM Cloud,Log Analysis with LogDNA,Automate log analysis using IBM Cloud Log Analysis with LogDNA for monitoring and troubleshooting.
+IBM Cloud,Cost Management Budget Alerts,Set up automated budget alerts using IBM Cloud Cost Management to track spending.
+IBM Cloud,Load Balancer Health Checks,Automate health checks for IBM Cloud Load Balancers to ensure application availability.
+IBM Cloud,IoT Data Processing,Process IoT data streams in real-time using IBM Watson IoT Platform and IBM Cloud Functions.
+IBM Cloud,Object Storage Cross-Region Replication,Automate replication of Object Storage data across regions for disaster recovery.
+IBM Cloud,Log Retention Policies,Automate log retention settings for IBM Cloud Monitoring and Logging.
+IBM Cloud,Auto-Healing Virtual Servers,Automatically restart unhealthy virtual server instances using IBM Cloud Monitoring and Automation.
+IBM Cloud,Compliance Checks with Security Center,Automate compliance checks using IBM Cloud Security and Compliance Center.
+IBM Cloud,Scheduled Tasks with Cloud Functions,Schedule tasks using IBM Cloud Functions to trigger workflows at specific times.
+IBM Cloud,Elasticsearch Log Ingestion,Automate log ingestion into Elasticsearch for analysis using IBM Cloud Functions.
+IBM Cloud,Object Storage Access Monitoring,Monitor and alert on unauthorized access to Object Storage buckets.
+IBM Cloud,Infrastructure Drift Detection,Automate detection of infrastructure drift using IBM Cloud Schematics and Terraform.
+IBM Cloud,Media Transcoding with Functions,Automate video transcoding using IBM Cloud Functions and IBM Cloud Video Services.
+IBM Cloud,Spot Instance Scaling,Automate scaling of Spot Instances for cost savings.
+IBM Cloud,Monitoring Dashboard Updates,Automate updates to IBM Cloud Monitoring dashboards for real-time monitoring.
+IBM Cloud,Object Storage Versioning,Enable and manage versioning for Object Storage objects automatically.
+IBM Cloud,Database Read Replica Management,Automate creation and management of read replicas for IBM Cloud Databases.
+IBM Cloud,CDN Cache Invalidation,Automate cache invalidation for IBM Cloud Content Delivery Network (CDN) endpoints.
+IBM Cloud,Predictive Analytics with Watson Studio,Use IBM Watson Studio to automate predictive analytics workflows using machine learning models.
+IBM Cloud,Data Lifecycle Management,Automate data movement between Object Storage tiers based on access patterns.
+IBM Cloud,Custom Metric Alerts,Automate creation of alerts for custom metrics in IBM Cloud Monitoring.
+IBM Cloud,Application Environment Updates,Automate updates to application environments using IBM Cloud Continuous Delivery pipelines.
+IBM Cloud,Security Scans with Functions,Automate security scans using IBM Cloud Functions and third-party tools.
+IBM Cloud,Template Validation,Automate validation of Terraform templates in IBM Cloud Schematics before deployment.
+IBM Cloud,Object Storage Policy Enforcement,Automate enforcement of Object Storage policies for compliance.
+IBM Cloud,Database Backup Automation,Automate backups for IBM Cloud Databases using IBM Cloud Backup.
+IBM Cloud,Anomaly Detection,Automate anomaly detection using IBM Cloud Monitoring and AI models.
+IBM Cloud,Log Parsing with Functions,Automate parsing and analysis of logs using IBM Cloud Functions.
+IBM Cloud,Object Storage Encryption Enforcement,Automate enforcement of encryption for Object Storage buckets.
+IBM Cloud,Event Monitoring,Automate monitoring of IBM Cloud Event Streams for security and operational insights.
+IBM Cloud,Data Transformation,Automate data transformation workflows using IBM Cloud Functions and Watson Studio.
+IBM Cloud,Maintenance Window Automation,Automate scheduling of maintenance windows for IBM Cloud Databases.
+IBM Cloud,Custom Metrics Creation,Automate creation of custom metrics for IBM Cloud Monitoring.
+IBM Cloud,Public Access Blocking,Automate blocking of public access to Object Storage buckets.
+IBM Cloud,API Gateway Integration,Automate backend logic for IBM API Gateway using IBM Cloud Functions.
+IBM Cloud,Template Deployment,Automate deployment of resources using validated Terraform templates in IBM Cloud Schematics.
+IBM Cloud,Metadata Extraction,Automate extraction of metadata from Object Storage objects.
+IBM Cloud,Real-Time Notifications,Automate real-time notifications using IBM Cloud Functions and Event Streams.
+IBM Cloud,Log Insights Queries,Automate execution of queries in IBM Cloud Log Analysis for insights.
+IBM Cloud,Inventory Reports,Automate generation of inventory reports for IBM Cloud resources.
+IBM Cloud,Data Aggregation,Automate data aggregation workflows using IBM Cloud Functions and Watson Studio.
+IBM Cloud,Deployment Rollbacks,Automate rollbacks for failed deployments using IBM Cloud Schematics.
+IBM Cloud,Access Logs Analysis,Automate collection and analysis of access logs for IBM Cloud resources.
+IBM Cloud,Event-Driven Workflows,Automate workflows triggered by specific events using IBM Cloud Event Streams and Functions.
+IBM Cloud,Alarm-Based Scaling,Automate scaling of resources based on IBM Cloud Monitoring alarms.
+IBM Cloud,Object Locking,Automate enforcement of object locking for Object Storage buckets.
+IBM Cloud,Data Validation,Automate data validation workflows using IBM Cloud Functions.
+IBM Cloud,Resource Deletion,Automate deletion of unused or obsolete IBM Cloud resources.
+IBM Cloud,Data Replication,Automate replication of data between Object Storage buckets.
+IBM Cloud,Data Enrichment,Automate data enrichment workflows using IBM Cloud Functions and Watson Studio.
+IBM Cloud,Alarm-Based Notifications,Automate notifications based on IBM Cloud Monitoring alarms.
+IBM Cloud,Object Tagging,Automate tagging of objects in Object Storage buckets.
+IBM Cloud,Data Cleansing,Automate data cleansing workflows using IBM Cloud Functions and Watson Studio.
+IBM Cloud,Resource Creation,Automate creation of IBM Cloud resources using IBM Cloud Schematics.
+IBM Cloud,Object Archiving,Automate archiving of objects in Object Storage buckets.
+IBM Cloud,Data Synchronization,Automate data synchronization workflows using IBM Cloud Functions.
+IBM Cloud,Alarm-Based Actions,Automate actions based on IBM Cloud Monitoring alarms.
+IBM Cloud,Object Deletion,Automate deletion of objects in Object Storage buckets.
+IBM Cloud,Data Integration,Automate data integration workflows using IBM Cloud Functions and Watson Studio.
+IBM Cloud,Resource Management,Automate management of IBM Cloud resources using IBM Cloud CLI and APIs.
+IBM Cloud,Object Restoration,Automate restoration of objects in Object Storage buckets.
+IBM Cloud,Data Export,Automate data export workflows using IBM Cloud Functions and Watson Studio.
+IBM Cloud,Object Migration,Automate migration of objects between Object Storage buckets.
+IBM Cloud,Data Import,Automate data import workflows using IBM Cloud Functions and Watson Studio.

@@ -1,0 +1,58 @@
+Category,Short Description,Description
+SailPoint,Automate User Provisioning,Automatically provision user accounts in connected applications based on HR or business workflows.
+SailPoint,Automate User Deprovisioning,Automatically revoke or disable user accounts in connected systems when employees leave the organization.
+SailPoint,Automate Access Certification,Automate access certification campaigns to review and validate user access rights periodically.
+SailPoint,Automate Role-Based Access Control,"Automatically assign roles to users based on attributes such as department, location, or job title."
+SailPoint,Automate Password Resets,Enable users to reset passwords automatically using self-service functionality.
+SailPoint,Automate Group Membership Updates,Automatically update group memberships based on user attributes or role changes.
+SailPoint,Automate Application Access Requests,Automatically approve or deny application access requests based on predefined rules and workflows.
+SailPoint,Automate User Onboarding,Provision new users with access to required applications and roles on their first day.
+SailPoint,Automate User Offboarding,Revoke access to all applications and resources when a user leaves the organization.
+SailPoint,Automate Compliance Reporting,"Generate compliance reports automatically to track user access, role assignments, and policy adherence."
+SailPoint,Automate Identity Risk Scoring,Automatically calculate and assign risk scores to user identities based on their access and activities.
+SailPoint,Automate Privileged Access Management,Automatically manage and monitor privileged access to critical systems and applications.
+SailPoint,Automate Access Reviews,Schedule and automate periodic access reviews to validate user access rights and ensure compliance.
+SailPoint,Automate Role Mining,Automatically identify and recommend roles by analyzing user access patterns and entitlements.
+SailPoint,Automate Policy Violations Remediation,"Automatically detect and remediate policy violations, such as segregation of duties (SoD) conflicts."
+SailPoint,Automate Policy Enforcement,"Enforce security and compliance policies such as password complexity, session timeouts, and access restrictions."
+SailPoint,Automate Application Role Management,Automatically manage application roles based on user attributes or group memberships.
+SailPoint,Automate Risk-Based Access Control,Enforce additional access controls for high-risk users or activities automatically.
+SailPoint,Automate Identity Lifecycle Management,"Manage the entire identity lifecycle, including provisioning, updates, and deprovisioning, using automated workflows."
+SailPoint,Automate User Attribute Sync,Automatically sync user attributes between SailPoint and connected applications to maintain consistency.
+SailPoint,Automate Audit Log Exports,Export audit logs automatically to external monitoring tools or storage systems for analysis.
+SailPoint,Automate User Access Requests,Enable users to request access to applications and resources via automated workflows.
+SailPoint,Automate Role Audits,Schedule and automate audits of roles to ensure they align with business requirements and compliance policies.
+SailPoint,Automate Account Reconciliation,Automatically reconcile accounts between SailPoint and connected applications to identify discrepancies.
+SailPoint,Automate Application Provisioning,Automatically provision access to new applications when users are onboarded or roles are updated.
+SailPoint,Automate Application Deprovisioning,Automatically deprovision access to applications when users leave the organization or no longer require access.
+SailPoint,Automate Access Certification Campaigns,"Automate the scheduling, distribution, and tracking of access certification campaigns."
+SailPoint,Automate Policy Exceptions Approval,Automatically route policy exception requests for review and approval based on predefined workflows.
+SailPoint,Automate Identity Analytics,"Generate identity analytics reports automatically to detect trends, anomalies, or high-risk user activities."
+SailPoint,Automate Segregation of Duties (SoD) Checks,Automatically check for and resolve SoD conflicts during access requests.
+SailPoint,Automate User Login Analytics,"Automatically analyze user login activities to identify trends, anomalies, or potential security risks."
+SailPoint,Automate Data Cleanup,"Automatically identify and remove stale, duplicate, or orphaned accounts."
+SailPoint,Automate Integration with HR Systems,"Sync user data between HR systems and SailPoint to automate onboarding, offboarding, and role updates."
+SailPoint,Automate Password Policy Updates,Automatically update and enforce password policies across connected applications.
+SailPoint,Automate Compliance Policy Enforcement,"Enforce compliance policies, such as GDPR, HIPAA, or SOX, using automated workflows."
+SailPoint,Automate Event-Based Workflows,"Trigger specific workflows automatically based on events like user creation, role changes, or group membership updates."
+SailPoint,Automate Risk-Based Authentication,Enforce additional authentication measures automatically for high-risk users or activities.
+SailPoint,Automate User Behavior Monitoring,Automatically monitor and analyze user behavior to detect anomalies or potential security risks.
+SailPoint,Automate Identity Federation,Configure and manage identity federation between SailPoint and partner organizations automatically.
+SailPoint,Automate Application Discovery,Automatically discover new applications and integrate them into SailPoint for centralized access management.
+SailPoint,Automate Privileged Account Monitoring,Continuously monitor and audit privileged account usage for compliance and security purposes.
+SailPoint,Automate Role Recommendations,Use AI-driven insights to recommend roles for users based on their access patterns and entitlements.
+SailPoint,Automate SoD Policy Updates,Automatically update segregation of duties (SoD) policies based on changes in business requirements.
+SailPoint,Automate Compliance Certification Reports,Generate compliance certification reports automatically and distribute them to stakeholders.
+SailPoint,Automate Integration with ITSM Tools,Integrate with ITSM tools like ServiceNow to automate incident creation and resolution based on SailPoint events.
+SailPoint,Automate User Consent Management,Automatically manage user consent for data sharing with connected applications.
+SailPoint,Automate Role Cleanup,Identify and remove unused or redundant roles automatically to streamline access management.
+SailPoint,Automate Password Expiry Notifications,Notify users automatically when their passwords are about to expire.
+SailPoint,Automate High-Risk Account Monitoring,Continuously monitor high-risk accounts and trigger alerts for suspicious activities.
+SailPoint,Automate Role-Based Notifications,"Automatically notify stakeholders of changes to roles, including additions, deletions, or modifications."
+SailPoint,Automate Application Access Reviews,Schedule and automate reviews of user access to applications to ensure compliance and reduce risk.
+SailPoint,Automate Identity Lifecycle Audits,Schedule and automate audits of the identity lifecycle process to ensure compliance and efficiency.
+SailPoint,Automate Integration with Cloud Platforms,"Automatically configure and manage provisioning for cloud platforms like AWS, Azure, or Google Cloud."
+SailPoint,Automate Idle Account Notifications,"Notify users automatically if their accounts are inactive for a certain period, prompting them to take action."
+SailPoint,Automate Login Failure Alerts,Automatically alert administrators or security teams after multiple failed login attempts.
+SailPoint,Automate Policy Conflict Resolution,Automatically detect and resolve conflicts between access policies.
+SailPoint,Automate Manager Access Reviews,Schedule and automate access reviews for managers to validate their team members' access rights.

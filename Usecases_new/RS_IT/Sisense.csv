@@ -1,0 +1,83 @@
+Category,Short Description,Description
+Sisense,Automate Data Refresh,Schedule automatic data refreshes for Sisense dashboards to ensure real-time updates.
+Sisense,Scheduled Report Delivery,Automate delivery of Sisense reports via email to stakeholders at predefined intervals.
+Sisense,Data Source Integration,"Use scripts to automate the integration of new data sources like APIs, databases, or files into Sisense."
+Sisense,Real-Time Data Updates,Automate real-time data streaming into dashboards for up-to-the-minute insights.
+Sisense,Custom KPI Dashboards,Automate the creation of KPI dashboards by combining metrics from multiple data sources.
+Sisense,Data Transformation,Use scripts to transform raw data into actionable metrics before visualizing in Sisense dashboards.
+Sisense,Alert Notifications,Automate alert notifications when specific KPIs exceed or fall below thresholds.
+Sisense,Financial Reporting,"Automate financial dashboards to track revenue, expenses, and profitability."
+Sisense,Sales Pipeline Tracking,Automate dashboards to track sales pipeline performance from CRM tools like Salesforce.
+Sisense,Marketing Campaign Analytics,Automate dashboards to monitor marketing campaign performance across multiple channels.
+Sisense,Churn Rate Analysis,Automate dashboards to calculate and visualize customer churn rates.
+Sisense,Subscription Metrics Tracking,"Automate dashboards to track subscription KPIs like MRR, ARR, or customer lifetime value."
+Sisense,Social Media Analytics,Automate the integration of social media metrics into Sisense from platforms like Facebook and Twitter.
+Sisense,E-commerce Analytics,Use scripts to automate dashboards for tracking e-commerce sales and website performance metrics.
+Sisense,Website Traffic Monitoring,Automate dashboards to track website traffic data from Google Analytics.
+Sisense,Predictive Analytics,Use scripts to integrate predictive models with Sisense dashboards for forecasting.
+Sisense,Data Consolidation,Automate the consolidation of data from multiple sources into a unified dashboard.
+Sisense,Employee Productivity Metrics,Automate dashboards to track employee productivity and performance metrics.
+Sisense,A/B Testing Results,Automate the visualization of A/B testing results for marketing or product experiments.
+Sisense,Budget vs Actual Dashboards,Automate dashboards comparing budgeted vs actual performance metrics.
+Sisense,Automated Data Quality Checks,Use scripts to validate and flag data quality issues before visualization.
+Sisense,Multi-Channel Attribution,Automate dashboards analyzing multi-channel attribution for marketing campaigns.
+Sisense,Automated Data Archiving,Archive old data and replace it with refreshed data in Sisense dashboards automatically.
+Sisense,Goal Achievement Dashboards,Automate dashboards that track progress toward business goals dynamically.
+Sisense,Automated SLA Monitoring,Automate SLA compliance tracking and dashboards for service-level agreements.
+Sisense,IT Infrastructure Monitoring,"Automate dashboards to track uptime, downtime, and performance of IT systems."
+Sisense,Customer Retention Analytics,Automate dashboards that track customer retention trends over time.
+Sisense,Inventory Management,Automate dashboards to monitor inventory levels and stock movement in real time.
+Sisense,Data Anomaly Detection,Use scripts to detect and highlight anomalies or outliers in Sisense dashboards.
+Sisense,Automated Forecasting,Automate forecasting dashboards using historical data trends and predictive analytics.
+Sisense,Workforce Diversity Metrics,Automate dashboards to track diversity and inclusion metrics in the workplace.
+Sisense,Automated Benchmarking,Use scripts to compare company performance to industry benchmarks dynamically.
+Sisense,Campaign ROI Analysis,Automate dashboards to calculate and visualize marketing campaign ROI.
+Sisense,Automated Data Permissions,Use scripts to dynamically manage data permissions for dashboards based on user roles.
+Sisense,Automated Survey Analysis,Automate dashboards for visualizing survey results from tools like Google Forms or Typeform.
+Sisense,Supplier Performance Metrics,Automate dashboards to track supplier performance and delivery performance metrics.
+Sisense,Automated Heatmaps,Create heatmaps dynamically in Sisense dashboards to visualize trends or geographic data.
+Sisense,Workflow Automation Insights,Automate dashboards to track and analyze workflow efficiency using tools like Zapier or Power Automate.
+Sisense,Fundraising Dashboards,Automate dashboards to track fundraising progress for nonprofits or NGOs.
+Sisense,Cross-Platform Analytics,Consolidate and automate analytics data from multiple platforms into Sisense dashboards.
+Sisense,Project Milestone Dashboards,Automate dashboards to monitor project milestones and deadlines.
+Sisense,Risk Management Analytics,Automate dashboards to track risk metrics and prioritize mitigation efforts.
+Sisense,Compliance Reporting,Automate dashboards to track compliance with regulatory requirements using real-time data.
+Sisense,Automated Data Sync,Schedule and automate synchronization of new data sources with Sisense dashboards.
+Sisense,Automated Alerts for KPIs,Trigger alerts and notifications when predefined KPIs exceed thresholds.
+Sisense,Energy Usage Dashboards,Automate dashboards to track energy consumption and sustainability metrics.
+Sisense,Automated Workflow Monitoring,Automate dashboards to monitor workflow and task completion metrics.
+Sisense,Revenue Growth Dashboards,Automate dashboards to visualize revenue trends and growth over time.
+Sisense,Automated Multi-Language Dashboards,Use scripts to generate Sisense dashboards in multiple languages for global teams.
+Sisense,SLA Breach Alerts,Automate alerts when SLA metrics are breached in Sisense dashboards.
+Sisense,Data Trend Analysis,Automate dashboards to identify and visualize data trends over time.
+Sisense,Employee Engagement Metrics,Automate dashboards to analyze employee engagement and satisfaction survey results.
+Sisense,Automated Gantt Charts,Use scripts to create Gantt charts in Sisense to track project timelines.
+Sisense,Automated Data Blending,Blend data from multiple sources seamlessly into Sisense dashboards.
+Sisense,Real-Time Collaboration,Enable real-time collaboration on dashboards with automated data updates.
+Sisense,Automated Data Transformation,Use scripts to transform data into actionable insights before pushing it to Sisense dashboards.
+Sisense,Automated Metadata Updates,Automate the updating of metadata for datasets used in dashboards.
+Sisense,SLA Monitoring Reports,Automate SLA compliance dashboards and generate reports for stakeholders.
+Sisense,Automated Data Export,Use scripts to export Sisense dashboard data to PDF or Excel formats for offline sharing.
+Sisense,Automated Profit Margin Dashboards,Automate dashboards to track profit margins for products or business lines.
+Sisense,Automated NPS Dashboards,Automate dashboards to visualize Net Promoter Score (NPS) survey results.
+Sisense,Customer Journey Dashboards,Automate dashboards to track and visualize the customer journey from acquisition to retention.
+Sisense,Subscription Usage Dashboards,Automate dashboards to track SaaS subscription usage and engagement metrics.
+Sisense,Automated Goal Alerts,Trigger email or in-app alerts when business goals are achieved.
+Sisense,Automated IT Ticket Metrics,Automate dashboards to track IT ticket resolution times and volumes.
+Sisense,Real-Time Geospatial Data,Automate dashboards to visualize geospatial data for geographic insights.
+Sisense,Automated Financial Forecasting,Use predictive models to automate financial forecasting dashboards.
+Sisense,Automated Multi-Tenant Dashboards,Automate dashboards for multi-tenant SaaS applications with role-based data segregation.
+Sisense,Dynamic Data Filtering,Use scripts to automate advanced filtering criteria for dashboards.
+Sisense,Automated Campaign Attribution Analysis,Automate dashboards to analyze marketing campaign attribution data.
+Sisense,Automated Stock Market Dashboards,Pull live stock market data and automate dashboards for tracking investment performance.
+Sisense,Automated Inventory Alerts,Automate low-stock alerts directly in Sisense dashboards.
+Sisense,Automated Tax Calculation Reports,Create dashboards to calculate and visualize tax data dynamically.
+Sisense,Automated Attendance Dashboards,Automate dashboards to track employee attendance and absences.
+Sisense,Automated Gantt Chart Reports,Visualize timelines and tasks with automated Gantt chart reports.
+Sisense,Automated Expense Dashboards,Create dashboards dynamically to track expenses across departments or projects.
+Sisense,Automated Resource Allocation,Automate dashboards for tracking resource allocation and utilization in real-time.
+Sisense,Automated Profit & Loss Dashboards,Automate dashboards to calculate and visualize P\&L statements.
+Sisense,Automated Shift Performance Metrics,Track and automate dashboards for shift-wise performance metrics.
+Sisense,Automated Supplier Analysis,Automate dashboards for tracking supplier costs and performance.
+Sisense,Automated Holiday Tracker,Automate dashboards to track employee holidays and leave balances.
+Sisense,Real-Time Streaming Dashboards,Automate dashboards to display live streaming data from IoT devices or APIs.

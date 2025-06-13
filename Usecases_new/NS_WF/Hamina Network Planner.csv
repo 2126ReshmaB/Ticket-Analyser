@@ -1,0 +1,69 @@
+Category,Short Description,Description
+Hamina Network Planner,Automated Heatmap Generation,Automatically generate heatmaps for Wi-Fi coverage based on access point placement and configuration.
+Hamina Network Planner,Batch Import of Floor Plans,Automate the process of importing multiple floor plans into the tool for large-scale projects.
+Hamina Network Planner,Access Point Placement Optimization,Use scripts to optimize the placement of access points for maximum coverage and minimal interference.
+Hamina Network Planner,Automated 3D Modeling,"Automate the creation of 3D models of buildings, including walls, floors, and object heights, for network planning."
+Hamina Network Planner,API Integration for Vendor Data,Automate the integration of vendor-specific access point data using APIs for seamless configuration.
+Hamina Network Planner,Real-Time Collaboration Alerts,Automate notifications for team members when changes are made to a shared project.
+Hamina Network Planner,Automated Report Generation,"Generate interactive, web-based reports automatically after completing a network design."
+Hamina Network Planner,Private Cellular Bandwidth Analysis,Automate the analysis of private cellular bandwidth requirements for specific environments.
+Hamina Network Planner,Multi-Floor Network Simulation,Automate the simulation of network performance across multiple floors in a building.
+Hamina Network Planner,Automated Wall Material Analysis,Use scripts to analyze and assign wall materials for accurate signal propagation modeling.
+Hamina Network Planner,IoT Device Coverage Mapping,Automate the mapping of IoT device coverage areas within a network plan.
+Hamina Network Planner,Automated Frequency Band Selection,Automate the selection of optimal frequency bands for access points based on environmental factors.
+Hamina Network Planner,Integration with Monitoring Tools,Automate the export of network plans to monitoring tools for real-time performance tracking.
+Hamina Network Planner,Automated Path Loss Calculation,Automate the calculation of path loss for different network configurations.
+Hamina Network Planner,Device Inventory Management,Automate the creation and management of an inventory of network devices used in the plan.
+Hamina Network Planner,Automated Compliance Checks,Automate checks to ensure network designs comply with industry standards and regulations.
+Hamina Network Planner,Signal Interference Analysis,Automate the analysis of signal interference between access points.
+Hamina Network Planner,Automated Backup of Network Plans,Schedule and automate backups of network plans to prevent data loss.
+Hamina Network Planner,Real-Time Signal Strength Updates,Automate real-time updates of signal strength visualizations as access points are moved.
+Hamina Network Planner,Automated Cost Estimation,Automate the calculation of cost estimates for network deployment based on the design.
+Hamina Network Planner,API-Based Data Import,"Automate the import of external data, such as device specifications, using APIs."
+Hamina Network Planner,Automated User Access Management,Automate the management of user access permissions for collaborative projects.
+Hamina Network Planner,Automated Network Performance Simulation,Simulate network performance under different load conditions automatically.
+Hamina Network Planner,Automated Channel Assignment,Automate the assignment of Wi-Fi channels to minimize interference.
+Hamina Network Planner,Automated Export to Vendor Platforms,Automate the export of network plans to vendor-specific platforms for deployment.
+Hamina Network Planner,Automated Latency Analysis,Automate the analysis of network latency for different configurations.
+Hamina Network Planner,Automated Jitter Analysis,Automate the analysis of jitter in network performance simulations.
+Hamina Network Planner,Automated Packet Loss Analysis,Automate the analysis of packet loss in network simulations.
+Hamina Network Planner,Automated Device Placement Suggestions,Use scripts to suggest optimal placement for network devices based on coverage requirements.
+Hamina Network Planner,Automated Bandwidth Allocation,Automate the allocation of bandwidth to different network segments.
+Hamina Network Planner,Automated Security Configuration Checks,Automate checks for security configurations in the network design.
+Hamina Network Planner,Automated Integration with SDN Controllers,Automate the integration of network plans with software-defined networking (SDN) controllers.
+Hamina Network Planner,Automated Multi-Region Planning,Automate the planning of networks across different geographic regions.
+Hamina Network Planner,Automated Signal Propagation Analysis,Automate the analysis of signal propagation in complex environments.
+Hamina Network Planner,Automated Network Redundancy Planning,Automate the planning of network redundancy to ensure high availability.
+Hamina Network Planner,Automated SLA Compliance Checks,Automate checks to ensure network designs meet service level agreements (SLAs).
+Hamina Network Planner,Automated Integration with Cloud Platforms,Automate the integration of network plans with cloud platforms for deployment.
+Hamina Network Planner,Automated Network Scalability Analysis,Automate the analysis of network scalability for future growth.
+Hamina Network Planner,Automated Energy Consumption Analysis,Automate the analysis of energy consumption for network devices in the plan.
+Hamina Network Planner,Automated Integration with IoT Platforms,Automate the integration of network plans with IoT platforms for device management.
+Hamina Network Planner,Automated Network Downtime Simulation,Simulate network downtime scenarios automatically to test resilience.
+Hamina Network Planner,Automated Integration with Security Tools,Automate the integration of network plans with security tools for vulnerability assessments.
+Hamina Network Planner,Automated Network Traffic Analysis,Automate the analysis of network traffic patterns for optimization.
+Hamina Network Planner,Automated Integration with Analytics Tools,Automate the integration of network plans with analytics tools for performance monitoring.
+Hamina Network Planner,Automated Network Topology Visualization,Automate the creation of network topology visualizations for better understanding.
+Hamina Network Planner,Automated Integration with Backup Systems,Automate the integration of network plans with backup systems for disaster recovery.
+Hamina Network Planner,Automated Network Load Balancing Simulation,Simulate load balancing scenarios automatically to optimize performance.
+Hamina Network Planner,Automated Integration with AI Tools,Automate the integration of network plans with AI tools for predictive analytics.
+Hamina Network Planner,Automated Network Health Monitoring,Automate the monitoring of network health metrics in real-time.
+Hamina Network Planner,Automated Integration with Firewall Systems,Automate the integration of network plans with firewall systems for enhanced security.
+Hamina Network Planner,Automated Network Device Lifecycle Tracking,Automate the tracking of network device lifecycles for maintenance and upgrades.
+Hamina Network Planner,Automated Integration with VPN Systems,Automate the integration of network plans with VPN systems for secure remote access.
+Hamina Network Planner,Automated Network QoS Analysis,Automate the analysis of quality of service (QoS) metrics for network designs.
+Hamina Network Planner,Automated Integration with Load Balancers,Automate the integration of network plans with load balancers for traffic distribution.
+Hamina Network Planner,Automated Network Resilience Testing,Automate the testing of network resilience under different failure scenarios.
+Hamina Network Planner,Automated Integration with Compliance Tools,Automate the integration of network plans with compliance tools for regulatory adherence.
+Hamina Network Planner,Automated Network Upgrade Planning,Automate the planning of network upgrades for future technology adoption.
+Hamina Network Planner,Automated Integration with Collaboration Tools,Automate the integration of network plans with collaboration tools for team communication.
+Hamina Network Planner,Automated Network Device Configuration,Automate the configuration of network devices based on the design.
+Hamina Network Planner,Automated Integration with Data Centers,Automate the integration of network plans with data center infrastructure.
+Hamina Network Planner,Automated Network Latency Simulation,Simulate network latency scenarios automatically for performance testing.
+Hamina Network Planner,Automated Integration with Edge Devices,Automate the integration of network plans with edge devices for IoT applications.
+Hamina Network Planner,Automated Network Security Policy Testing,Automate the testing of security policies in the network design.
+Hamina Network Planner,Automated Integration with Cloud Storage,Automate the integration of network plans with cloud storage solutions for data management.
+Hamina Network Planner,Automated Network Device Compatibility Checks,Automate checks for compatibility of network devices with the design.
+Hamina Network Planner,Automated Integration with Virtualization Tools,Automate the integration of network plans with virtualization tools for resource optimization.
+Hamina Network Planner,Automated Network Device Firmware Updates,Automate the scheduling and deployment of firmware updates for network devices.
+,,

@@ -1,0 +1,62 @@
+Category,Short Description,Description
+SonicWall Secure Mobile Access,Automate user account creation,"Automate the creation of new user accounts for VPN access, including assigning roles and permissions."
+SonicWall Secure Mobile Access,Automate user account deletion,Automate the removal of inactive or unauthorized user accounts to maintain security.
+SonicWall Secure Mobile Access,Automate group-based access policies,Automate the creation and management of access policies based on user groups.
+SonicWall Secure Mobile Access,Automate certificate-based authentication setup,Automate the configuration of certificate-based authentication for user access.
+SonicWall Secure Mobile Access,Automate multi-factor authentication setup,Automate the integration and enforcement of multi-factor authentication (MFA) for all users.
+SonicWall Secure Mobile Access,Automate session timeout policies,Automate the enforcement of session timeout policies for idle users.
+SonicWall Secure Mobile Access,Automate endpoint compliance checks,Automate compliance checks on endpoints to ensure devices meet security requirements before granting access.
+SonicWall Secure Mobile Access,Automate user role assignment,Automate the assignment of roles to users based on their department or job function.
+SonicWall Secure Mobile Access,Automate VPN policy updates,Automate updates to VPN policies for changes in organizational security requirements.
+SonicWall Secure Mobile Access,Automate log collection,Automate the collection of logs from SonicWall SMA for auditing and analysis.
+SonicWall Secure Mobile Access,Automate log rotation,Automate the rotation of logs to prevent storage issues and maintain performance.
+SonicWall Secure Mobile Access,Automate backup of configurations,Automate regular backups of SonicWall SMA configurations to ensure recoverability.
+SonicWall Secure Mobile Access,Automate restore of configurations,Automate the restoration of SonicWall SMA configurations in case of system failures.
+SonicWall Secure Mobile Access,Automate user password resets,Automate the process of resetting user passwords for secure mobile access.
+SonicWall Secure Mobile Access,Automate user account lockout policies,Automate the enforcement of lockout policies for users after multiple failed login attempts.
+SonicWall Secure Mobile Access,Automate integration with Active Directory,Automate the integration of SonicWall SMA with Active Directory for centralized authentication management.
+SonicWall Secure Mobile Access,Automate integration with LDAP,Automate the integration of LDAP for user authentication and directory services.
+SonicWall Secure Mobile Access,Automate integration with RADIUS,Automate the configuration of RADIUS servers for user authentication and accounting.
+SonicWall Secure Mobile Access,Automate certificate renewal,Automate the renewal of server and client certificates for secure communication.
+SonicWall Secure Mobile Access,Automate split-tunneling configuration,Automate the setup of split-tunneling to allow specific traffic through the VPN.
+SonicWall Secure Mobile Access,Automate full-tunneling configuration,Automate the setup of full-tunneling policies to route all traffic through the VPN.
+SonicWall Secure Mobile Access,Automate endpoint quarantine,Automate the quarantine of non-compliant or suspicious endpoints detected on the network.
+SonicWall Secure Mobile Access,Automate user onboarding notifications,Automate the sending of onboarding notifications to new users with setup instructions and credentials.
+SonicWall Secure Mobile Access,Automate user offboarding,Automate the removal of users and their associated access when they leave the organization.
+SonicWall Secure Mobile Access,Automate user activity monitoring,Automate the tracking of user activity logs for real-time monitoring and analysis.
+SonicWall Secure Mobile Access,Automate bandwidth monitoring,Automate the monitoring of bandwidth usage for VPN-connected users or groups.
+SonicWall Secure Mobile Access,Automate IP address filtering,Automate the configuration of IP address filters to restrict access to specific IP ranges.
+SonicWall Secure Mobile Access,Automate geo-restriction enforcement,Automate the enforcement of geo-restrictions for VPN access based on user location.
+SonicWall Secure Mobile Access,Automate DNS configuration,Automate the setup of DNS servers for VPN clients to ensure proper name resolution.
+SonicWall Secure Mobile Access,Automate integration with SIEM tools,Automate the integration of SonicWall SMA logs with SIEM tools for centralized monitoring and threat detection.
+SonicWall Secure Mobile Access,Automate integration with MFA providers,Automate the integration of MFA solutions like Duo or Okta for enhanced security.
+SonicWall Secure Mobile Access,Automate compliance reporting,Automate the generation of compliance reports for regulatory audits.
+SonicWall Secure Mobile Access,Automate user session termination,Automate the termination of user sessions for security or policy violations.
+SonicWall Secure Mobile Access,Automate client software updates,Automate the deployment of software updates to SonicWall SMA clients.
+SonicWall Secure Mobile Access,Automate server software updates,Automate the installation of software updates on SonicWall SMA servers.
+SonicWall Secure Mobile Access,Automate integration with endpoint protection tools,Automate the integration of endpoint protection tools to enforce security before granting VPN access.
+SonicWall Secure Mobile Access,Automate kill switch configuration,Automate the setup of a kill switch to block internet access if the VPN disconnects.
+SonicWall Secure Mobile Access,Automate DNS leak prevention,Automate the configuration of DNS leak prevention to protect user privacy.
+SonicWall Secure Mobile Access,Automate QoS (Quality of Service) policies,Automate the configuration of QoS policies to prioritize critical traffic over the VPN.
+SonicWall Secure Mobile Access,Automate firewall rule updates,Automate the configuration of firewall rules to allow or block specific VPN traffic.
+SonicWall Secure Mobile Access,Automate user group management,Automate the creation and management of user groups for access control.
+SonicWall Secure Mobile Access,Automate access control policies,Automate the enforcement of access control policies for different user roles or groups.
+SonicWall Secure Mobile Access,Automate VPN gateway deployment,Automate the deployment of SonicWall SMA gateways for remote access.
+SonicWall Secure Mobile Access,Automate VPN gateway failover,Automate the configuration of failover gateways to ensure high availability.
+SonicWall Secure Mobile Access,Automate network traffic analysis,Automate the analysis of network traffic to identify patterns and detect anomalies.
+SonicWall Secure Mobile Access,Automate user connection limits,Automate the enforcement of connection limits for individual users or groups.
+SonicWall Secure Mobile Access,Automate user bandwidth limits,Automate the enforcement of bandwidth limits for specific users or groups.
+SonicWall Secure Mobile Access,Automate server load balancing,Automate the configuration of load balancing across multiple SonicWall SMA servers.
+SonicWall Secure Mobile Access,Automate VPN usage analytics,Automate the generation of analytics reports for VPN usage trends and statistics.
+SonicWall Secure Mobile Access,Automate API token management,Automate the creation and management of API tokens for administrative tasks.
+SonicWall Secure Mobile Access,Automate endpoint patch management,Automate the deployment of patches to endpoints connecting through SonicWall SMA.
+SonicWall Secure Mobile Access,Automate certificate backups,Automate the backup of server and client certificates for disaster recovery.
+SonicWall Secure Mobile Access,Automate server scaling,Automate the scaling of SonicWall SMA servers to handle increased user demand.
+SonicWall Secure Mobile Access,Automate guest user access policies,Automate the creation and management of access policies for temporary guest users.
+SonicWall Secure Mobile Access,Automate integration with cloud services,Automate the integration of SonicWall SMA with cloud platforms like Azure or AWS.
+SonicWall Secure Mobile Access,Automate server health monitoring,Automate health checks and monitoring of SonicWall SMA servers.
+SonicWall Secure Mobile Access,Automate server uptime reporting,Automate the generation of reports on SonicWall SMA server uptime and availability.
+SonicWall Secure Mobile Access,Automate user onboarding workflows,"Automate end-to-end workflows for onboarding new users, including training and credential distribution."
+SonicWall Secure Mobile Access,Automate VPN policy rollback,Automate the rollback of VPN policies in case of misconfiguration.
+SonicWall Secure Mobile Access,Automate alert notifications,"Automate the sending of alerts for system events, security incidents, or policy violations."
+SonicWall Secure Mobile Access,,

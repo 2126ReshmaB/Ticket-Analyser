@@ -1,0 +1,89 @@
+Category,Short Description,Description
+PRTG Network Monitor,Monitor Network Bandwidth Usage,Track bandwidth utilization across devices and interfaces.
+PRTG Network Monitor,Monitor Server Uptime,Ensure servers remain operational by continuously monitoring uptime.
+PRTG Network Monitor,Monitor Application Performance,"Track application response times, error rates, and throughput."
+PRTG Network Monitor,Monitor Network Latency,Measure latency between endpoints to identify delays.
+PRTG Network Monitor,Monitor Disk Usage,Track disk space usage to prevent storage-related issues.
+PRTG Network Monitor,Monitor Network Traffic,Analyze network traffic to detect bottlenecks or anomalies.
+PRTG Network Monitor,Monitor Virtual Machines,"Track CPU, memory, and disk usage of virtual environments."
+PRTG Network Monitor,Monitor Website Availability,Ensure websites remain accessible with real-time uptime monitoring.
+PRTG Network Monitor,Monitor Firewall Performance,Track firewall activity to ensure secure and efficient traffic handling.
+PRTG Network Monitor,Monitor Database Performance,Analyze database queries and track performance bottlenecks.
+PRTG Network Monitor,Monitor Router Health,Ensure routers are functioning efficiently by monitoring performance metrics.
+PRTG Network Monitor,Monitor Switch Port Utilization,Track switch port usage to optimize network performance.
+PRTG Network Monitor,Monitor Email Servers,Monitor email server response times and delivery rates.
+PRTG Network Monitor,Monitor Active Directory Performance,Track authentication and directory service performance.
+PRTG Network Monitor,Monitor Kubernetes Clusters,Ensure Kubernetes clusters are running efficiently without errors.
+PRTG Network Monitor,Monitor Docker Containers,Track performance metrics for containerized environments.
+PRTG Network Monitor,Monitor API Performance,"Measure API response times, error rates, and throughput."
+PRTG Network Monitor,Monitor Load Balancers,Ensure load balancers distribute traffic evenly and efficiently.
+PRTG Network Monitor,Monitor Network Packet Loss,Detect and address packet loss to improve network reliability.
+PRTG Network Monitor,Monitor Network Congestion,Identify congestion points to optimize network traffic flow.
+PRTG Network Monitor,Monitor IoT Device Health,Track the status and performance of IoT devices on the network.
+PRTG Network Monitor,Monitor VPN Performance,"Measure VPN latency, throughput, and connection stability."
+PRTG Network Monitor,Monitor Cloud Services,Track the performance and availability of cloud-hosted applications.
+PRTG Network Monitor,Monitor Network Interfaces,Monitor the performance of individual network interfaces.
+PRTG Network Monitor,Monitor Server CPU Usage,Track server CPU utilization to prevent performance bottlenecks.
+PRTG Network Monitor,Monitor Server Memory Usage,Monitor memory usage on servers to optimize application performance.
+PRTG Network Monitor,Monitor Server Disk I/O,Track disk input/output operations to detect bottlenecks.
+PRTG Network Monitor,Monitor SNMP Devices,Collect and analyze SNMP data from devices for monitoring.
+PRTG Network Monitor,Monitor Wireless Network Performance,"Track signal strength, bandwidth usage, and client connections."
+PRTG Network Monitor,Monitor Network Security Events,Track security logs to detect suspicious network activity.
+PRTG Network Monitor,Monitor Backup Jobs,Ensure backup processes complete successfully and on schedule.
+PRTG Network Monitor,Monitor Printer Queues,Track print job queues to ensure efficient processing.
+PRTG Network Monitor,Monitor Web Application Performance,Analyze web application response times and user interactions.
+PRTG Network Monitor,Monitor Remote Desktop Connections,Track the performance of remote desktop sessions.
+PRTG Network Monitor,Monitor VoIP Call Quality,"Measure jitter, latency, and packet loss for VoIP communications."
+PRTG Network Monitor,Monitor Temperature Sensors,Track hardware temperatures to prevent overheating.
+PRTG Network Monitor,Monitor Power Supply Metrics,Ensure power supplies are operating within safe parameters.
+PRTG Network Monitor,Monitor RAID Systems,Track the health and performance of RAID configurations.
+PRTG Network Monitor,Monitor Network Topology Changes,Detect and alert on changes in network topology.
+PRTG Network Monitor,Monitor Printer Status,Monitor printer health and consumable levels like ink and paper.
+PRTG Network Monitor,Monitor Bandwidth by Application,Identify bandwidth usage by applications running on the network.
+PRTG Network Monitor,Monitor Data Center Performance,Track environmental and operational metrics in data centers.
+PRTG Network Monitor,Monitor Network Attached Storage,Track performance and health metrics for NAS devices.
+PRTG Network Monitor,Monitor SSL Certificate Expiry,Receive alerts for expiring SSL certificates to ensure timely renewals.
+PRTG Network Monitor,Monitor HTTP Response Times,Track website response times to ensure fast load speeds.
+PRTG Network Monitor,Monitor FTP Server Performance,Ensure FTP servers are running efficiently by tracking performance metrics.
+PRTG Network Monitor,Monitor DNS Server Performance,Track DNS query response times and error rates.
+PRTG Network Monitor,Monitor Syslog Data,Collect and analyze syslog data for network troubleshooting.
+PRTG Network Monitor,Monitor Application Dependencies,Track dependencies between applications for better troubleshooting.
+PRTG Network Monitor,Monitor SNMP Traps,Analyze SNMP traps to detect and resolve network issues.
+PRTG Network Monitor,Monitor Application Logs,Collect and analyze logs for troubleshooting application issues.
+PRTG Network Monitor,Monitor Database Query Performance,Optimize database queries by tracking execution times.
+PRTG Network Monitor,Monitor Firewall Logs,Analyze firewall logs for security and performance insights.
+PRTG Network Monitor,Monitor Switch Power Usage,Track power consumption of network switches to optimize efficiency.
+PRTG Network Monitor,Monitor Resource Contention,Detect resource contention across servers and devices.
+PRTG Network Monitor,Monitor Remote Branch Offices,Track the performance of remote office network connections.
+PRTG Network Monitor,Monitor Server Latency,Measure server response times to ensure low latency.
+PRTG Network Monitor,Monitor Server Scalability,Ensure servers can handle increasing workloads effectively.
+PRTG Network Monitor,Monitor Network Time Protocol,Track time synchronization across devices using NTP.
+PRTG Network Monitor,Monitor Environmental Sensors,Track environmental metrics like humidity and air quality in server rooms.
+PRTG Network Monitor,Monitor File Transfers,Track file transfer speeds and completion times over the network.
+PRTG Network Monitor,Monitor Bandwidth Trends,Analyze bandwidth usage trends for capacity planning.
+PRTG Network Monitor,Monitor Network Latency Trends,Track long-term latency trends to identify recurring issues.
+PRTG Network Monitor,Monitor SNMP Bandwidth Usage,Measure bandwidth usage on SNMP-enabled devices.
+PRTG Network Monitor,Monitor Database Memory Usage,Track memory usage of databases to optimize performance.
+PRTG Network Monitor,Monitor Database Deadlocks,Detect and resolve database deadlocks to ensure smooth operations.
+PRTG Network Monitor,Monitor Database Availability,Ensure continuous availability of critical databases.
+PRTG Network Monitor,Monitor Network Bandwidth Per User,Identify bandwidth usage by individual users on the network.
+PRTG Network Monitor,Monitor Server Error Rates,Track server error rates to troubleshoot performance issues.
+PRTG Network Monitor,Monitor Service Start/Stop Events,Track service start and stop events across servers.
+PRTG Network Monitor,Monitor Network Interface Errors,Detect errors on network interfaces to prevent connectivity issues.
+PRTG Network Monitor,Monitor Application SLA Compliance,Ensure applications meet service-level agreements for performance.
+PRTG Network Monitor,Monitor Application Error Rates,Track error rates in applications to resolve issues faster.
+PRTG Network Monitor,Monitor Data Packet Jitter,Measure jitter to ensure stable real-time communications.
+PRTG Network Monitor,Monitor Application Crash Reports,Track application crashes to identify root causes.
+PRTG Network Monitor,Monitor Bandwidth by Protocol,Analyze bandwidth usage by specific network protocols.
+PRTG Network Monitor,Monitor WebSocket Connections,Track WebSocket performance for latency and reliability.
+PRTG Network Monitor,Monitor Application Deployment Impact,Measure application performance before and after deployments.
+PRTG Network Monitor,Monitor Container Resource Usage,"Track CPU, memory, and disk usage for containerized environments."
+PRTG Network Monitor,Monitor Proxy Server Performance,Track proxy server response times and throughput.
+PRTG Network Monitor,Monitor Service Dependencies,Identify and monitor dependencies between critical services.
+PRTG Network Monitor,Monitor Hybrid Cloud Environments,Track performance across hybrid cloud environments.
+PRTG Network Monitor,Monitor Application Dependency Changes,Detect changes in dependencies to prevent disruptions.
+PRTG Network Monitor,Monitor Network Congestion Trends,Analyze trends in network congestion for proactive management.
+PRTG Network Monitor,Monitor Data Pipeline Performance,Track performance metrics for ETL or data pipelines.
+PRTG Network Monitor,Monitor Chat Server Activity,Ensure chat servers handle connections and messages efficiently.
+PRTG Network Monitor,Monitor Network Topology Changes,Receive alerts for changes in network topology.
+PRTG Network Monitor,Monitor Application SLA Violations,Detect and resolve SLA compliance issues for applications.

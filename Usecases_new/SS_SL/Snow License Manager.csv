@@ -1,0 +1,64 @@
+Category,Short Description,Description
+Snow License Manager,Automate license compliance checks,Create a script to automatically check software license compliance across all managed devices and generate a compliance report.
+Snow License Manager,Automate inventory data collection,Automate the collection of hardware and software inventory data from all endpoints using Snow Inventory Agents.
+Snow License Manager,Automate Oracle database inventory collection,"Use a script to collect Oracle database inventory details, including user access and database usage, for compliance purposes."
+Snow License Manager,Automate software usage tracking,Automate the tracking of software usage across the organization to identify underutilized licenses.
+Snow License Manager,Automate license reclamation,Create a script to identify unused licenses and automatically reclaim them for reallocation.
+Snow License Manager,Automate cloud subscription tracking,"Automate the tracking of cloud subscription usage and costs for services like AWS, Azure, and Google Cloud."
+Snow License Manager,Automate license expiration alerts,Set up a script to monitor license expiration dates and send alerts to administrators before licenses expire.
+Snow License Manager,Automate role-based access management,Automate the assignment of roles and permissions for Snow License Manager users based on predefined policies.
+Snow License Manager,Automate software installation tracking,Create a script to track and report on software installations across all managed devices.
+Snow License Manager,Automate patch compliance reporting,Automate the generation of patch compliance reports to ensure all systems are up to date.
+Snow License Manager,Automate license allocation,Use a script to allocate licenses to users or devices based on predefined rules and usage patterns.
+Snow License Manager,Automate inventory agent deployment,Automate the deployment of Snow Inventory Agents to new devices added to the network.
+Snow License Manager,Automate software metering,Automate the process of metering software usage to identify high-usage applications and optimize license allocation.
+Snow License Manager,Automate contract renewal tracking,Create a script to track software contract renewal dates and send reminders to stakeholders.
+Snow License Manager,Automate inactive device cleanup,Automate the identification and removal of inactive devices from the inventory database.
+Snow License Manager,Automate custom report generation,Use a script to generate custom reports based on specific organizational requirements.
+Snow License Manager,Automate license model updates,Automate the process of updating license models in the system to reflect changes in vendor agreements.
+Snow License Manager,Automate software blacklist enforcement,Create a script to identify and remove blacklisted software from all managed devices.
+Snow License Manager,Automate inventory reconciliation,Automate the reconciliation of inventory data from multiple sources to ensure accuracy.
+Snow License Manager,Automate user activity tracking,Automate the tracking of user activity related to software usage and license consumption.
+Snow License Manager,Automate software cost optimization,"Use a script to analyze software usage data and recommend cost-saving measures, such as license downgrades or cancellations."
+Snow License Manager,Automate license pooling,Automate the pooling of licenses for shared use across multiple departments or teams.
+Snow License Manager,Automate vendor audit preparation,Create a script to prepare for vendor audits by generating detailed compliance and usage reports.
+Snow License Manager,Automate software request approvals,Automate the approval process for software requests based on predefined workflows.
+Snow License Manager,Automate license usage forecasting,Use a script to forecast future license usage based on historical data and trends.
+Snow License Manager,Automate software upgrade tracking,Automate the tracking of software upgrades and ensure compliance with upgrade policies.
+Snow License Manager,Automate license transfer requests,Create a script to handle license transfer requests between users or devices.
+Snow License Manager,Automate compliance policy enforcement,Automate the enforcement of compliance policies by identifying and addressing violations.
+Snow License Manager,Automate software bundling analysis,Use a script to analyze software bundling and ensure compliance with vendor agreements.
+Snow License Manager,Automate unused software removal,Automate the identification and removal of unused software to free up resources and reduce costs.
+Snow License Manager,Automate license consumption analysis,Create a script to analyze license consumption patterns and identify optimization opportunities.
+Snow License Manager,Automate software deployment tracking,Automate the tracking of software deployments to ensure compliance with deployment policies.
+Snow License Manager,Automate hardware asset tracking,Use a script to track hardware assets and their associated software licenses.
+Snow License Manager,Automate license compliance gap analysis,Automate the identification of compliance gaps and recommend corrective actions.
+Snow License Manager,Automate software lifecycle management,"Create a script to manage the entire software lifecycle, from procurement to retirement."
+Snow License Manager,Automate license usage alerts,Set up a script to send alerts when license usage exceeds predefined thresholds.
+Snow License Manager,Automate software inventory normalization,Automate the normalization of software inventory data to ensure consistency and accuracy.
+Snow License Manager,Automate license agreement tracking,Use a script to track license agreements and ensure compliance with their terms.
+Snow License Manager,Automate software compliance audits,Automate the process of conducting software compliance audits and generating reports.
+Snow License Manager,Automate license key management,Create a script to manage and track license keys for all software products.
+Snow License Manager,Automate software usage policy enforcement,Automate the enforcement of software usage policies to prevent unauthorized usage.
+Snow License Manager,Automate software vendor management,"Use a script to manage relationships with software vendors, including tracking contracts and agreements."
+Snow License Manager,Automate software cost allocation,Automate the allocation of software costs to different departments or projects based on usage.
+Snow License Manager,Automate license compliance risk assessment,Create a script to assess and report on license compliance risks.
+Snow License Manager,Automate software inventory updates,Automate the process of updating software inventory data to reflect changes in the environment.
+Snow License Manager,Automate license usage trend analysis,Use a script to analyze license usage trends and identify potential issues.
+Snow License Manager,Automate software retirement tracking,Automate the tracking of software retirement and ensure proper decommissioning.
+Snow License Manager,Automate license compliance score calculation,Create a script to calculate and report on the organization's license compliance score.
+Snow License Manager,Automate software license optimization,Automate the optimization of software licenses to reduce costs and improve efficiency.
+Snow License Manager,Automate software inventory gap analysis,Use a script to identify gaps in software inventory data and recommend corrective actions.
+Snow License Manager,Automate license compliance reporting,Automate the generation of detailed license compliance reports for stakeholders.
+Snow License Manager,Automate software usage data export,Create a script to export software usage data to external systems for analysis.
+Snow License Manager,Automate license compliance dashboard updates,Automate the updating of license compliance dashboards to provide real-time insights.
+Snow License Manager,Automate software inventory reconciliation,Automate the reconciliation of software inventory data with vendor records.
+Snow License Manager,Automate license compliance exception handling,Use a script to handle exceptions in license compliance and recommend corrective actions.
+Snow License Manager,Automate software usage policy updates,Automate the updating of software usage policies to reflect changes in organizational requirements.
+Snow License Manager,Automate license compliance training tracking,Create a script to track and report on license compliance training for employees.
+Snow License Manager,Automate software inventory audit preparation,Automate the preparation of software inventory data for audits.
+Snow License Manager,Automate license compliance benchmarking,Use a script to benchmark the organization's license compliance against industry standards.
+Snow License Manager,Automate software usage data analysis,Automate the analysis of software usage data to identify trends and patterns.
+Snow License Manager,Automate license compliance improvement tracking,Create a script to track and report on improvements in license compliance over time.
+Snow License Manager,Automate software inventory data validation,Automate the validation of software inventory data to ensure accuracy and completeness.
+Snow License Manager,Automate license compliance exception reporting,Use a script to generate reports on license compliance exceptions and their resolution.

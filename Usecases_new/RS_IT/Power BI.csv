@@ -1,0 +1,92 @@
+Category,Short Description,Description
+Power BI,Automate Data Refresh,Schedule automatic data refreshes for Power BI reports and dashboards using scripts.
+Power BI,Scheduled Email Reports,Automate the delivery of Power BI reports to stakeholders via email on a schedule.
+Power BI,Data Source Connection,"Use scripts to automate connections to various data sources like SQL, Excel, or APIs."
+Power BI,Data Transformation,Automate data cleansing and transformation using Power Query M scripts.
+Power BI,Custom Visual Creation,Use scripts to create and deploy custom visuals for specific reporting needs.
+Power BI,Report Distribution,Automate the publishing and sharing of Power BI reports to specific users or groups.
+Power BI,Row-Level Security Setup,Automate the implementation of row-level security to control data access.
+Power BI,Real-Time Dashboards,Automate real-time updates of dashboards with live data streaming.
+Power BI,KPI Tracking,Automatically track and visualize KPIs by integrating with data sources like Salesforce or Google Analytics.
+Power BI,Financial Reporting,Automate financial reports with data pulled from accounting tools like QuickBooks or Xero.
+Power BI,Sales Pipeline Monitoring,Use scripts to automatically update and visualize sales pipeline data from CRM tools.
+Power BI,Inventory Management,Automate inventory tracking dashboards by syncing with ERP systems.
+Power BI,Budget vs Actual Analysis,Automate budget vs actual comparisons by integrating with financial databases.
+Power BI,Performance Scorecards,Automatically generate performance scorecards for employees or teams.
+Power BI,Marketing Campaign Analytics,Automate the analysis and visualization of marketing campaign performance metrics.
+Power BI,Website Traffic Analysis,Use scripts to pull website traffic data from Google Analytics and display it in Power BI.
+Power BI,Customer Feedback Analysis,Automate the visualization of customer feedback from surveys or review platforms.
+Power BI,Data Quality Checks,Use scripts to automate data validation and quality checks.
+Power BI,Churn Rate Analysis,Automate the calculation and visualization of customer churn rates.
+Power BI,Predictive Analytics,Automate predictive analytics workflows using Python or R scripts within Power BI.
+Power BI,Data Anomaly Detection,Use scripts to identify and highlight anomalies in datasets.
+Power BI,Employee Productivity Metrics,Automate the tracking of employee productivity using data from HR tools.
+Power BI,Social Media Analytics,"Automate social media metrics tracking from platforms like Facebook, Twitter, or LinkedIn."
+Power BI,E-commerce Performance,Use scripts to automate the visualization of sales performance on platforms like Shopify or WooCommerce.
+Power BI,Expense Tracking,Automate expense tracking dashboards by syncing with financial management tools.
+Power BI,Lead Generation Analytics,Automatically track and visualize lead generation metrics from forms and marketing tools.
+Power BI,Subscription Metrics,Automate the tracking of subscription KPIs like MRR and ARR for SaaS businesses.
+Power BI,Workflow Automation Insights,Automate the visualization of workflow automation data from tools like Zapier or Power Automate.
+Power BI,Goal Achievement Tracking,Automatically update progress on business goals in real-time.
+Power BI,Team Collaboration Insights,Automate the visualization of team collaboration metrics from tools like Microsoft Teams or Slack.
+Power BI,Dashboard Customization,Use scripts to automate the customization of dashboards for different user roles or departments.
+Power BI,Compliance Reporting,Automate compliance reporting workflows for industry regulations.
+Power BI,Resource Allocation,Use scripts to automate resource allocation reporting for projects.
+Power BI,Customer Segmentation,Automate the segmentation of customers based on behavior or demographics.
+Power BI,Monthly Performance Reports,Schedule automated monthly performance reports for teams or management.
+Power BI,Multi-Language Reports,Automate the creation of reports in different languages for global teams.
+Power BI,Competitor Analysis,Use scripts to pull competitor data and visualize it alongside internal metrics.
+Power BI,Data Archiving,Automate the archiving and retrieval of historical data for reporting.
+Power BI,Vendor Performance Metrics,Automate the tracking of vendor performance KPIs.
+Power BI,Risk Analysis Dashboards,Use scripts to automate the creation of risk assessment dashboards.
+Power BI,Data Consolidation,Automate the consolidation of data from multiple sources into a single Power BI dataset.
+Power BI,Multi-Region Analysis,Automate the visualization of multi-region data for global organizations.
+Power BI,Survey Data Integration,Use scripts to integrate survey data from tools like SurveyMonkey or Typeform.
+Power BI,Heatmap Analytics,Automate the creation of heatmaps for geographic or performance data.
+Power BI,Seasonal Trend Analysis,Automate the analysis of seasonal trends in sales or other metrics.
+Power BI,Data Forecasting,Use scripts to automate forecasting models for future trends.
+Power BI,AB Testing Results,Automate the visualization of AB testing results from tools like Google Optimize.
+Power BI,Customer Journey Mapping,Use scripts to automate the visualization of customer journeys from marketing data.
+Power BI,Data Permissions Automation,Automate the management of data permissions for reports and dashboards.
+Power BI,Automated Data Sync,Schedule automated data synchronization with cloud-based data sources.
+Power BI,Multi-Tenant Reporting,Automate the generation of reports for multi-tenant SaaS applications.
+Power BI,Campaign ROI Analysis,Automate the calculation and visualization of marketing campaign ROI.
+Power BI,Funnel Analysis,Automate the creation of sales or marketing funnel visualizations.
+Power BI,Custom Alerts,Use scripts to trigger custom alerts for specific metric thresholds.
+Power BI,Automated Benchmarking,Automate benchmarking against industry standards or competitors.
+Power BI,Data Transformation Scripts,Use Python or R scripts to automate complex data transformations.
+Power BI,Data Refresh Monitoring,Automate the monitoring of scheduled data refreshes and send notifications on failures.
+Power BI,Cross-Department Dashboards,Consolidate metrics from multiple departments into unified dashboards.
+Power BI,Financial Forecasting,Automate financial forecasting models with integrated datasets.
+Power BI,Automated Data Export,"Use scripts to export Power BI data to CSV, Excel, or other tools."
+Power BI,Energy Usage Monitoring,Automate the visualization of energy usage data for sustainability tracking.
+Power BI,IT Infrastructure Monitoring,Use scripts to automate the reporting of IT system performance metrics.
+Power BI,Project Milestone Tracking,Automate the tracking of project milestones using Power BI dashboards.
+Power BI,Custom Calculation Fields,Use scripts to create automated custom calculated fields for advanced metrics.
+Power BI,Fraud Detection,Automate the visualization of fraud detection patterns using anomaly detection scripts.
+Power BI,Real-Time Monitoring,Use streaming datasets to automate real-time monitoring dashboards.
+Power BI,Data Model Optimization,Automate the optimization of complex Power BI data models for performance.
+Power BI,Employee Satisfaction Surveys,Automate the visualization of employee satisfaction survey results.
+Power BI,Content Performance Metrics,Use scripts to automate the analysis of content performance across platforms.
+Power BI,Automated Data Grouping,Automate the grouping and aggregation of data for better insights.
+Power BI,Resource Utilization,Automate the tracking of resource utilization metrics for teams or departments.
+Power BI,Multi-Device Reports,Use scripts to optimize reports for different devices like tablets and phones.
+Power BI,Automated Dashboard Versioning,Automate the versioning of dashboards for tracking changes over time.
+Power BI,Real-Time Collaboration,Use scripts to enable real-time collaboration on shared Power BI dashboards.
+Power BI,Custom Report Filters,Automate the creation of advanced report filters for user-specific views.
+Power BI,Automated Data Blending,Use scripts to blend data from multiple sources into a single dataset.
+Power BI,Supplier Performance Tracking,Automate the reporting of supplier performance metrics.
+Power BI,Automated Metadata Updates,Use scripts to automate the updating of metadata descriptions for datasets.
+Power BI,Net Promoter Score (NPS) Reporting,Automate the visualization of NPS survey results.
+Power BI,Automated Goal Tracking,Use scripts to track progress toward business goals automatically.
+Power BI,Employee Time Tracking,Automate the reporting of employee time tracking data.
+Power BI,Data Normalization,Use scripts to automate the normalization of data from various sources.
+Power BI,Automated Metric Comparisons,Schedule automated comparisons of metrics across different time periods.
+Power BI,Subscription Usage Analytics,Automate the tracking of subscription usage data for SaaS.
+Power BI,IT Ticket Resolution Metrics,Automate the reporting of IT ticket resolution times and volumes.
+Power BI,Environmental Impact Dashboards,Use scripts to automate sustainability and environmental impact reporting.
+Power BI,Cross-Platform Analytics,Automate the consolidation of analytics data from multiple platforms.
+Power BI,Automated Report Translation,Use scripts to translate reports into various languages.
+Power BI,Custom Branding Automation,Automate the application of company branding to reports and dashboards.
+Power BI,Automated SLA Monitoring,Automate the tracking and visualization of SLA compliance metrics.
+Power BI,Workforce Diversity Metrics,Use scripts to automate reporting on workforce diversity and inclusion metrics.

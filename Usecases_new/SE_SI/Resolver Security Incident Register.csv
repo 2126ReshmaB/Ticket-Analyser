@@ -1,0 +1,70 @@
+Category,Short Description,Description
+Resolver Security Incident Register,Automatic Incident Logging,Automate the logging of security incidents into the register when alerts are triggered by monitoring tools.
+Resolver Security Incident Register,Incident Categorization,"Automate categorization of incidents based on predefined criteria such as severity, type, or source."
+Resolver Security Incident Register,Incident Prioritization,Automate assigning priority levels to incidents based on their impact and urgency.
+Resolver Security Incident Register,SLA Tracking for Incidents,Automate tracking SLA compliance for incident resolution timelines.
+Resolver Security Incident Register,Incident Escalation,Automate escalation of unresolved incidents to higher-level teams based on predefined rules.
+Resolver Security Incident Register,Incident Status Updates,Automate updating the status of incidents in the register as they progress through the resolution workflow.
+Resolver Security Incident Register,Incident Closure Verification,Automate verification of required fields and resolution notes before closing incidents.
+Resolver Security Incident Register,Duplicate Incident Detection,Automate identifying and merging duplicate incidents in the register.
+Resolver Security Incident Register,Incident Trend Analysis,Automate generating reports to analyze trends in security incidents over time.
+Resolver Security Incident Register,Root Cause Analysis,Automate linking incidents to their root causes and generating reports for analysis.
+Resolver Security Incident Register,Incident Impact Assessment,Automate assessing the impact of incidents on business operations and recording it in the register.
+Resolver Security Incident Register,Incident Response Time Tracking,Automate tracking and reporting on response times for incidents.
+Resolver Security Incident Register,Incident Resolution Time Tracking,Automate tracking and reporting on resolution times for incidents.
+Resolver Security Incident Register,Incident Notification Automation,Automate sending notifications to stakeholders when new incidents are logged or updated.
+Resolver Security Incident Register,Integration with Monitoring Tools,Automate incident creation in the register based on alerts from monitoring tools like SIEM or XDR.
+Resolver Security Incident Register,Integration with Email,Automate parsing emails to create incidents in the register.
+Resolver Security Incident Register,Integration with Slack or Teams,Automate sending incident updates to collaboration tools like Slack or Microsoft Teams.
+Resolver Security Incident Register,Integration with SOAR Platforms,"Automate incident logging and updates using Security Orchestration, Automation, and Response (SOAR) platforms."
+Resolver Security Incident Register,Incident Severity Adjustment,Automate adjusting incident severity based on updated information or analysis.
+Resolver Security Incident Register,Incident Aging Reports,Automate generating reports on incidents that remain unresolved for extended periods.
+Resolver Security Incident Register,Incident Escalation Notifications,Automate sending notifications to stakeholders when incidents are escalated.
+Resolver Security Incident Register,SLA Breach Alerts,Automate alerts for incidents that are at risk of breaching SLA deadlines.
+Resolver Security Incident Register,Incident Assignment Rules,Automate assigning incidents to the appropriate teams or individuals based on predefined rules.
+Resolver Security Incident Register,Incident Workflow Automation,"Automate workflows for incident resolution, including task creation and status updates."
+Resolver Security Incident Register,Incident Reporting,Automate generating detailed incident reports for stakeholders or audits.
+Resolver Security Incident Register,Incident Dashboard Updates,Automate updating dashboards with real-time incident metrics and statuses.
+Resolver Security Incident Register,Incident Correlation,Automate linking related incidents to identify patterns or common root causes.
+Resolver Security Incident Register,Incident Metrics by Severity,Automate generating metrics on incidents segmented by severity levels.
+Resolver Security Incident Register,Incident Metrics by Type,"Automate generating metrics on incidents segmented by type (e.g., phishing, malware)."
+Resolver Security Incident Register,Incident Metrics by Source,"Automate generating metrics on incidents segmented by their source (e.g., internal, external)."
+Resolver Security Incident Register,Incident Metrics by Region,Automate generating metrics on incidents segmented by geographic region.
+Resolver Security Incident Register,Incident Metrics by Business Unit,Automate generating metrics on incidents segmented by business unit or department.
+Resolver Security Incident Register,Incident Metrics by Time Period,"Automate generating metrics on incidents segmented by time periods (e.g., daily, weekly, monthly)."
+Resolver Security Incident Register,Incident Metrics for VIP Users,Automate tracking incidents that involve VIP users and generating related metrics.
+Resolver Security Incident Register,Incident Metrics for Critical Assets,Automate tracking incidents that involve critical assets and generating related metrics.
+Resolver Security Incident Register,Incident Metrics for Third-Party Vendors,Automate tracking incidents involving third-party vendors and generating related metrics.
+Resolver Security Incident Register,Incident Metrics for Compliance,Automate tracking incidents related to compliance violations and generating reports.
+Resolver Security Incident Register,Incident Metrics for Insider Threats,Automate tracking incidents related to insider threats and generating related metrics.
+Resolver Security Incident Register,Incident Metrics for External Threats,Automate tracking incidents related to external threats and generating related metrics.
+Resolver Security Incident Register,Incident Metrics for Phishing,Automate tracking phishing-related incidents and generating related metrics.
+Resolver Security Incident Register,Incident Metrics for Malware,Automate tracking malware-related incidents and generating related metrics.
+Resolver Security Incident Register,Incident Metrics for Ransomware,Automate tracking ransomware-related incidents and generating related metrics.
+Resolver Security Incident Register,Incident Metrics for DDoS Attacks,Automate tracking DDoS-related incidents and generating related metrics.
+Resolver Security Incident Register,Incident Metrics for Data Breaches,Automate tracking data breach incidents and generating related metrics.
+Resolver Security Incident Register,Incident Metrics for Unauthorized Access,Automate tracking incidents related to unauthorized access and generating related metrics.
+Resolver Security Incident Register,Incident Metrics for Policy Violations,Automate tracking incidents related to policy violations and generating related metrics.
+Resolver Security Incident Register,Incident Metrics for Failed Logins,Automate tracking incidents related to failed login attempts and generating related metrics.
+Resolver Security Incident Register,Incident Metrics for Endpoint Security,Automate tracking incidents related to endpoint security and generating related metrics.
+Resolver Security Incident Register,Incident Metrics for Cloud Security,Automate tracking incidents related to cloud security and generating related metrics.
+Resolver Security Incident Register,Incident Metrics for Network Security,Automate tracking incidents related to network security and generating related metrics.
+Resolver Security Incident Register,Incident Metrics for Application Security,Automate tracking incidents related to application security and generating related metrics.
+Resolver Security Incident Register,Incident Metrics for IoT Security,Automate tracking incidents related to IoT security and generating related metrics.
+Resolver Security Incident Register,Incident Metrics for Zero-Day Vulnerabilities,Automate tracking incidents related to zero-day vulnerabilities and generating related metrics.
+Resolver Security Incident Register,Incident Metrics for Patch Management,Automate tracking incidents related to patch management and generating related metrics.
+Resolver Security Incident Register,Incident Metrics for Configuration Errors,Automate tracking incidents related to configuration errors and generating related metrics.
+Resolver Security Incident Register,Incident Metrics for Human Error,Automate tracking incidents caused by human error and generating related metrics.
+Resolver Security Incident Register,Incident Metrics for Social Engineering,Automate tracking incidents related to social engineering attacks and generating related metrics.
+Resolver Security Incident Register,Incident Metrics for Physical Security,Automate tracking incidents related to physical security breaches and generating related metrics.
+Resolver Security Incident Register,Incident Metrics for Compliance Audits,Automate tracking incidents flagged during compliance audits and generating related metrics.
+Resolver Security Incident Register,Incident Metrics for Training Gaps,Automate tracking incidents caused by training gaps and generating related metrics.
+Resolver Security Incident Register,Incident Metrics for Security Awareness,Automate tracking incidents related to lack of security awareness and generating related metrics.
+Resolver Security Incident Register,Incident Metrics for Threat Intelligence,Automate tracking incidents flagged by threat intelligence feeds and generating related metrics.
+Resolver Security Incident Register,Incident Metrics for Vulnerability Scans,Automate tracking incidents flagged during vulnerability scans and generating related metrics.
+Resolver Security Incident Register,Incident Metrics for Penetration Tests,Automate tracking incidents flagged during penetration tests and generating related metrics.
+Resolver Security Incident Register,Incident Metrics for Incident Response Drills,Automate tracking incidents flagged during incident response drills and generating related metrics.
+Resolver Security Incident Register,Incident Metrics for Security Tools,Automate tracking incidents flagged by security tools and generating related metrics.
+Resolver Security Incident Register,Incident Metrics for Security Policies,Automate tracking incidents related to security policy violations and generating related metrics.
+Resolver Security Incident Register,Incident Metrics for Access Control,Automate tracking incidents related to access control violations and generating related metrics.
+Resolver Security Incident Register,Incident Metrics for Privileged Accounts,Automate tracking incidents involving privileged accounts and generating related metrics.

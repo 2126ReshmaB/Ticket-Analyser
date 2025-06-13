@@ -1,0 +1,90 @@
+Category,Short Description,Description
+Zendesk,Ticket Management System,Organize and handle customer inquiries efficiently through ticketing.
+Zendesk,Multi-Channel Support Integration,"Manage support requests from email, chat, social media, and phone in one platform."
+Zendesk,Knowledge Base Creation,Build a self-service knowledge base to help customers resolve issues independently.
+Zendesk,Live Chat Support,Provide real-time customer assistance through live chat functionality.
+Zendesk,Customer Satisfaction Surveys,Collect feedback from customers after resolving support requests.
+Zendesk,Automated Ticket Assignment,Automatically route tickets to the right agents based on skill or availability.
+Zendesk,SLA Tracking and Reporting,Monitor and enforce service-level agreements to ensure timely resolution.
+Zendesk,Multi-Language Support,Provide customer support in multiple languages to serve a global audience.
+Zendesk,Help Center Analytics,Track and analyze user interactions with your help center for continuous improvement.
+Zendesk,AI-Powered Answer Bot,Use AI to provide instant answers to common customer questions.
+Zendesk,Custom Ticket Fields,Add custom fields to tickets for collecting specific customer information.
+Zendesk,Omnichannel Customer Communication,Manage customer interactions across multiple channels in a unified view.
+Zendesk,Feedback Collection After Chat,Collect customer feedback immediately after live chat interactions.
+Zendesk,Integration with CRM Tools,Sync customer data with existing CRM systems like Salesforce or HubSpot.
+Zendesk,Customizable Ticket Views,Create custom ticket queues and filters to prioritize tasks effectively.
+Zendesk,Collaboration with Internal Teams,Allow agents to collaborate with other teams to resolve complex tickets.
+Zendesk,Social Media Integration,Manage support requests from platforms like Twitter and Facebook directly in Zendesk.
+Zendesk,Reporting and Analytics Dashboard,"Generate detailed reports on ticket trends, agent performance, and customer satisfaction."
+Zendesk,Macros for Common Responses,Create reusable templates to respond to frequently asked questions quickly.
+Zendesk,Support Ticket Tagging,Use tags to categorize and organize tickets for better workflow management.
+Zendesk,Multi-Brand Support,Manage support for multiple brands or products from a single Zendesk account.
+Zendesk,Escalation Management,Define escalation workflows for high-priority or unresolved tickets.
+Zendesk,Integration with Slack,Notify teams about new tickets or updates in real time through Slack integration.
+Zendesk,Agent Performance Monitoring,Track agent productivity and performance metrics to improve efficiency.
+Zendesk,Custom Ticket Statuses,Create custom ticket statuses to align with unique workflows.
+Zendesk,Email Ticketing System,Automatically convert customer emails into support tickets.
+Zendesk,Voice Support Integration,Use Zendesk Talk to manage and track support calls alongside other channels.
+Zendesk,Workflow Automation Rules,Automate repetitive tasks and workflows with triggers and automation rules.
+Zendesk,Proactive Ticket Creation,Create tickets proactively for recurring issues or maintenance updates.
+Zendesk,Customer Feedback Forms,Embed feedback forms in tickets or emails to gather opinions.
+Zendesk,Mobile App for Support Agents,Enable agents to manage tickets and respond to customers on the go.
+Zendesk,Customer Interaction History,View a complete history of customer interactions for personalized support.
+Zendesk,CSAT and NPS Reporting,Measure customer satisfaction (CSAT) and Net Promoter Score (NPS) directly in the platform.
+Zendesk,Customizable Help Center Themes,Design and customize your help center to match your brand identity.
+Zendesk,Incident and Problem Management,Track and resolve recurring issues by linking tickets to larger incidents.
+Zendesk,Knowledge Base Article Suggestions,Suggest relevant help articles to customers or agents during ticket resolution.
+Zendesk,Multi-Time Zone Support,Handle customer tickets across different time zones with time-based rules.
+Zendesk,Ticket Merge Functionality,Combine duplicate tickets into one to streamline resolution.
+Zendesk,API Integration for Developers,Use Zendesk’s API to create custom integrations with external systems.
+Zendesk,Real-Time Ticket Updates,Notify agents about ticket status changes or customer replies instantly.
+Zendesk,Customer Segmentation,Group customers based on behaviors or attributes for tailored support.
+Zendesk,Voice Recording and Transcription,Record and transcribe support calls for quality assurance and training.
+Zendesk,Agent Collision Detection,Prevent multiple agents from working on the same ticket simultaneously.
+Zendesk,Customer Portal Access,Allow customers to track their tickets and submit new requests through a portal.
+Zendesk,Knowledge Base Search Analytics,Analyze search queries to identify gaps in your help center content.
+Zendesk,Integration with E-Commerce Platforms,"Connect Zendesk with Shopify, Magento, or WooCommerce for customer support."
+Zendesk,Ticket Viewing Permissions,Restrict access to certain tickets based on user roles or departments.
+Zendesk,Customer Feedback Sentiment Analysis,Use AI to analyze sentiment in customer feedback and tickets.
+Zendesk,Custom Ticket Priority Levels,Define custom priority levels to align with your business needs.
+Zendesk,Integration with Marketing Platforms,Sync Zendesk data with marketing tools like Mailchimp or Marketo.
+Zendesk,Real-Time Chat Transfer,Transfer live chat conversations between agents without interrupting the customer.
+Zendesk,Customer Self-Service Tools,Empower customers to solve their issues using self-service options.
+Zendesk,GDPR Compliance Tools,Manage customer data securely and comply with GDPR regulations.
+Zendesk,Multi-Department Support System,Route tickets to specific departments for efficient handling.
+Zendesk,Integration with Payment Gateways,Link payment systems to Zendesk for billing-related ticket support.
+Zendesk,SLA Breach Alerts,Notify agents and managers when SLA deadlines are not met.
+Zendesk,Ticket Assignment by Skill Set,Assign tickets to agents based on their expertise or skills.
+Zendesk,Feedback for Beta Programs,Gather insights from beta users via tickets and feedback forms.
+Zendesk,Customer Contextual Data Display,Display customer details and past interactions within tickets for context.
+Zendesk,Integration with Knowledge-Centered Support,Leverage KCS methodology by linking tickets to knowledge articles.
+Zendesk,Time Tracking for Tickets,Monitor how much time agents spend resolving tickets for better resource allocation.
+Zendesk,Feedback for New Features,Collect user feedback on recently launched features via support tickets.
+Zendesk,Customer Retention Strategy Support,Use Zendesk insights to create strategies for retaining customers.
+Zendesk,Email Campaign Integration,Send customer satisfaction surveys through email campaigns.
+Zendesk,Multi-Channel Insights Reporting,Generate reports comparing performance across all support channels.
+Zendesk,Ticket Prioritization Rules,Automatically prioritize tickets based on customer type or issue severity.
+Zendesk,Feedback for Subscription Models,Collect feedback to improve subscription plans or billing processes.
+Zendesk,Real-Time Agent Activity Monitoring,Track agent activities and workload in real time.
+Zendesk,Workflow Templates for Support Teams,Use pre-built workflow templates to standardize ticket resolution processes.
+Zendesk,Feedback for Knowledge Base Articles,Collect ratings and suggestions from users on help articles.
+Zendesk,Integration with Social Listening Tools,Combine Zendesk with social listening platforms to track brand mentions.
+Zendesk,Proactive Customer Support Outreach,Reach out to customers proactively for updates or reminders.
+Zendesk,Customer Segmentation by Ticket Trends,Segment customers based on recurring ticket topics or trends.
+Zendesk,Feedback for E-Commerce Returns,Streamline and collect feedback on return and refund processes.
+Zendesk,Integration with Calendar Tools,Link Zendesk with calendars to schedule callbacks or follow-ups.
+Zendesk,Gamification for Agent Motivation,Use gamification tools to reward agents for high performance.
+Zendesk,Integration with Video Chat Platforms,Enable video chat support through integrations like Zoom or Microsoft Teams.
+Zendesk,Feedback on Automated Responses,Allow customers to rate the effectiveness of automated ticket replies.
+Zendesk,Customer Segmentation by Sentiment Scores,Group customers based on sentiment analysis of their feedback.
+Zendesk,Ticket Escalation Workflow Automation,Automate escalation processes for unresolved or critical issues.
+Zendesk,Integration with Inventory Management Systems,Connect Zendesk with inventory tools for product-related support.
+Zendesk,Feedback for Mobile App Support,Collect insights from mobile app users directly within Zendesk.
+Zendesk,Multi-Stage Ticket Resolution Tracking,Track tickets that require multiple stages of resolution.
+Zendesk,Collaboration with External Vendors,Share tickets with third-party vendors to resolve specific issues.
+Zendesk,Feedback for Trial Users,Collect feedback from trial users to improve conversion rates.
+Zendesk,Customer Feedback on Agent Interactions,Measure customer satisfaction with individual agent performance.
+Zendesk,Seasonal Support Trends Analysis,Use Zendesk analytics to identify seasonal trends in support requests.
+Zendesk,Feedback for Live Product Demos,Gather insights from customers after live demo sessions.
+Zendesk,Integration with HR Systems,Use Zendesk for managing and resolving internal HR tickets.

@@ -1,0 +1,56 @@
+Category,Short Description,Description
+Azure Active Directory,Automate User Provisioning,Automatically create user accounts in Azure AD and connected applications based on HR or business workflows.
+Azure Active Directory,Automate User Deprovisioning,Automatically disable or delete user accounts when employees leave the organization to ensure security.
+Azure Active Directory,Automate Group Membership Updates,"Automatically update group memberships based on user attributes, roles, or department changes."
+Azure Active Directory,Automate Role Assignments,"Automatically assign roles to users or groups based on their job title, department, or other attributes."
+Azure Active Directory,Automate Password Resets,Enable users to reset their passwords automatically using self-service password reset functionality.
+Azure Active Directory,Automate Conditional Access Policies,"Automatically create and enforce conditional access policies based on user location, device compliance, or risk level."
+Azure Active Directory,Automate MFA Enrollment,Automatically enroll users in Multi-Factor Authentication (MFA) based on security policies.
+Azure Active Directory,Automate Application Assignments,Automatically assign applications to users or groups based on predefined rules or conditions.
+Azure Active Directory,Automate Directory Sync,Sync user data between on-premises Active Directory and Azure AD using Azure AD Connect.
+Azure Active Directory,Automate User Attribute Updates,Automatically update user attributes in Azure AD based on changes in HR systems or other data sources.
+Azure Active Directory,Automate Access Reviews,Schedule and automate periodic access reviews to ensure users have appropriate access to resources.
+Azure Active Directory,Automate Compliance Reporting,"Automatically generate compliance reports to track user access, role assignments, and policy adherence."
+Azure Active Directory,Automate Privileged Identity Management,Automatically manage and monitor privileged access to critical resources using Azure AD PIM.
+Azure Active Directory,Automate Security Policy Enforcement,"Automatically enforce security policies such as password complexity, session timeouts, and device compliance."
+Azure Active Directory,Automate User Onboarding,Automatically provision new users with access to required applications and resources during onboarding.
+Azure Active Directory,Automate User Offboarding,Automatically revoke access to applications and resources when a user leaves the organization.
+Azure Active Directory,Automate Risk-Based Authentication,Automatically enforce additional authentication steps for high-risk user activities or login attempts.
+Azure Active Directory,Automate Application Role Management,Automatically manage application roles based on user attributes or group memberships.
+Azure Active Directory,Automate Identity Risk Scoring,Automatically calculate and assign risk scores to user identities based on their access and activities.
+Azure Active Directory,Automate Audit Log Analysis,Automatically analyze audit logs to identify potential security risks or compliance violations.
+Azure Active Directory,Automate Application Access Requests,Automatically approve or deny application access requests based on predefined rules.
+Azure Active Directory,Automate Password Expiry Notifications,Notify users automatically when their passwords are about to expire.
+Azure Active Directory,Automate Role Audits,Schedule and automate audits of roles to ensure proper access control and compliance.
+Azure Active Directory,Automate Account Reconciliation,Automatically reconcile accounts between Azure AD and connected applications to identify discrepancies.
+Azure Active Directory,Automate Application Provisioning,Automatically provision access to new applications when users are onboarded or roles are updated.
+Azure Active Directory,Automate Application Deprovisioning,Automatically deprovision access to applications when users leave the organization or no longer require access.
+Azure Active Directory,Automate Access Certification Campaigns,"Automate the scheduling, distribution, and tracking of access certification campaigns."
+Azure Active Directory,Automate Policy Exceptions Approval,Automatically route policy exception requests for review and approval based on predefined workflows.
+Azure Active Directory,Automate Identity Analytics,"Generate identity analytics reports automatically to detect trends, anomalies, or high-risk user activities."
+Azure Active Directory,Automate Segregation of Duties (SoD) Checks,Automatically check for and resolve SoD conflicts during access requests.
+Azure Active Directory,Automate User Login Analytics,"Automatically analyze user login activities to identify trends, anomalies, or potential security risks."
+Azure Active Directory,Automate Data Cleanup,"Automatically identify and remove stale, duplicate, or orphaned accounts."
+Azure Active Directory,Automate Integration with HR Systems,"Sync user data between HR systems and Azure AD to automate onboarding, offboarding, and role updates."
+Azure Active Directory,Automate Password Policy Updates,Automatically update and enforce password policies across connected applications.
+Azure Active Directory,Automate Compliance Policy Enforcement,"Enforce compliance policies, such as GDPR, HIPAA, or SOX, using automated workflows."
+Azure Active Directory,Automate Event-Based Workflows,"Trigger specific workflows automatically based on events like user creation, role changes, or group membership updates."
+Azure Active Directory,Automate User Behavior Monitoring,Automatically monitor and analyze user behavior to detect anomalies or potential security risks.
+Azure Active Directory,Automate Identity Federation,Configure and manage identity federation between Azure AD and partner organizations automatically.
+Azure Active Directory,Automate Application Discovery,Automatically discover new applications and integrate them into Azure AD for centralized access management.
+Azure Active Directory,Automate Privileged Account Monitoring,Continuously monitor and audit privileged account usage for compliance and security purposes.
+Azure Active Directory,Automate Role Recommendations,Use AI-driven insights to recommend roles for users based on their access patterns and entitlements.
+Azure Active Directory,Automate SoD Policy Updates,Automatically update segregation of duties (SoD) policies based on changes in business requirements.
+Azure Active Directory,Automate Compliance Certification Reports,Generate compliance certification reports automatically and distribute them to stakeholders.
+Azure Active Directory,Automate Integration with ITSM Tools,Integrate with ITSM tools like ServiceNow to automate incident creation and resolution based on Azure AD events.
+Azure Active Directory,Automate User Consent Management,Automatically manage user consent for data sharing with connected applications.
+Azure Active Directory,Automate Role Cleanup,Identify and remove unused or redundant roles automatically to streamline access management.
+Azure Active Directory,Automate High-Risk Account Monitoring,Continuously monitor high-risk accounts and trigger alerts for suspicious activities.
+Azure Active Directory,Automate Role-Based Notifications,"Automatically notify stakeholders of changes to roles, including additions, deletions, or modifications."
+Azure Active Directory,Automate Application Access Reviews,Schedule and automate reviews of user access to applications to ensure compliance and reduce risk.
+Azure Active Directory,Automate Identity Lifecycle Audits,Schedule and automate audits of the identity lifecycle process to ensure compliance and efficiency.
+Azure Active Directory,Automate Integration with Cloud Platforms,"Automatically configure and manage provisioning for cloud platforms like AWS, Azure, or Google Cloud."
+Azure Active Directory,Automate Idle Account Notifications,"Notify users automatically if their accounts are inactive for a certain period, prompting them to take action."
+Azure Active Directory,Automate Login Failure Alerts,Automatically alert administrators or security teams after multiple failed login attempts.
+Azure Active Directory,Automate Policy Conflict Resolution,Automatically detect and resolve conflicts between access policies.
+Azure Active Directory,Automate Manager Access Reviews,Schedule and automate access reviews for managers to validate their team members' access rights.

@@ -1,0 +1,68 @@
+Category,Short Description,Description
+Security Incident Report Template,Automatic Incident Logging,Automate the creation of security incident reports when alerts are triggered by monitoring tools.
+Security Incident Report Template,Pre-Filled Incident Details,"Automate populating reports with key details like IP addresses, timestamps, and affected systems from monitoring logs."
+Security Incident Report Template,Incident Categorization,Automate categorization of incidents in the report based on predefined severity or type.
+Security Incident Report Template,Priority Assignment,Automate assigning priority levels to incidents based on their urgency and business impact.
+Security Incident Report Template,Timestamp Automation,"Automate adding detection, response, and resolution timestamps to the report."
+Security Incident Report Template,Root Cause Analysis,Automate documenting the root cause of the incident using log data or forensic analysis.
+Security Incident Report Template,Impact Assessment,Automate calculating and documenting the business and operational impact of the incident.
+Security Incident Report Template,Incident Timeline Generation,Automate generating chronological timelines of events leading to and during the incident.
+Security Incident Report Template,Containment Steps,"Automate documenting containment actions taken, such as isolating affected systems."
+Security Incident Report Template,Threat Intelligence Integration,Automate enriching the report with data from threat intelligence platforms.
+Security Incident Report Template,Incident Summary Automation,"Automate summarizing key incident details, including type, severity, and status, for the executive summary section."
+Security Incident Report Template,Response Actions,Automate documenting all response actions taken to mitigate the incident.
+Security Incident Report Template,Resolution Details,Automate recording resolution steps and outcomes in the report.
+Security Incident Report Template,Integration with SIEM,"Automate pulling incident details from SIEM tools like Splunk, QRadar, or ArcSight into the report."
+Security Incident Report Template,Integration with Endpoint Protection Tools,"Automate importing endpoint-specific incident data, such as affected machines, into the report."
+Security Incident Report Template,Integration with Firewall Logs,Automate including firewall logs to provide context for network-related incidents.
+Security Incident Report Template,Integration with IDS/IPS,Automate including intrusion detection/prevention logs in the report for documentation.
+Security Incident Report Template,Phishing Incident Reporting,"Automate adding phishing incident details, including sender information and targeted users, to the report."
+Security Incident Report Template,Malware Incident Reporting,"Automate documenting malware-related incidents, including file hashes, infection paths, and remediation steps."
+Security Incident Report Template,Ransomware Incident Reporting,"Automate recording ransomware demands, encrypted assets, and recovery actions in the report."
+Security Incident Report Template,Data Breach Reporting,"Automate documenting data breach details such as exposed records, affected systems, and containment actions."
+Security Incident Report Template,Unauthorized Access Reporting,"Automate capturing details of unauthorized access attempts, including IP addresses and entry points."
+Security Incident Report Template,SLA Tracking,Automate adding SLA compliance status for incident resolution timelines to the report.
+Security Incident Report Template,Compliance Framework Mapping,"Automate mapping incidents to compliance requirements (e.g., GDPR, HIPAA, ISO 27001) in the report."
+Security Incident Report Template,Notification Tracking,Automate documenting all notifications sent to stakeholders during the incident.
+Security Incident Report Template,Incident Status Updates,"Automate updating the status of the incident in the report (e.g., Open, In Progress, Resolved)."
+Security Incident Report Template,Affected Assets Logging,"Automate listing all affected assets, such as devices, servers, or applications, in the report."
+Security Incident Report Template,Forensic Evidence Integration,"Automate importing forensic evidence such as memory dumps, disk images, or logs into the report."
+Security Incident Report Template,Incident Metrics Automation,"Automate calculating metrics like detection time, response time, and resolution time for inclusion in the report."
+Security Incident Report Template,Incident Visualization,"Automate generating graphs, charts, or tables to visually represent incident data in the report."
+Security Incident Report Template,Incident Escalation Logs,"Automate documenting escalation actions, timelines, and responsible parties in the report."
+Security Incident Report Template,Integration with Threat Feeds,Automate enriching the report with data from threat intelligence feeds to provide additional context.
+Security Incident Report Template,Integration with Antivirus Logs,"Automate including antivirus detection logs, such as quarantined files or signatures, in the report."
+Security Incident Report Template,Integration with DLP Systems,Automate documenting data loss incidents using information from data loss prevention (DLP) systems.
+Security Incident Report Template,Backup and Recovery Documentation,Automate adding backup and recovery steps taken during the incident to the report.
+Security Incident Report Template,Third-Party Vendor Incidents,"Automate documenting incidents involving third-party vendors, including affected systems and escalation steps."
+Security Incident Report Template,Training Recommendations,Automate producing recommendations for employee training based on incident findings.
+Security Incident Report Template,Policy Violation Documentation,Automate identifying and documenting violations of organizational policies related to the incident.
+Security Incident Report Template,Insider Threat Reporting,"Automate documenting incidents involving insider threats, such as privilege misuse or data exfiltration."
+Security Incident Report Template,Incident Playbook Linkage,Automate linking the incident to predefined response playbooks and documenting steps taken.
+Security Incident Report Template,Incident Lessons Learned,Automate documenting lessons learned from the incident to improve future response processes.
+Security Incident Report Template,Cost Impact Analysis,Automate calculating the financial impact of the incident and including it in the report.
+Security Incident Report Template,Integration with Web Server Logs,Automate importing web server logs to include application-related incident data in the report.
+Security Incident Report Template,Integration with Cloud Logs,"Automate including cloud activity logs (e.g., AWS, Azure) in the report for cloud-related incidents."
+Security Incident Report Template,Integration with Compliance Dashboards,Automate linking incident reports to compliance dashboards for audit tracking.
+Security Incident Report Template,Incident Timeline Automation,Automate generating a detailed timeline of events for the incident report.
+Security Incident Report Template,Incident Dashboard Updates,Automate creating dashboards within the report to summarize metrics and trends.
+Security Incident Report Template,Escalation Timelines,Automate tracking and documenting escalation timelines in the incident report.
+Security Incident Report Template,Incident Validation Steps,Automate adding validation steps to confirm the resolution of the incident.
+Security Incident Report Template,Unauthorized Login Attempts,"Automate documenting details of unauthorized login attempts, including timestamps and IP addresses."
+Security Incident Report Template,Incident Knowledge Base Linkage,Automate linking the report to related knowledge base articles for future reference.
+Security Incident Report Template,Threat Actor Profiling,"Automate adding threat actor details, such as tactics, techniques, and procedures, to the report."
+Security Incident Report Template,Incident Communication Logs,Automate capturing all communications between response teams and stakeholders during the incident.
+Security Incident Report Template,Incident Response Team Documentation,Automate listing team members and their roles in the report for accountability.
+Security Incident Report Template,Incident Detection Tools,Automate listing tools or systems that detected the incident in the report.
+Security Incident Report Template,Compliance Audit Reports,Automate generating compliance-specific incident reports for audit purposes.
+Security Incident Report Template,SLA Breach Alerts,Automate adding alerts for SLA violations to the incident report.
+Security Incident Report Template,Incident Metrics for Stakeholders,Automate presenting incident metrics customized for different stakeholder groups.
+Security Incident Report Template,Report Versioning,Automate saving new versions of the report as updates are made.
+Security Incident Report Template,Incident Closure Summary,"Automate summarizing closure details, such as resolution outcomes and lessons learned, in the report."
+Security Incident Report Template,Historical Incident Comparison,Automate comparing current incidents to historical cases and documenting similarities.
+Security Incident Report Template,Incident Severity Adjustment,Automate adjusting severity levels in the report as more data becomes available.
+Security Incident Report Template,Integration with Business Continuity Plans,Automate linking incidents to business continuity plans and documenting recovery activities.
+Security Incident Report Template,Incident Status Dashboard,"Automate creating a dashboard within the report to track open, in-progress, and resolved incidents."
+Security Incident Report Template,Incident Detection Time Analysis,Automate calculating and documenting the time taken to detect the incident.
+Security Incident Report Template,Incident Response Time Analysis,Automate calculating and recording the time taken to respond to the incident.
+Security Incident Report Template,Incident Resolution Time Analysis,Automate calculating and documenting the total resolution time for the incident.

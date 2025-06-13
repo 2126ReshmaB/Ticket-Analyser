@@ -1,0 +1,68 @@
+Category,Short Description,Description
+QUASR Lite,Automatic Incident Logging,Automate the logging of incidents into the system when triggered by predefined events or alerts.
+QUASR Lite,Incident Categorization,"Automate categorization of incidents based on keywords, severity, or type."
+QUASR Lite,Incident Prioritization,Automate assigning priority levels to incidents based on their impact and urgency.
+QUASR Lite,SLA Monitoring,Automate tracking SLA compliance for incident resolution timelines and escalate breaches.
+QUASR Lite,Incident Escalation,Automate escalation of unresolved incidents to higher-level teams or management.
+QUASR Lite,Incident Status Updates,Automate updating the status of incidents as they progress through the resolution workflow.
+QUASR Lite,Duplicate Incident Detection,Automate identifying and merging duplicate incidents to reduce redundancy.
+QUASR Lite,Incident Closure Verification,Automate verification of required fields and resolution notes before closing incidents.
+QUASR Lite,Incident Trend Analysis,Automate generating reports to analyze trends in incidents over time.
+QUASR Lite,Root Cause Analysis,Automate linking incidents to their root causes and generating reports for analysis.
+QUASR Lite,Incident Impact Assessment,Automate assessing the impact of incidents on business operations and recording it in the system.
+QUASR Lite,Incident Response Time Tracking,Automate tracking and reporting on response times for incidents.
+QUASR Lite,Incident Resolution Time Tracking,Automate tracking and reporting on resolution times for incidents.
+QUASR Lite,Incident Notification Automation,Automate sending notifications to stakeholders when new incidents are logged or updated.
+QUASR Lite,Integration with Monitoring Tools,Automate incident creation in the system based on alerts from monitoring tools like SIEM or XDR.
+QUASR Lite,Integration with Email,Automate parsing emails to create incidents in the system.
+QUASR Lite,Integration with Slack or Teams,Automate sending incident updates to collaboration tools like Slack or Microsoft Teams.
+QUASR Lite,Integration with SOAR Platforms,"Automate incident logging and updates using Security Orchestration, Automation, and Response (SOAR) platforms."
+QUASR Lite,Incident Severity Adjustment,Automate adjusting incident severity based on updated information or analysis.
+QUASR Lite,Incident Aging Reports,Automate generating reports on incidents that remain unresolved for extended periods.
+QUASR Lite,Incident Escalation Notifications,Automate sending notifications to stakeholders when incidents are escalated.
+QUASR Lite,SLA Breach Alerts,Automate alerts for incidents that are at risk of breaching SLA deadlines.
+QUASR Lite,Incident Assignment Rules,Automate assigning incidents to the appropriate teams or individuals based on predefined rules.
+QUASR Lite,Incident Workflow Automation,"Automate workflows for incident resolution, including task creation and status updates."
+QUASR Lite,Incident Reporting,Automate generating detailed incident reports for stakeholders or audits.
+QUASR Lite,Incident Dashboard Updates,Automate updating dashboards with real-time incident metrics and statuses.
+QUASR Lite,Incident Correlation,Automate linking related incidents to identify patterns or common root causes.
+QUASR Lite,Incident Metrics by Severity,Automate generating metrics on incidents segmented by severity levels.
+QUASR Lite,Incident Metrics by Type,"Automate generating metrics on incidents segmented by type (e.g., phishing, malware)."
+QUASR Lite,Incident Metrics by Source,"Automate generating metrics on incidents segmented by their source (e.g., internal, external)."
+QUASR Lite,Incident Metrics by Region,Automate generating metrics on incidents segmented by geographic region.
+QUASR Lite,Incident Metrics by Business Unit,Automate generating metrics on incidents segmented by business unit or department.
+QUASR Lite,Incident Metrics by Time Period,"Automate generating metrics on incidents segmented by time periods (e.g., daily, weekly, monthly)."
+QUASR Lite,Incident Metrics for VIP Users,Automate tracking incidents that involve VIP users and generating related metrics.
+QUASR Lite,Incident Metrics for Critical Assets,Automate tracking incidents that involve critical assets and generating related metrics.
+QUASR Lite,Incident Metrics for Third-Party Vendors,Automate tracking incidents involving third-party vendors and generating related metrics.
+QUASR Lite,Incident Metrics for Compliance,Automate tracking incidents related to compliance violations and generating reports.
+QUASR Lite,Incident Metrics for Insider Threats,Automate tracking incidents related to insider threats and generating related metrics.
+QUASR Lite,Incident Metrics for External Threats,Automate tracking incidents related to external threats and generating related metrics.
+QUASR Lite,Incident Metrics for Phishing,Automate tracking phishing-related incidents and generating related metrics.
+QUASR Lite,Incident Metrics for Malware,Automate tracking malware-related incidents and generating related metrics.
+QUASR Lite,Incident Metrics for Ransomware,Automate tracking ransomware-related incidents and generating related metrics.
+QUASR Lite,Incident Metrics for DDoS Attacks,Automate tracking DDoS-related incidents and generating related metrics.
+QUASR Lite,Incident Metrics for Data Breaches,Automate tracking data breach incidents and generating related metrics.
+QUASR Lite,Incident Metrics for Unauthorized Access,Automate tracking incidents related to unauthorized access and generating related metrics.
+QUASR Lite,Incident Metrics for Policy Violations,Automate tracking incidents related to policy violations and generating related metrics.
+QUASR Lite,Incident Metrics for Failed Logins,Automate tracking incidents related to failed login attempts and generating related metrics.
+QUASR Lite,Incident Metrics for Endpoint Security,Automate tracking incidents related to endpoint security and generating related metrics.
+QUASR Lite,Incident Metrics for Cloud Security,Automate tracking incidents related to cloud security and generating related metrics.
+QUASR Lite,Incident Metrics for Network Security,Automate tracking incidents related to network security and generating related metrics.
+QUASR Lite,Incident Metrics for Application Security,Automate tracking incidents related to application security and generating related metrics.
+QUASR Lite,Incident Metrics for IoT Security,Automate tracking incidents related to IoT security and generating related metrics.
+QUASR Lite,Incident Metrics for Zero-Day Vulnerabilities,Automate tracking incidents related to zero-day vulnerabilities and generating related metrics.
+QUASR Lite,Incident Metrics for Patch Management,Automate tracking incidents related to patch management and generating related metrics.
+QUASR Lite,Incident Metrics for Configuration Errors,Automate tracking incidents related to configuration errors and generating related metrics.
+QUASR Lite,Incident Metrics for Human Error,Automate tracking incidents caused by human error and generating related metrics.
+QUASR Lite,Incident Metrics for Social Engineering,Automate tracking incidents related to social engineering attacks and generating related metrics.
+QUASR Lite,Incident Metrics for Physical Security,Automate tracking incidents related to physical security breaches and generating related metrics.
+QUASR Lite,Incident Metrics for Compliance Audits,Automate tracking incidents flagged during compliance audits and generating related metrics.
+QUASR Lite,Incident Metrics for Training Gaps,Automate tracking incidents caused by training gaps and generating related metrics.
+QUASR Lite,Incident Metrics for Security Awareness,Automate tracking incidents related to lack of security awareness and generating related metrics.
+QUASR Lite,Incident Metrics for Threat Intelligence,Automate tracking incidents flagged by threat intelligence feeds and generating related metrics.
+QUASR Lite,Incident Metrics for Vulnerability Scans,Automate tracking incidents flagged during vulnerability scans and generating related metrics.
+QUASR Lite,Incident Metrics for Penetration Tests,Automate tracking incidents flagged during penetration tests and generating related metrics.
+QUASR Lite,Incident Metrics for Incident Response Drills,Automate tracking incidents flagged during incident response drills and generating related metrics.
+QUASR Lite,Incident Metrics for Security Tools,Automate tracking incidents flagged by security tools and generating related metrics.
+QUASR Lite,Incident Metrics for Security Policies,Automate tracking incidents related to security policy violations and generating related metrics

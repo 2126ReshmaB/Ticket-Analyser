@@ -1,0 +1,73 @@
+Category,Short Description,Description
+"APM Tools (e.g., Dynatrace)",Monitor Application Performance,"Track response times, throughput, and error rates for applications."
+"APM Tools (e.g., Dynatrace)",Real-Time Alert Notifications,Receive instant alerts for performance degradation or outages.
+"APM Tools (e.g., Dynatrace)",Monitor Server Health Metrics,"Track CPU, memory, and disk usage on application servers."
+"APM Tools (e.g., Dynatrace)",Monitor Database Query Performance,Analyze query execution times to optimize database operations.
+"APM Tools (e.g., Dynatrace)",Monitor API Performance,"Measure API response times, error rates, and throughput."
+"APM Tools (e.g., Dynatrace)",Monitor Microservices,Track the health and performance of microservices architectures.
+"APM Tools (e.g., Dynatrace)",Monitor Cloud Applications,Track performance metrics of applications hosted in cloud environments.
+"APM Tools (e.g., Dynatrace)",Monitor User Experience,Analyze user interactions and identify performance bottlenecks.
+"APM Tools (e.g., Dynatrace)",Monitor Mobile Applications,"Track crashes, latency, and performance metrics of mobile apps."
+"APM Tools (e.g., Dynatrace)",Monitor Kubernetes Clusters,Ensure Kubernetes clusters are running efficiently with optimal resource usage.
+"APM Tools (e.g., Dynatrace)",Monitor Containerized Applications,Track resource usage and performance metrics for Docker containers.
+"APM Tools (e.g., Dynatrace)",Monitor Application Dependencies,Identify and monitor dependencies between services and applications.
+"APM Tools (e.g., Dynatrace)",Monitor Application Errors,Track error rates and troubleshoot application issues.
+"APM Tools (e.g., Dynatrace)",Monitor Application Throughput,Measure the volume of requests handled by applications.
+"APM Tools (e.g., Dynatrace)",Monitor Application Availability,Ensure applications remain available and accessible to users.
+"APM Tools (e.g., Dynatrace)",Monitor Application Scalability,Track application performance under increasing workloads.
+"APM Tools (e.g., Dynatrace)",Monitor Application Downtime,Analyze downtime events to improve application reliability.
+"APM Tools (e.g., Dynatrace)",Monitor Application Trends,Analyze historical performance trends for applications.
+"APM Tools (e.g., Dynatrace)",Monitor Distributed Traces,Track distributed transactions across microservices to identify bottlenecks.
+"APM Tools (e.g., Dynatrace)",Monitor API Gateway Performance,"Measure API gateway latency, error rates, and throughput."
+"APM Tools (e.g., Dynatrace)",Monitor CI/CD Pipeline Deployments,Track performance changes introduced by CI/CD deployments.
+"APM Tools (e.g., Dynatrace)",Monitor SLA Compliance,Ensure applications meet service-level agreements for performance.
+"APM Tools (e.g., Dynatrace)",Monitor Hybrid Cloud Environments,Track performance across hybrid cloud infrastructures.
+"APM Tools (e.g., Dynatrace)",Monitor Application Latency,Measure and optimize application response times.
+"APM Tools (e.g., Dynatrace)",Monitor Application Crash Reports,Collect and analyze crash reports to identify root causes.
+"APM Tools (e.g., Dynatrace)",Monitor Business Transactions,Track key business transactions for performance and reliability.
+"APM Tools (e.g., Dynatrace)",Monitor Database Deadlocks,Detect and resolve database deadlocks to improve query performance.
+"APM Tools (e.g., Dynatrace)",Monitor Application Authentication,Track authentication events to detect unauthorized access attempts.
+"APM Tools (e.g., Dynatrace)",Monitor Application Update Logs,Monitor application updates to ensure successful rollouts.
+"APM Tools (e.g., Dynatrace)",Monitor Application Dependency Changes,Track changes in dependencies to prevent disruptions.
+"APM Tools (e.g., Dynatrace)",Monitor Application Error Logs,Collect and analyze error logs to troubleshoot issues.
+"APM Tools (e.g., Dynatrace)",Monitor Application SLA Violations,Detect SLA violations and resolve them proactively.
+"APM Tools (e.g., Dynatrace)",Monitor Application Resource Contention,Identify resource contention issues affecting application performance.
+"APM Tools (e.g., Dynatrace)",Monitor Server Scalability,Ensure servers can handle increased application workloads.
+"APM Tools (e.g., Dynatrace)",Monitor Server Resource Usage,"Track CPU, memory, and disk usage on servers hosting applications."
+"APM Tools (e.g., Dynatrace)",Monitor Server Uptime,Ensure continuous uptime for critical servers.
+"APM Tools (e.g., Dynatrace)",Monitor Server Latency,Measure server response times to ensure low latency.
+"APM Tools (e.g., Dynatrace)",Monitor Server Error Rates,Track server error rates to resolve issues quickly.
+"APM Tools (e.g., Dynatrace)",Monitor Server Trends,Analyze historical server performance metrics for capacity planning.
+"APM Tools (e.g., Dynatrace)",Monitor Network Latency,Measure latency between services and endpoints to optimize communication.
+"APM Tools (e.g., Dynatrace)",Monitor Network Traffic Patterns,Analyze network traffic to detect anomalies and optimize flow.
+"APM Tools (e.g., Dynatrace)",Monitor Network Packet Loss,Detect and resolve packet loss to improve network reliability.
+"APM Tools (e.g., Dynatrace)",Monitor Network Interfaces,Track bandwidth usage and performance of network interfaces.
+"APM Tools (e.g., Dynatrace)",Monitor Application Dependencies,Identify critical dependencies between applications and services.
+"APM Tools (e.g., Dynatrace)",Monitor Application SLA Metrics,Track SLA metrics to ensure compliance and performance.
+"APM Tools (e.g., Dynatrace)",Monitor Application Throughput Trends,Analyze throughput trends to plan for traffic surges.
+"APM Tools (e.g., Dynatrace)",Monitor Resource Allocation,Optimize resource allocation for applications and servers.
+"APM Tools (e.g., Dynatrace)",Monitor Application Deployment Impact,Analyze performance changes after application deployments.
+"APM Tools (e.g., Dynatrace)",Monitor Web Application Performance,"Track page load times, user interactions, and errors for web apps."
+"APM Tools (e.g., Dynatrace)",Monitor Mobile App Crash Rates,Analyze crash rates to improve mobile app reliability.
+"APM Tools (e.g., Dynatrace)",Monitor Database Replication,Ensure database replication operates efficiently with minimal latency.
+"APM Tools (e.g., Dynatrace)",Monitor Database SLA Compliance,Track database performance to ensure SLA compliance.
+"APM Tools (e.g., Dynatrace)",Monitor Database Query Trends,Analyze trends in query performance to anticipate future issues.
+"APM Tools (e.g., Dynatrace)",Monitor Application Security Threats,Detect potential security threats affecting application performance.
+"APM Tools (e.g., Dynatrace)",Monitor Memory Leaks,Identify and resolve memory leaks in applications.
+"APM Tools (e.g., Dynatrace)",Monitor Garbage Collection Performance,Track garbage collection activity to optimize memory usage.
+"APM Tools (e.g., Dynatrace)",Monitor API Rate Limits,Track API usage to avoid throttling or rate-limit violations.
+"APM Tools (e.g., Dynatrace)",Monitor Load Balancer Performance,Ensure load balancers distribute traffic efficiently across servers.
+"APM Tools (e.g., Dynatrace)",Monitor Middleware Performance,Track the performance of middleware layers like Kafka or RabbitMQ.
+"APM Tools (e.g., Dynatrace)",Monitor Service Mesh Performance,Track performance of service mesh interactions in microservices.
+"APM Tools (e.g., Dynatrace)",Monitor Application Cache Performance,Ensure cache layers are operating efficiently for faster data retrieval.
+"APM Tools (e.g., Dynatrace)",Monitor Application SLA Trends,Analyze SLA compliance trends over time.
+"APM Tools (e.g., Dynatrace)",Monitor Application Resource Scaling,Track resource scaling events in response to workload changes.
+"APM Tools (e.g., Dynatrace)",Monitor Application Conversion Rates,Analyze user conversion rates to identify performance impacts.
+"APM Tools (e.g., Dynatrace)",Monitor Application Response Time Peaks,Identify peak response times to optimize performance.
+"APM Tools (e.g., Dynatrace)",Monitor Event Loop Latency,Track event loop latency in asynchronous applications.
+"APM Tools (e.g., Dynatrace)",Monitor Queue Depths,Analyze queue depths to optimize message processing rates.
+"APM Tools (e.g., Dynatrace)",Monitor Application Throughput Bottlenecks,Detect bottlenecks in throughput to improve request handling.
+"APM Tools (e.g., Dynatrace)",Monitor Chat Server Performance,Track performance metrics for chat servers and user interactions.
+"APM Tools (e.g., Dynatrace)",Monitor Streaming Application Metrics,Analyze performance metrics for real-time streaming applications.
+"APM Tools (e.g., Dynatrace)",Monitor Application SLA Violations,Detect SLA breaches and take corrective action.
+"APM Tools (e.g., Dynatrace)",Monitor Database Connection Pools,Track connection pool usage

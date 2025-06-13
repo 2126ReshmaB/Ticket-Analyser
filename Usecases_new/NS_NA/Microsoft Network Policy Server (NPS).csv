@@ -1,0 +1,48 @@
+Category,Short Description,Description
+Microsoft Network Policy Server (NPS),Automate RADIUS client configuration,"Automate the addition, update, or removal of RADIUS clients for network authentication."
+Microsoft Network Policy Server (NPS),Automate backup of NPS configurations,Automate scheduled backups of NPS configurations to ensure recovery and compliance.
+Microsoft Network Policy Server (NPS),Automate policy creation,Automate the creation of network policies for specific user groups or conditions.
+Microsoft Network Policy Server (NPS),Automate user authentication logs export,Automate the export of user authentication logs for auditing and analysis purposes.
+Microsoft Network Policy Server (NPS),Automate certificate-based authentication setup,Automate the configuration of certificate-based authentication for secure access.
+Microsoft Network Policy Server (NPS),Automate integration with Active Directory,Automate the integration of NPS with Active Directory for centralized user management and authentication.
+Microsoft Network Policy Server (NPS),Automate VLAN assignment,Automate the assignment of VLANs to users or devices based on network policies.
+Microsoft Network Policy Server (NPS),Automate conditional access policies,"Automate the setup of conditional access policies for users based on device type, location, or time."
+Microsoft Network Policy Server (NPS),Automate failed login alerts,Automate the generation and delivery of alerts for failed login attempts to identify potential security breaches.
+Microsoft Network Policy Server (NPS),Automate multi-factor authentication enforcement,Automate the enforcement of multi-factor authentication for users requiring elevated access.
+Microsoft Network Policy Server (NPS),Automate RADIUS server health checks,Automate periodic health checks of RADIUS servers to ensure availability and performance.
+Microsoft Network Policy Server (NPS),Automate load balancing for RADIUS servers,Automate the configuration of load balancing across multiple RADIUS servers for better distribution of authentication requests.
+Microsoft Network Policy Server (NPS),Automate logging for accounting requests,Automate the logging of accounting requests for tracking user session details.
+Microsoft Network Policy Server (NPS),Automate guest user access policies,"Automate the creation of policies for guest user access, including time-limited access settings."
+Microsoft Network Policy Server (NPS),Automate integration with VPN servers,Automate the configuration of NPS as a RADIUS server for VPN authentication.
+Microsoft Network Policy Server (NPS),Automate user role-based access policies,Automate the enforcement of role-based access control policies for users in different departments or groups.
+Microsoft Network Policy Server (NPS),Automate IP address filtering,Automate the configuration of IP address filters for restricting access to specific IP ranges or devices.
+Microsoft Network Policy Server (NPS),Automate RADIUS timeout settings,Automate the configuration of timeout settings for RADIUS authentication requests.
+Microsoft Network Policy Server (NPS),Automate NPS service monitoring,Automate the monitoring of the NPS service to ensure it is running and responsive.
+Microsoft Network Policy Server (NPS),Automate certificate renewal for NPS,Automate the renewal and deployment of server certificates used by NPS for secure communication.
+Microsoft Network Policy Server (NPS),Automate user authentication reports,Automate the generation of user authentication success and failure reports for compliance.
+Microsoft Network Policy Server (NPS),Automate device-based policy enforcement,"Automate the enforcement of policies based on device types (e.g., laptops, smartphones)."
+Microsoft Network Policy Server (NPS),Automate integration with wireless access points,Automate the configuration of NPS to authenticate users connecting via wireless access points (WAPs).
+Microsoft Network Policy Server (NPS),Automate session timeout policies,Automate the enforcement of session timeout policies for all authenticated users.
+Microsoft Network Policy Server (NPS),Automate integration with third-party RADIUS clients,Automate the setup of third-party RADIUS clients for authentication through NPS.
+Microsoft Network Policy Server (NPS),Automate 802.1X authentication setup,Automate the configuration of 802.1X authentication for secure wired and wireless networks.
+Microsoft Network Policy Server (NPS),Automate policy conflict resolution,Automate the detection and resolution of conflicts in NPS policies.
+Microsoft Network Policy Server (NPS),Automate integration with Azure AD,Automate the configuration of NPS with Azure Active Directory for cloud-based authentication.
+Microsoft Network Policy Server (NPS),Automate integration with monitoring tools,Automate the integration of NPS with monitoring tools like Microsoft System Center for centralized health and performance tracking.
+Microsoft Network Policy Server (NPS),Automate user lockout policies,Automate the configuration of policies to lock out users after multiple failed authentication attempts.
+Microsoft Network Policy Server (NPS),Automate dynamic RADIUS attributes configuration,Automate the setup of dynamic RADIUS attributes to provide custom access for specific users or devices.
+Microsoft Network Policy Server (NPS),Automate fallback RADIUS server configurations,Automate the setup of fallback RADIUS servers to ensure high availability during outages.
+Microsoft Network Policy Server (NPS),Automate NAS (Network Access Server) configurations,Automate the configuration of NAS devices for centralized authentication using NPS.
+Microsoft Network Policy Server (NPS),Automate accounting logs cleanup,Automate the cleanup of old accounting logs to save storage and maintain system performance.
+Microsoft Network Policy Server (NPS),Automate integration with SIEM tools,Automate the integration of NPS with SIEM tools for real-time security monitoring and analysis.
+Microsoft Network Policy Server (NPS),Automate group policy integration,Automate the linking of NPS with group policies for seamless user authentication and access control.
+Microsoft Network Policy Server (NPS),Automate authentication request prioritization,Automate the prioritization of authentication requests based on predefined criteria such as user type or location.
+Microsoft Network Policy Server (NPS),Automate dual RADIUS server configuration,Automate the setup of primary and secondary RADIUS servers for redundancy and failover.
+Microsoft Network Policy Server (NPS),Automate NAS vendor-specific attributes,Automate the addition of vendor-specific attributes for NAS devices in NPS policies.
+Microsoft Network Policy Server (NPS),Automate network policy backups,Automate scheduled backups of network policies to prevent data loss due to misconfiguration.
+Microsoft Network Policy Server (NPS),Automate integration with MFA providers,Automate the integration of NPS with third-party multi-factor authentication (MFA) providers for enhanced security.
+Microsoft Network Policy Server (NPS),Automate wireless user authentication logs,Automate the logging of authentication attempts made by wireless users for audit purposes.
+Microsoft Network Policy Server (NPS),Automate monitoring of authentication trends,Automate the generation of reports to identify trends in authentication requests and failures.
+Microsoft Network Policy Server (NPS),Automate NPS certificate binding,Automate the binding of certificates to NPS for secure communication and authentication.
+Microsoft Network Policy Server (NPS),Automate RADIUS accounting data export,Automate the export of RADIUS accounting data for billing and analysis purposes.
+Microsoft Network Policy Server (NPS),Automate user activity notifications,Automate the delivery of notifications to administrators about unusual user activity detected in authentication logs.
+Microsoft Network Policy Server (NPS),Automate integration with endpoint protection tools,Automate the configuration of endpoint protection tools to enforce compliance before authentication.

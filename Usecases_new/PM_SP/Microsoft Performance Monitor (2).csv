@@ -1,0 +1,87 @@
+Category,Short Description,Description
+Microsoft Performance Monitor,Monitor CPU Usage,Track CPU usage to identify performance bottlenecks.
+Microsoft Performance Monitor,Monitor Memory Usage,Analyze memory consumption to optimize application performance.
+Microsoft Performance Monitor,Monitor Disk I/O,Track disk input/output operations to detect storage bottlenecks.
+Microsoft Performance Monitor,Monitor Network Bandwidth,Measure network bandwidth usage to identify potential issues.
+Microsoft Performance Monitor,Monitor Process Performance,Track individual process performance to detect resource-heavy applications.
+Microsoft Performance Monitor,Monitor System Uptime,Track system uptime to ensure reliability and availability.
+Microsoft Performance Monitor,Monitor Application Response Times,Measure application response times to ensure optimal performance.
+Microsoft Performance Monitor,Monitor Active Directory Performance,Track Active Directory performance to ensure efficient authentication.
+Microsoft Performance Monitor,Monitor SQL Server Performance,Analyze SQL Server performance metrics to optimize database operations.
+Microsoft Performance Monitor,Monitor Virtual Machine Performance,Track resource usage of virtual machines to ensure efficient operation.
+Microsoft Performance Monitor,Monitor Web Server Performance,Measure web server performance to ensure fast response times.
+Microsoft Performance Monitor,Monitor Event Logs,Collect and analyze event logs for troubleshooting system issues.
+Microsoft Performance Monitor,Monitor System Boot Times,Track boot times to identify startup performance issues.
+Microsoft Performance Monitor,Monitor Application Errors,Track application error rates to identify and resolve issues.
+Microsoft Performance Monitor,Monitor Network Latency,Measure network latency to ensure smooth communication between systems.
+Microsoft Performance Monitor,Monitor Disk Space Usage,Track disk space usage to prevent storage-related issues.
+Microsoft Performance Monitor,Monitor System Temperature,Track system temperature to prevent overheating and hardware damage.
+Microsoft Performance Monitor,Monitor Power Usage,Measure power consumption to optimize energy efficiency.
+Microsoft Performance Monitor,Monitor Thread Counts,Track thread counts to identify potential threading issues in applications.
+Microsoft Performance Monitor,Monitor Page File Usage,Analyze page file usage to optimize virtual memory performance.
+Microsoft Performance Monitor,Monitor Cache Performance,Track cache performance to ensure efficient data retrieval.
+Microsoft Performance Monitor,Monitor Network Packet Loss,Measure packet loss to identify network reliability issues.
+Microsoft Performance Monitor,Monitor System Interrupts,Track system interrupts to identify hardware or driver issues.
+Microsoft Performance Monitor,Monitor System Context Switches,Analyze context switches to detect CPU scheduling inefficiencies.
+Microsoft Performance Monitor,Monitor GPU Usage,Track GPU usage to optimize graphics-intensive applications.
+Microsoft Performance Monitor,Monitor Application Memory Leaks,Detect memory leaks in applications to prevent performance degradation.
+Microsoft Performance Monitor,Monitor Server Availability,Ensure server availability by tracking uptime and response times.
+Microsoft Performance Monitor,Monitor IIS Performance,Track IIS server metrics to optimize web application performance.
+Microsoft Performance Monitor,Monitor File System Performance,Analyze file system performance to detect read/write bottlenecks.
+Microsoft Performance Monitor,Monitor DNS Server Performance,Track DNS server response times to ensure fast domain resolution.
+Microsoft Performance Monitor,Monitor Firewall Performance,Measure firewall performance to ensure secure and efficient traffic handling.
+Microsoft Performance Monitor,Monitor Print Server Performance,Track print server metrics to ensure efficient print job handling.
+Microsoft Performance Monitor,Monitor Remote Desktop Performance,Measure remote desktop session performance to ensure smooth operation.
+Microsoft Performance Monitor,Monitor Application Thread Usage,Track thread usage in applications to optimize multithreading performance.
+Microsoft Performance Monitor,Monitor System Queue Length,Analyze system queue lengths to detect resource contention.
+Microsoft Performance Monitor,Monitor Network Interface Performance,Track network interface metrics to ensure efficient data transfer.
+Microsoft Performance Monitor,Monitor Application Throughput,Measure application throughput to ensure optimal performance.
+Microsoft Performance Monitor,Monitor System Resource Contention,Identify resource contention issues affecting system performance.
+Microsoft Performance Monitor,Monitor Application Latency,Track application latency to ensure low response times.
+Microsoft Performance Monitor,Monitor System Swap Usage,Analyze swap usage to optimize memory management.
+Microsoft Performance Monitor,Monitor Application SLA Compliance,Ensure applications meet service-level agreements for performance.
+Microsoft Performance Monitor,Monitor System Security Events,Track security events to identify potential threats.
+Microsoft Performance Monitor,Monitor Authentication Logs,Track authentication logs to detect unauthorized access attempts.
+Microsoft Performance Monitor,Monitor Firewall Logs,Analyze firewall logs to ensure secure system operations.
+Microsoft Performance Monitor,Monitor System Compliance,Ensure systems comply with regulatory and organizational standards.
+Microsoft Performance Monitor,Monitor Application Resource Usage,Track resource usage for applications running on the system.
+Microsoft Performance Monitor,Monitor Application Scalability,Track application scalability to handle increased workloads.
+Microsoft Performance Monitor,Monitor Application Availability,Ensure applications remain available and accessible to users.
+Microsoft Performance Monitor,Monitor Application Downtime,Track and analyze application downtime to improve reliability.
+Microsoft Performance Monitor,Monitor Application Trends,Analyze historical application performance trends.
+Microsoft Performance Monitor,Monitor Application Security,Track application security events to identify potential threats.
+Microsoft Performance Monitor,Monitor Application Authentication,Track authentication events for applications to detect unauthorized access.
+Microsoft Performance Monitor,Monitor Application Firewall Logs,Analyze firewall logs for applications to ensure secure operations.
+Microsoft Performance Monitor,Monitor Application Compliance,Ensure applications comply with regulatory and organizational standards.
+Microsoft Performance Monitor,Monitor Application Resource Contention,Identify resource contention issues affecting application performance.
+Microsoft Performance Monitor,Monitor Application Crash Reports,Track crash reports to identify and resolve application issues.
+Microsoft Performance Monitor,Monitor Application Update Logs,Track application update logs to ensure successful updates.
+Microsoft Performance Monitor,Monitor Application Dependency Changes,Track changes in application dependencies to prevent disruptions.
+Microsoft Performance Monitor,Monitor Application Error Logs,Collect and analyze error logs for application troubleshooting.
+Microsoft Performance Monitor,Monitor Application Performance Metrics,Track key performance metrics for applications running on the system.
+Microsoft Performance Monitor,Monitor Database Query Performance,Analyze database query execution times to optimize performance.
+Microsoft Performance Monitor,Monitor Database Connection Pools,Track connection pool usage to prevent database connection issues.
+Microsoft Performance Monitor,Monitor Database Transaction Logs,Analyze transaction logs to ensure database integrity.
+Microsoft Performance Monitor,Monitor Database Index Usage,Track index usage to optimize database query performance.
+Microsoft Performance Monitor,Monitor Database Deadlocks,Detect and resolve database deadlocks to ensure smooth operations.
+Microsoft Performance Monitor,Monitor Database Backup Jobs,Track the status of database backup jobs to ensure data safety.
+Microsoft Performance Monitor,Monitor Database Replication,Track replication performance to ensure data consistency.
+Microsoft Performance Monitor,Monitor Database Disk I/O,Analyze disk I/O for databases to detect performance bottlenecks.
+Microsoft Performance Monitor,Monitor Database Memory Usage,Track memory usage for databases to optimize performance.
+Microsoft Performance Monitor,Monitor Database CPU Usage,Analyze CPU usage for database processes to prevent bottlenecks.
+Microsoft Performance Monitor,Monitor Database Availability,Ensure databases remain available and accessible to applications.
+Microsoft Performance Monitor,Monitor Database Latency,Track database response times to ensure low latency.
+Microsoft Performance Monitor,Monitor Database Error Rates,Track database error rates to identify and resolve issues.
+Microsoft Performance Monitor,Monitor Database SLA Compliance,Ensure databases meet service-level agreements for performance.
+Microsoft Performance Monitor,Monitor Database Scalability,Track database scalability to handle increased workloads.
+Microsoft Performance Monitor,Monitor Database Trends,Analyze historical database performance trends.
+Microsoft Performance Monitor,Monitor Database Security Events,Track database security events to identify potential threats.
+Microsoft Performance Monitor,Monitor Database Authentication Logs,Track authentication logs for databases to detect unauthorized access.
+Microsoft Performance Monitor,Monitor Database Firewall Logs,Analyze firewall logs for databases to ensure secure operations.
+Microsoft Performance Monitor,Monitor Database Compliance,Ensure databases comply with regulatory and organizational standards.
+Microsoft Performance Monitor,Monitor Database Resource Contention,Identify resource contention issues affecting database performance.
+Microsoft Performance Monitor,Monitor Database Crash Reports,Track crash reports to identify and resolve database issues.
+Microsoft Performance Monitor,Monitor Database Update Logs,Track database update logs to ensure successful updates.
+Microsoft Performance Monitor,Monitor Database Dependency Changes,Track changes in database dependencies to prevent disruptions.
+Microsoft Performance Monitor,Monitor Database Error Logs,Collect and analyze error logs for database troubleshooting.
+Microsoft Performance Monitor,Monitor Database Performance Metrics,Track key performance metrics for databases running on the system.

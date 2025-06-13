@@ -1,0 +1,76 @@
+Category,Short Description,Description
+Microsoft Excel,Data Cleaning,"Automate the process of removing duplicates, empty cells, and formatting inconsistencies in large datasets."
+Microsoft Excel,Data Validation,Automate the validation of input data to ensure it meets predefined rules or constraints.
+Microsoft Excel,Data Consolidation,Automate combining data from multiple sheets or workbooks into a single summary sheet.
+Microsoft Excel,Data Sorting,"Automate sorting data based on specific criteria such as column values, ascending or descending order."
+Microsoft Excel,Data Filtering,"Automate filtering of data based on conditions, such as specific values or ranges in one or more columns."
+Microsoft Excel,Conditional Formatting,"Automate applying conditional formatting to highlight cells based on rules (e.g., values greater than a threshold)."
+Microsoft Excel,Formula Application,"Automate applying formulas like SUM, AVERAGE, or custom formulas to large datasets."
+Microsoft Excel,Pivot Table Creation,Automate the creation of pivot tables to summarize and analyze data.
+Microsoft Excel,Pivot Chart Generation,Automate the generation of charts based on pivot tables for better data visualization.
+Microsoft Excel,VLOOKUP Automation,Automate VLOOKUP or HLOOKUP operations to fetch data from other sheets or workbooks.
+Microsoft Excel,Data Transformation,"Automate transformation tasks like splitting, merging, or reformatting columns."
+Microsoft Excel,Report Generation,Automate the creation of reports with predefined templates and data updates.
+Microsoft Excel,Email Report Sending,Automate sending Excel reports via email to stakeholders from within the workbook.
+Microsoft Excel,Financial Modeling,Automate the creation or update of financial models by linking and refreshing data.
+Microsoft Excel,Budget Tracking,"Automate budget tracking by comparing actuals and forecasts, highlighting variances."
+Microsoft Excel,Invoice Generation,Automate the generation of invoices from templates using customer and order data.
+Microsoft Excel,Timesheet Automation,Automate the calculation of employee hours and wages based on logged times.
+Microsoft Excel,Attendance Tracking,Automate tracking attendance by marking and calculating presence based on input data.
+Microsoft Excel,Inventory Management,"Automate inventory tracking, low-stock alerts, and reordering calculations."
+Microsoft Excel,Expense Tracking,Automate expense tracking by categorizing transactions and calculating totals.
+Microsoft Excel,Profit and Loss Analysis,Automate profit and loss analysis by linking income and expense data across sheets.
+Microsoft Excel,Forecasting,Automate forecasting trends using historical data and built-in Excel functions like FORECAST or TREND.
+Microsoft Excel,Goal Seek Automation,Automate the use of Goal Seek to find input values for achieving target outputs.
+Microsoft Excel,Solver Optimization,"Automate running Solver for optimization problems, such as minimizing costs or maximizing profits."
+Microsoft Excel,Data Import from CSV,Automate importing data from CSV files into Excel and applying formatting.
+Microsoft Excel,Data Export to CSV,Automate exporting Excel data to CSV format for sharing or integration with other tools.
+Microsoft Excel,Data Import from Databases,Automate fetching data from SQL or other databases into Excel for analysis.
+Microsoft Excel,Data Export to Databases,Automate exporting Excel data to a database table.
+Microsoft Excel,API Data Retrieval,"Automate data retrieval from APIs (e.g., financial market data) and populate it into Excel."
+Microsoft Excel,Web Scraping,Automate web scraping tasks to pull data from websites directly into Excel.
+Microsoft Excel,Batch File Renaming,Automate renaming multiple files based on data in Excel sheets.
+Microsoft Excel,Merge Multiple Workbooks,Automate merging data from multiple Excel workbooks into a single consolidated workbook.
+Microsoft Excel,Split Workbook into Multiple Files,Automate splitting a workbook into separate files based on sheet names or data ranges.
+Microsoft Excel,Chart Creation,"Automate the creation of bar, line, or pie charts to visualize data."
+Microsoft Excel,Chart Updates,Automate updating charts dynamically when data changes.
+Microsoft Excel,Workbook Protection,Automate applying or removing password protection to workbooks and sheets.
+Microsoft Excel,Cell Locking and Unlocking,Automate locking or unlocking specific cells based on user roles or conditions.
+Microsoft Excel,File Backup,Automate creating backups of Excel files at scheduled intervals.
+Microsoft Excel,File Versioning,Automate saving multiple versions of a file with timestamps.
+Microsoft Excel,Macro Recording,Automate repetitive tasks by recording and saving macros.
+Microsoft Excel,Macro Scheduling,Automate the scheduling of macro execution based on specific triggers or times.
+Microsoft Excel,Dropdown List Creation,Automate the creation of dynamic dropdown lists based on data ranges.
+Microsoft Excel,Data Validation Rules,Automate the application of data validation rules to ensure data accuracy.
+Microsoft Excel,Hyperlink Automation,Automate the creation of hyperlinks in cells to navigate between sheets or external resources.
+Microsoft Excel,Duplicate Detection,Automate identifying and highlighting duplicate values in large datasets.
+Microsoft Excel,Missing Data Detection,Automate detecting and flagging missing or incomplete data in a dataset.
+Microsoft Excel,Text-to-Columns Conversion,Automate splitting text into columns based on delimiters.
+Microsoft Excel,Column Merging,Automate merging multiple columns into a single column with a specific format.
+Microsoft Excel,Cell Formatting,"Automate applying specific cell formats, like currency, percentage, or date formats."
+Microsoft Excel,Conditional Alerts,"Automate creating alerts when certain conditions in cells are met (e.g., exceeding a limit)."
+Microsoft Excel,Data Comparison,Automate comparing two datasets to identify differences or common entries.
+Microsoft Excel,Audit Trail,Automate the creation of an audit trail to track changes made to a workbook.
+Microsoft Excel,Task List Management,Automate creating and updating task lists with progress tracking.
+Microsoft Excel,Gantt Chart Creation,Automate the creation of Gantt charts for project management.
+Microsoft Excel,Project Timeline Updates,Automate updating project timelines based on task completion statuses.
+Microsoft Excel,Resource Allocation,Automate resource allocation calculations for projects by analyzing workload data.
+Microsoft Excel,Meeting Schedule Automation,Automate creating and updating meeting schedules based on availability data.
+Microsoft Excel,Employee Roster Management,Automate the creation and updating of employee rosters with shift assignments.
+Microsoft Excel,Performance Metrics,Automate the calculation and visualization of employee or team performance metrics.
+Microsoft Excel,KPI Dashboards,Automate the creation of dashboards to track key performance indicators (KPIs).
+Microsoft Excel,Sales Tracking,"Automate tracking sales data, identifying trends, and generating reports."
+Microsoft Excel,Customer List Management,"Automate the management of customer lists by adding, updating, and removing entries."
+Microsoft Excel,Product Catalog Management,Automate the creation and updating of product catalogs with pricing and availability.
+Microsoft Excel,Lead Generation Tracking,Automate tracking and categorizing leads in a sales funnel.
+Microsoft Excel,Marketing Campaign Analysis,"Automate calculating and visualizing metrics for marketing campaigns, such as ROI."
+Microsoft Excel,Social Media Metrics Tracking,Automate importing and analyzing social media metrics like engagement and impressions.
+Microsoft Excel,Survey Data Analysis,Automate analyzing survey results and generating summary statistics.
+Microsoft Excel,Weather Data Analysis,Automate pulling weather data from APIs and generating insights for planning purposes.
+Microsoft Excel,Expense Reimbursement,Automate calculating and processing employee expense reimbursements.
+Microsoft Excel,Loan Amortization Schedule,Automate generating loan amortization schedules with principal and interest breakdowns.
+Microsoft Excel,Tax Calculation,Automate tax calculations based on income and applicable tax rates.
+Microsoft Excel,Stock Price Tracking,Automate pulling stock prices from APIs and generating performance charts.
+Microsoft Excel,Currency Conversion,Automate currency conversion calculations using real-time exchange rates from APIs.
+Microsoft Excel,Attendance Certificate Generation,Automate generating attendance certificates for events or training sessions.
+Microsoft Excel,Custom Functions,Automate the creation of custom

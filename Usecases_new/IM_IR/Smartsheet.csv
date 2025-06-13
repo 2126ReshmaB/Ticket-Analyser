@@ -1,0 +1,50 @@
+Category,Short Description,Description
+Smartsheet,Auto-Assign Tasks,"Automatically assign tasks to team members based on specific criteria, such as task type or priority."
+Smartsheet,Auto-Send Notifications,Send automated notifications to stakeholders when a task is assigned or updated.
+Smartsheet,Auto-Update Status,"Automatically update the status of tasks based on changes in other fields, such as completion percentage."
+Smartsheet,Auto-Generate Reports,Automatically generate reports summarizing project progress and share them with stakeholders.
+Smartsheet,Auto-Track Deadlines,Automatically track deadlines and send reminders for upcoming or overdue tasks.
+Smartsheet,Auto-Create Approval Workflows,Automatically route tasks or documents through an approval process based on predefined conditions.
+Smartsheet,Auto-Notify on Changes,Automatically notify team members when specific changes are made to a sheet or row.
+Smartsheet,Auto-Archive Completed Tasks,Automatically move completed tasks to an archive sheet to keep the active sheet clean.
+Smartsheet,Auto-Create Linked Records,Automatically create linked records in related sheets when a new row is added.
+Smartsheet,Auto-Generate Dashboards,Automatically update dashboards with real-time data from sheets and reports.
+Smartsheet,Auto-Filter Data,Automatically filter rows based on specific criteria and create filtered views for easy access.
+Smartsheet,Auto-Track Project Progress,Automatically calculate and update project progress percentages based on task completion.
+Smartsheet,Auto-Notify on Dependencies,Send automated alerts when task dependencies are delayed or completed.
+Smartsheet,Auto-Create Calendar Events,Automatically create calendar events in Google Calendar or Outlook based on Smartsheet data.
+Smartsheet,Auto-Generate Invoices,Automatically generate invoices from Smartsheet data and email them to clients.
+Smartsheet,Auto-Track Budget Usage,Automatically track budget usage and send alerts when thresholds are exceeded.
+Smartsheet,Auto-Update Resource Allocation,Automatically update resource allocation based on task assignments and availability.
+Smartsheet,Auto-Create Gantt Charts,Automatically generate Gantt charts from project data in Smartsheet.
+Smartsheet,Auto-Notify on SLA Breaches,Send automated alerts when SLA deadlines are missed or approaching.
+Smartsheet,Auto-Generate Meeting Agendas,Automatically create meeting agendas from Smartsheet data and share them with participants.
+Smartsheet,Auto-Track Attendance,Automatically track attendance for events or meetings based on Smartsheet data.
+Smartsheet,Auto-Generate Certificates,Automatically generate and email certificates of completion or participation.
+Smartsheet,Auto-Create Social Media Calendars,Automatically create and update social media calendars based on content schedules.
+Smartsheet,Auto-Notify on Budget Overruns,Send automated alerts when project budgets exceed predefined limits.
+Smartsheet,Auto-Create Client Profiles,Automatically create client profiles in Smartsheet when new client data is added.
+Smartsheet,Auto-Generate Feedback Summaries,Automatically summarize feedback from surveys or forms into Smartsheet records.
+Smartsheet,Auto-Track Compliance Tasks,Automatically track compliance-related tasks and send reminders for deadlines.
+Smartsheet,Auto-Generate Event Schedules,Automatically create and update event schedules based on Smartsheet data.
+Smartsheet,Auto-Track Volunteer Hours,Automatically track and calculate volunteer hours for nonprofit organizations.
+Smartsheet,Auto-Create Risk Logs,Automatically create and update risk logs based on project data and risk assessments.
+Smartsheet,Auto-Notify on Risk Changes,Send automated alerts when risk levels change or new risks are identified.
+Smartsheet,Auto-Generate Resource Reports,Automatically generate reports on resource utilization and availability.
+Smartsheet,Auto-Create Training Schedules,Automatically create training schedules for employees based on their roles and availability.
+Smartsheet,Auto-Track Employee Performance,Automatically track employee performance metrics and generate reports.
+Smartsheet,Auto-Notify on Policy Updates,Send automated notifications to employees when company policies are updated.
+Smartsheet,Auto-Generate Payroll Reports,Automatically calculate and generate payroll reports based on employee data.
+Smartsheet,Auto-Create Job Applications,Automatically create job application records in Smartsheet from online forms.
+Smartsheet,Auto-Track Recruitment Progress,Automatically track the progress of recruitment processes and notify HR teams of updates.
+Smartsheet,Auto-Generate Sales Reports,Automatically generate sales reports and share them with the sales team.
+Smartsheet,Auto-Track Inventory Levels,Automatically update inventory levels based on sales or stock data.
+Smartsheet,Auto-Notify on Low Stock,Send automated alerts when inventory levels fall below a certain threshold.
+Smartsheet,Auto-Generate Purchase Orders,Automatically generate purchase orders based on inventory data and supplier information.
+Smartsheet,Auto-Create Marketing Campaigns,Automatically create and track marketing campaigns in Smartsheet.
+Smartsheet,Auto-Track Campaign Performance,Automatically track the performance of marketing campaigns and generate reports.
+Smartsheet,Auto-Notify on Campaign Deadlines,Send automated reminders for upcoming campaign deadlines.
+Smartsheet,Auto-Generate Content Calendars,Automatically create and update content calendars based on Smartsheet data.
+Smartsheet,Auto-Track Content Approvals,Automatically track the approval status of content and notify stakeholders of updates.
+Smartsheet,Auto-Create IT Support Tickets,Automatically create IT support tickets in Smartsheet from online forms or emails.
+Smartsheet,Auto-Track Ticket Resolution,Automatically track the resolution status of IT support tickets and notify stakeholders of updates.

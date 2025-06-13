@@ -1,0 +1,111 @@
+Category,Short Description,Description
+Microsoft Visual Studio,Custom Project Template Creation,"Automate the creation of project templates with predefined settings, files, and configurations. This includes generating template manifest files and deploying them as VSIX extensions for team-wide use."
+Microsoft Visual Studio,Build Configuration Automation,"Automate the process of setting up different build configurations (Debug, Release, etc.) across multiple projects in a solution, including setting compiler options and dependencies."
+Microsoft Visual Studio,Code Style Enforcement,Automate the enforcement of coding standards and style guidelines by creating custom Roslyn analyzers that provide real-time feedback and automatic fixes for style violations.
+Microsoft Visual Studio,Source Control Integration,"Automate routine source control operations like check-ins, branching, and merging, including automatic commit message generation based on changes made."
+Microsoft Visual Studio,Test Case Generation,"Automatically generate unit test cases based on existing code, including test method stubs and basic assertions for public methods in classes."
+Microsoft Visual Studio,Documentation Generation,"Automate the creation of XML documentation comments for classes and methods, including parameter descriptions and return value documentation."
+Microsoft Visual Studio,Code Cleanup Automation,"Create scripts to automatically clean up unused using directives, organize code elements, and format documents according to team standards."
+Microsoft Visual Studio,Dependency Management,"Automate the process of updating NuGet packages across multiple projects, including compatibility checks and backup creation."
+Microsoft Visual Studio,Solution Setup Automation,"Create scripts to automate the setup of new solutions with predefined project structures, including necessary references and configurations."
+Microsoft Visual Studio,Database Schema Sync,"Automate the synchronization of database schemas between development, testing, and production environments using DACPAC files."
+Microsoft Visual Studio,Code Review Automation,"Create automated code review checks that verify coding standards, potential security issues, and performance concerns before allowing commits."
+Microsoft Visual Studio,Deployment Package Creation,"Automate the creation of deployment packages including necessary files, configurations, and environment-specific settings."
+Microsoft Visual Studio,Error Log Analysis,Create scripts to analyze application error logs and generate summary reports with categorized issues and potential solutions.
+Microsoft Visual Studio,Performance Profiling,"Automate the collection and analysis of performance metrics, including CPU usage, memory allocation, and execution time statistics."
+Microsoft Visual Studio,API Documentation,"Automate the generation of API documentation from code comments, including example usage and parameter descriptions."
+Microsoft Visual Studio,Test Data Generation,Create scripts to generate test data sets based on defined schemas and constraints for testing purposes.
+Microsoft Visual Studio,Code Metrics Report,"Automate the generation of code metrics reports including cyclomatic complexity, maintainability index, and lines of code statistics."
+Microsoft Visual Studio,Environment Setup,"Automate the setup of development environments including required tools, extensions, and configurations for new team members."
+Microsoft Visual Studio,Build Notification,"Create automated notifications for build status, including success, failure, and warnings through email or team chat platforms."
+Microsoft Visual Studio,Code Backup,Automate regular backups of source code and project files to designated locations or cloud storage.
+Microsoft Visual Studio,Reference Cleanup,Create scripts to identify and remove unused references and packages from projects to reduce solution size.
+Microsoft Visual Studio,Solution Analysis,"Automate the analysis of solution structure, including project dependencies and circular references detection."
+Microsoft Visual Studio,Code Migration,Create scripts to assist in code migration between different framework versions or platforms.
+Microsoft Visual Studio,Security Scan,"Automate security vulnerability scanning in code, including common security anti-patterns and potential exploits."
+Microsoft Visual Studio,Resource Management,"Automate the management of project resources, including cleanup of unused resources and optimization of existing ones."
+Microsoft Visual Studio,Localization Support,"Create scripts to manage and update localization resources, including automatic string extraction and translation file generation."
+Microsoft Visual Studio,Code Duplication Check,"Automate the detection and reporting of code duplication across the solution, including suggestions for refactoring."
+Microsoft Visual Studio,Assembly Version Update,Create scripts to automatically update assembly versions across multiple projects based on build numbers or release versions.
+Microsoft Visual Studio,Configuration Transform,"Automate the creation and management of configuration transforms for different environments (Dev, QA, Prod)."
+Microsoft Visual Studio,Code Coverage Analysis,"Create automated code coverage reports after test execution, including detailed metrics and uncovered code sections."
+Microsoft Visual Studio,Database Migration,"Automate database migration scripts generation and execution, including rollback procedures."
+Microsoft Visual Studio,Build Environment Setup,Create scripts to set up build environments with necessary dependencies and configurations.
+Microsoft Visual Studio,Code Signing,Automate the process of code signing assemblies and executables during the build process.
+Microsoft Visual Studio,Test Environment Reset,Create scripts to reset test environments to a known state before running integration tests.
+Microsoft Visual Studio,Performance Test Automation,Automate the execution of performance tests and collection of performance metrics.
+Microsoft Visual Studio,Code Template Management,Create and manage code snippets and templates for common coding patterns.
+Microsoft Visual Studio,Debug Symbol Management,"Automate the management of debug symbols, including publishing to symbol servers."
+Microsoft Visual Studio,Project Reference Update,Create scripts to update project references across multiple solutions and projects.
+Microsoft Visual Studio,Code Standard Verification,Automate verification of code against defined coding standards and best practices.
+Microsoft Visual Studio,Build Pipeline Integration,Create scripts to integrate Visual Studio builds with CI/CD pipelines.
+Microsoft Visual Studio,Test Data Cleanup,Automate the cleanup of test data and temporary files after test execution.
+Microsoft Visual Studio,Code Documentation Update,Create scripts to update code documentation based on code changes.
+Microsoft Visual Studio,Solution Backup,Automate regular backups of entire solutions including source code and project settings.
+Microsoft Visual Studio,Error Handling Generation,Create scripts to generate standardized error handling code across projects.
+Microsoft Visual Studio,Code Access Security,Automate the implementation of code access security policies across projects.
+Microsoft Visual Studio,Project Dependency Graph,Generate visual dependency graphs for solution projects and their relationships.
+Microsoft Visual Studio,Code Organization,Automate the organization of code files and folders according to project standards.
+Microsoft Visual Studio,Build Output Cleanup,Create scripts to clean up build outputs and temporary files regularly.
+Microsoft Visual Studio,Solution Health Check,Automate regular health checks of solutions including compilation and reference checks.
+Microsoft Visual Studio,Code Complexity Analysis,Create automated analysis of code complexity and maintainability metrics.
+Microsoft Visual Studio,Test Report Generation,Automate the generation of detailed test execution reports including pass/fail statistics.
+Microsoft Visual Studio,Code Contract Generation,Create scripts to generate code contracts from method signatures and documentation.
+Microsoft Visual Studio,Project Template Update,Automate updates to project templates across team members.
+Microsoft Visual Studio,Code Style Migration,Create scripts to migrate code style between different style guidelines.
+Microsoft Visual Studio,Assembly Reference Check,Automate verification of assembly references and versions across projects.
+Microsoft Visual Studio,Code Region Organization,Create scripts to organize code regions consistently across files.
+Microsoft Visual Studio,Build Configuration Sync,Automate synchronization of build configurations across projects.
+Microsoft Visual Studio,Code Comment Update,Create scripts to update code comments based on method signatures and changes.
+Microsoft Visual Studio,Project Structure Verification,Automate verification of project structure against defined standards.
+Microsoft Visual Studio,Test Case Organization,Create scripts to organize and categorize test cases based on functionality.
+Microsoft Visual Studio,Code Namespace Management,Automate management and organization of code namespaces.
+Microsoft Visual Studio,Build Script Generation,Create scripts to generate MSBuild scripts for complex build scenarios.
+Microsoft Visual Studio,Code Interface Implementation,Automate the implementation of interface members in classes.
+Microsoft Visual Studio,Project File Cleanup,Create scripts to clean up project files and remove unused items.
+Microsoft Visual Studio,Code Refactoring Automation,Automate common refactoring operations across multiple files.
+Microsoft Visual Studio,Solution Configuration Management,Create scripts to manage solution configurations across environments.
+Microsoft Visual Studio,Code Metrics Threshold Check,Automate verification of code metrics against defined thresholds.
+Microsoft Visual Studio,Test Framework Integration,Create scripts to integrate different test frameworks into projects.
+Microsoft Visual Studio,Code File Header Update,Automate updates to file headers and copyright information.
+Microsoft Visual Studio,Project Version Control,Create scripts to manage project version control settings.
+Microsoft Visual Studio,Code Analysis Rule Management,Automate management of code analysis rules across projects.
+Microsoft Visual Studio,Build Process Optimization,Create scripts to optimize build processes and reduce build times.
+Microsoft Visual Studio,Code Dependency Analysis,Automate analysis of code dependencies and their impact.
+Microsoft Visual Studio,Test Data Generation Rules,Create scripts to generate test data based on defined rules.
+Microsoft Visual Studio,Code Library Management,Automate management of shared code libraries and components.
+Microsoft Visual Studio,Project Reference Validation,Create scripts to validate project references and dependencies.
+Microsoft Visual Studio,Code Merge Conflict Resolution,Automate resolution of common merge conflicts in code.
+Microsoft Visual Studio,Build Event Management,Create scripts to manage pre and post-build events.
+Microsoft Visual Studio,Code Review Checklist,Automate verification of code review checklist items.
+Microsoft Visual Studio,Test Coverage Goals,Create scripts to track and report on test coverage goals.
+Microsoft Visual Studio,Code Snippet Generation,Automate generation of code snippets from existing code.
+Microsoft Visual Studio,Project Template Customization,Create scripts to customize project templates for specific needs.
+Microsoft Visual Studio,Code Quality Gate Check,Automate quality gate checks before code deployment.
+Microsoft Visual Studio,Build Log Analysis,Create scripts to analyze and report on build log information.
+Microsoft Visual Studio,Code Ownership Assignment,Automate assignment of code ownership in large projects.
+Microsoft Visual Studio,Test Environment Configuration,Create scripts to configure test environments automatically.
+Microsoft Visual Studio,Code Module Organization,Automate organization of code modules and components.
+Microsoft Visual Studio,Project Setting Standardization,Create scripts to standardize project settings across solutions.
+Microsoft Visual Studio,Code Branch Management,Automate management of code branches and merging strategies.
+Microsoft Visual Studio,Build Artifact Management,Create scripts to manage and organize build artifacts.
+Microsoft Visual Studio,Code Review Assignment,Automate assignment of code reviews to team members.
+Microsoft Visual Studio,Test Scenario Generation,Create scripts to generate test scenarios from requirements.
+Microsoft Visual Studio,Code Backup Verification,Automate verification of code backup integrity and completeness.
+Microsoft Visual Studio,Project Dependency Update,Create scripts to update project dependencies automatically.
+Microsoft Visual Studio,Code Standard Compliance,Automate checking of code standard compliance.
+Microsoft Visual Studio,Build Environment Cleanup,Create scripts to clean up build environments after builds.
+Microsoft Visual Studio,Code Access Pattern Check,Automate checking of code access patterns and security.
+Microsoft Visual Studio,Test Result Analysis,Create scripts to analyze and categorize test results.
+Microsoft Visual Studio,Code Documentation Export,Automate export of code documentation to various formats.
+Microsoft Visual Studio,Project Structure Template,Create scripts to generate project structure from templates.
+Microsoft Visual Studio,Code Review Notification,Automate notifications for pending code reviews.
+Microsoft Visual Studio,Build Status Monitoring,Create scripts to monitor and report build status.
+Microsoft Visual Studio,Code Deployment Package,Automate creation of code deployment packages.
+Microsoft Visual Studio,Test Environment Cleanup,Create scripts to clean up test environments after testing.
+Microsoft Visual Studio,Code Metric Tracking,Automate tracking of code metrics over time.
+Microsoft Visual Studio,Project Health Monitoring,Create scripts to monitor overall project health indicators.
+Microsoft Visual Studio,Code Change Impact Analysis,Automate analysis of code change impacts across projects.
+Microsoft Visual Studio,Build Performance Analysis,Create scripts to analyze and optimize build performance.
+Microsoft Visual Studio,Code Repository Management,Automate management of code repositories and branches.
+Microsoft Visual Studio,Test Automation Framework,Create scripts to set up and maintain test automation frameworks.

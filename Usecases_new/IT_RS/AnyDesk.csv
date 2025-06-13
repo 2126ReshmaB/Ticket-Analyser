@@ -1,0 +1,92 @@
+Category,Short Description,Description
+AnyDesk,Remote Desktop Access,Securely access and control remote desktops from any location.
+AnyDesk,File Transfer Between Devices,Transfer files between local and remote devices effortlessly.
+AnyDesk,Cross-Platform Remote Access,"Access devices across Windows, macOS, Linux, Android, and iOS."
+AnyDesk,Unattended Remote Access,Set up and manage devices for unattended access.
+AnyDesk,Multi-Monitor Support,View and control multiple monitors on a remote system simultaneously.
+AnyDesk,Remote Printing Support,Print documents from remote devices to local printers seamlessly.
+AnyDesk,Remote Reboot,Reboot remote systems directly through the AnyDesk interface.
+AnyDesk,Clipboard Sharing,Share clipboard content between local and remote devices.
+AnyDesk,Mobile Device Remote Access,Access and manage mobile devices remotely for troubleshooting.
+AnyDesk,Session Recording,Record remote desktop sessions for training or auditing purposes.
+AnyDesk,Remote Software Installation,Install or update software on remote systems without physical access.
+AnyDesk,Remote Task Manager Access,Manage processes and tasks on remote systems via the task manager.
+AnyDesk,Two-Factor Authentication,Add an extra layer of security with two-factor authentication.
+AnyDesk,Remote System Shutdown,Shut down remote devices securely from a central location.
+AnyDesk,Remote Audio Streaming,Stream audio from remote systems to local devices.
+AnyDesk,Remote Screen Sharing,Share screens with remote users for support or collaboration.
+AnyDesk,Remote Webcam Access,Access and view webcams connected to remote systems.
+AnyDesk,Remote Command Execution,Execute terminal or command-line operations on remote devices.
+AnyDesk,Remote User Support,Provide real-time IT support by accessing user systems remotely.
+AnyDesk,File Synchronization Between Devices,Synchronize files across local and remote devices automatically.
+AnyDesk,Remote Collaboration Tools,Use built-in tools for whiteboarding and collaboration during remote sessions.
+AnyDesk,Remote Access Permissions Management,Control access permissions for added security during remote sessions.
+AnyDesk,Wake-on-LAN Functionality,Wake up powered-off remote devices using Wake-on-LAN.
+AnyDesk,Remote System Diagnostics,Perform diagnostics on remote systems to troubleshoot issues.
+AnyDesk,Remote User Session Monitoring,Monitor remote user activity during sessions for compliance purposes.
+AnyDesk,Remote USB Device Access,Redirect USB devices to remote systems for seamless usage.
+AnyDesk,Custom Branding Options,Customize AnyDesk with your company’s branding for professional support.
+AnyDesk,Cross-Network Remote Access,Access remote devices across different networks without VPNs.
+AnyDesk,Remote System Updates,Install operating system updates on remote devices.
+AnyDesk,Secure File Sharing,Share files securely between systems during remote sessions.
+AnyDesk,Remote System Lock,Lock remote systems to prevent unauthorized access during or after a session.
+AnyDesk,Remote Access for IoT Devices,Manage and troubleshoot IoT devices remotely using AnyDesk.
+AnyDesk,Remote System Event Logs Access,View and analyze system event logs on remote devices.
+AnyDesk,Remote Antivirus Scanning,Run antivirus scans on remote devices to detect and remove malware.
+AnyDesk,Remote Power Management,Manage power settings on remote devices to conserve energy.
+AnyDesk,Remote Application Launch,Launch applications on remote systems without full desktop access.
+AnyDesk,Remote System Firewall Configuration,Configure firewall settings on remote systems securely.
+AnyDesk,Remote Network Configuration,Modify network settings on remote systems for connectivity fixes.
+AnyDesk,Remote Patch Management,Apply patches to remote systems to ensure security compliance.
+AnyDesk,Remote BIOS Updates,Update BIOS firmware on remote systems without physical presence.
+AnyDesk,Remote Virtual Machine Management,Manage virtual machines hosted on remote systems.
+AnyDesk,Remote Disk Cleanup,Perform disk cleanup on remote systems to free up storage space.
+AnyDesk,Remote System Resource Monitoring,"Monitor CPU, memory, and disk usage on remote devices."
+AnyDesk,Remote Group Policy Configuration,Configure group policies on remote systems for user management.
+AnyDesk,Remote Peripheral Access,Access connected peripherals like printers or cameras on remote systems.
+AnyDesk,Remote RAID Configuration,Manage RAID setups on remote systems for storage redundancy.
+AnyDesk,Remote System Backup,Perform data backups of remote devices to ensure disaster recovery.
+AnyDesk,Remote System Restore,Restore remote devices from backup files to recover lost data.
+AnyDesk,Remote Data Encryption Management,Manage encryption settings on remote systems for secure data storage.
+AnyDesk,Remote Disk Partitioning,Create or modify disk partitions on remote devices.
+AnyDesk,Remote File Compression,Compress files on remote systems before transferring them.
+AnyDesk,Remote File Decompression,Decompress files on remote systems for immediate usage.
+AnyDesk,Remote VPN Configuration,Set up and manage VPN connections on remote devices.
+AnyDesk,Remote Application Deployment,Deploy software to multiple remote devices simultaneously.
+AnyDesk,Remote System Compliance Auditing,Check remote devices for compliance with organizational policies.
+AnyDesk,Remote System Inventory Management,Track hardware and software inventory on remote devices.
+AnyDesk,Remote System Event Notifications,Receive alerts for specific events on remote systems.
+AnyDesk,Remote User Activity Reports,Generate reports on user activity during remote sessions.
+AnyDesk,Remote Training Sessions,Deliver training sessions by sharing remote systems with participants.
+AnyDesk,Remote Multi-User Access,Allow multiple users to access and collaborate on a single remote device.
+AnyDesk,Remote Smart Device Management,Manage and troubleshoot smart home or office devices remotely.
+AnyDesk,Remote Kiosk Mode Access,Provide remote support for devices operating in kiosk mode.
+AnyDesk,Remote Troubleshooting for POS Systems,Access and fix issues on point-of-sale systems remotely.
+AnyDesk,Remote Cloud Storage Management,Manage cloud storage accounts from remote systems.
+AnyDesk,Remote System Registry Editing,Edit the registry on remote systems for advanced troubleshooting.
+AnyDesk,Remote System BIOS Configuration,Modify BIOS settings on remote systems for performance tuning.
+AnyDesk,Remote Disk Imaging,Create disk images of remote systems for backups or cloning.
+AnyDesk,Remote System Bandwidth Management,Monitor and optimize bandwidth usage during remote sessions.
+AnyDesk,Remote User Role Management,Assign roles and permissions to remote users for secure access.
+AnyDesk,Remote System Crash Analysis,Analyze crash reports from remote systems to identify issues.
+AnyDesk,Remote Malware Removal,Remove malware or viruses on remote devices using integrated tools.
+AnyDesk,Real-Time Collaboration for Designers,Collaborate on design projects by sharing remote systems.
+AnyDesk,Remote System Firmware Updates,Update firmware on remote devices without physical intervention.
+AnyDesk,Remote Smart Device Firmware Updates,Update firmware for IoT or smart devices remotely.
+AnyDesk,Remote IT Asset Auditing,Audit IT hardware and software assets on remote devices.
+AnyDesk,Remote Device Geolocation Tracking,Track the physical location of remote devices for security purposes.
+AnyDesk,Remote System Screen Resolution Adjustment,Adjust screen resolution of remote devices for better visibility.
+AnyDesk,Remote System Health Monitoring,Monitor system health metrics like temperature and fan speeds remotely.
+AnyDesk,Remote Access Analytics,Generate analytics on remote session usage and performance.
+AnyDesk,Remote System Disk Encryption,Encrypt disks on remote devices to protect sensitive data.
+AnyDesk,Remote System File Search,Search for specific files on remote systems efficiently.
+AnyDesk,Remote Document Collaboration,Collaborate on documents stored on remote devices in real time.
+AnyDesk,Remote System File Permissions Management,Assign or modify file access permissions on remote systems.
+AnyDesk,Remote System File Versioning,Track and manage versions of files stored on remote systems.
+AnyDesk,Mobile Device Screen Sharing,Share mobile screens with remote users during support sessions.
+AnyDesk,Remote Troubleshooting for Industrial Equipment,Connect to industrial equipment control systems for diagnostics.
+AnyDesk,Remote System Disk Defragmentation,Optimize disk performance on remote systems by defragmenting drives.
+AnyDesk,Remote Device Temperature Monitoring,Monitor hardware temperature on remote systems for proactive maintenance.
+AnyDesk,Remote System Compliance Reports,Generate compliance reports for remote devices automatically.
+AnyDesk,Remote User Device Maintenance,Schedule and perform maintenance tasks on remote user devices.
+AnyDesk,Remote System Crash Recovery,Recover remote devices from system crashes without physical access.

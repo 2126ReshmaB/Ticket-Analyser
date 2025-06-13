@@ -1,0 +1,78 @@
+Category,Short Description,Description
+GRC Software,Automate risk assessment scheduling,Automatically schedule recurring risk assessments for specific processes or departments.
+GRC Software,Send reminders for overdue risk assessments,Notify responsible personnel about overdue risk assessments automatically.
+GRC Software,Generate risk heatmaps,Automatically create visual heatmaps to display risk levels across different business units.
+GRC Software,Automate compliance report creation,Generate compliance reports automatically based on collected data.
+GRC Software,Track compliance policy updates,Monitor and log any updates or changes to compliance policies.
+GRC Software,Automate policy distribution,Distribute new or updated compliance policies to employees or stakeholders automatically.
+GRC Software,Validate policy acknowledgment,Ensure all employees acknowledge receipt of compliance policies and send automated reminders if necessary.
+GRC Software,Monitor regulatory updates,Track regulatory changes and send alerts to relevant teams automatically.
+GRC Software,Automate incident management,"Log and track incidents automatically, including categorization and follow-up actions."
+GRC Software,Generate incident response timelines,Automatically create timelines for incident responses based on predefined SLAs.
+GRC Software,Monitor vendor risk compliance,Track and report vendor compliance with organizational and regulatory requirements.
+GRC Software,Automate internal audit scheduling,Schedule and track recurring internal audits automatically.
+GRC Software,Track audit findings and resolutions,Monitor the status of audit findings and ensure timely resolution through automated tracking.
+GRC Software,Automate risk scoring,"Calculate risk scores automatically based on predefined criteria, such as impact and likelihood."
+GRC Software,Monitor third-party risk,Continuously monitor third-party vendors for potential risk indicators.
+GRC Software,Generate risk mitigation plans,Automatically create risk mitigation plans based on risk assessment results.
+GRC Software,Automate training reminders,Notify employees of upcoming compliance or risk training sessions automatically.
+GRC Software,Validate training completion,Track training completion rates and send reminders for incomplete training automatically.
+GRC Software,Monitor control effectiveness,Track and report the effectiveness of implemented risk controls automatically.
+GRC Software,Automate compliance calendar updates,Maintain and update a compliance calendar automatically to include key regulatory deadlines.
+GRC Software,Generate compliance dashboards,Automatically create dashboards to display real-time compliance statuses.
+GRC Software,Sync risk data with BI tools,Sync risk and compliance data with business intelligence tools like Tableau or Power BI automatically.
+GRC Software,Automate fraud detection,Identify and flag potential fraud risks through automated detection mechanisms.
+GRC Software,Send escalation alerts for high-priority risks,Notify senior management when high-priority risks are identified.
+GRC Software,Automate control testing,Schedule and track control testing activities automatically.
+GRC Software,Track compliance certifications,Monitor and notify teams of expiring compliance certifications.
+GRC Software,Automate document version control,Manage and track version histories of compliance documents automatically.
+GRC Software,Validate risk data accuracy,Cross-check risk data for accuracy and completeness automatically.
+GRC Software,Generate regulatory audit readiness reports,Automatically compile data to prepare for regulatory audits.
+GRC Software,Automate policy alignment checks,Compare internal policies with external regulations to ensure alignment.
+GRC Software,Monitor user access rights,Track and report on user access rights to ensure compliance with access control policies.
+GRC Software,Automate risk acceptance workflows,Route risk acceptance requests to appropriate approvers automatically.
+GRC Software,Track non-compliance incidents,Log and monitor non-compliance incidents automatically for reporting and resolution.
+GRC Software,Validate incident resolution timeliness,Ensure incidents are resolved within acceptable timelines and send alerts for delays.
+GRC Software,Automate whistleblower case management,"Log, categorize, and track whistleblower cases automatically."
+GRC Software,Send reminders for control reviews,Notify control owners to review and update controls periodically.
+GRC Software,Automate data classification,Automatically classify data based on sensitivity and compliance requirements.
+GRC Software,Monitor contract compliance,Track compliance with vendor or partner contracts automatically.
+GRC Software,Automate compliance scorecards,Generate compliance scorecards for departments or teams automatically.
+GRC Software,Track action item completion,Monitor and report on the status of action items generated from risk assessments or audits.
+GRC Software,Automate risk appetite tracking,Track risks against the organization’s risk appetite and send alerts for exceeding thresholds.
+GRC Software,Automate GDPR compliance tracking,Monitor and report on GDPR compliance metrics automatically.
+GRC Software,Identify policy exceptions,Detect and flag policies that deviate from regulatory requirements automatically.
+GRC Software,Automate compliance evidence collection,Collect and store compliance evidence automatically during audits or assessments.
+GRC Software,Generate compliance exception reports,Automatically create reports for instances where compliance exceptions are granted.
+GRC Software,Monitor cybersecurity risk,Track and report on cybersecurity risks automatically using integrated tools.
+GRC Software,Automate regulatory filing reminders,Notify relevant teams of upcoming regulatory filing deadlines automatically.
+GRC Software,Track key risk indicators (KRIs),Monitor and report on KRIs in real time using automated dashboards.
+GRC Software,Validate third-party risk assessments,Ensure third-party risk assessments are accurate and complete through automation.
+GRC Software,Automate compliance policy reviews,Schedule and track periodic reviews of compliance policies.
+GRC Software,Generate risk exposure reports,Automatically create reports summarizing the organization’s overall risk exposure.
+GRC Software,Automate access certification reviews,Schedule and track periodic access certification reviews for critical systems.
+GRC Software,Automate data retention policy enforcement,Ensure data retention policies are applied consistently across systems automatically.
+GRC Software,Track employee compliance with policies,Monitor and report on employee compliance with internal policies.
+GRC Software,Automate compliance gap analysis,Identify and report compliance gaps automatically through integrated checklists.
+GRC Software,Monitor operational risks,Track and report on operational risks in real-time using automated workflows.
+GRC Software,Generate SOX compliance reports,Automatically create reports for Sarbanes-Oxley (SOX) compliance requirements.
+GRC Software,Automate regulatory change impact assessment,Assess the impact of regulatory changes on the organization automatically.
+GRC Software,Automate risk prioritization,"Rank risks automatically based on impact, likelihood, and other criteria."
+GRC Software,Track compliance training attendance,Monitor and report on employee attendance for mandatory compliance training sessions.
+GRC Software,Send reminders for expiring contracts,Notify contract owners of expiring contracts automatically.
+GRC Software,Automate risk reporting to stakeholders,Generate and share risk reports with stakeholders automatically.
+GRC Software,Track data privacy compliance,Monitor and report on data privacy compliance metrics automatically.
+GRC Software,Automate compliance exception approvals,Route compliance exception requests to approvers automatically for review.
+GRC Software,Monitor risk remediation plans,Track the progress of risk remediation plans automatically and send reminders where necessary.
+GRC Software,Automate regulatory mapping,Map organizational policies to relevant regulations automatically.
+GRC Software,Generate compliance audit trails,Automatically maintain and generate audit trails for compliance activities.
+GRC Software,Track employee risk awareness,Monitor employee participation in risk awareness initiatives or training.
+GRC Software,Automate workflow approvals for policies,Route policy approvals through predefined workflows automatically.
+GRC Software,Generate risk trend analysis,Automatically analyze and report on risk trends over time.
+GRC Software,Monitor IT compliance,"Track IT compliance metrics, such as system configurations and patch management, automatically."
+GRC Software,Automate ISO certification tracking,Monitor and track compliance with ISO standards automatically.
+GRC Software,Validate business continuity plans,Ensure business continuity plans are updated and validated periodically.
+GRC Software,Automate regulatory audit preparation,Gather and organize audit-related data automatically for regulatory reviews.
+GRC Software,Monitor ethical compliance,Track compliance with ethical standards and policies automatically.
+GRC Software,Automate supplier risk assessments,Schedule and track risk assessments for suppliers or vendors automatically.
+GRC Software,Send alerts for SLA violations,

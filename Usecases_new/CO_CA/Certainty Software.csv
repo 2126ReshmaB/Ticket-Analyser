@@ -1,0 +1,74 @@
+Category,Short Description,Description
+Certainty Software,Automate data collection,Gather data from multiple users or devices automatically using pre-configured forms in Certainty Software.
+Certainty Software,Validate form completion,Check if all required fields in forms are completed before submission.
+Certainty Software,Generate compliance reports,Create automated reports based on compliance data collected through Certainty Software.
+Certainty Software,Schedule form distribution,Automate the scheduling and distribution of forms to users based on predefined timelines.
+Certainty Software,Track overdue forms,Identify and notify users of overdue form submissions automatically.
+Certainty Software,Automate risk assessments,Conduct automated risk assessments using the collected data and predefined criteria.
+Certainty Software,Validate data accuracy,Verify that submitted data matches expected formats or values to improve data quality.
+Certainty Software,Send email reminders,Automate email reminders to users for pending tasks or incomplete forms.
+Certainty Software,Monitor key performance indicators (KPIs),Track and report KPIs relevant to audits and compliance automatically from Certainty Software.
+Certainty Software,Detect high-risk areas,Analyze collected data to identify areas or processes with high-risk scores.
+Certainty Software,Automate corrective action tracking,Track and update the status of corrective actions automatically based on form inputs.
+Certainty Software,Validate user permissions,Ensure that users only have access to data and forms relevant to their roles.
+Certainty Software,Generate real-time dashboards,Automatically update dashboards to reflect real-time data from forms and assessments.
+Certainty Software,Track audit history,"Keep an automated log of all audits conducted, including timestamps and results."
+Certainty Software,Monitor compliance trends,Analyze historical data to identify trends in compliance performance over time.
+Certainty Software,Automate training reminders,Notify employees of upcoming training sessions based on compliance requirements.
+Certainty Software,Validate audit evidence,"Check if all required audit evidence (files, photos, etc.) is attached to submitted forms."
+Certainty Software,Schedule recurring audits,Automate the scheduling of recurring audits based on predefined intervals.
+Certainty Software,Generate incident reports,Automatically create reports for incidents logged in Certainty Software.
+Certainty Software,Automate data export,Export data from forms or reports to external systems or formats like Excel or CSV automatically.
+Certainty Software,Detect incomplete corrective actions,Flag and notify stakeholders of corrective actions that are overdue or incomplete.
+Certainty Software,Validate form logic,"Ensure that forms follow conditional logic rules, such as showing or hiding fields based on user inputs."
+Certainty Software,Generate geographic heatmaps,Create automated heatmaps showing compliance or risk levels at different locations using collected data.
+Certainty Software,Monitor environmental compliance,Track and report environmental compliance metrics using Certainty Software forms.
+Certainty Software,Automate approval workflows,Route forms or corrective actions to the appropriate approvers automatically.
+Certainty Software,Validate corrective action effectiveness,Analyze corrective action data to ensure that implemented measures effectively resolve identified issues.
+Certainty Software,Automate document version control,Track and manage versions of documents or forms uploaded to Certainty Software.
+Certainty Software,Track form submission rates,Monitor how many users have submitted forms and send follow-up reminders to those who haven’t.
+Certainty Software,Schedule automated reminders,"Configure automated reminders for tasks, audits, or corrective actions."
+Certainty Software,Generate monthly compliance summaries,Create automated monthly reports summarizing compliance data collected during the period.
+Certainty Software,Validate inspection checklists,Ensure that all required items on inspection checklists are completed before submission.
+Certainty Software,Automate hazard identification,Identify and log hazards automatically based on form entries or predefined criteria.
+Certainty Software,Generate trend analysis reports,Analyze historical data to generate automated trend reports for compliance and risk management.
+Certainty Software,Track non-compliance incidents,Monitor and log non-compliance incidents automatically for review and follow-up.
+Certainty Software,Validate form attachments,"Ensure that required attachments, such as photos or documents, are included in submitted forms."
+Certainty Software,Automate email notifications,Send notifications to stakeholders when forms are submitted or corrective actions are updated.
+Certainty Software,Monitor employee participation,"Track and report employee participation in compliance-related activities, such as audits or training."
+Certainty Software,Schedule data backups,Automate regular backups of data collected in Certainty Software to ensure information security.
+Certainty Software,Validate audit schedules,Check if all required audits are scheduled and completed on time.
+Certainty Software,Automate supplier compliance checks,Collect and analyze data to ensure that suppliers meet compliance requirements.
+Certainty Software,Generate compliance certification reports,"Automatically create reports needed for certification processes, such as ISO or OSHA standards."
+Certainty Software,Track inspection completion rates,Monitor the completion rates of inspections and send follow-ups for incomplete ones.
+Certainty Software,Automate root cause analysis,Analyze incident or audit data automatically to identify root causes of problems.
+Certainty Software,Validate data against benchmarks,Compare collected data against predefined benchmarks or industry standards for validation.
+Certainty Software,Automate report distribution,Distribute generated reports automatically to relevant stakeholders via email.
+Certainty Software,Detect duplicate entries,Identify and remove duplicate entries in forms or reports automatically.
+Certainty Software,Monitor safety compliance,Track and report safety compliance metrics using Certainty Software forms and dashboards.
+Certainty Software,Automate role-based access control,Ensure that users have access only to forms and reports related to their roles.
+Certainty Software,Validate audit scope,Ensure that all required areas or processes are included in the audit scope.
+Certainty Software,Track training completion rates,Monitor and report on employee training completion rates automatically.
+Certainty Software,Automate follow-up action reminders,Notify stakeholders of pending follow-up actions from audits or inspections.
+Certainty Software,Generate site-specific compliance reports,Create automated compliance reports specific to individual sites or locations.
+Certainty Software,Validate incident response times,Track and analyze response times for incidents reported in Certainty Software.
+Certainty Software,Automate user activity tracking,"Monitor and report user activity, such as form submissions or audit completions, automatically."
+Certainty Software,Detect missing audit evidence,Identify audits missing required evidence and notify responsible parties.
+Certainty Software,Automate hazard trend analysis,Analyze and report trends in logged hazards over time automatically.
+Certainty Software,Validate corrective action deadlines,Ensure corrective action deadlines are realistic and adhere to organizational policies.
+Certainty Software,Monitor compliance progress,Track real-time compliance progress against organizational goals and targets.
+Certainty Software,Automate escalation workflows,Escalate unresolved issues to higher management automatically based on predefined rules.
+Certainty Software,Validate form approval status,Ensure all forms are approved by the appropriate stakeholders before implementation.
+Certainty Software,Schedule recurring compliance tasks,"Automate the scheduling of recurring compliance tasks, such as inspections or audits."
+Certainty Software,Automate multi-site data aggregation,Collect and aggregate compliance data from multiple sites automatically for centralized reporting.
+Certainty Software,Track policy changes,Monitor and log changes in policies or procedures automatically in Certainty Software.
+Certainty Software,Validate task dependencies,Ensure that dependent tasks are completed before subsequent tasks are initiated.
+Certainty Software,Automate data synchronization,Sync data automatically between Certainty Software and other enterprise systems.
+Certainty Software,Detect incomplete safety checklists,Flag safety checklists that are incomplete and notify responsible users automatically.
+Certainty Software,Track contractor compliance,Monitor and report contractor compliance with organizational or regulatory standards.
+Certainty Software,Automate audit result distribution,Send audit results to relevant stakeholders automatically upon completion.
+Certainty Software,Automate user onboarding,"Set up automated processes for onboarding new users, including assigning roles and access."
+Certainty Software,Monitor corrective action timelines,Track deadlines for corrective actions and send reminders for overdue items.
+Certainty Software,Automate data visualization,"Generate visualizations, such as bar charts or trend lines, from collected compliance data automatically."
+Certainty Software,Validate compliance against organizational targets,Check if compliance metrics align with organizational targets and goals.
+Certainty Software,Detect recurring non,

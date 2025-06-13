@@ -1,0 +1,90 @@
+Category,Short Description,Description
+AppDynamics,Monitor Application Performance,"Track application response times, throughput, and error rates."
+AppDynamics,Real-Time Alert Notifications,Receive instant alerts for performance degradation or downtime.
+AppDynamics,Monitor Server Health Metrics,"Track CPU, memory, and disk usage on application servers."
+AppDynamics,Monitor Database Performance,Analyze query execution times and optimize database performance.
+AppDynamics,Monitor Cloud Applications,Track the performance of cloud-based applications and services.
+AppDynamics,Monitor API Performance,"Measure API response times, error rates, and throughput."
+AppDynamics,Monitor Microservices,Track the health and performance of microservices architectures.
+AppDynamics,Track End-User Experience,Monitor end-user interactions for latency and errors in real time.
+AppDynamics,Monitor Mobile Applications,"Analyze crashes, latency, and performance metrics for mobile apps."
+AppDynamics,Monitor Application Dependencies,Identify and monitor dependencies between services and applications.
+AppDynamics,Monitor Application Errors,Track error rates and troubleshoot application issues quickly.
+AppDynamics,Monitor Application Throughput,Measure the volume of requests handled by applications.
+AppDynamics,Monitor Application Availability,Ensure applications remain available and accessible to users.
+AppDynamics,Monitor Application Scalability,Track application scalability to handle increased workloads.
+AppDynamics,Monitor Application Downtime,Analyze downtime events to improve reliability.
+AppDynamics,Monitor Application Trends,Analyze historical performance trends for applications.
+AppDynamics,Monitor Kubernetes Clusters,Ensure Kubernetes clusters are running efficiently and without errors.
+AppDynamics,Monitor Containerized Applications,Track the performance of Docker and other containerized environments.
+AppDynamics,Monitor Network Latency,Measure latency between services and endpoints to optimize performance.
+AppDynamics,Track Business Transactions,Monitor specific business transactions for performance and bottlenecks.
+AppDynamics,Monitor Database Deadlocks,Detect and resolve database deadlocks to improve query performance.
+AppDynamics,Monitor Server Uptime,Ensure servers remain operational with continuous uptime tracking.
+AppDynamics,Monitor Server Resource Usage,"Track resource usage like CPU, memory, and disk for optimization."
+AppDynamics,Monitor Server Application Logs,Collect and analyze application logs for troubleshooting.
+AppDynamics,Monitor Application Security Events,Track security events to identify vulnerabilities or breaches.
+AppDynamics,Monitor SLA Compliance,Ensure applications meet service-level agreements for performance.
+AppDynamics,Monitor Application Authentication,Track authentication events to detect unauthorized access attempts.
+AppDynamics,Monitor Application Resource Contention,Identify resource contention issues affecting application performance.
+AppDynamics,Monitor Distributed Traces,Track distributed transactions across microservices architectures.
+AppDynamics,Monitor Third-Party Integrations,Track the performance of third-party integrations and services.
+AppDynamics,Monitor User Journey Maps,Visualize user interactions across applications to identify bottlenecks.
+AppDynamics,Monitor Application Error Logs,Collect and analyze error logs for faster issue resolution.
+AppDynamics,Monitor Application Crash Reports,Aggregate crash reports to identify root causes of failures.
+AppDynamics,Monitor Application Deployment Impact,Track performance before and after application deployments.
+AppDynamics,Monitor Application Update Logs,Monitor application updates to ensure successful rollouts.
+AppDynamics,Monitor Application Dependency Changes,Track changes in dependencies to prevent disruptions.
+AppDynamics,Monitor Application Throughput Trends,Analyze throughput trends to predict and plan for traffic surges.
+AppDynamics,Monitor Application Latency,Track application response times to ensure low latency.
+AppDynamics,Monitor Application Throughput Peaks,Identify peak throughput times to optimize resource allocation.
+AppDynamics,Monitor Hybrid Cloud Environments,Analyze performance across hybrid cloud environments.
+AppDynamics,Monitor CI/CD Pipelines,Track performance issues introduced during CI/CD pipeline deployments.
+AppDynamics,Monitor Application SLA Breaches,Detect breaches in service-level agreements for application performance.
+AppDynamics,Monitor Network Traffic Patterns,Analyze network traffic to identify bottlenecks.
+AppDynamics,Monitor API Gateway Performance,Track API gateway performance for latency and errors.
+AppDynamics,Monitor Server Latency,Measure server response times to identify delays.
+AppDynamics,Monitor Server Scalability,Track server scalability to accommodate increasing workloads.
+AppDynamics,Monitor Application Throughput Bottlenecks,Detect bottlenecks in throughput to optimize application performance.
+AppDynamics,Monitor Application Security Threats,Identify potential security threats affecting application performance.
+AppDynamics,Monitor Server Error Rates,Track server error rates to isolate and resolve issues.
+AppDynamics,Monitor Server Resource Allocation,Optimize server resource allocation for better performance.
+AppDynamics,Monitor Server Trends,Analyze historical server performance data to plan for future needs.
+AppDynamics,Monitor Database Trends,Track database performance trends to anticipate future issues.
+AppDynamics,Monitor Memory Leaks,Detect memory leaks in applications to prevent performance degradation.
+AppDynamics,Monitor Garbage Collection Performance,Analyze garbage collection to optimize memory usage.
+AppDynamics,Monitor Application SLA Trends,Visualize and analyze SLA compliance trends over time.
+AppDynamics,Monitor Event Loop Latency,Measure event loop latency for applications using asynchronous operations.
+AppDynamics,Monitor Queue Performance,Track the performance of message queues in the application stack.
+AppDynamics,Monitor Database Query Performance,Optimize database queries by analyzing execution times.
+AppDynamics,Monitor Database Connection Pools,Track database connection pool usage to prevent connectivity issues.
+AppDynamics,Monitor Database Replication,Ensure database replication works correctly to maintain data consistency.
+AppDynamics,Monitor Database Backup Jobs,Track database backup processes to ensure data safety.
+AppDynamics,Monitor Network Packet Loss,Measure packet loss to identify network reliability issues.
+AppDynamics,Monitor File System Usage,Track file system usage to prevent storage-related errors.
+AppDynamics,Monitor Disk I/O,Measure disk input/output operations to detect performance bottlenecks.
+AppDynamics,Monitor Cache Hit Ratios,Track cache performance to ensure efficient data retrieval.
+AppDynamics,Monitor Load Balancer Performance,Ensure load balancers are distributing traffic effectively.
+AppDynamics,Monitor Middleware Performance,Track the performance of middleware layers like message brokers.
+AppDynamics,Monitor API Rate Limits,Track API rate limits to avoid throttling by third-party services.
+AppDynamics,Monitor Application SLA Metrics,Track SLA metrics for compliance and optimization.
+AppDynamics,Monitor Application Deployment Rollbacks,Identify performance issues requiring deployment rollbacks.
+AppDynamics,Monitor Application Response Time Trends,Analyze trends in response times to identify performance issues.
+AppDynamics,Monitor Business Impact of Issues,Correlate performance issues with business impact metrics.
+AppDynamics,Monitor E-Commerce Transactions,Track transaction performance for e-commerce applications.
+AppDynamics,Monitor Financial Transactions,Ensure the integrity and performance of financial transaction systems.
+AppDynamics,Monitor Streaming Application Performance,Track metrics for real-time streaming applications.
+AppDynamics,Monitor IoT Application Performance,Analyze performance metrics for IoT applications and devices.
+AppDynamics,Monitor Application Load Testing,Analyze application behavior under load testing scenarios.
+AppDynamics,Monitor WebSocket Performance,Track WebSocket connections for latency and errors.
+AppDynamics,Monitor User Conversion Rates,Track conversion rates to optimize application performance.
+AppDynamics,Monitor Application Throughput Peaks,Identify peak times to optimize application resources.
+AppDynamics,Monitor Data Pipeline Performance,Ensure data pipelines are processing efficiently and without errors.
+AppDynamics,Monitor SaaS Application Performance,Track the performance of SaaS-based applications.
+AppDynamics,Monitor Real-Time User Metrics,Track real-time user behavior and application interactions.
+AppDynamics,Monitor Application Resource Trends,Analyze trends in resource consumption for capacity planning.
+AppDynamics,Monitor Cross-Region Performance,Track application performance across multiple geographic regions.
+AppDynamics,Monitor Application Load Balancing,Ensure load balancing distributes traffic evenly.
+AppDynamics,Monitor Service Mesh Performance,Track service mesh interactions and dependencies.
+AppDynamics,Monitor Application Error Trends,Analyze error trends over time to prevent recurring issues.
+AppDynamics,Monitor Application SLA Violations,Detect SLA violations and prevent business impact.

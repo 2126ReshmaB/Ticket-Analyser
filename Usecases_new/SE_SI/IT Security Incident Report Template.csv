@@ -1,0 +1,68 @@
+Category,Short Description,Description
+IT Security Incident Report Template,Automatic Incident Logging,Automate the creation of incident reports when security alerts are triggered by monitoring systems.
+IT Security Incident Report Template,Incident Categorization,"Automate categorization of incidents in the report based on severity, type, or source."
+IT Security Incident Report Template,Priority Assignment,Automate assigning priority levels to incidents based on their business impact and urgency.
+IT Security Incident Report Template,Timestamp Automation,"Automate adding timestamps for detection, response, and resolution steps in the report."
+IT Security Incident Report Template,Pre-Filled Details,"Automate filling incident reports with basic details like IP addresses, affected assets, and detection time."
+IT Security Incident Report Template,Root Cause Analysis,Automate documenting the root cause of incidents using data pulled from logs or forensic tools.
+IT Security Incident Report Template,Impact Assessment,Automate assessing an incident's impact on business operations and recording the results in the report.
+IT Security Incident Report Template,Incident Timeline Generation,Automate generating a timeline of events leading up to and during the incident.
+IT Security Incident Report Template,Incident Summary,Automate summarizing key details of the incident for the executive summary section.
+IT Security Incident Report Template,Containment Steps,"Automate documenting containment measures in the report, such as isolating affected systems."
+IT Security Incident Report Template,Incident Response Actions,Automate capturing response actions taken and adding them to the report.
+IT Security Incident Report Template,Resolution Steps,Automate documenting resolution steps taken to mitigate the incident.
+IT Security Incident Report Template,Integration with SIEM,Automate pulling incident details from SIEM tools like Splunk or QRadar into the report.
+IT Security Incident Report Template,Integration with Endpoint Detection Systems,Automate importing endpoint-specific incident details into the report.
+IT Security Incident Report Template,Threat Intelligence Integration,Automate enriching reports with data from threat intelligence feeds.
+IT Security Incident Report Template,Incident Metrics Automation,"Automate calculating and including metrics like response time, detection time, and resolution time in the report."
+IT Security Incident Report Template,Compliance Mapping,"Automate mapping incidents to compliance frameworks like GDPR, HIPAA, or ISO 27001."
+IT Security Incident Report Template,Escalation Logs,Automate documenting the escalation process followed for the incident.
+IT Security Incident Report Template,Integration with Firewall Logs,Automate importing firewall logs into the report for analysis and documentation.
+IT Security Incident Report Template,Integration with IDS/IPS,Automate pulling intrusion detection/prevention system logs into the report.
+IT Security Incident Report Template,Integration with Antivirus Tools,"Automate including antivirus logs, such as detected threats and quarantined files, in the report."
+IT Security Incident Report Template,Integration with DLP Tools,Automate adding data loss prevention (DLP) alerts to the incident report.
+IT Security Incident Report Template,Phishing Incident Reporting,"Automate documenting phishing attack details like sender email, targeted users, and links in the report."
+IT Security Incident Report Template,Malware Incident Reporting,"Automate including malware types, file hashes, and affected devices in the report."
+IT Security Incident Report Template,Ransomware Incident Reporting,"Automate documenting ransomware demands, encrypted asset details, and mitigation actions."
+IT Security Incident Report Template,Unauthorized Access Reporting,"Automate recording details of unauthorized access attempts, such as source IP and compromised accounts."
+IT Security Incident Report Template,Data Breach Reporting,Automate generating reports detailing the extent of data breaches and affected systems.
+IT Security Incident Report Template,Incident Status Updates,"Automate updating the status of incidents in the report (e.g., Open, In Progress, Resolved)."
+IT Security Incident Report Template,Notification Tracking,Automate tracking and documenting notifications sent to stakeholders during the incident.
+IT Security Incident Report Template,User Behavior Analysis,Automate documenting suspicious user behaviors that triggered the incident.
+IT Security Incident Report Template,Compliance Audit Reports,Automate creating compliance-specific incident reports for audits.
+IT Security Incident Report Template,SLA Tracking,Automate tracking SLA adherence for incidents and including the results in the report.
+IT Security Incident Report Template,Integration with Web Server Logs,Automate importing logs from web servers to document application-layer attacks.
+IT Security Incident Report Template,Third-Party Vendor Incidents,"Automate documenting incidents caused by third-party vendors, including affected systems and escalation details."
+IT Security Incident Report Template,Backup and Recovery Logging,Automate documenting backup and recovery steps taken during the incident.
+IT Security Incident Report Template,Forensic Evidence Logging,"Automate importing forensic evidence, such as disk images or memory dumps, into the report."
+IT Security Incident Report Template,Incident Playbook Linkage,Automate linking the incident to a predefined response playbook for easy reference.
+IT Security Incident Report Template,Lessons Learned,Automate documenting lessons learned from the incident to prevent future occurrences.
+IT Security Incident Report Template,Training Recommendations,Automate adding recommendations for employee training based on incident findings.
+IT Security Incident Report Template,Cost Impact Analysis,Automate calculating financial impacts of the incident and including them in the report.
+IT Security Incident Report Template,Integration with Threat Feeds,Automate enriching the report with threat feed data for better context and analysis.
+IT Security Incident Report Template,Incident Visualization,Automate generating charts or graphs to visualize incident data.
+IT Security Incident Report Template,Integration with Cloud Logs,Automate importing logs from cloud platforms like AWS or Azure into the report.
+IT Security Incident Report Template,Unauthorized Login Attempts,Automate documenting details of unauthorized login attempts in the report.
+IT Security Incident Report Template,Insider Threat Reporting,"Automate recording incidents involving insider threats, such as data exfiltration or privilege misuse."
+IT Security Incident Report Template,Incident Validation,Automate documenting validation steps to confirm the incident has been fully resolved.
+IT Security Incident Report Template,Phishing Simulation Results,Automate linking phishing simulation tests to real incidents for comparison in the report.
+IT Security Incident Report Template,Incident Communication Logs,Automate tracking all communications between teams during the incident and adding them to the report.
+IT Security Incident Report Template,Integration with Compliance Dashboards,Automate linking incidents documented in the report to compliance dashboards for tracking.
+IT Security Incident Report Template,Incident Policy Violations,Automate identifying and documenting security policy violations related to the incident.
+IT Security Incident Report Template,Integration with CMDB,Automate linking affected assets in the report to the Configuration Management Database (CMDB).
+IT Security Incident Report Template,Incident Timeline Automation,Automate generating a detailed timeline of events for the incident.
+IT Security Incident Report Template,Incident Metrics Dashboard,Automate creating a summary dashboard within the report template to track metrics.
+IT Security Incident Report Template,Integration with SOAR,Automate pulling incident response actions from SOAR platforms into the report template.
+IT Security Incident Report Template,Incident Workflow Automation,Automate updating workflows based on incident resolution progress and documenting them in the report.
+IT Security Incident Report Template,Incident Report Versioning,Automate saving new versions of the incident report as updates are made.
+IT Security Incident Report Template,Incident Closure Summary,"Automate documenting closure details, such as resolution steps and final verification."
+IT Security Incident Report Template,Integration with Business Continuity Plans,Automate linking incidents to business continuity plans and documenting recovery steps.
+IT Security Incident Report Template,Threat Actor Profiling,"Automate adding details of suspected threat actors, such as tactics and techniques, to the report."
+IT Security Incident Report Template,Incident Escalation Timelines,Automate documenting escalation timelines for incidents in the report.
+IT Security Incident Report Template,Incident Response Team Documentation,Automate listing team members involved in the incident response and their roles.
+IT Security Incident Report Template,Incident Detection Tools,Automate listing tools or systems that detected the incident in the report.
+IT Security Incident Report Template,Incident Remediation Logs,Automate importing logs of remediation steps into the report for audit purposes.
+IT Security Incident Report Template,Incident Metrics for Stakeholders,Automate tailoring incident metrics for presentation to different stakeholders.
+IT Security Incident Report Template,Automated Report Submission,Automate submitting completed incident reports to relevant authorities or compliance bodies.
+IT Security Incident Report Template,Incident Report Distribution,Automate distributing the incident report to stakeholders via email or collaboration tools.
+IT Security Incident Report Template,Data Breach Notification Tracking,Automate documenting

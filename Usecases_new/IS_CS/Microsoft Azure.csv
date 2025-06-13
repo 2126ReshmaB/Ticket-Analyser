@@ -1,0 +1,80 @@
+Category,Short Description,Description
+Microsoft Azure,Virtual Machine Auto-Scaling,Automatically scale Azure Virtual Machines based on CPU or memory usage using Azure Monitor and Autoscale settings.
+Microsoft Azure,Blob Storage Lifecycle Management,Automate data archiving and deletion in Azure Blob Storage using lifecycle management policies.
+Microsoft Azure,Azure Functions for File Processing,Trigger Azure Functions to process files uploaded to Blob Storage.
+Microsoft Azure,Resource Group Deployment,Automate the deployment of resource groups using ARM templates.
+Microsoft Azure,SQL Database Backup Scheduling,Schedule automated backups for Azure SQL Databases using Azure Automation.
+Microsoft Azure,Cosmos DB Autoscaling,Automatically adjust throughput for Cosmos DB collections based on workload.
+Microsoft Azure,Azure Monitor Alert Notifications,Set up Azure Monitor alerts to notify teams of resource issues via email or SMS.
+Microsoft Azure,Key Vault Secret Rotation,Automate the rotation of secrets stored in Azure Key Vault using Azure Automation.
+Microsoft Azure,App Service Deployment,Automate the deployment of web applications to Azure App Service using Azure DevOps pipelines.
+Microsoft Azure,Security Center Threat Response,Automate responses to security threats detected by Azure Security Center using Logic Apps.
+Microsoft Azure,Event Grid for Event-Driven Workflows,Trigger workflows when events occur in Azure services using Event Grid and Logic Apps.
+Microsoft Azure,Auto-Tagging Resources,Use Azure Automation to automatically tag resources for cost tracking and management.
+Microsoft Azure,Kubernetes Cluster Scaling,Automate scaling of Azure Kubernetes Service (AKS) clusters based on application load.
+Microsoft Azure,Log Analytics Query Automation,Automate the execution of queries in Azure Log Analytics for monitoring and reporting.
+Microsoft Azure,Cost Management Budget Alerts,Set up automated budget alerts using Azure Cost Management to track spending.
+Microsoft Azure,Load Balancer Health Probes,Automate health probes for Azure Load Balancers to ensure application availability.
+Microsoft Azure,IoT Hub Data Processing,Process IoT data streams in real-time using Azure Stream Analytics and Azure Functions.
+Microsoft Azure,Blob Storage Cross-Region Replication,Automate replication of Blob Storage data across regions for disaster recovery.
+Microsoft Azure,Log Retention Policies,Automate log retention settings for Azure Monitor Logs.
+Microsoft Azure,Auto-Healing Virtual Machines,Automatically restart unhealthy Virtual Machines using Azure Monitor and Automation.
+Microsoft Azure,Compliance Checks with Policy,Automate compliance checks using Azure Policy and remediation tasks.
+Microsoft Azure,Scheduled Tasks with Logic Apps,Schedule tasks using Logic Apps to trigger workflows at specific times.
+Microsoft Azure,ElasticSearch Log Ingestion,Automate log ingestion into ElasticSearch for analysis using Azure Data Factory.
+Microsoft Azure,Blob Storage Access Monitoring,Monitor and alert on unauthorized access to Blob Storage containers.
+Microsoft Azure,Infrastructure Drift Detection,Automate detection of infrastructure drift using Azure Resource Manager templates.
+Microsoft Azure,Media Transcoding with Functions,Automate video transcoding using Azure Functions and Media Services.
+Microsoft Azure,Spot VM Scaling,Automate scaling of Spot Virtual Machines for cost savings.
+Microsoft Azure,Dashboard Updates,Automate updates to Azure Monitor dashboards for real-time monitoring.
+Microsoft Azure,Blob Storage Versioning,Enable and manage versioning for Blob Storage objects automatically.
+Microsoft Azure,SQL Database Read Replica Management,Automate creation and management of read replicas for Azure SQL Databases.
+Microsoft Azure,CDN Cache Invalidation,Automate cache invalidation for Azure Content Delivery Network (CDN) endpoints.
+Microsoft Azure,Predictive Analytics with Functions,Use Azure Functions to automate predictive analytics workflows using Azure Machine Learning.
+Microsoft Azure,Data Lifecycle Management,Automate data movement between Azure Blob Storage tiers based on access patterns.
+Microsoft Azure,Custom Metric Alerts,Automate creation of alerts for custom metrics in Azure Monitor.
+Microsoft Azure,App Service Environment Updates,Automate updates to Azure App Service environments using deployment slots.
+Microsoft Azure,Security Scans with Functions,Automate security scans using Azure Functions and third-party tools.
+Microsoft Azure,Template Validation,Automate validation of ARM templates before deployment.
+Microsoft Azure,Blob Storage Policy Enforcement,Automate enforcement of Blob Storage policies for compliance.
+Microsoft Azure,Cosmos DB Backup Automation,Automate backups for Cosmos DB collections using Azure Automation.
+Microsoft Azure,Anomaly Detection,Automate anomaly detection using Azure Monitor and Machine Learning models.
+Microsoft Azure,Log Parsing with Functions,Automate parsing and analysis of logs using Azure Functions.
+Microsoft Azure,Blob Storage Encryption Enforcement,Automate enforcement of encryption for Blob Storage containers.
+Microsoft Azure,Event Monitoring,Automate monitoring of Azure Event Grid events for security and operational insights.
+Microsoft Azure,Data Transformation,Automate data transformation workflows using Azure Data Factory and Functions.
+Microsoft Azure,Maintenance Window Automation,Automate scheduling of maintenance windows for Azure SQL Databases.
+Microsoft Azure,Custom Metrics Creation,Automate creation of custom metrics for Azure Monitor.
+Microsoft Azure,Public Access Blocking,Automate blocking of public access to Blob Storage containers.
+Microsoft Azure,API Management Integration,Automate backend logic for Azure API Management using Azure Functions.
+Microsoft Azure,Template Deployment,Automate deployment of resources using validated ARM templates.
+Microsoft Azure,Metadata Extraction,Automate extraction of metadata from Blob Storage objects.
+Microsoft Azure,Real-Time Notifications,Automate real-time notifications using Azure Functions and Notification Hubs.
+Microsoft Azure,Log Insights Queries,Automate execution of queries in Azure Monitor Log Analytics for insights.
+Microsoft Azure,Inventory Reports,Automate generation of inventory reports for Azure resources.
+Microsoft Azure,Data Aggregation,Automate data aggregation workflows using Azure Data Factory and Functions.
+Microsoft Azure,Stack Rollbacks,Automate rollbacks for failed deployments using Azure Resource Manager.
+Microsoft Azure,Access Logs Analysis,Automate collection and analysis of access logs for Azure resources.
+Microsoft Azure,Event-Driven Workflows,Automate workflows triggered by specific events using Event Grid and Logic Apps.
+Microsoft Azure,Alarm-Based Scaling,Automate scaling of resources based on Azure Monitor alarms.
+Microsoft Azure,Object Locking,Automate enforcement of object locking for Blob Storage containers.
+Microsoft Azure,Data Validation,Automate data validation workflows using Azure Functions.
+Microsoft Azure,Resource Deletion,Automate deletion of unused or obsolete Azure resources.
+Microsoft Azure,Data Replication,Automate replication of data between Azure Blob Storage containers.
+Microsoft Azure,Data Enrichment,Automate data enrichment workflows using Azure Data Factory and Functions.
+Microsoft Azure,Alarm-Based Notifications,Automate notifications based on Azure Monitor alarms.
+Microsoft Azure,Object Tagging,Automate tagging of objects in Blob Storage containers.
+Microsoft Azure,Data Cleansing,Automate data cleansing workflows using Azure Data Factory and Functions.
+Microsoft Azure,Resource Creation,Automate creation of Azure resources using ARM templates.
+Microsoft Azure,Object Archiving,Automate archiving of objects in Blob Storage containers.
+Microsoft Azure,Data Synchronization,Automate data synchronization workflows using Azure Data Factory.
+Microsoft Azure,Alarm-Based Actions,Automate actions based on Azure Monitor alarms.
+Microsoft Azure,Object Deletion,Automate deletion of objects in Blob Storage containers.
+Microsoft Azure,Data Integration,Automate data integration workflows using Azure Data Factory and Functions.
+Microsoft Azure,Resource Management,Automate management of Azure resources using Azure Automation.
+Microsoft Azure,Object Restoration,Automate restoration of objects in Blob Storage containers.
+Microsoft Azure,Data Export,Automate data export workflows using Azure Data Factory.
+Microsoft Azure,Object Migration,Automate migration of objects between Blob Storage containers.
+Microsoft Azure,Data Import,Automate data import workflows using Azure Data Factory.
+Microsoft Azure,Resource Updates,Automate updates to Azure resources using ARM templates.
+Microsoft Azure,Object Duplication,Automate duplication of objects in Blob

@@ -1,0 +1,72 @@
+Category,Short Description,Description
+Skybox Firewall Assurance,Rule Compliance Validation,Automate validation of firewall rules against compliance policies to ensure adherence to security standards.
+Skybox Firewall Assurance,Rule Shadowing Detection,Identify and report shadowed or redundant rules that could lead to inefficiencies in the firewall policies.
+Skybox Firewall Assurance,Rule Usage Analysis,Automate the analysis of firewall rule usage to identify unused or rarely used rules for cleanup.
+Skybox Firewall Assurance,Rule Optimization,Suggest optimized firewall rules based on traffic patterns and business needs.
+Skybox Firewall Assurance,Policy Change Tracking,Track changes made to firewall policies automatically and generate detailed reports.
+Skybox Firewall Assurance,Access Rule Analysis,Analyze access rules to identify overly permissive or insecure configurations.
+Skybox Firewall Assurance,Rule Duplication Detection,Detect duplicate firewall rules and automate their removal to improve efficiency.
+Skybox Firewall Assurance,Rule Expiry Notification,Automate notifications for firewall rules that are nearing their expiry date.
+Skybox Firewall Assurance,Rule Cleanup Suggestions,Generate automated suggestions for cleaning up obsolete or unnecessary rules.
+Skybox Firewall Assurance,Firewall Configuration Backup,Automate the backup of firewall configurations to ensure recovery in case of failure.
+Skybox Firewall Assurance,Rule Impact Simulation,Simulate the impact of new or modified rules before implementing them.
+Skybox Firewall Assurance,Rule Redundancy Elimination,Automatically identify and eliminate redundant rules from the firewall.
+Skybox Firewall Assurance,Policy Compliance Enforcement,Automate enforcement of compliance policies across multiple firewalls.
+Skybox Firewall Assurance,Rule Review Workflow,Automate the workflow for reviewing firewall rules to streamline approvals.
+Skybox Firewall Assurance,Risk-Based Rule Prioritization,Automatically prioritize firewall rules based on associated risk levels.
+Skybox Firewall Assurance,Application Mapping,Map firewall rules to specific applications automatically to ensure proper alignment.
+Skybox Firewall Assurance,Unused Object Identification,Identify and report on unused objects within firewall configurations.
+Skybox Firewall Assurance,Rule Documentation Generation,Automate the generation of documentation for all firewall rules and policies.
+Skybox Firewall Assurance,Continuous Monitoring,Enable continuous monitoring of firewall rule effectiveness and compliance.
+Skybox Firewall Assurance,Secure Change Tracking,Automate tracking of secure changes made to firewall configurations.
+Skybox Firewall Assurance,Configuration Drift Detection,Detect and alert on unauthorized changes or drift in firewall configurations.
+Skybox Firewall Assurance,Rule Complexity Analysis,Analyze and report on the complexity of existing firewall rules.
+Skybox Firewall Assurance,Vulnerability Exposure Analysis,Automate analysis of firewall rules to identify vulnerabilities exposed through misconfigurations.
+Skybox Firewall Assurance,Rule Migration Validation,Validate firewall rules during migration to new devices or platforms.
+Skybox Firewall Assurance,Zone Segmentation Enforcement,Automatically enforce proper zone segmentation in firewall configurations.
+Skybox Firewall Assurance,Topology Analysis,Automate analysis of network topology to identify potential rule misalignments.
+Skybox Firewall Assurance,Traffic Flow Modeling,Model traffic flows based on firewall rules to identify bottlenecks or inefficiencies.
+Skybox Firewall Assurance,Risk Assessment Reporting,Generate automated risk assessment reports based on firewall policies and configurations.
+Skybox Firewall Assurance,Rule Expiration Enforcement,Automatically enforce expiration of rules that have passed their validity period.
+Skybox Firewall Assurance,Firewall Rule Dependency Analysis,Analyze dependencies between rules to ensure proper functionality and avoid conflicts.
+Skybox Firewall Assurance,Rule Testing Automation,Automate the testing of firewall rules to ensure they work as intended.
+Skybox Firewall Assurance,High-Risk Rule Identification,Automatically identify rules that allow high-risk traffic and notify security teams.
+Skybox Firewall Assurance,Audit Trail Automation,Maintain an automated audit trail of all changes made to firewall configurations.
+Skybox Firewall Assurance,Secure Connectivity Validation,Validate secure connectivity between zones based on firewall rules.
+Skybox Firewall Assurance,Rule Lifecycle Management,Automate the lifecycle management of firewall rules from creation to decommissioning.
+Skybox Firewall Assurance,Rule Change Simulation,Simulate rule changes to predict their impact on network traffic and security.
+Skybox Firewall Assurance,Duplicate Object Cleanup,Identify and clean up duplicate objects used in firewall rules.
+Skybox Firewall Assurance,Risk-Based Rule Retirement,Automate the retirement of rules that pose high risk or are no longer needed.
+Skybox Firewall Assurance,Firewall Rule Tagging,Automatically tag firewall rules with metadata for easier management and reporting.
+Skybox Firewall Assurance,Logging Policy Validation,Validate firewall logging policies to ensure accurate and comprehensive log collection.
+Skybox Firewall Assurance,Rule Performance Analysis,Analyze the performance impact of firewall rules on network traffic.
+Skybox Firewall Assurance,Policy Hierarchy Validation,Validate the hierarchy and ordering of firewall policies to prevent misconfigurations.
+Skybox Firewall Assurance,External Threat Feeds Integration,Automate integration of external threat feeds into firewall rules for real-time threat prevention.
+Skybox Firewall Assurance,Access Path Analysis,Automate analysis of access paths to ensure proper implementation of security policies.
+Skybox Firewall Assurance,Rule Review Scheduling,Schedule periodic rule reviews and generate automated reminders.
+Skybox Firewall Assurance,Threat Intelligence Correlation,Correlate firewall policies with threat intelligence data to identify potential gaps.
+Skybox Firewall Assurance,Rule Consistency Check,Automatically check for consistency across rules to avoid conflicts.
+Skybox Firewall Assurance,Baseline Configuration Monitoring,Monitor firewall configurations against baseline configurations to detect deviations.
+Skybox Firewall Assurance,Rule Enforcement Validation,Validate enforcement of rules across all firewalls in the organization.
+Skybox Firewall Assurance,Policy Gap Analysis,Analyze gaps in firewall policies to identify missing security controls.
+Skybox Firewall Assurance,Access Control Review Automation,Automate the review of access control lists to ensure compliance and security.
+Skybox Firewall Assurance,Configuration Compliance Reporting,Generate reports on firewall configuration compliance automatically.
+Skybox Firewall Assurance,Rule Expiry Policy Enforcement,Enforce policies for expiring rules and notify administrators automatically.
+Skybox Firewall Assurance,Firewall Rule Analysis Dashboard,Use scripts to automate the generation of dashboards for rule analysis and reporting.
+Skybox Firewall Assurance,Multi-Vendor Firewall Management,Automate policy management across multiple firewall vendors.
+Skybox Firewall Assurance,Historical Rule Usage Analysis,Track and analyze historical usage of firewall rules to identify trends and inefficiencies.
+Skybox Firewall Assurance,Rule Documentation Cleanup,Automate cleanup of outdated or irrelevant documentation for firewall rules.
+Skybox Firewall Assurance,Real-Time Threat Blocking,Automatically block threats in real time based on firewall rules and threat intelligence.
+Skybox Firewall Assurance,Configuration Change Risk Analysis,Analyze risks associated with proposed configuration changes before implementation.
+Skybox Firewall Assurance,Network Segmentation Validation,Validate network segmentation policies implemented through firewall rules.
+Skybox Firewall Assurance,Rule Audit Frequency Automation,Automate the frequency of rule audits based on organizational policies.
+Skybox Firewall Assurance,Inbound/Outbound Traffic Auditing,Automate auditing of inbound and outbound traffic patterns for anomaly detection.
+Skybox Firewall Assurance,Cross-Environment Policy Replication,"Automate replication of firewall policies across different environments (e.g., dev, test, production)."
+Skybox Firewall Assurance,Rule Cleanup Workflow Integration,Integrate rule cleanup workflows into change management systems for approvals.
+Skybox Firewall Assurance,Access Request Automation,Automate the process of granting or denying access based on predefined policies and firewall configurations.
+Skybox Firewall Assurance,Rule Validation for Cloud Environments,"Validate firewall rules specifically for cloud environments (e.g., AWS, Azure)."
+Skybox Firewall Assurance,Firewall Rule Efficiency Metrics,"Automate calculation of efficiency metrics for firewall rules, such as hit rates."
+Skybox Firewall Assurance,Rule Consolidation Reporting,Generate reports on opportunities for consolidating similar firewall rules.
+Skybox Firewall Assurance,Proactive Rule Violation Alerts,Set up proactive alerts for potential rule violations before they occur.
+Skybox Firewall Assurance,Third-Party Access Validation,Validate firewall rules for third-party access and ensure compliance with agreements.
+\*\*Skybox Firewall Assurance,,

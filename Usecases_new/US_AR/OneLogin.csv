@@ -1,0 +1,61 @@
+Category,Short Description,Description
+OneLogin,Automate User Provisioning,Automatically create user accounts in connected applications when a new user is added to OneLogin.
+OneLogin,Automate User Deprovisioning,Automatically deactivate or delete user accounts in connected applications when a user is removed from OneLogin.
+OneLogin,Automate Group Assignments,Automatically assign users to groups based on their roles or attributes.
+OneLogin,Automate Application Assignments,Automatically assign applications to users or groups based on predefined rules or conditions.
+OneLogin,Automate Password Resets,Enable users to reset their passwords automatically using self-service password reset functionality.
+OneLogin,Automate MFA Enrollment,Automatically enroll users in Multi-Factor Authentication (MFA) based on company security policies.
+OneLogin,Automate User Offboarding,Automatically revoke access to all applications and resources when a user is offboarded.
+OneLogin,Automate Role-Based Access Control,"Automatically assign roles to users based on their department, job title, or other attributes."
+OneLogin,Automate User Attribute Mapping,Automatically map user attributes between OneLogin and connected applications.
+OneLogin,Automate User Onboarding,Automatically provision users with access to required applications and groups during onboarding.
+OneLogin,Automate API Token Rotation,Automatically rotate API tokens to enhance security and reduce manual intervention.
+OneLogin,Automate Application Deprovisioning,Automatically remove access to applications when a user leaves the organization or changes roles.
+OneLogin,Automate Password Policy Updates,Automatically update password policies across connected applications from a central location.
+OneLogin,Automate Compliance Reporting,"Automatically generate compliance reports to track user access, login activity, and application usage."
+OneLogin,Automate Security Policies,"Automatically enforce security policies, such as session timeouts or device trust policies, across all users."
+OneLogin,Automate Access Reviews,Schedule and automate periodic access reviews to ensure users have appropriate access to applications and resources.
+OneLogin,Automate User Activity Monitoring,Automatically monitor user activity and trigger alerts for unusual behavior or suspicious logins.
+OneLogin,Automate Event-Based Workflows,"Trigger automated workflows based on specific events, such as user creation, role changes, or group membership updates."
+OneLogin,Automate Threat Response,Automatically respond to security threats by disabling compromised accounts or enforcing additional authentication requirements.
+OneLogin,Automate Directory Sync,Sync user data between OneLogin and on-premises directories like Active Directory or LDAP.
+OneLogin,Automate Integration with HR Systems,Automatically sync user data between HR systems and OneLogin to align with user lifecycle events like onboarding and offboarding.
+OneLogin,Automate Audit Log Analysis,Automatically analyze audit logs to identify potential security risks or compliance violations.
+OneLogin,Automate SSO Configuration,Automatically configure Single Sign-On (SSO) settings for new applications or updates.
+OneLogin,Automate Application Usage Analytics,Automatically generate reports on application usage to identify underutilized resources or optimize licenses.
+OneLogin,Automate MFA Policy Enforcement,Automatically enforce MFA policies for high-risk applications or users based on behavior or location.
+OneLogin,Automate User Consent Management,Automatically manage user consent for data sharing with connected applications.
+OneLogin,Automate Login Risk Scoring,Automatically assign risk scores to user login attempts and enforce additional security measures for high-risk logins.
+OneLogin,Automate User Session Management,Automatically terminate inactive or suspicious user sessions to enhance security.
+OneLogin,Automate Password Expiry Notifications,"Notify users automatically when their passwords are about to expire, prompting them to reset their passwords."
+OneLogin,Automate Application Role Management,Automatically manage application roles based on user attributes or group memberships.
+OneLogin,Automate Application Health Monitoring,Automatically monitor the health of connected applications and notify administrators of any issues.
+OneLogin,Automate Integration with ITSM Tools,Integrate with ITSM tools like ServiceNow or Jira to automate incident creation and resolution based on OneLogin events.
+OneLogin,Automate User Behavior Analysis,Automatically analyze user behavior to detect anomalies or potential security risks.
+OneLogin,Automate Security Incident Notifications,"Automatically notify administrators or security teams about potential incidents, such as unauthorized access attempts."
+OneLogin,Automate Role Audits,Schedule and automate audits of user roles to ensure compliance and proper access control.
+OneLogin,Automate Application Access Reviews,Schedule and automate reviews of user access to applications to ensure compliance and reduce risk.
+OneLogin,Automate Device Trust Verification,Automatically verify and enforce device trust policies for accessing sensitive applications.
+OneLogin,Automate API Access Management,Automatically manage API access permissions based on user roles or group memberships.
+OneLogin,Automate User Consent Revocation,Automatically revoke user consent for inactive or deactivated applications.
+OneLogin,Automate Application Discovery,Automatically discover and integrate new applications into OneLogin for centralized access management.
+OneLogin,Automate User Account Recovery,"Enable automated recovery processes for users who lose access to their accounts, such as through email verification or security questions."
+OneLogin,Automate Identity Federation,Automatically configure and manage identity federation between OneLogin and partner organizations.
+OneLogin,Automate Group-Based Policies,Automatically apply policies to users based on their group memberships for consistent security enforcement.
+OneLogin,Automate Custom Notifications,"Send automated notifications to users or administrators for specific events, such as application access changes or group membership updates."
+OneLogin,Automate Compliance Policy Enforcement,"Automatically enforce compliance policies, such as GDPR or HIPAA, across all applications and users."
+OneLogin,Automate User Login Analytics,"Generate analytics reports automatically to track login trends, detect anomalies, and identify potential security risks."
+OneLogin,Automate Integration with Cloud Platforms,"Automatically configure and manage Single Sign-On (SSO) and provisioning for cloud platforms like AWS, Azure, or Google Cloud."
+OneLogin,Automate Access Certification,Automatically certify user access to applications and resources periodically based on compliance requirements.
+OneLogin,Automate Risk-Based Authentication,Automatically enforce additional authentication steps for high-risk user activities or login attempts.
+OneLogin,Automate User Account Lockouts,Automatically lock user accounts after multiple failed login attempts to prevent unauthorized access.
+OneLogin,Automate User Role-Based Notifications,Notify group owners or administrators automatically when there are changes to user roles or group memberships.
+OneLogin,Automate User Access Requests,"Enable users to request application access via automated workflows, ensuring approvals are routed correctly."
+OneLogin,Automate Audit Log Exports,Automatically export audit logs to external monitoring tools or systems for further analysis.
+OneLogin,Automate User Attribute Sync,Sync user attributes automatically between OneLogin and connected applications to maintain data consistency.
+OneLogin,Automate Login Failure Notifications,Notify administrators or security teams automatically after a certain number of failed login attempts.
+OneLogin,Automate Integration with DevOps Tools,Automate identity and access management for development environments by integrating OneLogin with DevOps tools like Jenkins or Kubernetes.
+OneLogin,Automate Risk Scoring for Applications,Automatically calculate risk scores for applications based on user activity and security metrics.
+OneLogin,Automate User Role Audits,Schedule and automate audits of user roles and permissions to ensure proper access control and compliance.
+OneLogin,Automate Application Role Assignments,Automatically assign application-specific roles to users based on their job attributes or group memberships.
+OneLogin,Automate Idle User Notifications,"Notify users automatically if their accounts are inactive for a certain period, prompting them to log in or take action."

@@ -1,0 +1,61 @@
+Category,Short Description,Description
+Ansible,Install software packages,Automate the installation of software packages on multiple servers using Ansible’s `apt` or `yum` module.
+Ansible,Configure web servers,"Automate the deployment and configuration of web servers such as Apache, Nginx, or IIS with specified settings."
+Ansible,Manage system users,"Automate the creation, deletion, and management of system users and groups, including setting permissions and passwords."
+Ansible,Enforce file permissions,Automatically apply and enforce file and directory permissions to comply with security policies.
+Ansible,Deploy database servers,"Automate the setup and configuration of database servers like MySQL, PostgreSQL, or MongoDB, including schema preparation and user creation."
+Ansible,Configure SSH access,Automate the deployment of SSH keys and configuration of `sshd` settings for secure passwordless login across nodes.
+Ansible,Manage cron jobs,"Automate the creation, modification, and deletion of scheduled tasks using Ansible’s `cron` module."
+Ansible,Configure firewalls,Automate the setup and management of firewall rules using Ansible modules like `firewalld` or `ufw`.
+Ansible,Perform system updates,Automate the process of updating operating systems and applying security patches across multiple servers.
+Ansible,Provision virtual machines,"Automate the provisioning of virtual machines in cloud platforms like AWS, Azure, Google Cloud, or VMware using Ansible’s cloud modules."
+Ansible,Configure DNS records,Automate the management of DNS records using Ansible modules or APIs provided by DNS providers like Route 53 or Cloudflare.
+Ansible,Manage SSL certificates,"Automate the generation, renewal, and deployment of SSL/TLS certificates using Ansible modules like `acme_certificate`."
+Ansible,Deploy containerized applications,Automate the deployment of containerized applications using Docker or Kubernetes with Ansible roles and modules.
+Ansible,Configure NTP for time sync,Automate the configuration of NTP or Chrony for time synchronization across all nodes.
+Ansible,Set up environment variables,Automate the creation of environment variables system-wide or application-specific using Ansible’s `lineinfile` module.
+Ansible,Deploy load balancers,"Automate the setup and configuration of load balancers, such as HAProxy or AWS Elastic Load Balancer (ELB)."
+Ansible,Enforce server hardening,"Automate the application of server hardening practices, such as disabling root login, enforcing password complexity, and enabling SELinux."
+Ansible,Manage application deployments,"Automate the deployment of application code and configurations to development, staging, and production environments."
+Ansible,Automate server health checks,"Automate the monitoring and health checks of servers, including disk usage, memory utilization, and running services."
+Ansible,Configure centralized logging,"Automate the deployment and configuration of centralized logging solutions like the ELK stack (Elasticsearch, Logstash, Kibana)."
+Ansible,Deploy monitoring agents,"Automate the installation and configuration of monitoring agents like Datadog, Prometheus, or Zabbix."
+Ansible,Automate backup processes,"Automate the creation of backup scripts and the scheduling of backups for databases, file systems, and applications."
+Ansible,Patch management,Automate the deployment of security patches for operating systems and software across servers.
+Ansible,Automate resource tagging,"Automate the application of tags to cloud resources in AWS, Azure, or Google Cloud for cost optimization and organization."
+Ansible,Configure reverse proxies,Automate the setup and configuration of reverse proxies like Nginx or Apache for routing web traffic.
+Ansible,Automate Kubernetes cluster setup,"Automate the provisioning and configuration of Kubernetes clusters, including deploying worker nodes and setting up networking."
+Ansible,Enforce password policies,Automate the enforcement of password complexity and expiration policies across systems using Ansible’s `pam.d` module.
+Ansible,Configure RAID storage,Automate the setup and configuration of RAID storage using tools like `mdadm` through Ansible.
+Ansible,Deploy caching servers,Automate the installation and configuration of caching servers like Redis or Memcached to improve application performance.
+Ansible,Configure DNS caching,Automate the setup of DNS caching servers like dnsmasq or Unbound to optimize name resolution.
+Ansible,Automate rollback processes,Automate the rollback of failed deployments or configurations to a previous stable state.
+Ansible,Automate auto-scaling policies,Automate the setup of auto-scaling policies for cloud environments to dynamically adjust server capacity.
+Ansible,Manage application secrets,Automate the secure management of application secrets using Ansible Vault or integration with tools like HashiCorp Vault.
+Ansible,Simulate disaster recovery,Automate the testing of disaster recovery scenarios by simulating failovers and validating recovery processes.
+Ansible,Configure SSO,Automate the setup and integration of Single Sign-On (SSO) for enterprise applications using protocols like SAML or OpenID Connect.
+Ansible,Deploy microservices,Automate the deployment and configuration of microservices in a containerized environment.
+Ansible,Automate compliance reporting,"Automate the generation of compliance reports for audits, including system configurations and security policies."
+Ansible,Configure network ACLs,Automate the creation and management of network access control rules to restrict or allow traffic between specific subnets or servers.
+Ansible,Provision development environments,"Automate the provisioning of development environments with required dependencies, tools, and configurations."
+Ansible,Automate log analysis,"Automate the collection and analysis of logs from multiple servers using tools like Splunk, Graylog, or custom scripts."
+Ansible,Create testing environments,Automate the creation of isolated testing environments for CI/CD pipelines with predefined configurations.
+Ansible,Configure container orchestration,Automate container orchestration using platforms like Kubernetes or Docker Swarm with Ansible modules.
+Ansible,Set up hybrid cloud environments,Automate the deployment and management of hybrid cloud environments for workload distribution.
+Ansible,Configure VPN servers,Automate the deployment and configuration of VPN servers for secure remote access to enterprise networks.
+Ansible,Automate log rotation,Automate the configuration of log rotation policies to manage disk usage effectively.
+Ansible,Deploy high-availability clusters,Automate the setup of high-availability server clusters for mission-critical applications.
+Ansible,Configure API gateways,Automate the setup and configuration of API gateways for managing API traffic and implementing security controls.
+Ansible,Manage ephemeral environments,"Automate the creation and tear-down of ephemeral environments for testing, development, or sandboxing."
+Ansible,Automate service discovery,Automate the deployment of service discovery tools like Consul or Zookeeper for dynamic service registration and discovery.
+Ansible,Configure web application firewalls,Automate the deployment and configuration of web application firewalls (WAF) for protecting web applications from common threats.
+Ansible,Automate application scaling,Automate horizontal or vertical scaling of applications based on resource utilization and traffic patterns.
+Ansible,Configure firewall rules,Automate the enforcement of custom firewall rules across servers using tools like `iptables` or `firewalld`.
+Ansible,Automate database migrations,Automate the migration of databases between environments during upgrades or migrations.
+Ansible,Configure hybrid cloud networking,Automate the setup of networking between on-premise and cloud environments for hybrid cloud deployments.
+Ansible,Automate CI/CD pipelines,"Automate the configuration of CI/CD pipelines with tools like Jenkins, GitLab, or GitHub Actions using Ansible playbooks."
+Ansible,Manage software repositories,"Automate the addition, removal, and management of software repositories for package installations."
+Ansible,Configure centralized authentication,Automate the integration of systems with centralized authentication solutions like LDAP or Active Directory.
+Ansible,Automate cloud resource provisioning,"Automate the provisioning, management, and deletion of cloud resources like EC2 instances, S3 buckets, or Azure VMs using Ansible cloud modules."
+Ansible,Automate resource monitoring,"Automate the setup of resource monitoring tools and dashboards to track server performance metrics like CPU, memory, and disk usage."
+Ansible,Configure CDN services,Automate the setup and configuration of CDN services like Cloudflare or Akamai for faster content delivery.

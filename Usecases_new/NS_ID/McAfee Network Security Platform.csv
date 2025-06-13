@@ -1,0 +1,64 @@
+Category,Short Description,Description
+McAfee Network Security Platform,Detect Brute Force Attacks,Monitor repeated failed login attempts across network traffic and automatically block offending IPs.
+McAfee Network Security Platform,Detect Malware in Network Traffic,Analyze network traffic for malware signatures and automatically quarantine affected systems.
+McAfee Network Security Platform,Prevent SQL Injection Attacks,Detect and block SQL injection attempts targeting web applications.
+McAfee Network Security Platform,Alert on Suspicious DNS Queries,Monitor DNS traffic for queries to malicious or suspicious domains and send alerts.
+McAfee Network Security Platform,Monitor Anomalous User Behavior,Analyze traffic patterns to detect unusual user behavior and generate alerts for potential insider threats.
+McAfee Network Security Platform,Detect Lateral Movement,Monitor internal traffic for signs of lateral movement within the network and block malicious activity.
+McAfee Network Security Platform,Detect Command and Control (C2) Traffic,Identify and block communication with known command-and-control servers using threat intelligence feeds.
+McAfee Network Security Platform,Detect Phishing Attempts,"Analyze email traffic for phishing indicators, such as suspicious URLs or attachments, and block malicious emails."
+McAfee Network Security Platform,Monitor VPN Traffic,Track VPN connections to identify and alert on suspicious activity or unauthorized access attempts.
+McAfee Network Security Platform,Detect DNS Tunneling,Monitor DNS traffic for unusual patterns indicative of DNS tunneling attacks.
+McAfee Network Security Platform,Detect Unauthorized Protocol Usage,Identify unauthorized or uncommon protocols in use and block them to prevent misuse.
+McAfee Network Security Platform,Block Malicious IPs,Automatically block traffic from IPs flagged as malicious by threat intelligence feeds.
+McAfee Network Security Platform,Detect Web-Based Attacks,Monitor web server traffic to detect and block cross-site scripting (XSS) or other web-based attacks.
+McAfee Network Security Platform,Detect Privilege Escalation Attempts,Analyze traffic for signs of privilege escalation attempts and alert administrators.
+McAfee Network Security Platform,Detect Ransomware Activity,"Monitor encrypted traffic for ransomware-like behavior, such as large-scale file encryption attempts."
+McAfee Network Security Platform,Prevent DDoS Attacks,Detect high-volume traffic patterns indicative of a DDoS attack and mitigate the attack.
+McAfee Network Security Platform,Monitor Application Layer Traffic,Provide visibility into application-layer protocols and detect malicious activity.
+McAfee Network Security Platform,Detect Data Exfiltration,Monitor and block large or unusual data transfers to unauthorized destinations.
+McAfee Network Security Platform,Monitor File Transfers,Analyze traffic for unauthorized file transfer attempts and block suspicious activities.
+McAfee Network Security Platform,Detect Exploitation of Vulnerabilities,Correlate traffic with known vulnerabilities to detect attempted exploitations.
+McAfee Network Security Platform,Alert on Suspicious SMB Traffic,"Monitor SMB traffic for unusual behavior, such as unauthorized access attempts or lateral movement."
+McAfee Network Security Platform,Detect Rogue Devices,Identify and block unauthorized devices attempting to connect to the network.
+McAfee Network Security Platform,Block Suspicious Domains,Automatically block communication with suspicious or malicious domains identified in DNS traffic.
+McAfee Network Security Platform,Enforce Network Segmentation Policies,"Use NSP to monitor and enforce segmentation policies, ensuring unauthorized traffic does not traverse between network zones."
+McAfee Network Security Platform,Prevent Man-in-the-Middle Attacks,Monitor ARP and DNS spoofing attempts to block man-in-the-middle attacks.
+McAfee Network Security Platform,Identify Botnet Traffic,Monitor traffic for botnet-like behavior and isolate compromised systems.
+McAfee Network Security Platform,Alert on Unusual User Agent Strings,Detect unusual or malicious user agents in HTTP traffic and generate alerts.
+McAfee Network Security Platform,Detect Malicious File Downloads,Monitor HTTP or FTP traffic for malicious file downloads and block the transfer.
+McAfee Network Security Platform,Monitor SSL/TLS Handshake Anomalies,"Track SSL/TLS handshakes for anomalies, such as self-signed certificates or weak ciphers."
+McAfee Network Security Platform,Detect Unauthorized Cloud Service Usage,Monitor traffic to cloud services and detect unauthorized usage or data exfiltration.
+McAfee Network Security Platform,Identify Suspicious Beaconing Patterns,Detect periodic network beaconing behavior indicative of malware or C2 communication.
+McAfee Network Security Platform,Detect Insider Threats,Analyze internal traffic patterns to detect anomalous behavior from employees or contractors.
+McAfee Network Security Platform,Detect Unauthorized Access to Databases,Monitor database traffic for unauthorized queries or access attempts.
+McAfee Network Security Platform,Monitor IoT Device Traffic,Track IoT device behavior to detect unusual or unauthorized communication patterns.
+McAfee Network Security Platform,Detect Unusual Login Locations,Monitor authentication traffic for logins from unusual geographic locations.
+McAfee Network Security Platform,Detect Credential Dumping Attempts,Detect credential dumping tools and techniques in network traffic.
+McAfee Network Security Platform,Prevent Unauthorized File Access,Monitor traffic to file servers and block unauthorized attempts to access sensitive files.
+McAfee Network Security Platform,Detect Suspicious Email Attachments,Monitor email traffic for attachments containing malicious content and block them.
+McAfee Network Security Platform,Detect Anomalous RDP Traffic,"Monitor RDP connections for suspicious activity, such as brute force attempts or unusual access times."
+McAfee Network Security Platform,Automate Threat Intelligence Updates,Automatically update threat intelligence feeds and apply the latest detection capabilities.
+McAfee Network Security Platform,Alert on Unusual Bandwidth Usage,Monitor bandwidth usage by IP or application and alert on unusual spikes.
+McAfee Network Security Platform,Detect Unauthorized Software Downloads,Monitor network traffic for software downloads from unauthorized sources and block them.
+McAfee Network Security Platform,Prevent Exploitation of Zero-Day Vulnerabilities,Use machine learning and behavior-based detection to identify and block zero-day threats.
+McAfee Network Security Platform,Detect Unauthorized USB Device Activity,Monitor traffic for data transfers originating from unauthorized USB devices.
+McAfee Network Security Platform,Detect Malicious PowerShell Commands,Analyze PowerShell activity in the network and block malicious commands.
+McAfee Network Security Platform,Monitor Network Protocol Anomalies,Detect deviations in expected network protocols and alert on abnormal behavior.
+McAfee Network Security Platform,Log and Report Network Events,Automate the generation of reports for network events and security incidents.
+McAfee Network Security Platform,Enforce Compliance Policies,Monitor network traffic to ensure compliance with organizational or regulatory policies.
+McAfee Network Security Platform,Detect Cryptojacking Activity,Monitor for traffic patterns consistent with cryptocurrency mining operations.
+McAfee Network Security Platform,Detect Unauthorized Wireless Access Points,Monitor and block rogue wireless access points identified in network traffic.
+McAfee Network Security Platform,Detect Shadow IT Applications,Identify and block unauthorized applications or services being used on the network.
+McAfee Network Security Platform,Detect Misconfigured Network Devices,"Monitor traffic for signs of misconfigured devices, such as open ports or insecure protocols."
+McAfee Network Security Platform,Prevent Unauthorized API Access,Detect and block unauthorized access attempts to APIs exposed on the network.
+McAfee Network Security Platform,Track Network Session Duration,"Monitor session durations for anomalies, such as unusually long connections that may indicate data exfiltration."
+McAfee Network Security Platform,Integrate with SIEM for Log Correlation,Forward events to a SIEM for advanced log correlation and incident analysis.
+McAfee Network Security Platform,Automate Incident Response Playbooks,Trigger automated incident response actions based on predefined playbooks when specific threats are detected.
+McAfee Network Security Platform,Block Traffic Based on GeoIP,Block network traffic originating from specific geographic regions based on GeoIP analysis.
+McAfee Network Security Platform,Detect Malware Command Execution,Monitor for command execution patterns indicative of malware infection.
+McAfee Network Security Platform,Detect Suspicious Outbound Traffic,Monitor outbound traffic for connections to known malicious IPs or domains.
+McAfee Network Security Platform,Detect Suspicious Network Scanning Activity,Identify and block IPs performing port scans or reconnaissance activities.
+McAfee Network Security Platform,Monitor Privileged Account Activity,Track network activity from privileged accounts to detect potential misuse or compromise.
+McAfee Network Security Platform,Enforce Application Whitelisting,Use McAfee NSP to allow only authorized applications to communicate on the network.
+McAfee Network Security Platform,Monitor Encrypted Traffic for Anomal,

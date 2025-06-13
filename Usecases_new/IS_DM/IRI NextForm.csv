@@ -1,0 +1,78 @@
+Category,Short Description,Description
+IRI NextForm,Database Migration,Migrates data from legacy databases to modern databases like PostgreSQL or MySQL.
+IRI NextForm,Flat File Conversion,"Converts flat files (CSV, TXT) to database formats or other file types."
+IRI NextForm,XML to JSON Transformation,Automates the conversion of XML data structures to JSON for modern application compatibility.
+IRI NextForm,EBCDIC to ASCII Conversion,Converts legacy EBCDIC-encoded files into ASCII format for easier processing.
+IRI NextForm,Data Warehouse Migration,Migrates data from on-premises data warehouses to cloud-based platforms like Snowflake.
+IRI NextForm,ETL Process Automation,"Automates data extraction, transformation, and loading (ETL) processes."
+IRI NextForm,Fixed-Width File Conversion,Converts fixed-width data files into delimited formats like CSV or TSV.
+IRI NextForm,Mainframe Data Conversion,Transforms mainframe data into modern database formats for analytics.
+IRI NextForm,Data Format Standardization,Standardizes data formats across multiple sources for consistency.
+IRI NextForm,COBOL Copybook Parsing,Converts COBOL copybook data into readable or processable formats like JSON or CSV.
+IRI NextForm,JSON to Relational Data Conversion,Converts JSON data into relational database tables for querying.
+IRI NextForm,Data Cleansing in Migration,Cleanses data during migration to ensure data quality in the target system.
+IRI NextForm,API Data Integration,Converts and integrates API data into structured databases.
+IRI NextForm,Legacy System Retirement,Migrates data from retiring legacy systems to modern platforms.
+IRI NextForm,Cloud Storage Format Conversion,"Converts files stored in cloud storage (e.g., AWS S3) into usable formats."
+IRI NextForm,Excel to Database Conversion,Automates the transformation of Excel spreadsheets into relational database tables.
+IRI NextForm,Log File Parsing,Parses and transforms log files into structured formats for analysis.
+IRI NextForm,Data Type Conversion,"Converts data types during migration, such as integers to decimals or strings to dates."
+IRI NextForm,Data Masking During Migration,Masks sensitive data during migration to meet compliance requirements.
+IRI NextForm,Data Consolidation,Consolidates data from multiple sources into a single unified format.
+IRI NextForm,Incremental Data Migration,Automates incremental data migrations to minimize downtime during transitions.
+IRI NextForm,Legacy File Decryption,Decrypts legacy file formats for migration to newer systems.
+IRI NextForm,Data Compression Conversion,"Converts compressed file formats (e.g., gzip) into uncompressed, readable forms."
+IRI NextForm,Hierarchical to Relational Mapping,Converts hierarchical data structures like JSON into relational tables.
+IRI NextForm,ASCII to Unicode Conversion,Converts ASCII data files to Unicode for multilingual compatibility.
+IRI NextForm,Data Splitting,"Splits large data files into smaller, more manageable chunks for processing."
+IRI NextForm,Schema Transformation,Automates schema changes during database migrations.
+IRI NextForm,Cross-Platform Data Migration,Migrates data between platforms like Windows and Linux while maintaining compatibility.
+IRI NextForm,ETL Script Generation,Generates ETL scripts for automating data transformation tasks.
+IRI NextForm,Data Validation Automation,Validates data during migration to ensure accuracy and consistency.
+IRI NextForm,Data Duplication Removal,Removes duplicate records while migrating data to the target system.
+IRI NextForm,Hadoop Data Conversion,Converts Hadoop-based data formats like Parquet or Avro into other formats.
+IRI NextForm,Streaming Data Transformation,Transforms streaming data into structured formats for ingestion into databases.
+IRI NextForm,SQL Query Conversion,"Converts SQL queries from one database dialect to another (e.g., Oracle to MySQL)."
+IRI NextForm,Real-Time Data Transformation,Automates real-time transformation for event-driven processing.
+IRI NextForm,Data Type Mapping,Maps data types between source and target systems during migration.
+IRI NextForm,Metadata Migration,Migrates metadata along with data when transitioning between systems.
+IRI NextForm,Data Lake Ingestion,Converts and prepares data for ingestion into data lakes like AWS Lake Formation.
+IRI NextForm,Email Data Parsing,"Parses email data (e.g., logs, metadata) into structured formats for analysis."
+IRI NextForm,IoT Data Transformation,Transforms IoT sensor data into formats compatible with analytics platforms.
+IRI NextForm,Data Encryption During Migration,Encrypts sensitive data before migrating to ensure security.
+IRI NextForm,File Format Detection,Automates detection and transformation of unknown file formats.
+IRI NextForm,Cross-Cloud Data Migration,"Migrates data between cloud providers like AWS, Azure, and Google Cloud."
+IRI NextForm,Multilingual Data Conversion,Converts multilingual datasets into consistent Unicode formats.
+IRI NextForm,Data Partitioning,Partitions large datasets into smaller subsets for faster processing.
+IRI NextForm,Legacy Archive Extraction,Extracts and transforms data from legacy archives like ZIP or TAR.
+IRI NextForm,Data Normalization,Normalizes data into consistent formats across different data sources.
+IRI NextForm,ETL Job Scheduling,Automates the scheduling of ETL jobs for regular data processing tasks.
+IRI NextForm,Data Aggregation Automation,Aggregates data from multiple sources into summary formats for reporting.
+IRI NextForm,Text File Reformatting,Reformats text files to meet new system requirements.
+IRI NextForm,Data Migration Testing,Automates testing of migrated data for accuracy and completeness.
+IRI NextForm,Cloud-Native Format Conversion,Converts data into cloud-native formats like Parquet or ORC.
+IRI NextForm,Sequential File Processing,Processes sequential files and converts them to modern database formats.
+IRI NextForm,Data Encryption Key Mapping,Maps encryption keys during transformation for secure data handling.
+IRI NextForm,API-to-File Transformation,Converts API response data into structured files for storage.
+IRI NextForm,Data Lineage Tracking,Tracks data lineage during migrations to ensure traceability.
+IRI NextForm,CRM Data Migration,Migrates CRM data from legacy systems to modern platforms like Salesforce or HubSpot.
+IRI NextForm,Data Profiling,Profiles data quality and structure during migration processes.
+IRI NextForm,Legacy Backup Restoration,Restores and converts legacy backup files into accessible formats.
+IRI NextForm,Data Sorting and Filtering,Automates sorting and filtering of large datasets during transformation.
+IRI NextForm,Multi-File Format Transformation,"Converts multiple file types (e.g., CSV, XML, JSON) into a unified format."
+IRI NextForm,SAP Data Migration,Migrates data from legacy systems into SAP databases or vice versa.
+IRI NextForm,Data Masking for Testing,Masks sensitive data for non-production testing environments.
+IRI NextForm,Legacy Report Parsing,Parses and converts legacy reports into modern formats like PDF or Excel.
+IRI NextForm,Data Extraction from PDFs,Extracts and converts data from PDF files into structured formats.
+IRI NextForm,EDI File Conversion,Converts EDI (Electronic Data Interchange) files into readable or processable formats.
+IRI NextForm,Field Mapping Automation,Automates field mapping between source and target datasets.
+IRI NextForm,Time Zone Data Standardization,Converts and standardizes time zone data during migration.
+IRI NextForm,Legacy System Integration,Integrates legacy systems with modern platforms via data conversion.
+IRI NextForm,Data Sampling for Testing,Automates data sampling from large datasets for testing purposes.
+IRI NextForm,Transaction Log Conversion,Converts transaction logs into structured formats for analysis.
+IRI NextForm,Data Merge Automation,Merges datasets from disparate sources into a single dataset.
+IRI NextForm,Multi-Database Migration,Migrates data across multiple databases simultaneously.
+IRI NextForm,Data Compression Automation,Compresses large datasets during migration to save storage space.
+IRI NextForm,Legacy Image Metadata Conversion,Converts and migrates metadata from legacy image formats.
+IRI NextForm,Data Transformation Orchestration,Orchestrates multiple transformation workflows for large data projects.
+IRI Next,,

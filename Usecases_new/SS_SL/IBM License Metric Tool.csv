@@ -1,0 +1,55 @@
+Category,Short Description,Description
+IBM License Metric Tool,Automate software discovery,Automate the discovery of all IBM software installations across servers and environments.
+IBM License Metric Tool,Automate sub-capacity licensing compliance,Continuously monitor and ensure compliance with IBM sub-capacity licensing requirements.
+IBM License Metric Tool,Automate license usage reporting,Generate license usage reports automatically to provide insights into software consumption.
+IBM License Metric Tool,Automate PVU (Processor Value Unit) tracking,Automatically track PVU consumption across virtualized environments to ensure compliance.
+IBM License Metric Tool,Automate software inventory updates,Schedule inventory updates to ensure the ILMT database reflects the latest software installations and configurations.
+IBM License Metric Tool,Automate agent deployment,Deploy ILMT agents to new servers automatically to ensure consistent monitoring.
+IBM License Metric Tool,Automate license compliance alerts,Send automated alerts when potential non-compliance with IBM license agreements is detected.
+IBM License Metric Tool,Automate VM (Virtual Machine) tracking,Track virtual machine configurations and their impact on licensing automatically.
+IBM License Metric Tool,Automate hardware inventory synchronization,Sync hardware inventory data with the ILMT to ensure accurate license calculations.
+IBM License Metric Tool,Automate server capacity tracking,Monitor server capacity automatically to align with IBM sub-capacity licensing requirements.
+IBM License Metric Tool,Automate audit preparation,Generate audit-ready reports to prepare for IBM license compliance audits.
+IBM License Metric Tool,Automate software bundling analysis,Analyze software bundles automatically to ensure compliance with IBM licensing terms.
+IBM License Metric Tool,Automate license usage forecasting,Forecast future license usage based on historical consumption trends.
+IBM License Metric Tool,Automate discovery of unsupported software,Identify unsupported or unauthorized IBM software installations automatically.
+IBM License Metric Tool,Automate ILMT agent health checks,Monitor and ensure the health of ILMT agents installed on servers.
+IBM License Metric Tool,Automate software upgrade detection,Detect and report on IBM software upgrades automatically to ensure compliance with licensing changes.
+IBM License Metric Tool,Automate reporting to IBM License Service,Automate the submission of license usage data to IBM License Service for compliance verification.
+IBM License Metric Tool,Automate inactive server cleanup,Identify and remove inactive servers from the ILMT inventory automatically.
+IBM License Metric Tool,Automate license allocation adjustments,Automatically adjust license allocations based on usage data to optimize costs.
+IBM License Metric Tool,Automate high usage alerts,Send alerts when license usage exceeds predefined thresholds.
+IBM License Metric Tool,Automate license overuse detection,Identify and report instances where license usage exceeds purchased entitlements.
+IBM License Metric Tool,Automate software version tracking,Track installed versions of IBM software to ensure compliance with version-specific licensing terms.
+IBM License Metric Tool,Automate periodic PVU scans,Schedule and automate periodic PVU scans to ensure up-to-date licensing data.
+IBM License Metric Tool,Automate agent version updates,Automatically update ILMT agents to the latest version across all servers.
+IBM License Metric Tool,Automate license reassignment tracking,Track and report license reassignments to ensure compliance with IBM reassignment policies.
+IBM License Metric Tool,Automate cluster licensing checks,Monitor licensing compliance for clustered server environments.
+IBM License Metric Tool,Automate software decommissioning tracking,Track the decommissioning of IBM software and ensure licenses are properly updated.
+IBM License Metric Tool,Automate virtual environment optimizations,Analyze virtual environments and recommend optimizations to minimize license costs.
+IBM License Metric Tool,Automate non-compliance root cause analysis,Automatically analyze and identify the root causes of non-compliance issues.
+IBM License Metric Tool,Automate capacity-based licensing checks,Monitor and validate capacity-based licensing compliance for IBM software.
+IBM License Metric Tool,Automate physical server tracking,Track physical server configurations and their impact on IBM license calculations.
+IBM License Metric Tool,Automate data center license monitoring,Monitor license usage across data centers and generate reports automatically.
+IBM License Metric Tool,Automate license pooling,Pool unused licenses automatically and allocate them to servers or teams as needed.
+IBM License Metric Tool,Automate license cost reporting,Generate cost reports that show how much is being spent on IBM software licenses.
+IBM License Metric Tool,Automate entitlement tracking,Track entitlements automatically to ensure all IBM licenses are accounted for.
+IBM License Metric Tool,Automate hardware changes detection,Detect hardware changes automatically and update license calculations accordingly.
+IBM License Metric Tool,Automate software compliance audits,Conduct automated compliance audits and generate detailed reports for internal or external use.
+IBM License Metric Tool,Automate sub-capacity reporting validation,Validate sub-capacity reports to ensure they meet IBM audit requirements.
+IBM License Metric Tool,Automate multi-vendor license tracking,Track IBM licenses alongside other vendor licenses for consolidated reporting.
+IBM License Metric Tool,Automate ILMT database backups,Schedule regular backups of the ILMT database to ensure data integrity.
+IBM License Metric Tool,Automate software usage trend analysis,Analyze historical software usage trends and generate insights for decision-making.
+IBM License Metric Tool,Automate PVU rule updates,Ensure PVU rules are updated automatically to align with IBM licensing changes.
+IBM License Metric Tool,Automate license usage consolidation,Consolidate license usage data from multiple sources for centralized reporting.
+IBM License Metric Tool,Automate unauthorized software removal,Identify and flag unauthorized IBM software installations for removal.
+IBM License Metric Tool,Automate hybrid cloud license tracking,Monitor IBM license usage in hybrid cloud environments and ensure compliance.
+IBM License Metric Tool,Automate billing chargebacks,Automate chargeback calculations for IBM license costs to different departments or teams.
+IBM License Metric Tool,Automate virtual CPU core tracking,Track the allocation of virtual CPU cores and their impact on licensing requirements.
+IBM License Metric Tool,Automate data mapping for compliance,Map discovered data to compliance requirements automatically to simplify reporting.
+IBM License Metric Tool,Automate high availability license tracking,Monitor and report on licenses used in high-availability setups.
+IBM License Metric Tool,Automate duplicate software detection,Detect duplicate IBM software installations and flag them for review.
+IBM License Metric Tool,Automate hardware and software relationship mapping,Map hardware to software automatically to optimize license tracking processes.
+IBM License Metric Tool,Automate unused license identification,Identify unused IBM licenses and recommend actions to optimize costs.
+IBM License Metric Tool,Automate license compliance score calculation,Calculate and report a compliance score for IBM licenses based on current usage and entitlements.
+IBM License Metric Tool,Automate software bundling compliance checks,Validate software bundles to ensure compliance with IBM licensing agreements.

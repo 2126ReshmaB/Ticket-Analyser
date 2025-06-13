@@ -1,0 +1,88 @@
+Category,Short Description,Description
+VMware Horizon,Virtual Desktop Infrastructure Management,Manage the deployment and maintenance of virtual desktops for users.
+VMware Horizon,Application Virtualization,Deliver virtualized applications to end users without installing locally.
+VMware Horizon,Centralized Desktop Management,Centralize desktop configurations and updates across the organization.
+VMware Horizon,Remote Desktop Access,Provide secure remote access to virtual desktops from any location.
+VMware Horizon,Multi-Device Compatibility,"Enable access to virtual desktops from PCs, tablets, and smartphones."
+VMware Horizon,Cloud-Based Desktop Delivery,Deploy virtual desktops and applications from the cloud.
+VMware Horizon,Secure End-User Computing,Protect virtual desktops with advanced security features like encryption.
+VMware Horizon,Multi-Monitor Support,Allow users to utilize multiple monitors in their virtual desktop environment.
+VMware Horizon,Dynamic Resource Allocation,Automatically allocate resources like CPU and memory based on workload.
+VMware Horizon,Persistent Desktop Sessions,Save user settings and preferences across sessions for a personalized experience.
+VMware Horizon,Non-Persistent Desktop Sessions,Provide temporary desktop sessions for shared or task-based environments.
+VMware Horizon,Integration with Active Directory,Seamlessly integrate virtual desktops with Active Directory for authentication.
+VMware Horizon,Zero Client Support,Provide access to virtual desktops using zero-client devices.
+VMware Horizon,Unified Workspace Access,"Enable users to access desktops, apps, and files in a single workspace."
+VMware Horizon,User Profile Management,Manage user profiles to ensure consistent settings across sessions.
+VMware Horizon,Instant Clone Technology,Quickly create and deploy virtual desktops with minimal resource usage.
+VMware Horizon,Application Entitlement Management,Control which users have access to specific applications.
+VMware Horizon,Multi-Cloud Support,Deploy virtual desktops on multiple cloud platforms like AWS and Azure.
+VMware Horizon,Virtual GPU Support,Enhance performance for graphics-intensive applications using virtual GPUs.
+VMware Horizon,Integration with VMware vSphere,Leverage VMware vSphere for efficient resource allocation and scalability.
+VMware Horizon,Role-Based Access Control,Assign different levels of access to users and administrators.
+VMware Horizon,Endpoint Security Compliance,Ensure endpoint devices meet security requirements before accessing desktops.
+VMware Horizon,Disaster Recovery for Desktops,Implement disaster recovery plans for virtual desktops to ensure continuity.
+VMware Horizon,BYOD Support,Allow users to securely access virtual desktops using their personal devices.
+VMware Horizon,Session Monitoring and Analytics,Monitor user sessions and performance metrics to optimize experience.
+VMware Horizon,Desktop Pool Management,Manage groups of virtual desktops assigned to specific teams or departments.
+VMware Horizon,VM Encryption for Data Security,Encrypt virtual machines to protect sensitive data.
+VMware Horizon,Virtual Desktop Image Management,Create and manage desktop images for consistent deployments.
+VMware Horizon,Hybrid Cloud Desktop Deployments,Combine on-premise and cloud-based desktop delivery for flexible operations.
+VMware Horizon,USB Device Redirection,Allow users to connect and use USB devices in virtual desktops.
+VMware Horizon,Integration with Unified Communications,Support communication tools like Microsoft Teams and Zoom within virtual desktops.
+VMware Horizon,API Access for Automation,Use APIs to automate virtual desktop deployments and management tasks.
+VMware Horizon,Session-Based Desktop Sharing,Allow users to share their virtual desktop sessions for collaboration.
+VMware Horizon,High Availability for Virtual Desktops,Ensure continuous availability of desktops with failover and redundancy.
+VMware Horizon,App Volumes for Application Management,Deliver applications in real-time using App Volumes technology.
+VMware Horizon,Secure File Sharing,Enable secure access and sharing of files within virtual desktops.
+VMware Horizon,Thin Client Optimization,Provide optimized performance on thin-client devices.
+VMware Horizon,Integration with VMware NSX,Enhance network security and segmentation for virtual desktop environments.
+VMware Horizon,Smart Policies for User Sessions,Apply context-aware policies to manage user access and permissions dynamically.
+VMware Horizon,HTML5 Browser Access,Enable virtual desktop access via HTML5-compatible web browsers.
+VMware Horizon,Integration with Workspace ONE,Combine VMware Horizon with Workspace ONE for unified endpoint management.
+VMware Horizon,Remote Printing Capabilities,Allow users to print documents from virtual desktops to local printers.
+VMware Horizon,Biometric Authentication Integration,Support biometric authentication methods like fingerprint or facial recognition.
+VMware Horizon,AI-Based Performance Optimization,Use AI to monitor and optimize desktop and application performance.
+VMware Horizon,Role-Based Application Delivery,Assign applications to users based on their job roles.
+VMware Horizon,Multi-Factor Authentication Support,Enhance login security with multi-factor authentication methods.
+VMware Horizon,Host-Based Application Isolation,Isolate applications to prevent potential conflicts or data breaches.
+VMware Horizon,Real-Time Audio and Video Optimization,Optimize audio and video streaming for communication and collaboration tools.
+VMware Horizon,Power Management for Desktops,Reduce power consumption by managing idle desktop states.
+VMware Horizon,Virtual Desktop Lifecycle Management,"Automate the provisioning, updating, and retiring of virtual desktops."
+VMware Horizon,Session Auto-Reconnection,Automatically reconnect users to their sessions after a network interruption.
+VMware Horizon,Integration with Cloud Storage Providers,Connect virtual desktops to cloud storage like Google Drive or OneDrive.
+VMware Horizon,Secure External Access Gateways,Provide secure access to virtual desktops for external contractors or remote users.
+VMware Horizon,User Activity Logging,Track user activities within virtual desktops for compliance and auditing.
+VMware Horizon,Policy-Based Desktop Provisioning,Automate desktop provisioning based on predefined policies.
+VMware Horizon,Scheduled Desktop Maintenance,Perform scheduled updates and maintenance tasks on virtual desktops.
+VMware Horizon,Virtual Desktop Performance Alerts,Receive alerts for performance issues affecting virtual desktop environments.
+VMware Horizon,Application Packaging and Deployment,Package and deploy applications across virtual desktops seamlessly.
+VMware Horizon,Cross-Platform Device Support,"Enable virtual desktop access from Windows, macOS, Linux, iOS, and Android."
+VMware Horizon,Secure Data Backup for Desktops,Back up virtual desktop data to prevent data loss.
+VMware Horizon,User Session Timeout Policies,Configure session timeouts to improve security and resource management.
+VMware Horizon,Resource Usage Analytics,"Monitor CPU, memory, and storage usage across virtual desktops for optimization."
+VMware Horizon,Encrypted Remote Connections,Encrypt connections between endpoints and virtual desktops for secure access.
+VMware Horizon,Multi-Site Desktop Deployments,Manage virtual desktops deployed across multiple geographic sites.
+VMware Horizon,Integration with Identity Providers,Use identity providers like Okta or Azure AD for user authentication.
+VMware Horizon,Dynamic Application Updates,Push application updates to virtual desktops without interrupting users.
+VMware Horizon,Session-Based Desktop Policies,Apply specific policies to user sessions based on their context or location.
+VMware Horizon,Secure Clipboard Redirection,Control the use of clipboard functions between virtual desktops and local devices.
+VMware Horizon,Multi-Language Desktop Support,Provide localized virtual desktops in multiple languages for global teams.
+VMware Horizon,GPO Integration for Policy Management,Integrate with Group Policy Objects (GPO) for centralized policy enforcement.
+VMware Horizon,Real-Time Collaboration Tools Integration,Support tools like Slack or Microsoft Teams within virtual desktops.
+VMware Horizon,Desktop Image Versioning,Maintain version history of desktop images to roll back updates if needed.
+VMware Horizon,Centralized Application Monitoring,Monitor the performance of applications across all virtual desktops.
+VMware Horizon,GPU-Accelerated Workstations,"Deliver high-performance virtual desktops for CAD, 3D rendering, and simulations."
+VMware Horizon,Cloud-Based Desktop Scaling,Scale virtual desktops up or down based on demand using cloud resources.
+VMware Horizon,Secure Web Access Portals,Provide users with secure web portals to access their virtual desktops.
+VMware Horizon,BYOD Security Policies,Enforce security policies for bring-your-own-device environments.
+VMware Horizon,Customizable End-User Portals,Customize user portals for branding and improved user experience.
+VMware Horizon,Shared Application Delivery,Deliver shared applications to multiple users simultaneously.
+VMware Horizon,Real-Time Monitoring Dashboards,Use dashboards to monitor the health and performance of virtual desktops.
+VMware Horizon,Session-Based User Restrictions,Restrict user actions like file downloads or external device access.
+VMware Horizon,Secure Collaboration for Remote Teams,Enable secure collaboration for remote teams using virtual desktops.
+VMware Horizon,Automated Application Compatibility Testing,Test application compatibility across virtual desktops automatically.
+VMware Horizon,Provisioning for Temporary Workers,Quickly provision virtual desktops for contractors or temporary staff.
+VMware Horizon,Scalability for Seasonal Workloads,Scale virtual desktop environments up or down for seasonal demand.
+VMware Horizon,Context-Aware Desktop Policies,"Apply policies based on user location, device type, or time of access."
+VMware Horizon,Virtual Desktop Cost Optimization,Optimize costs by managing resource usage across desktop pools.

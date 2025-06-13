@@ -1,0 +1,74 @@
+Category,Short Description,Description
+Microsoft Azure Automation,VM start/stop scheduling,Automate the start and stop of virtual machines based on predefined schedules to optimize costs.
+Microsoft Azure Automation,Patch management,Automate the deployment of operating system updates for Windows and Linux VMs.
+Microsoft Azure Automation,Resource tagging,Automate the tagging of Azure resources for better organization and cost tracking.
+Microsoft Azure Automation,Backup automation,Automate the creation and management of backups for Azure VMs and databases.
+Microsoft Azure Automation,Resource cleanup,Automate the deletion of unused or orphaned resources to reduce costs.
+Microsoft Azure Automation,Disk snapshot creation,Automate the creation of disk snapshots for backup and recovery purposes.
+Microsoft Azure Automation,Compliance enforcement,Automate the enforcement of compliance policies across Azure resources.
+Microsoft Azure Automation,VM resizing,Automate the resizing of virtual machines based on workload requirements.
+Microsoft Azure Automation,Auto-scaling configuration,Automate the configuration of auto-scaling rules for Azure resources.
+Microsoft Azure Automation,Resource group cleanup,Automate the cleanup of unused resource groups to maintain a tidy Azure environment.
+Microsoft Azure Automation,Azure AD user management,"Automate the creation, deletion, and management of Azure Active Directory users."
+Microsoft Azure Automation,Azure AD group management,"Automate the management of Azure Active Directory groups, including adding and removing members."
+Microsoft Azure Automation,Azure AD password reset,Automate password reset processes for Azure Active Directory users.
+Microsoft Azure Automation,Azure AD role assignment,Automate the assignment of roles to Azure Active Directory users and groups.
+Microsoft Azure Automation,Azure Policy remediation,Automate the remediation of non-compliant resources identified by Azure Policy.
+Microsoft Azure Automation,Azure Monitor alert response,"Automate responses to Azure Monitor alerts, such as restarting a VM or scaling resources."
+Microsoft Azure Automation,Log Analytics query automation,Automate the execution of Log Analytics queries and export results to storage or email.
+Microsoft Azure Automation,Azure SQL database backup,Automate the backup of Azure SQL databases to ensure data protection.
+Microsoft Azure Automation,Azure SQL database scaling,Automate the scaling of Azure SQL databases based on usage patterns.
+Microsoft Azure Automation,Azure Blob storage lifecycle management,Automate the application of lifecycle policies to Azure Blob storage for cost optimization.
+Microsoft Azure Automation,Azure Function deployment,Automate the deployment of Azure Functions using runbooks.
+Microsoft Azure Automation,Azure Logic Apps trigger,Automate the triggering of Azure Logic Apps workflows based on specific events.
+Microsoft Azure Automation,Azure Key Vault secret rotation,Automate the rotation of secrets stored in Azure Key Vault.
+Microsoft Azure Automation,Azure Key Vault certificate renewal,Automate the renewal of certificates stored in Azure Key Vault.
+Microsoft Azure Automation,Azure Key Vault access policy updates,Automate the management of access policies for Azure Key Vault.
+Microsoft Azure Automation,Azure Resource Manager template deployment,Automate the deployment of resources using Azure Resource Manager (ARM) templates.
+Microsoft Azure Automation,Azure DevOps pipeline integration,Automate the execution of Azure DevOps pipelines using runbooks.
+Microsoft Azure Automation,Azure DevOps artifact cleanup,Automate the cleanup of unused artifacts in Azure DevOps to save storage.
+Microsoft Azure Automation,Azure Kubernetes Service (AKS) scaling,Automate the scaling of AKS clusters based on workload demands.
+Microsoft Azure Automation,AKS node pool management,Automate the creation and deletion of AKS node pools.
+Microsoft Azure Automation,Azure Virtual Network (VNet) peering,Automate the creation of VNet peering connections between Azure VNets.
+Microsoft Azure Automation,Azure Firewall rule updates,Automate the addition and removal of rules in Azure Firewall.
+Microsoft Azure Automation,Azure Application Gateway configuration,Automate the configuration of Azure Application Gateway for load balancing.
+Microsoft Azure Automation,Azure Traffic Manager profile updates,Automate the updates to Azure Traffic Manager profiles for traffic routing.
+Microsoft Azure Automation,Azure DNS record management,"Automate the creation, update, and deletion of DNS records in Azure DNS."
+Microsoft Azure Automation,Azure Load Balancer rule updates,Automate the configuration of rules in Azure Load Balancer.
+Microsoft Azure Automation,Azure Site Recovery failover testing,Automate the testing of failover scenarios in Azure Site Recovery.
+Microsoft Azure Automation,Azure Site Recovery replication setup,Automate the setup of replication for disaster recovery using Azure Site Recovery.
+Microsoft Azure Automation,Azure Virtual WAN configuration,Automate the configuration of Azure Virtual WAN for global connectivity.
+Microsoft Azure Automation,Azure Bastion host management,Automate the deployment and management of Azure Bastion hosts for secure remote access.
+Microsoft Azure Automation,Azure Storage account creation,Automate the creation of Azure Storage accounts with predefined configurations.
+Microsoft Azure Automation,Azure Storage access key rotation,Automate the rotation of access keys for Azure Storage accounts.
+Microsoft Azure Automation,Azure Storage blob copy,Automate the copying of blobs between storage accounts.
+Microsoft Azure Automation,Azure Storage container cleanup,Automate the deletion of unused containers in Azure Storage.
+Microsoft Azure Automation,Azure File Share snapshot creation,Automate the creation of snapshots for Azure File Shares.
+Microsoft Azure Automation,Azure File Sync management,Automate the management of Azure File Sync configurations.
+Microsoft Azure Automation,Azure Automation account module updates,Automate the update of modules in Azure Automation accounts.
+Microsoft Azure Automation,Azure Automation credential rotation,Automate the rotation of credentials stored in Azure Automation accounts.
+Microsoft Azure Automation,Azure Automation runbook scheduling,Automate the scheduling of runbooks for recurring tasks.
+Microsoft Azure Automation,Azure Automation webhook creation,Automate the creation of webhooks for triggering runbooks.
+Microsoft Azure Automation,Azure Automation hybrid worker setup,Automate the deployment of hybrid workers for running runbooks on-premises.
+Microsoft Azure Automation,Azure Automation DSC configuration,Automate the deployment of Desired State Configuration (DSC) configurations to ensure compliance.
+Microsoft Azure Automation,Azure Automation DSC node registration,Automate the registration of nodes with Azure Automation DSC.
+Microsoft Azure Automation,Azure Automation DSC report generation,Automate the generation of compliance reports for DSC configurations.
+Microsoft Azure Automation,Azure Monitor log alert creation,Automate the creation of log alerts in Azure Monitor.
+Microsoft Azure Automation,Azure Monitor metric alert creation,Automate the creation of metric alerts in Azure Monitor.
+Microsoft Azure Automation,Azure Monitor action group updates,Automate the updates to action groups in Azure Monitor.
+Microsoft Azure Automation,Azure Monitor diagnostic settings,Automate the configuration of diagnostic settings for Azure resources.
+Microsoft Azure Automation,Azure Monitor workbook updates,Automate the updates to workbooks in Azure Monitor for custom dashboards.
+Microsoft Azure Automation,Azure Logic Apps connector updates,Automate the updates to connectors in Azure Logic Apps.
+Microsoft Azure Automation,Azure Logic Apps workflow deployment,Automate the deployment of workflows in Azure Logic Apps.
+Microsoft Azure Automation,Azure Function app scaling,Automate the scaling of Azure Function apps based on usage.
+Microsoft Azure Automation,Azure Function app configuration,"Automate the configuration of Azure Function apps, including app settings."
+Microsoft Azure Automation,Azure Event Grid subscription updates,Automate the updates to Event Grid subscriptions for event-driven workflows.
+Microsoft Azure Automation,Azure Event Hub namespace creation,Automate the creation of Event Hub namespaces and event hubs.
+Microsoft Azure Automation,Azure Event Hub consumer group updates,Automate the updates to consumer groups in Azure Event Hub.
+Microsoft Azure Automation,Azure Service Bus queue management,Automate the creation and management of queues in Azure Service Bus.
+Microsoft Azure Automation,Azure Service Bus topic management,Automate the creation and management of topics in Azure Service Bus.
+Microsoft Azure Automation,Azure Service Bus subscription updates,Automate the updates to subscriptions in Azure Service Bus.
+Microsoft Azure Automation,Azure API Management instance updates,Automate the updates to Azure API Management instances.
+Microsoft Azure Automation,Azure API Management policy updates,Automate the updates to policies in Azure API Management.
+Microsoft Azure Automation,Azure API Management product updates,Automate the updates to products in Azure API Management.
+Microsoft Azure Automation,Azure CDN endpoint management,Automate the

@@ -1,0 +1,87 @@
+Category,Short Description,Description
+Microsoft Remote Desktop,Secure Remote Desktop Access,Access and control remote Windows systems securely.
+Microsoft Remote Desktop,File Transfer Between Devices,Transfer files between local and remote computers seamlessly.
+Microsoft Remote Desktop,Unattended Access Setup,Configure remote systems for 24/7 unattended access.
+Microsoft Remote Desktop,Multi-Monitor Support,Access and manage multiple monitors on remote systems simultaneously.
+Microsoft Remote Desktop,Remote System Reboot,Reboot remote machines directly through the interface.
+Microsoft Remote Desktop,Remote Printing Support,Print remote documents on local printers effortlessly.
+Microsoft Remote Desktop,Clipboard Sharing,Share clipboard content between local and remote devices.
+Microsoft Remote Desktop,Cross-Platform Access,"Access Windows systems from macOS, Android, iOS, or Linux devices."
+Microsoft Remote Desktop,Remote Task Manager Access,Manage tasks and processes on remote systems using the task manager.
+Microsoft Remote Desktop,Remote Application Launch,Open and manage applications on remote systems directly.
+Microsoft Remote Desktop,Remote Software Installation,Install or update applications on remote systems without physical access.
+Microsoft Remote Desktop,Remote System Shutdown,Shut down remote systems securely from a central location.
+Microsoft Remote Desktop,Session Recording,Record remote desktop sessions for training or auditing purposes.
+Microsoft Remote Desktop,Remote Audio Streaming,Stream audio from remote computers to local devices seamlessly.
+Microsoft Remote Desktop,Remote User Support,Provide IT support by accessing and troubleshooting user systems remotely.
+Microsoft Remote Desktop,Remote System Diagnostics,Run diagnostics on remote systems to troubleshoot performance issues.
+Microsoft Remote Desktop,Secure File Sharing,Share files securely during remote desktop sessions.
+Microsoft Remote Desktop,Remote File Synchronization,Automatically synchronize files between local and remote systems.
+Microsoft Remote Desktop,Wake-on-LAN Functionality,Wake up remote devices using Wake-on-LAN technology.
+Microsoft Remote Desktop,Remote System Lock,Lock remote systems to prevent unauthorized access during sessions.
+Microsoft Remote Desktop,Remote Network Configuration,Configure and troubleshoot network settings on remote systems.
+Microsoft Remote Desktop,Remote System Updates,Apply operating system updates to remote devices remotely.
+Microsoft Remote Desktop,Remote Application Deployment,Deploy applications to multiple remote systems simultaneously.
+Microsoft Remote Desktop,Remote Antivirus Scanning,Run antivirus scans on remote systems to detect and remove threats.
+Microsoft Remote Desktop,Remote Disk Cleanup,Free up storage by performing disk cleanup on remote systems.
+Microsoft Remote Desktop,Remote Event Log Access,Access and review system event logs on remote devices.
+Microsoft Remote Desktop,Remote Firewall Configuration,Configure and manage firewall settings on remote systems.
+Microsoft Remote Desktop,Remote Driver Updates,Update drivers on remote systems without requiring on-site access.
+Microsoft Remote Desktop,Remote RAID Configuration,Configure RAID setups on remote systems for data redundancy.
+Microsoft Remote Desktop,Remote Power Management,Manage power settings on remote systems to conserve energy.
+Microsoft Remote Desktop,Remote Patch Management,Apply critical patches and updates to remote systems to ensure security.
+Microsoft Remote Desktop,Remote Compliance Audits,Audit remote systems to ensure compliance with organizational policies.
+Microsoft Remote Desktop,Remote Multi-User Collaboration,Allow multiple users to collaborate on a single remote session.
+Microsoft Remote Desktop,Remote USB Device Redirection,Redirect USB devices from local systems to remote computers.
+Microsoft Remote Desktop,Remote BIOS Configuration,Modify BIOS settings on remote systems securely.
+Microsoft Remote Desktop,Remote Bandwidth Optimization,Optimize bandwidth usage during remote sessions to improve performance.
+Microsoft Remote Desktop,Real-Time Collaboration,Collaborate with team members by sharing remote desktops.
+Microsoft Remote Desktop,Remote File Compression,Compress files on remote systems before transferring them.
+Microsoft Remote Desktop,Remote File Decompression,Decompress archived files on remote systems for immediate use.
+Microsoft Remote Desktop,Mobile Device Remote Access,Access remote Windows systems from mobile devices.
+Microsoft Remote Desktop,Remote Smart Device Management,Manage and troubleshoot smart home or office devices remotely.
+Microsoft Remote Desktop,Remote Task Scheduling,Schedule tasks or maintenance activities on remote devices.
+Microsoft Remote Desktop,Remote Document Collaboration,Edit and collaborate on documents stored on remote systems.
+Microsoft Remote Desktop,Remote Application Testing,Test applications on remote systems for compatibility and performance.
+Microsoft Remote Desktop,Remote Infrastructure Management,"Manage IT infrastructure remotely, including servers and workstations."
+Microsoft Remote Desktop,Remote File Search,Search for specific files on remote systems during a session.
+Microsoft Remote Desktop,Remote Disk Partitioning,Create or modify disk partitions on remote systems.
+Microsoft Remote Desktop,Remote Data Backup,Perform backups of critical data on remote systems.
+Microsoft Remote Desktop,Remote System Restore,Restore remote systems from backup files after crashes or failures.
+Microsoft Remote Desktop,Remote File Encryption,Encrypt files on remote systems to secure sensitive data.
+Microsoft Remote Desktop,Remote Hardware Monitoring,Monitor hardware health metrics like temperature and fan speed.
+Microsoft Remote Desktop,Remote User Activity Monitoring,Track and log user activity during remote desktop sessions.
+Microsoft Remote Desktop,Remote Meeting Platform Support,Provide technical support for video conferencing tools like Teams or Zoom.
+Microsoft Remote Desktop,Remote Training Delivery,Conduct remote training sessions by sharing desktops with participants.
+Microsoft Remote Desktop,Remote CRM Integration,Access and update CRM data on remote systems securely.
+Microsoft Remote Desktop,Remote POS System Management,Manage and troubleshoot point-of-sale systems remotely.
+Microsoft Remote Desktop,Remote Smart Device Firmware Updates,Update firmware for smart devices without requiring physical access.
+Microsoft Remote Desktop,Remote File Sharing Permissions,Manage file sharing permissions on remote systems for security purposes.
+Microsoft Remote Desktop,Remote System Crash Recovery,Restore remote systems from crashes without physical intervention.
+Microsoft Remote Desktop,Remote System Compliance Reporting,Generate compliance reports for remote systems automatically.
+Microsoft Remote Desktop,Remote IT Policy Enforcement,Enforce IT policies on remote systems to ensure regulatory compliance.
+Microsoft Remote Desktop,Secure Remote File Deletion,Permanently delete sensitive files on remote systems securely.
+Microsoft Remote Desktop,Remote System File Archiving,Archive files on remote systems for long-term storage.
+Microsoft Remote Desktop,Remote Meeting Troubleshooting,Troubleshoot and resolve issues with remote meeting platforms.
+Microsoft Remote Desktop,Remote E-Commerce Platform Support,Provide support for backend e-commerce systems remotely.
+Microsoft Remote Desktop,Remote IT Help Desk Support,Deliver IT help desk support by accessing user systems remotely.
+Microsoft Remote Desktop,Remote Network Traffic Monitoring,Monitor network traffic on remote systems for security analysis.
+Microsoft Remote Desktop,Remote Hardware Inventory Management,Track hardware inventory on remote systems for asset management.
+Microsoft Remote Desktop,Remote BIOS Updates,Update BIOS firmware on remote systems without physical presence.
+Microsoft Remote Desktop,Remote IoT Device Troubleshooting,Manage and troubleshoot IoT devices remotely.
+Microsoft Remote Desktop,Collaborative Design Sessions,Collaborate on design projects by sharing remote desktops with teams.
+Microsoft Remote Desktop,Remote Firmware Updates,Update firmware on remote devices securely.
+Microsoft Remote Desktop,Remote CRM Data Synchronization,Sync CRM data between local and remote systems.
+Microsoft Remote Desktop,Remote File Versioning,Track and manage file versions on remote systems.
+Microsoft Remote Desktop,Remote Smart Device Troubleshooting,Diagnose and resolve issues on smart devices remotely.
+Microsoft Remote Desktop,Remote File Permissions Management,Assign or modify file permissions on remote devices.
+Microsoft Remote Desktop,Remote System Access Notifications,Notify users when their systems are accessed remotely.
+Microsoft Remote Desktop,Remote System Crash Analysis,Analyze crash reports on remote systems to identify root causes.
+Microsoft Remote Desktop,Remote Event Notifications,Configure alerts for critical events on remote devices.
+Microsoft Remote Desktop,Remote Time Zone Synchronization,Synchronize time zones between local and remote systems.
+Microsoft Remote Desktop,Remote IT Asset Tracking,Track hardware and software assets across remote systems.
+Microsoft Remote Desktop,Remote Meeting Analytics,Track usage and analytics for remote meeting sessions.
+Microsoft Remote Desktop,Remote Device Temperature Monitoring,Monitor device temperatures on remote systems for proactive maintenance.
+Microsoft Remote Desktop,Remote POS Device Firmware Updates,Update firmware for point-of-sale devices remotely.
+Microsoft Remote Desktop,Remote System Role Management,Assign user roles for secure remote system access.
+Microsoft Remote Desktop,Remote Application Performance Monitoring,Monitor application performance on remote systems in real time.

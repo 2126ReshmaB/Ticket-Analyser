@@ -1,0 +1,70 @@
+Category,Short Description,Description
+Zendesk,Auto-Assign Tickets to Agents,"Automatically assign tickets to the appropriate agent based on skills, department, or priority."
+Zendesk,Notify on SLA Breach,Send automated notifications to agents and managers when an SLA is about to breach or has breached.
+Zendesk,Auto-Close Resolved Tickets,"Automatically close tickets that have been in the ""Resolved"" status for a specified number of days."
+Zendesk,Escalate High-Priority Tickets,Automatically escalate tickets with a high priority to senior agents or managers.
+Zendesk,Auto-Tag Tickets with Keywords,Automatically add relevant tags to tickets based on keywords in the ticket subject or description.
+Zendesk,Notify Customers of Ticket Updates,Send automated email notifications to customers when their ticket status or priority changes.
+Zendesk,Reopen Tickets on Customer Response,"Automatically reopen tickets when a customer replies to a ticket that is in the ""Solved"" status."
+Zendesk,Notify Agents of New Tickets,Send immediate notifications to agents when a new ticket is assigned to them.
+Zendesk,Auto-Assign Priority to Tickets,"Assign ticket priority automatically based on the customer's profile, keywords, or other custom rules."
+Zendesk,Create Problem Records from Duplicate Tickets,Automatically create a problem record when multiple tickets with the same issue are identified.
+Zendesk,Notify on VIP Customer Tickets,Send automated notifications to agents and managers when a VIP customer submits a ticket.
+Zendesk,Auto-Create Tickets from Emails,Automatically convert customer emails sent to a support address into Zendesk tickets.
+Zendesk,Assign Tickets Based on Office Hours,Automatically assign tickets to on-call agents during non-business hours.
+Zendesk,Send Satisfaction Surveys After Resolution,Automatically send customer satisfaction surveys after a ticket is resolved.
+Zendesk,Generate Weekly Ticket Reports,"Automate the generation of weekly reports summarizing ticket activity, resolutions, and performance metrics."
+Zendesk,Auto-Assign Tickets to Groups,Automatically assign tickets to specific groups based on the ticket's category or subject.
+Zendesk,Notify on Ticket Escalation,Send automated notifications to agents and managers when a ticket is escalated.
+Zendesk,Auto-Categorize Tickets,Automatically categorize tickets based on keywords in the subject or description.
+Zendesk,Create Child Tickets for Large Requests,Automatically create child tickets for larger tasks or requests that require multiple agents.
+Zendesk,Notify on Outdated Tickets,Send reminders to agents about tickets that have been open for a long time without updates.
+Zendesk,Auto-Create Knowledge Base Articles,Automatically generate knowledge base articles from resolved tickets with detailed and reusable solutions.
+Zendesk,Notify Customers of Scheduled Downtime,Send automated email notifications to customers about upcoming scheduled downtime.
+Zendesk,Auto-Assign Tickets Based on Language,Automatically route tickets to agents or groups based on the language detected in the ticket.
+Zendesk,Notify on Tickets Without Response,Send reminders to agents about tickets that have not received an initial response within a set SLA time.
+Zendesk,Auto-Resolve Duplicate Tickets,Automatically resolve duplicate tickets by linking them to a primary ticket.
+Zendesk,Update Ticket Status Based on Conditions,"Automatically update ticket status based on predefined conditions, such as time elapsed or customer replies."
+Zendesk,Schedule Ticket Follow-Ups,"Automatically create follow-up tasks or reminders for tickets marked as ""Pending."""
+Zendesk,Monitor Agent Productivity,"Automate tracking of agent productivity metrics, such as ticket resolution time and number of tickets handled."
+Zendesk,Notify on SLA Achievement,Send automated notifications to agents when they achieve SLA targets for ticket resolution.
+Zendesk,Auto-Assign Tickets for Specific Products,Automatically assign tickets to product-specific support teams based on the ticket's details.
+Zendesk,Archive Old Tickets,Automatically archive tickets that have been closed for a specified period.
+Zendesk,Send Post-Implementation Follow-Ups,Automatically create follow-up tickets after implementing changes or resolving major incidents.
+Zendesk,Notify Agents of Ticket Feedback,Automatically send agents the feedback received from customers on resolved tickets.
+Zendesk,Auto-Assign Tickets During Holidays,Automatically assign tickets to agents working during holidays or non-business hours.
+Zendesk,Generate SLA Violation Reports,Create automated reports summarizing SLA violations and their causes.
+Zendesk,Notify on Ticket Priority Changes,Send notifications to agents and managers when a ticket's priority is updated.
+Zendesk,Auto-Assign Onboarding Tasks,Automatically create and assign onboarding tickets for new employees or customers.
+Zendesk,Generate Daily Activity Reports,Automate the creation of daily reports summarizing ticket activity and resolutions.
+Zendesk,Notify on High-Traffic Ticket Categories,Send alerts when certain ticket categories receive a high volume of requests within a short period.
+Zendesk,Auto-Notify on Customer Complaints,Automatically notify managers when a ticket is flagged as a customer complaint.
+Zendesk,Monitor Agent SLA Adherence,Automate the tracking and reporting of agent adherence to SLA policies.
+Zendesk,Send Ticket Updates to External Systems,Automatically sync ticket updates with external tools or systems like Slack or Microsoft Teams.
+Zendesk,Notify Agents of Ticket Assignments,Send real-time notifications to agents when a new ticket is assigned to them.
+Zendesk,Auto-Tag Tickets for Reporting,Automatically tag tickets with specific labels for easier reporting and analysis.
+Zendesk,Notify on Low Customer Satisfaction,Send alerts to managers when customer satisfaction scores fall below a certain threshold.
+Zendesk,Auto-Close Tickets Without Customer Response,Automatically close tickets if the customer does not respond within a set period after a resolution.
+Zendesk,Send Escalation Alerts to Management,Automatically notify management when a ticket is escalated multiple times.
+Zendesk,Auto-Create Tickets for Social Media Queries,Automatically generate tickets for customer queries posted on social media platforms like Twitter or Facebook.
+Zendesk,Notify Agents of Unread Tickets,Send reminders to agents about tickets that have not been viewed or updated.
+Zendesk,Auto-Assign Tickets Based on Time Zones,Automatically route tickets to agents based on the customer's time zone.
+Zendesk,Monitor Customer Wait Times,Automatically track customer wait times for responses and escalate if they exceed SLAs.
+Zendesk,Notify Customers of Agent Assignments,Send automated notifications to customers when an agent is assigned to their ticket.
+Zendesk,Auto-Update Ticket Fields,Automatically populate or update ticket fields based on predefined conditions or triggers.
+Zendesk,Generate Monthly Performance Dashboards,Automate the creation of performance dashboards summarizing key metrics for the month.
+Zendesk,Notify on Reopened Tickets,Send alerts to agents and managers when a ticket is reopened.
+Zendesk,Auto-Create Tickets for Call Center Logs,Automatically generate tickets from call logs recorded in integrated call center systems.
+Zendesk,Notify on SLA Timer Resets,Send notifications when SLA timers are reset due to ticket status changes.
+Zendesk,Schedule Maintenance Notifications,Automatically notify customers about upcoming product or system maintenance.
+Zendesk,Auto-Assign Tickets Based on Skills,Automatically assign tickets to agents with the appropriate skills to handle the issue.
+Zendesk,Send Weekly Customer Feedback Summaries,Automate the generation and distribution of weekly summaries of customer feedback.
+Zendesk,Auto-Tag Tickets with Product Categories,Automatically tag tickets with product categories based on the ticket's subject or description.
+Zendesk,Notify on High Ticket Volume,Send alerts to managers when ticket volume exceeds a predefined threshold.
+Zendesk,Monitor Agent Idle Time,Automatically track and report on idle time between ticket responses for agents.
+Zendesk,Schedule Recurring Tasks,Automate the creation of recurring tasks or reminders for agents or teams.
+Zendesk,Auto-Assign Tickets for Priority Customers,Automatically assign tickets from priority customers to senior agents or managers.
+Zendesk,Monitor Unassigned Tickets,Automatically track unassigned tickets and escalate if they remain unassigned for too long.
+Zendesk,Notify on Major Incident Reports,Automatically send notifications to stakeholders when a major incident report is created.
+Zendesk,Auto-Categorize Tickets by Product Line,Automatically categorize tickets based on the product line mentioned in the ticket.
+Zendesk,Escalate Tickets for Negative Feedback,Automatically escalate tickets that receive negative customer

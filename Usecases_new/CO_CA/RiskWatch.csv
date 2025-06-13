@@ -1,0 +1,78 @@
+Category,Short Description,Description
+RiskWatch,Automate risk assessment scheduling,"Automatically schedule recurring risk assessments for specific departments, teams, or processes."
+RiskWatch,Notify stakeholders of overdue assessments,Send automated reminders to stakeholders when risk assessments are overdue.
+RiskWatch,Generate real-time risk dashboards,Automatically create dashboards to display real-time risk metrics and trends.
+RiskWatch,Automate risk scoring,Automatically calculate risk scores based on predefined criteria such as likelihood and impact.
+RiskWatch,Track risk mitigation plans,Monitor and report the status of risk mitigation plans automatically.
+RiskWatch,Send alerts for high-risk findings,Notify stakeholders when high-risk findings are identified during assessments.
+RiskWatch,Automate compliance checks,Perform automated compliance checks against industry standards or regulations.
+RiskWatch,Generate risk heatmaps,Automatically create visual risk heatmaps to identify high-risk areas.
+RiskWatch,Sync risk data with external systems,Automatically sync risk-related data with external tools like BI platforms or CRMs.
+RiskWatch,Automate incident tracking,Log and track incidents automatically and link them to associated risks.
+RiskWatch,Monitor control effectiveness,Track the effectiveness of risk controls automatically and send alerts for underperforming controls.
+RiskWatch,Automate risk appetite tracking,Monitor risks against the organization’s risk appetite and send alerts for breaches.
+RiskWatch,Schedule recurring risk training,Automate the scheduling of risk awareness and mitigation training sessions for employees.
+RiskWatch,Generate risk trend analysis reports,Automatically analyze and report trends in risk levels over time.
+RiskWatch,Validate risk assessment completeness,Ensure all sections of a risk assessment are complete before submission.
+RiskWatch,Send reminders for risk mitigation deadlines,Notify responsible parties of upcoming deadlines for risk mitigation plans.
+RiskWatch,Automate risk prioritization,Automatically rank risks based on their severity and potential impact.
+RiskWatch,Monitor third-party risks,Track and report risks associated with vendors and third parties automatically.
+RiskWatch,Generate regulatory compliance reports,Automatically create reports to demonstrate compliance with relevant regulations.
+RiskWatch,Automate control testing,Schedule and track testing of risk controls automatically.
+RiskWatch,Track policy exceptions,Monitor and report on policy exceptions related to risk management.
+RiskWatch,Automate risk acceptance approvals,Route risk acceptance requests to appropriate approvers automatically.
+RiskWatch,Monitor key risk indicators (KRIs),Automatically track and report on KRIs using predefined thresholds.
+RiskWatch,Automate risk assessment reminders,Notify assessors of upcoming risk assessments automatically.
+RiskWatch,Sync with incident response tools,Automatically sync identified risks with incident response platforms for remediation.
+RiskWatch,Automate physical security risk assessments,Schedule and manage physical security risk assessments across facilities.
+RiskWatch,Generate compliance scorecards,Automatically create compliance scorecards for teams or departments based on risk assessments.
+RiskWatch,Validate risk data accuracy,Cross-check risk data entries for errors or inconsistencies automatically.
+RiskWatch,Automate cybersecurity risk tracking,"Monitor and report on cybersecurity risks automatically, including vulnerabilities and threats."
+RiskWatch,Track operational risks,Automatically monitor and log operational risks across departments.
+RiskWatch,Automate access control reviews,Schedule and track periodic access control reviews for systems and data.
+RiskWatch,Send alerts for control failures,Notify stakeholders when risk controls fail to meet their objectives.
+RiskWatch,Automate risk mitigation workflows,Create workflows to automate the approval and implementation of risk mitigation plans.
+RiskWatch,Generate audit readiness reports,Automatically compile data to prepare for internal or external audits.
+RiskWatch,Track data privacy risks,Monitor and report on risks related to data privacy and compliance with regulations like GDPR.
+RiskWatch,Automate SLA compliance tracking,Track compliance with service level agreements (SLAs) and send alerts for violations.
+RiskWatch,Monitor vendor compliance,Track vendor compliance with contractual and regulatory requirements automatically.
+RiskWatch,Generate incident root cause analysis,Automate the creation of root cause analysis reports for incidents linked to risks.
+RiskWatch,Notify teams of new risks,Automatically notify relevant teams when new risks are identified.
+RiskWatch,Automate follow-up risk assessments,Schedule and track follow-up assessments for previously identified risks.
+RiskWatch,Generate business impact analysis reports,Automatically create reports analyzing the potential impact of risks on business operations.
+RiskWatch,Monitor financial risks,"Track financial risks automatically, including budget overruns and revenue shortfalls."
+RiskWatch,Validate mitigation plan effectiveness,Monitor and report the effectiveness of implemented risk mitigation plans.
+RiskWatch,Automate risk scoring templates,Create and distribute standardized templates for risk scoring automatically.
+RiskWatch,Track compliance with industry standards,"Automatically monitor compliance with industry standards, such as ISO 27001 or NIST."
+RiskWatch,Generate risk control scorecards,Automatically create scorecards to evaluate the performance of risk controls.
+RiskWatch,Automate whistleblower case tracking,Log and track whistleblower cases related to risks automatically.
+RiskWatch,Send reminders for expiring controls,Notify control owners of expiring or outdated risk controls.
+RiskWatch,Automate risk data export,Export risk data to external tools like Excel or Power BI for further analysis automatically.
+RiskWatch,Monitor environmental risks,"Track and report on environmental risks, such as pollution or regulatory violations."
+RiskWatch,Automate risk workflow approvals,"Route risk-related workflows, such as mitigation plans or assessments, to approvers automatically."
+RiskWatch,Validate risk ownership assignments,Ensure that all identified risks are assigned to appropriate owners automatically.
+RiskWatch,Generate risk exposure reports,Automatically create reports summarizing the organization’s overall risk exposure.
+RiskWatch,Automate data retention compliance,Ensure compliance with data retention policies by monitoring and reporting automatically.
+RiskWatch,Track recurring risk events,Identify and report on risks that occur repeatedly over time.
+RiskWatch,Automate risk register updates,Automatically update the risk register with new or modified risks.
+RiskWatch,Monitor geopolitical risks,Track risks related to geopolitical issues automatically and notify stakeholders.
+RiskWatch,Sync risk reports with BI tools,Automatically sync risk reports with business intelligence tools for deeper analysis.
+RiskWatch,Automate risk training tracking,Track and report on employee participation in risk training programs automatically.
+RiskWatch,Monitor system vulnerabilities,Track and report vulnerabilities in IT systems automatically and link them to risk assessments.
+RiskWatch,Automate risk appetite thresholds,"Set and monitor risk appetite thresholds automatically, sending alerts for breaches."
+RiskWatch,Generate risk awareness campaigns,Automatically create and distribute risk awareness materials to employees.
+RiskWatch,Automate contract risk tracking,Track risks associated with contracts and notify stakeholders of potential issues automatically.
+RiskWatch,Monitor supply chain risks,"Track and report on risks in the supply chain, including delays or disruptions, automatically."
+RiskWatch,Automate KPI tracking for risk management,Monitor key performance indicators (KPIs) for risk management programs automatically.
+RiskWatch,Send reminders for expiring risk policies,Notify policy owners of expiring or outdated risk management policies automatically.
+RiskWatch,Automate risk policy alignment,Compare risk policies with regulatory frameworks to ensure consistency automatically.
+RiskWatch,Generate impact vs likelihood charts,Automatically create charts that visualize the impact and likelihood of identified risks.
+RiskWatch,Track non-compliance penalties,Monitor and report on penalties incurred due to non-compliance with risk management policies.
+RiskWatch,Automate vendor risk assessments,Schedule and track risk assessments for vendors and suppliers automatically.
+RiskWatch,Monitor project risks,Track risks associated with specific projects and notify project managers automatically.
+RiskWatch,Automate employee risk reporting,Create workflows to allow employees to report risks easily and automatically.
+RiskWatch,Track reputational risks,Monitor and report on risks to the organization’s reputation automatically.
+RiskWatch,Automate fraud risk detection,Identify and flag potential fraud risks based on predefined criteria automatically.
+RiskWatch,Send alerts for emerging risks,Notify stakeholders of new or emerging risks detected through automated monitoring.
+RiskWatch,Automate risk policy distribution,Distribute new or updated risk policies to employees automatically.
+RiskWatch,,

@@ -1,0 +1,72 @@
+Category,Short Description,Description
+Vanta,Automate SOC 2 compliance monitoring,Continuously monitor controls and processes to ensure SOC 2 compliance.
+Vanta,Automate ISO 27001 compliance tracking,Track and monitor controls required for ISO 27001 compliance automatically.
+Vanta,Automate HIPAA compliance checks,Monitor and validate compliance with HIPAA regulations automatically.
+Vanta,Automate GDPR compliance monitoring,Track compliance with GDPR by monitoring privacy controls and data protection processes.
+Vanta,Automate CCPA compliance monitoring,Ensure compliance with CCPA by continuously validating data privacy controls.
+Vanta,Automate PCI DSS compliance tracking,Monitor and validate PCI DSS controls to secure payment card data.
+Vanta,Automate risk assessments,"Automatically identify, assess, and mitigate risks to organizational security."
+Vanta,Automate employee onboarding tasks,Assign security and compliance tasks to new employees during onboarding automatically.
+Vanta,Automate employee offboarding tasks,Automatically revoke access and complete compliance tasks for offboarding employees.
+Vanta,Automate policy acknowledgment tracking,Track employee acknowledgments of security policies automatically.
+Vanta,Automate compliance evidence collection,Collect compliance evidence from integrated systems automatically for audit readiness.
+Vanta,Automate user access reviews,Perform periodic automated reviews of user access to systems and applications.
+Vanta,Automate control gap analysis,Identify gaps in security controls automatically and recommend remediation actions.
+Vanta,Automate vendor risk assessments,Evaluate and monitor vendor compliance with security and privacy standards automatically.
+Vanta,Automate compliance dashboard updates,Update compliance dashboards in real-time with the latest security data.
+Vanta,Automate compliance evidence expiration tracking,Track the expiration of compliance evidence and send reminders to update it.
+Vanta,Automate compliance task delegation,Assign compliance tasks to team members based on roles and responsibilities automatically.
+Vanta,Automate employee compliance training reminders,Send automated reminders to employees to complete required compliance training.
+Vanta,Automate multi-factor authentication (MFA) enforcement,Monitor and enforce MFA compliance across integrated systems.
+Vanta,Automate password policy enforcement,Ensure compliance with password policies by monitoring and enforcing password requirements.
+Vanta,Automate asset inventory tracking,Maintain an up-to-date inventory of organizational assets automatically.
+Vanta,Automate vulnerability scanning,Schedule and execute automated vulnerability scans for systems and applications.
+Vanta,Automate compliance training tracking,Track employee completion of compliance training modules automatically.
+Vanta,Automate control ownership tracking,Assign and track ownership of compliance controls to specific team members automatically.
+Vanta,Automate compliance readiness checks,Perform automated checks to ensure the organization is audit-ready at all times.
+Vanta,Automate employee termination access revocation,Automatically revoke terminated employees’ access to sensitive systems and applications.
+Vanta,Automate device compliance monitoring,Continuously monitor devices for compliance with security policies like encryption and antivirus installation.
+Vanta,Automate compliance calendar updates,Maintain a compliance calendar with automated updates for key deadlines and milestones.
+Vanta,Automate compliance evidence mapping,Map compliance evidence to specific controls and frameworks automatically.
+Vanta,Automate compliance evidence validation,Validate collected compliance evidence automatically to ensure it meets audit requirements.
+Vanta,Automate compliance framework mapping,Map organizational controls across multiple compliance frameworks to reduce duplication of efforts.
+Vanta,Automate SLA tracking,Ensure compliance with service-level agreements by monitoring and reporting SLA adherence.
+Vanta,Automate policy distribution,Distribute security and compliance policies to employees automatically.
+Vanta,Automate incident response tracking,Document and track incidents automatically for compliance with reporting requirements.
+Vanta,Automate compliance framework updates,Automatically update compliance frameworks when new regulations or standards are introduced.
+Vanta,Automate data protection control monitoring,Continuously monitor and validate data protection controls for sensitive information.
+Vanta,Automate compliance task reminders,Send automated reminders to team members about upcoming compliance tasks and deadlines.
+Vanta,Automate audit readiness reports,Generate real-time reports to show audit readiness status to stakeholders.
+Vanta,Automate vendor compliance monitoring,Continuously monitor the compliance status of vendors and third-party integrations.
+Vanta,Automate compliance risk scoring,Assign risk scores to compliance gaps automatically based on severity and impact.
+Vanta,Automate access control reviews,Regularly review and validate access control policies and permissions automatically.
+Vanta,Automate security incident logging,Collect and store logs of security incidents automatically for compliance purposes.
+Vanta,Automate employee compliance training reporting,Generate reports on employee compliance training completion rates automatically.
+Vanta,Automate compliance evidence sharing,Share compliance evidence securely with auditors and stakeholders automatically.
+Vanta,Automate control testing,Schedule and execute automated tests for compliance controls to ensure they are functioning as required.
+Vanta,Automate policy review reminders,Send reminders to review and update organizational policies on a regular basis.
+Vanta,Automate compliance task status tracking,Track the status of compliance tasks and workflows automatically.
+Vanta,Automate compliance progress reporting,Generate progress reports for compliance initiatives and share them with stakeholders automatically.
+Vanta,Automate compliance alerts,Send real-time alerts when compliance violations or security gaps are identified.
+Vanta,Automate security control testing schedules,Schedule regular tests of security controls to ensure they are functioning as intended.
+Vanta,Automate user access logging,Collect and store logs of user access to systems and applications automatically for compliance purposes.
+Vanta,Automate compliance evidence archiving,Archive outdated compliance evidence automatically to maintain a clean repository.
+Vanta,Automate compliance evidence tagging,Tag compliance evidence automatically based on its relevance to specific controls or frameworks.
+Vanta,Automate security key rotation tracking,Track and enforce regular security key rotations automatically.
+Vanta,Automate compliance framework comparison,Compare compliance frameworks to identify overlapping controls and requirements automatically.
+Vanta,Automate compliance evidence collection from cloud platforms,"Automatically collect compliance evidence from cloud platforms such as AWS, GCP, and Azure."
+Vanta,Automate compliance evidence collection from identity providers,Collect compliance evidence from identity providers like Okta or Azure AD automatically.
+Vanta,Automate compliance evidence collection from HR systems,"Collect compliance evidence from HR systems like BambooHR, Gusto, or Workday automatically."
+Vanta,Automate compliance evidence collection from endpoint management tools,Collect compliance evidence from tools like Jamf and Intune automatically.
+Vanta,Automate compliance evidence collection from ticketing systems,Collect evidence from ticketing systems like Jira and ServiceNow automatically for compliance validation.
+Vanta,Automate compliance evidence collection from monitoring tools,Gather compliance evidence from monitoring tools like Datadog or Splunk automatically.
+Vanta,Automate compliance evidence collection from CI/CD pipelines,"Automatically collect pipeline activity evidence from tools like GitHub Actions, Jenkins, or CircleCI."
+Vanta,Automate compliance evidence collection from collaboration tools,"Collect compliance evidence from tools like Slack, Zoom, or Microsoft Teams automatically."
+Vanta,Automate security policy enforcement,Enforce organizational security policies automatically across all integrated systems.
+Vanta,Automate vulnerability remediation tracking,Track and report the status of vulnerability remediation efforts automatically.
+Vanta,Automate compliance stakeholder updates,Send automated updates to stakeholders about the status of compliance initiatives and tasks.
+Vanta,Automate compliance evidence collection from security tools,"Collect evidence from tools like CrowdStrike, Carbon Black, or Qualys automatically."
+Vanta,Automate compliance evidence collection from version control systems,"Collect evidence from systems like GitHub, GitLab, or Bitbucket automatically."
+Vanta,Automate endpoint encryption monitoring,Continuously monitor and enforce encryption on endpoints like laptops and mobile devices.
+Vanta,Automate compliance audit trail generation,Generate detailed audit trails for all compliance-related activities automatically.
+Vanta,Automate employee compliance certification renewals,

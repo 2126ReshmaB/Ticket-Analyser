@@ -1,0 +1,75 @@
+Category,Short Description,Description
+Alloy Navigator,Ticket Creation from Email,Automate ticket creation by parsing incoming emails and converting them into incidents or service requests.
+Alloy Navigator,Automatic Ticket Assignment,Automate assignment of tickets to appropriate technicians or teams based on predefined rules like category or priority.
+Alloy Navigator,SLA Monitoring,Automate SLA tracking and send alerts or escalations when deadlines are close to being breached.
+Alloy Navigator,Priority Adjustment,Automate priority updates for tickets based on the impact and urgency outlined in the ticket details.
+Alloy Navigator,Status Change Notifications,Automate sending notifications to stakeholders when the status of a ticket changes.
+Alloy Navigator,Ticket Escalation,Automate escalation of unresolved tickets to higher-level support tiers based on time thresholds.
+Alloy Navigator,Recurring Maintenance Tasks,Automate scheduling and creation of recurring maintenance tasks for IT assets.
+Alloy Navigator,Asset Discovery,Automate the discovery of new assets on the network and update the asset database accordingly.
+Alloy Navigator,Software License Tracking,Automate tracking and reporting of software license usage to ensure compliance.
+Alloy Navigator,Asset Lifecycle Management,"Automate workflows for asset lifecycle stages such as procurement, deployment, maintenance, and decommissioning."
+Alloy Navigator,Incident Closure Verification,"Automate checks on required fields, resolution notes, and approvals before allowing tickets to be closed."
+Alloy Navigator,Knowledge Base Article Creation,Automate generating knowledge base articles from resolved tickets or recurring issues.
+Alloy Navigator,Knowledge Base Expiry Review,Automate notifications for knowledge articles that are due for review or nearing expiration.
+Alloy Navigator,Change Request Creation,Automate the creation of change requests triggered by incidents or maintenance tasks.
+Alloy Navigator,Change Approval Workflow,"Automate workflows for change requests, including approval notifications and reminders to approvers."
+Alloy Navigator,Problem Management Automation,Automate problem records creation when multiple incidents with similar root causes are identified.
+Alloy Navigator,Patch Management,"Automate patch scheduling, approval, and deployment workflows for IT systems."
+Alloy Navigator,Asset Audit Scheduling,Automate the scheduling of asset audits to ensure compliance with company policies.
+Alloy Navigator,Inventory Reconciliation,Automate the reconciliation of physical inventory with the asset database.
+Alloy Navigator,Vendor Management Updates,Automate updates to vendor contact information and contract details.
+Alloy Navigator,Contract Expiry Notifications,Automate reminders for contracts approaching their expiration date.
+Alloy Navigator,Procurement Workflow,"Automate the workflow for procurement requests, including approvals, vendor selection, and purchase orders."
+Alloy Navigator,Employee Onboarding,"Automate onboarding workflows, including creating accounts, provisioning assets, and granting system access."
+Alloy Navigator,Employee Offboarding,"Automate offboarding workflows by disabling accounts, recovering assets, and revoking system access."
+Alloy Navigator,Password Reset Automation,Automate password reset requests through self-service portals or workflows.
+Alloy Navigator,Access Request Approvals,Automate workflows for approving user access requests to systems or applications.
+Alloy Navigator,Scheduled Maintenance Notifications,Automate email alerts and reminders for upcoming scheduled maintenance.
+Alloy Navigator,Automatic Ticket Closure,Automate closing tickets after verifying task completion and customer satisfaction.
+Alloy Navigator,Event Correlation,Automate the grouping of related events into a single incident to reduce ticket volume.
+Alloy Navigator,Integration with Monitoring Tools,Automate the creation of tickets based on alerts from monitoring tools like Nagios or SolarWinds.
+Alloy Navigator,Integration with Active Directory,Automate synchronization of user accounts and groups with Active Directory.
+Alloy Navigator,Integration with Email Clients,Automate sending notifications or creating tickets based on emails received.
+Alloy Navigator,Integration with Chat Tools,Automate incident updates or notifications to chat tools like Microsoft Teams or Slack.
+Alloy Navigator,Integration with ITSM Tools,Automate synchronization of tickets and data with other ITSM tools like ServiceNow or Zendesk.
+Alloy Navigator,Backup Schedule Automation,Automate scheduling and monitoring of backups for critical systems.
+Alloy Navigator,Custom Report Generation,"Automate the creation of custom reports based on ticket data, SLAs, or asset information."
+Alloy Navigator,KPI Dashboard Updates,Automate updates to dashboards showing key performance indicators (KPIs) for IT service management.
+Alloy Navigator,Security Incident Management,Automate workflows for logging and resolving security-related incidents.
+Alloy Navigator,Vulnerability Scanning Integration,Automate the creation of remediation tasks based on results from vulnerability scans.
+Alloy Navigator,Service Catalog Maintenance,Automate updates to the service catalog with new or retired service offerings.
+Alloy Navigator,Service Request Fulfillment,Automate workflows for fulfilling routine service requests such as software installations.
+Alloy Navigator,Dynamic Approver Assignment,Automate the selection of approvers for workflows based on dynamic rules or ticket attributes.
+Alloy Navigator,SLA Breach Reporting,"Automate the generation of reports on SLA breaches, including root cause analysis."
+Alloy Navigator,Recurring Report Scheduling,Automate the scheduling and delivery of recurring reports to stakeholders.
+Alloy Navigator,User Satisfaction Surveys,Automate sending satisfaction surveys to users after ticket resolution.
+Alloy Navigator,Feedback Analysis,Automate the collection and analysis of feedback data to identify areas for improvement.
+Alloy Navigator,Auto-Resolution of Common Issues,Automate resolution of frequently encountered issues using predefined scripts or workflows.
+Alloy Navigator,License Renewal Reminders,Automate reminders for software or hardware license renewals.
+Alloy Navigator,Asset Warranty Tracking,Automate tracking of asset warranties and sending alerts before expiration.
+Alloy Navigator,CMDB Updates,Automate updates to the Configuration Management Database (CMDB) based on asset changes or discoveries.
+Alloy Navigator,CI Dependency Mapping,Automate the mapping of dependencies between configuration items (CIs) in the CMDB.
+Alloy Navigator,Incident Trend Analysis,Automate analysis of incident trends to identify recurring issues.
+Alloy Navigator,Root Cause Analysis Reporting,Automate creation of root cause analysis reports for major incidents.
+Alloy Navigator,Service Request Prioritization,Automate prioritization of service requests based on predefined business rules.
+Alloy Navigator,Multi-Language Notifications,Automate sending notifications in multiple languages based on recipient preferences.
+Alloy Navigator,Scheduled Workflow Execution,Automate execution of workflows at predefined times or intervals.
+Alloy Navigator,API Integration for Third-Party Tools,Automate integration with third-party tools via API calls for ticket creation or asset updates.
+Alloy Navigator,Event Log Analysis,Automate the collection and analysis of event logs to detect anomalies or patterns.
+Alloy Navigator,Dynamic Form Fields,Automate dynamic display of form fields based on user input or ticket attributes.
+Alloy Navigator,Ticket Duplication Detection,Automate identification and merging of duplicate tickets to reduce redundancy.
+Alloy Navigator,Training Record Management,Automate tracking of employee training records and certifications.
+Alloy Navigator,Compliance Reporting,Automate generation of compliance reports for audits and regulatory requirements.
+Alloy Navigator,Gantt Chart Updates,Automate updates to Gantt charts for project tracking and resource allocation.
+Alloy Navigator,Project Task Management,Automate task creation and updates for IT or business projects.
+Alloy Navigator,Multi-Tier Escalation Rules,Automate multi-tier escalation workflows for unresolved tickets.
+Alloy Navigator,Resource Allocation,Automate tracking and allocation of IT resources for ongoing projects or tasks.
+Alloy Navigator,Holiday Schedule Updates,Automate updates to holiday schedules to adjust SLA calculations accordingly.
+Alloy Navigator,Password Policy Enforcement,Automate enforcement and tracking of password compliance for user accounts.
+Alloy Navigator,Audit Trail Generation,Automate the creation of audit trails for all changes made within the system.
+Alloy Navigator,Incident Aging Reports,Automate generation of aging reports for unresolved incidents or service requests.
+Alloy Navigator,License Allocation Automation,Automate allocation of software licenses to users based on requests or availability.
+Alloy Navigator,Workflow Error Reporting,Automate detection and reporting of errors in workflows for troubleshooting.
+Alloy Navigator,Multi-Channel Notifications,"Automate sending alerts and updates via multiple channels, such as email, SMS, or chat."
+,,

@@ -1,0 +1,88 @@
+Category,Short Description,Description
+Splashtop,Remote Desktop Access,Securely access and control remote computers from any location.
+Splashtop,File Transfer Between Devices,Transfer files between local and remote devices seamlessly.
+Splashtop,Unattended Remote Access,Set up devices for 24/7 unattended access and management.
+Splashtop,Multi-Monitor Support,View and control multiple monitors on a remote system simultaneously.
+Splashtop,Remote Reboot Functionality,Reboot remote computers directly through Splashtop's interface.
+Splashtop,Remote Printing,Print documents from remote systems to local printers effortlessly.
+Splashtop,Cross-Platform Remote Access,"Access Windows, macOS, Linux, Android, and iOS devices remotely."
+Splashtop,Remote Task Manager Access,View and manage running processes on remote devices.
+Splashtop,Remote Audio Streaming,Stream audio from remote systems to local devices in real time.
+Splashtop,Remote Webcam Access,Access and manage webcams connected to remote systems.
+Splashtop,Two-Factor Authentication,Add an extra layer of security with two-factor authentication.
+Splashtop,Session Recording,Record remote sessions for training or compliance purposes.
+Splashtop,Remote System Shutdown,Shut down remote systems securely from a central location.
+Splashtop,Clipboard Sharing,Share clipboard content between local and remote systems.
+Splashtop,Remote Software Installation,Install or update software on remote devices without physical access.
+Splashtop,Wake-on-LAN Functionality,Wake up powered-off remote systems using Wake-on-LAN.
+Splashtop,Remote Collaboration Tools,Use screen sharing and drawing tools for remote collaboration.
+Splashtop,Remote System Monitoring,"Monitor CPU, RAM, and disk usage on remote systems."
+Splashtop,Remote File Synchronization,Synchronize files between local and remote systems automatically.
+Splashtop,Remote System Lock,Lock remote computers to prevent unauthorized access.
+Splashtop,Remote System Updates,Apply system updates to remote devices.
+Splashtop,Remote User Support,Provide IT support to users by accessing their systems remotely.
+Splashtop,Remote Application Launch,Open and manage applications on remote devices.
+Splashtop,Remote IT Asset Management,Track hardware and software inventory on remote systems.
+Splashtop,Remote Compliance Audits,Perform compliance audits on remote devices for security purposes.
+Splashtop,File Sharing During Sessions,Share files securely between devices during remote sessions.
+Splashtop,Remote Disk Cleanup,Perform disk cleanup on remote systems to free up storage.
+Splashtop,Remote Antivirus Scanning,Run antivirus scans on remote systems to detect and remove threats.
+Splashtop,Remote System Event Logs Access,Access and analyze event logs from remote devices.
+Splashtop,Remote Network Configuration,Configure network settings on remote systems for troubleshooting.
+Splashtop,Remote Firewall Configuration,Manage and adjust firewall settings on remote systems.
+Splashtop,Remote Disk Partitioning,Create or modify disk partitions on remote devices.
+Splashtop,Remote BIOS Configuration,Access and modify BIOS settings on remote computers.
+Splashtop,Remote VPN Setup,Set up and manage VPN connections on remote systems.
+Splashtop,Remote Patch Management,Apply patches to remote systems to ensure security compliance.
+Splashtop,Remote Driver Updates,Update drivers on remote systems to maintain compatibility.
+Splashtop,Secure File Transfers,Transfer files between devices with end-to-end encryption.
+Splashtop,Remote USB Device Access,Redirect USB devices to remote systems for seamless usage.
+Splashtop,Remote Peripheral Management,Manage peripherals like printers and cameras on remote systems.
+Splashtop,Remote RAID Configuration,Configure RAID setups on remote systems for data redundancy.
+Splashtop,Remote Application Deployment,Deploy applications to multiple remote devices simultaneously.
+Splashtop,Remote Power Management,Manage power settings on remote systems to optimize energy consumption.
+Splashtop,Remote System Resource Allocation,Allocate system resources like CPU and memory on remote devices.
+Splashtop,Remote Crash Recovery,Recover systems from crashes remotely without physical access.
+Splashtop,Remote Data Backup,Perform backups of critical data on remote systems.
+Splashtop,Remote System Restore,Restore remote systems from backup files for disaster recovery.
+Splashtop,Remote Compliance Reporting,Generate compliance reports for remote systems automatically.
+Splashtop,Remote Bandwidth Optimization,Optimize bandwidth usage during remote sessions for better performance.
+Splashtop,Remote File Compression,Compress files on remote systems before transferring them.
+Splashtop,Remote File Decompression,Decompress archived files on remote systems for use.
+Splashtop,Remote File Search,Quickly search for files on remote systems.
+Splashtop,Remote File Permissions Management,Assign or modify file permissions on remote devices.
+Splashtop,Remote Multi-User Collaboration,Allow multiple users to collaborate on a single remote session.
+Splashtop,Remote Screen Sharing for Training,Share screens with participants for virtual training sessions.
+Splashtop,Remote IoT Device Troubleshooting,Manage and troubleshoot IoT devices remotely.
+Splashtop,Remote Smart Device Management,Access and control smart home or office devices remotely.
+Splashtop,Remote System Encryption,Encrypt sensitive data on remote systems for secure storage.
+Splashtop,Remote Disk Imaging,Create disk images of remote systems for backup or cloning.
+Splashtop,Remote System Health Monitoring,Track system health metrics like temperature and fan speed.
+Splashtop,Remote Firmware Updates,Update firmware on remote devices without physical intervention.
+Splashtop,Secure Remote File Deletion,Delete sensitive files on remote systems securely to prevent recovery.
+Splashtop,Remote IT Policy Enforcement,Apply IT policies to remote systems to ensure compliance.
+Splashtop,Remote File Versioning,Track and manage file versions on remote systems.
+Splashtop,Remote System Performance Optimization,Optimize system performance on remote devices by adjusting resources.
+Splashtop,Remote Smart Device Firmware Updates,Update firmware for IoT and smart devices remotely.
+Splashtop,Remote Task Scheduling,Schedule tasks on remote devices for automation.
+Splashtop,Mobile Device Screen Sharing,Share mobile screens during remote support sessions.
+Splashtop,Remote POS System Management,Manage point-of-sale systems remotely for troubleshooting.
+Splashtop,Remote User Activity Monitoring,Track and monitor user activity during remote sessions.
+Splashtop,Remote Document Collaboration,Collaborate on documents stored on remote systems in real time.
+Splashtop,Remote System Crash Analysis,Analyze crash reports from remote systems to identify issues.
+Splashtop,Remote System Event Notifications,Configure alerts for specific events on remote devices.
+Splashtop,Remote E-Commerce Platform Support,Access and troubleshoot e-commerce backend systems remotely.
+Splashtop,Remote File Archiving,Archive files on remote systems for long-term storage.
+Splashtop,Remote Application Compatibility Testing,Test software compatibility on remote systems before deployment.
+Splashtop,Remote Role-Based Access Management,Assign roles and permissions for secure remote access.
+Splashtop,Remote Meeting Platform Support,Provide technical support for video conferencing tools like Zoom.
+Splashtop,Remote File Sharing During Collaboration,Share files securely during collaborative remote sessions.
+Splashtop,Remote Desktop for Designers,Enable designers to access high-performance desktops remotely.
+Splashtop,Remote CRM Integration,Access and update CRM data from remote systems.
+Splashtop,Remote Smart Device Temperature Monitoring,Monitor smart device temperatures remotely for proactive maintenance.
+Splashtop,Remote Device Geolocation Tracking,Track the physical location of remote devices for security purposes.
+Splashtop,Remote IT Help Desk Support,Provide IT help desk support by accessing user systems remotely.
+Splashtop,Remote System BIOS Updates,Update BIOS firmware on remote systems securely.
+Splashtop,Remote POS System Troubleshooting,Resolve point-of-sale system issues without needing on-site access.
+Splashtop,Remote Smart Device Firmware Updates,Update firmware for smart devices without requiring physical access.
+Splashtop,Remote IT Asset Tracking,Track hardware and software assets across remote systems.

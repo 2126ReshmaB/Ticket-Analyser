@@ -1,0 +1,52 @@
+Category,Short Description,Description
+Veeam Backup for Microsoft 365,Automated Backup Job Creation,Automate the creation of backup jobs for entire organizations or selected items using PowerShell scripts.
+Veeam Backup for Microsoft 365,Scheduled Backup Jobs,"Automate the scheduling of backup jobs to run daily, weekly, or monthly based on organizational needs."
+Veeam Backup for Microsoft 365,Backup Repository Management,Automate the addition and configuration of backup repositories for storing Microsoft 365 backups.
+Veeam Backup for Microsoft 365,Organization Onboarding,Automate the onboarding of new Microsoft 365 organizations into the Veeam Backup infrastructure.
+Veeam Backup for Microsoft 365,License Usage Reporting,Automate the generation of reports on license usage for backed-up users and organizations.
+Veeam Backup for Microsoft 365,Storage Consumption Reporting,Automate the generation of storage consumption reports for backup repositories.
+Veeam Backup for Microsoft 365,Backup Job Monitoring,Automate the monitoring of backup job statuses and send alerts for failures or warnings.
+Veeam Backup for Microsoft 365,Backup Job Retention Policy,Automate the enforcement of retention policies for backup jobs to manage storage efficiently.
+Veeam Backup for Microsoft 365,Backup Job Failure Recovery,Automate retry mechanisms for failed backup jobs to ensure data protection without manual intervention.
+Veeam Backup for Microsoft 365,Backup Verification,Automate the verification of backup integrity to ensure data can be restored successfully.
+Veeam Backup for Microsoft 365,Disaster Recovery Testing,Automate disaster recovery testing to validate that backups can be restored in case of an emergency.
+Veeam Backup for Microsoft 365,Backup for Exchange Online,"Automate the backup of Exchange Online mailboxes, including emails, calendars, and contacts."
+Veeam Backup for Microsoft 365,Backup for SharePoint Online,"Automate the backup of SharePoint Online sites, libraries, and lists."
+Veeam Backup for Microsoft 365,Backup for OneDrive for Business,Automate the backup of OneDrive for Business accounts to ensure data protection.
+Veeam Backup for Microsoft 365,Backup for Microsoft Teams,"Automate the backup of Microsoft Teams data, including chats, files, and channels."
+Veeam Backup for Microsoft 365,Backup for Specific Users,Automate the creation of backup jobs for specific users or groups within an organization.
+Veeam Backup for Microsoft 365,Backup for Specific Sites,Automate the backup of specific SharePoint Online sites or OneDrive accounts.
+Veeam Backup for Microsoft 365,Backup for SaaS Applications,Automate the backup of SaaS applications integrated with Microsoft 365.
+Veeam Backup for Microsoft 365,Backup Encryption,Automate the encryption of backups to ensure data security during storage and transfer.
+Veeam Backup for Microsoft 365,Backup Compression,Automate backup compression to reduce the size of backup files and save storage space.
+Veeam Backup for Microsoft 365,Backup Alerts and Notifications,"Automate email or SMS notifications for backup completion, failures, or errors."
+Veeam Backup for Microsoft 365,Backup Logs and Reporting,Automate the generation of detailed backup logs and reports for auditing and compliance purposes.
+Veeam Backup for Microsoft 365,Multi-Organization Backup,Automate the backup of multiple Microsoft 365 organizations from a centralized console.
+Veeam Backup for Microsoft 365,Endpoint Backup Automation,Automate the backup of endpoints such as employee laptops and mobile devices integrated with Microsoft 365.
+Veeam Backup for Microsoft 365,Backup for Remote Workers,Automate backups for remote workers by integrating with cloud storage solutions.
+Veeam Backup for Microsoft 365,Backup for Hybrid Environments,Automate the backup of hybrid environments that include both on-premises and cloud resources.
+Veeam Backup for Microsoft 365,Backup for Compliance,"Automate the backup of data to ensure compliance with industry regulations like GDPR, HIPAA, or PCI DSS."
+Veeam Backup for Microsoft 365,Backup for Archiving,Automate the archiving of old or infrequently accessed data to reduce storage costs.
+Veeam Backup for Microsoft 365,Backup for Collaboration Tools,Automate the backup of collaboration tools like Microsoft Teams to ensure data availability.
+Veeam Backup for Microsoft 365,Backup for Legal Hold,Automate the backup of data under legal hold to ensure compliance with legal requirements.
+Veeam Backup for Microsoft 365,Backup for Financial Data,Automate the backup of financial data to ensure compliance with regulatory requirements.
+Veeam Backup for Microsoft 365,Backup for Healthcare Data,Automate the backup of healthcare data to ensure compliance with HIPAA and other regulations.
+Veeam Backup for Microsoft 365,Backup for Educational Institutions,"Automate the backup of data for schools, colleges, and universities to ensure continuity of operations."
+Veeam Backup for Microsoft 365,Backup for Government Agencies,Automate the backup of sensitive government data to ensure compliance with regulations.
+Veeam Backup for Microsoft 365,Backup for Non-Profit Organizations,Automate the backup of data for non-profit organizations to ensure data protection and availability.
+Veeam Backup for Microsoft 365,Backup for Small Businesses,Automate the backup of data for small businesses to ensure business continuity.
+Veeam Backup for Microsoft 365,Backup for Large Enterprises,Automate the backup of data for large enterprises with complex IT infrastructures.
+Veeam Backup for Microsoft 365,Backup for Cloud Workloads,Automate the backup of cloud workloads running on Microsoft Azure or other cloud platforms.
+Veeam Backup for Microsoft 365,Backup for Containers,Automate the backup of containerized applications integrated with Microsoft 365.
+Veeam Backup for Microsoft 365,Backup for Edge Devices,Automate the backup of edge devices to ensure data protection at the network edge.
+Veeam Backup for Microsoft 365,Backup for Smart Devices,"Automate the backup of smart devices like smartphones, tablets, and smart TVs integrated with Microsoft 365."
+Veeam Backup for Microsoft 365,Backup for IT Service Providers,Automate the backup of client data for IT service providers to ensure data protection and availability.
+Veeam Backup for Microsoft 365,Backup for Managed Service Providers,Automate the backup of client data for managed service providers (MSPs) to ensure business continuity.
+Veeam Backup for Microsoft 365,Backup for Disaster Recovery,Automate the creation of disaster recovery plans and backups to ensure business continuity.
+Veeam Backup for Microsoft 365,Backup for Cybersecurity,Automate the integration of backup and cybersecurity solutions to protect against ransomware and other threats.
+Veeam Backup for Microsoft 365,Backup for Marketing Data,Automate the backup of marketing data to ensure data integrity and availability.
+Veeam Backup for Microsoft 365,Backup for Video Surveillance Systems,Automate the backup of video surveillance data to ensure data integrity and availability.
+Veeam Backup for Microsoft 365,Backup for AI and Machine Learning Models,Automate the backup of AI and machine learning models to ensure data integrity and availability.
+Veeam Backup for Microsoft 365,Backup for Blockchain Data,Automate the backup of blockchain data to ensure data integrity and availability.
+Veeam Backup for Microsoft 365,Backup for Cryptocurrency Wallets,Automate the backup of cryptocurrency wallets to ensure data integrity and availability.
+Veeam Backup for Microsoft 365,Backup for Social Media Data,Automate the backup of social media data to ensure data integrity and availability.

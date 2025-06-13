@@ -1,0 +1,73 @@
+Category,Short Description,Description
+Freshservice,Automate Ticket Assignment,"Automatically assign tickets to the appropriate agent or group based on predefined conditions such as priority, category, or department."
+Freshservice,Notify on SLA Breach,Send automated notifications to agents and managers when an SLA is about to breach or has breached.
+Freshservice,Auto-Close Resolved Tickets,Automatically close tickets that have been in the resolved state for a specified number of days.
+Freshservice,Escalate Overdue Tickets,Automatically escalate tickets that are overdue to higher-level agents or managers.
+Freshservice,Auto-Assign Priority to Tickets,Assign priority to tickets automatically based on keywords in the subject or description.
+Freshservice,Notify Users of Ticket Updates,Send automated notifications to users when their ticket status is updated.
+Freshservice,Create Problem Records from Repeated Tickets,Automatically create a problem record when multiple tickets with the same issue are logged.
+Freshservice,Auto-Approve Low-Risk Changes,Automatically approve change requests categorized as low risk based on predefined rules.
+Freshservice,Notify on Asset Warranty Expiry,Send automated notifications to IT teams when an asset's warranty is about to expire.
+Freshservice,Generate Weekly SLA Reports,Automate the generation and distribution of weekly SLA performance reports to stakeholders.
+Freshservice,Auto-Resolve Low-Priority Tickets,Automatically resolve low-priority tickets if no updates are recorded after a certain time period.
+Freshservice,Notify Users of Password Expiry,Send automated email notifications to users whose passwords are about to expire.
+Freshservice,Auto-Assign Change Requests,Automatically assign change requests to the appropriate change manager or group based on category or urgency.
+Freshservice,Clean Up Old Tickets,"Automatically close tickets that are in a certain state (e.g., On Hold) for an extended period."
+Freshservice,Automate Knowledge Base Article Creation,Create a knowledge base article automatically when a resolved ticket has new troubleshooting steps.
+Freshservice,Reopen Tickets on User Response,Automatically reopen tickets when users update them after resolution.
+Freshservice,Notify Users of Major Incidents,Send automated notifications to all affected users when a major incident is created.
+Freshservice,Reset User Passwords,Automate the password reset process for users via a scripted workflow.
+Freshservice,Validate Change Request Approvals,Script automated validation of approvals when changes are moved to the implementation phase.
+Freshservice,Assign Tasks Based on Manager,Automatically assign tasks to employees based on their manager’s assignments and workload.
+Freshservice,Send Daily Ticket Summary,"Generate and send automated daily summary reports of all tickets logged, resolved, or pending."
+Freshservice,Validate Asset Data,Automate data validation to ensure that asset records have accurate and complete information.
+Freshservice,Auto-Assign Tickets During Holidays,Automatically assign tickets to on-call staff during holidays or after-hours.
+Freshservice,Update Parent Ticket Status,Automatically update the status of a parent ticket when all child tickets are resolved.
+Freshservice,Monitor Disk Space and Create Alerts,Create automated alerts and tickets when server disk space usage exceeds a threshold.
+Freshservice,Automate User Role Provisioning,Automatically assign roles to users based on their department or job title.
+Freshservice,Notify on License Expiry,Send automated notifications to relevant teams when software licenses are nearing expiry.
+Freshservice,Auto-Create Tasks for New Projects,Automatically create a predefined set of tasks when a new project is created.
+Freshservice,Deactivate Inactive User Accounts,Deactivate user accounts that have been inactive for a specified period.
+Freshservice,Automate Post-Implementation Reviews,Automatically create and assign post-implementation review tasks after a change is completed.
+Freshservice,Block Unauthorized Changes,Automatically block unauthorized changes by validating the change request against predefined rules.
+Freshservice,Auto-Assign Knowledge Articles to Reviewers,Automatically assign knowledge articles to reviewers based on their expertise.
+Freshservice,Generate Monthly Compliance Reports,Automate the generation of compliance reports for audit purposes.
+Freshservice,Notify on Failed Scheduled Jobs,Send automated notifications to admins when a scheduled job fails.
+Freshservice,Auto-Tag Tickets with Keywords,Automatically tag tickets with relevant keywords for easier categorization and searchability.
+Freshservice,Send Onboarding Checklist to New Hires,Automate the sending of onboarding checklists to new hires upon their account creation.
+Freshservice,Auto-Create Tickets from Email Requests,Automatically create tickets from emails sent to a specified support address.
+Freshservice,Monitor Service Health,Automate the monitoring of service health and create tickets for any detected degradation.
+Freshservice,Standardize Ticket Titles,Automatically standardize ticket titles based on predefined templates.
+Freshservice,Schedule Maintenance Notifications,Send automated maintenance notifications to affected users before scheduled maintenance windows.
+Freshservice,Update Task Status Based on Dependencies,Automatically update the status of a task when its dependent tasks are completed.
+Freshservice,Automate License Usage Tracking,Track software license usage and create alerts when usage exceeds thresholds.
+Freshservice,Create Child Tickets for Major Incidents,Automatically create child tickets when a major incident is logged.
+Freshservice,Generate Quarterly Performance Dashboards,Automate the creation of dashboards summarizing performance metrics each quarter.
+Freshservice,Set Default Values for New Records,Automatically populate default values for specific fields when creating new records.
+Freshservice,Archive Old Records,Automate the archival of records that are no longer active but need to be retained for compliance.
+Freshservice,Auto-Notify on VIP User Issues,Send immediate notifications to support teams when a VIP user logs an issue.
+Freshservice,Monitor Integration Failures,Automatically monitor and raise alerts for failures in third-party integrations.
+Freshservice,Generate Daily Task Reminders,Send automated reminders for tasks due within the next 24 hours.
+Freshservice,Synchronize User Data with HR System,Automate user data synchronization with an external HR system.
+Freshservice,Auto-Generate Audit Logs,Automatically generate and store detailed audit logs for critical actions.
+Freshservice,Notify on Configuration Drift,Send alerts when configuration drift is detected in asset records.
+Freshservice,Automate Ticket Aging Reports,Generate automated reports on aging tickets grouped by priority and assignment group.
+Freshservice,Auto-Categorize Requests,Automatically assign categories to service requests based on keywords or descriptions.
+Freshservice,Enforce Naming Conventions,Automate the enforcement of naming conventions for asset records.
+Freshservice,Notify on Critical Hardware Failures,Send automated notifications when critical hardware failures are detected.
+Freshservice,Monitor API Usage Limits,Automatically create alerts when API usage approaches predefined thresholds.
+Freshservice,Disable Orphaned User Accounts,Automatically identify and disable user accounts not associated with any active employee.
+Freshservice,Schedule Recurring Tasks,Automate the creation of recurring tasks for regular maintenance or audits.
+Freshservice,Automate User Group Membership Updates,Automatically update user group memberships based on role or department changes.
+Freshservice,Analyze Ticket Trends,Automate trend analysis on historical ticket data and generate reports.
+Freshservice,Notify on Unauthorized Access Attempts,Send alerts when unauthorized access attempts are detected in the system.
+Freshservice,Auto-Renew Expiring Contracts,Automatically renew contracts approaching expiry based on predefined rules.
+Freshservice,Automate Software Deployment Requests,Handle software deployment requests automatically through integration with deployment tools.
+Freshservice,Generate Change Impact Analysis Reports,Automate the creation of reports assessing the impact of proposed changes.
+Freshservice,Notify Users of Scheduled Downtime,Automatically notify users of upcoming scheduled downtime for services.
+Freshservice,Generate Ticket Trend Dashboards,Automatically create dashboards summarizing ticket trends over time.
+Freshservice,Escalate VIP Tickets,Automatically escalate tickets logged by VIP users to higher priority.
+Freshservice,Track Patch Deployment Status,Automate patch deployment tracking and notify teams of completion or failure.
+Freshservice,Assign Emergency Changes to CAB,Automatically assign emergency change requests to the appropriate Change Advisory Board (CAB).
+Freshservice,Generate Asset Inventory Reports,Automate the generation of asset inventory reports for IT teams.
+Freshservice,Notify on Outdated Knowledge Articles,

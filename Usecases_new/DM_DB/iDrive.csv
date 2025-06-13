@@ -1,0 +1,68 @@
+Category,Short Description,Description
+iDrive,Scheduled Full Backups,"Automate full system backups on a daily, weekly, or monthly schedule using iDrive."
+iDrive,Incremental Backups,Automate incremental backups to save only the files that have changed since the last backup.
+iDrive,Differential Backups,Automate differential backups to capture changes since the last full backup.
+iDrive,Cloud Backup Scheduling,Automate backups to iDrive cloud storage at predefined intervals for secure offsite storage.
+iDrive,Local Backup Scheduling,Automate backups to local storage devices such as an external hard drive or USB drive.
+iDrive,Encrypted Backups,Automate the creation of encrypted backups to secure sensitive data during transfer and storage.
+iDrive,Backup Verification,Automate verification of backup integrity to ensure data consistency and reliability for recovery.
+iDrive,File Sync Across Devices,Automate the synchronization of files across multiple devices using iDrive’s sync feature.
+iDrive,File Upload Automation,Automate the upload of specific files or folders to iDrive cloud storage.
+iDrive,File Download Automation,Automate downloading of files from iDrive cloud storage to a local directory for easy access.
+iDrive,NAS Backup Automation,Automate backups of Network Attached Storage (NAS) devices directly to iDrive.
+iDrive,External Drive Backup,Automate backups of data stored on external drives or USB devices to iDrive.
+iDrive,Backup of Shared Drives,Automate backups of shared folders or drives in a network environment.
+iDrive,Virtual Machine Backups,"Automate backups of virtual machines, such as VMware or Hyper-V, to iDrive cloud storage."
+iDrive,Backup of Cloud Services,"Automate backups from other cloud services (e.g., Google Drive, Dropbox) to iDrive for redundancy."
+iDrive,Backup Retention Policy,Automate enforcement of retention policies to delete old or unnecessary backups.
+iDrive,Backup Compression,Automate compression of backup files to save storage space on iDrive cloud.
+iDrive,Backup Notifications,"Automate email or SMS notifications for backup success, failure, or errors."
+iDrive,Backup Logs,Automate generation and storage of detailed logs for backup activities.
+iDrive,Backup of Multimedia Files,"Automate backups of multimedia files, such as photos, videos, and music."
+iDrive,Backup of Documents,"Automate backups of documents, spreadsheets, and presentations to iDrive."
+iDrive,Backup of System Drives,Automate backups of entire system drives for disaster recovery purposes.
+iDrive,Backup of Email Data,Automate backups of email accounts or archives like Outlook PST files to iDrive.
+iDrive,Backup of Legal Documents,Automate backups of legal documents and contracts for secure storage and compliance.
+iDrive,Backup of Financial Data,"Automate backups of financial records, accounting data, and reports to iDrive."
+iDrive,Application Data Backup,"Automate backups of application-specific data such as settings, logs, and configurations."
+iDrive,User Profile Backup,"Automate the backup of user profiles, including Desktop, Documents, and Downloads folders."
+iDrive,CAD Files Backup,Automate backups of CAD (Computer-Aided Design) files for engineering projects.
+iDrive,Backup of Research Data,"Automate the backup of research papers, experimental data, and findings to iDrive."
+iDrive,Backup of IoT Sensor Logs,Automate the backup of logs and analytics from IoT devices to iDrive cloud storage.
+iDrive,Backup of Smart Home Data,"Automate backups of smart home configurations, logs, and device data."
+iDrive,Backup of Blockchain Data,Automate backups of blockchain ledgers and associated metadata.
+iDrive,Backup of CRM Data,Automate backups of Customer Relationship Management (CRM) system databases to iDrive.
+iDrive,Backup of ERP Data,Automate backups of Enterprise Resource Planning (ERP) system data to iDrive.
+iDrive,Backup of Marketing Campaigns,"Automate backups of marketing campaign assets, analytics, and creative files."
+iDrive,Backup of Manufacturing Data,"Automate backups of manufacturing process data, blueprints, and reports to iDrive."
+iDrive,Backup of Weather Data,"Automate backups of meteorological data, such as forecasts and historical records, to iDrive."
+iDrive,Backup of Wildlife Research Data,"Automate backups of wildlife tracking, research, and conservation data."
+iDrive,Backup of Satellite Imagery,Automate backups of satellite imagery and associated metadata to iDrive.
+iDrive,Backup of AR and VR Projects,Automate backups of Augmented Reality (AR) and Virtual Reality (VR) project files and assets.
+iDrive,Backup of 3D Printing Designs,"Automate backups of 3D printing design files (e.g., STL files) to iDrive."
+iDrive,Backup of Game Development Assets,"Automate backups of game development files, assets, and source code to iDrive."
+iDrive,Pre-Backup Disk Cleanup,Automate disk cleanup tasks before initiating a backup to ensure only relevant files are backed up.
+iDrive,Post-Backup Integrity Check,Automate integrity verification of backups after completion to ensure recoverability.
+iDrive,Scheduled Restore Testing,Automate scheduled restore tests to verify that backups can be restored successfully.
+iDrive,Backup of E-Commerce Data,"Automate backups of e-commerce platform data, including product catalogs, orders, and customer details."
+iDrive,Backup of HR Records,"Automate backups of employee records, payroll data, and HR-related files to iDrive."
+iDrive,Backup of Collaboration Tools,"Automate backups of collaboration tools like Microsoft Teams, Slack, or Trello boards."
+iDrive,Backup of Virtual Machines,"Automate backups of virtual machines, such as VMware or Hyper-V, to iDrive cloud storage."
+iDrive,Backup to Multiple Destinations,Automate backups to both iDrive cloud and local storage for redundancy.
+iDrive,Backup of Large Files,Automate the backup of large files by splitting them into smaller chunks for easier upload.
+iDrive,Backup of Archived Data,Automate backups of archived data for long-term storage in iDrive cloud.
+iDrive,Backup of Marketing Assets,"Automate backups of marketing creative files like brochures, videos, and banners to iDrive."
+iDrive,Backup of Shared Drives,Automate backups of shared network drives to iDrive for organizational data protection.
+iDrive,Backup of Multimedia Libraries,"Automate backups of photo, video, and music libraries to iDrive for secure cloud storage."
+iDrive,Restore Data from iDrive,"Automate the restoration of files, folders, or entire backups from iDrive cloud storage."
+iDrive,Clone External Drives,Automate the cloning of external drives to iDrive as part of a disaster recovery plan.
+iDrive,Backup File Versioning,Automate the retention of multiple file versions in iDrive for easy recovery of older versions.
+iDrive,File Sharing Automation,Automate the sharing of specific files or folders from iDrive with team members or external collaborators.
+iDrive,File Access Permission Management,Automate the assignment and removal of file access permissions for iDrive data.
+iDrive,Backup of Financial Reports,Automate backups of financial reports and accounting data for audits and compliance.
+iDrive,Backup of API Logs,Automate backups of API logs and system transaction records to iDrive for debugging and monitoring.
+iDrive,Disaster Recovery Automation,Automate the recovery of data from iDrive cloud storage as part of a disaster recovery plan.
+iDrive,Data Migration Between Accounts,Automate the migration of data between iDrive accounts for account consolidation or team management.
+iDrive,iDrive Cloud-to-Cloud Backup,Automate backups between iDrive accounts or from other cloud providers to iDrive for redundancy.
+iDrive,Backup of Robotics Data,"Automate backups of robotics programming, sensor logs, and operational data to iDrive."
+iDrive,Backup of Drone Footage,"Automate backups of drone footage, telemetry data, and flight logs to iDrive."

@@ -1,0 +1,60 @@
+Category,Short Description,Description
+Smartsheet License Management,Add new users to the system,Automate the process of adding new users to the Smartsheet system by integrating with HR or IT systems to fetch user details and assign licenses.
+Smartsheet License Management,Remove inactive users,Automatically identify and remove users who have been inactive for a specified period to free up licenses.
+Smartsheet License Management,Assign licenses based on roles,"Automate license assignment based on user roles, such as assigning admin licenses to managers and viewer licenses to team members."
+Smartsheet License Management,Generate license usage reports,"Create scripts to generate periodic reports on license usage, including active users, inactive users, and license allocation."
+Smartsheet License Management,Notify users about license expiration,"Automate email notifications to users whose licenses are about to expire, prompting them to renew or release the license."
+Smartsheet License Management,Track license allocation,"Maintain an automated log of license allocation, including details like user name, role, and date of assignment."
+Smartsheet License Management,Revoke licenses from terminated employees,Integrate with HR systems to automatically revoke licenses from employees who have left the organization.
+Smartsheet License Management,Monitor license utilization trends,Automate the analysis of license utilization trends over time to identify underutilized licenses.
+Smartsheet License Management,Identify duplicate licenses,Create scripts to detect and resolve duplicate license assignments to the same user.
+Smartsheet License Management,Automate license renewal approvals,Streamline the approval process for license renewals by automating requests and approvals through workflows.
+Smartsheet License Management,Notify admins of unused licenses,Send automated alerts to administrators about unused licenses that can be reassigned.
+Smartsheet License Management,Assign temporary licenses,"Automate the assignment of temporary licenses for contractors or short-term employees, with expiration dates."
+Smartsheet License Management,Validate license compliance,Automate checks to ensure that the organization complies with Smartsheet license agreements and policies.
+Smartsheet License Management,Sync license data with external systems,Integrate Smartsheet license data with external systems like ERP or IT asset management tools for centralized tracking.
+Smartsheet License Management,Automate license cost tracking,"Create scripts to track and report on license costs, including per-user and department-level breakdowns."
+Smartsheet License Management,Notify users of license assignment,"Send automated notifications to users when they are assigned a new license, including details about their permissions."
+Smartsheet License Management,Automate license type upgrades,Automatically upgrade user licenses based on their changing roles or responsibilities.
+Smartsheet License Management,Reassign licenses from inactive users,Identify inactive users and reassign their licenses to active users who need them.
+Smartsheet License Management,Automate license request approvals,Streamline the process of approving license requests by automating workflows for managers and admins.
+Smartsheet License Management,Track license expiration dates,Maintain an automated log of license expiration dates and send reminders to admins and users.
+Smartsheet License Management,Generate user activity reports,Automate the generation of reports on user activity to identify how licenses are being utilized.
+Smartsheet License Management,Automate license deactivation for non-compliance,Automatically deactivate licenses for users who fail to comply with organizational policies.
+Smartsheet License Management,Notify admins of license shortages,Send automated alerts to administrators when the number of available licenses falls below a specified threshold.
+Smartsheet License Management,Automate license reassignment approvals,Create workflows to automate the approval process for reassigning licenses between users.
+Smartsheet License Management,Track license usage by department,Generate automated reports on license usage by department to identify trends and optimize allocation.
+Smartsheet License Management,Automate license audits,Schedule and automate periodic license audits to ensure compliance and optimize usage.
+Smartsheet License Management,Notify users of license revocation,"Send automated notifications to users when their licenses are revoked, including the reason for revocation."
+Smartsheet License Management,Automate license allocation for new projects,Automatically allocate licenses to team members when new projects are created in Smartsheet.
+Smartsheet License Management,Monitor license usage by role,Track and report on license usage by role to identify underutilized licenses.
+Smartsheet License Management,Automate license transfer approvals,Streamline the process of transferring licenses between users by automating approval workflows.
+Smartsheet License Management,Notify admins of license overuse,Send automated alerts to administrators when the number of active users exceeds the available licenses.
+Smartsheet License Management,Automate license allocation for new hires,Integrate with HR systems to automatically assign licenses to new hires based on their roles.
+Smartsheet License Management,Track license usage by location,Generate automated reports on license usage by geographic location to identify trends and optimize allocation.
+Smartsheet License Management,Automate license allocation for contractors,Automatically assign temporary licenses to contractors based on project requirements.
+Smartsheet License Management,Notify users of license upgrades,"Send automated notifications to users when their licenses are upgraded, including details about the new permissions."
+Smartsheet License Management,Automate license allocation for team changes,Automatically reassign licenses when team members change roles or move to different teams.
+Smartsheet License Management,Track license usage by project,Generate automated reports on license usage by project to identify trends and optimize allocation.
+Smartsheet License Management,Automate license allocation for external collaborators,Automatically assign licenses to external collaborators based on project requirements.
+Smartsheet License Management,Notify admins of license underutilization,Send automated alerts to administrators about underutilized licenses that can be reassigned.
+Smartsheet License Management,Automate license allocation for seasonal employees,Automatically assign temporary licenses to seasonal employees based on their roles and responsibilities.
+Smartsheet License Management,Track license usage by time period,Generate automated reports on license usage over specific time periods to identify trends and optimize allocation.
+Smartsheet License Management,Automate license allocation for interns,Automatically assign temporary licenses to interns based on their roles and responsibilities.
+Smartsheet License Management,Notify users of license expiration reminders,"Send automated reminders to users about upcoming license expirations, prompting them to renew or release the license."
+Smartsheet License Management,Automate license allocation for temporary projects,"Automatically assign licenses to team members working on temporary projects, with expiration dates."
+Smartsheet License Management,Track license usage by user type,Generate automated reports on license usage by user type to identify trends and optimize allocation.
+Smartsheet License Management,Automate license allocation for remote employees,Automatically assign licenses to remote employees based on their roles and responsibilities.
+Smartsheet License Management,Notify admins of license allocation changes,"Send automated alerts to administrators about changes in license allocation, including new assignments and revocations."
+Smartsheet License Management,Automate license allocation for new departments,Automatically assign licenses to team members in newly created departments based on their roles.
+Smartsheet License Management,Track license usage by team,Generate automated reports on license usage by team to identify trends and optimize allocation.
+Smartsheet License Management,Automate license allocation for new regions,Automatically assign licenses to team members in newly created regions based on their roles.
+Smartsheet License Management,Notify users of license allocation changes,"Send automated notifications to users about changes in their license allocation, including new assignments and revocations."
+Smartsheet License Management,Automate license allocation for new offices,Automatically assign licenses to team members in newly created offices based on their roles.
+Smartsheet License Management,Track license usage by organization,Generate automated reports on license usage across the entire organization to identify trends and optimize allocation.
+Smartsheet License Management,Automate license allocation for new subsidiaries,Automatically assign licenses to team members in newly created subsidiaries based on their roles.
+Smartsheet License Management,Notify admins of license allocation errors,"Send automated alerts to administrators about errors in license allocation, such as duplicate assignments or invalid users."
+Smartsheet License Management,Automate license allocation for new business units,Automatically assign licenses to team members in newly created business units based on their roles.
+Smartsheet License Management,Track license usage by license type,Generate automated reports on license usage by license type to identify trends and optimize allocation.
+Smartsheet License Management,Automate license allocation for new divisions,Automatically assign licenses to team members in newly created divisions based on their roles.
+Smarts,,

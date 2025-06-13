@@ -1,0 +1,71 @@
+Category,Short Description,Description
+Airtable,Auto-update records,"Automatically update records in Airtable when certain conditions are met, such as changes in linked tables or fields."
+Airtable,Notify on record creation,Send notifications when a new record is added to an Airtable base or table.
+Airtable,Auto-create task lists,Automatically generate task lists based on project templates or custom workflows.
+Airtable,Sync with Google Sheets,Automatically sync Airtable data with Google Sheets for reporting and analysis.
+Airtable,Auto-send email notifications,"Send email notifications to team members or stakeholders when specific events occur, such as record updates or form submissions."
+Airtable,Auto-create project timelines,"Automatically create project timelines using start dates, end dates, and dependencies in Airtable."
+Airtable,Notify on overdue tasks,Send automated reminders for overdue tasks or records based on due dates.
+Airtable,Generate reports,Automatically generate weekly or monthly reports using Airtable data and email them to stakeholders.
+Airtable,Auto-create subtasks,Automatically create subtasks in a linked table when a new parent task is added.
+Airtable,Sync with Slack,"Send notifications to Slack channels when records are created, updated, or deleted in Airtable."
+Airtable,Auto-create recurring tasks,"Automatically generate recurring tasks for regular activities like meetings, audits, or reports."
+Airtable,Notify on project milestones,Send alerts to team members when project milestones are achieved or updated.
+Airtable,Auto-link related records,"Automatically link related records across tables based on predefined criteria, such as matching fields."
+Airtable,Notify on record updates,Send email or Slack notifications when specific fields in a record are updated.
+Airtable,Auto-create invoices,Automatically generate invoices based on data entered into an Airtable base.
+Airtable,Sync with Trello,"Automatically sync Airtable tables with Trello boards, creating cards for tasks or records."
+Airtable,Notify on form submissions,Send notifications to team members or admins when a form submission is received in Airtable.
+Airtable,Auto-assign tasks,"Automatically assign tasks to team members based on their roles, workload, or expertise."
+Airtable,Sync with Google Calendar,"Automatically sync Airtable records with Google Calendar, creating events for due dates or meetings."
+Airtable,Notify on high-priority tasks,Send alerts for high-priority tasks when they are created or updated in Airtable.
+Airtable,Auto-prioritize tasks,"Automatically set task priorities based on deadlines, dependencies, or other custom rules."
+Airtable,Auto-create meeting agendas,Generate meeting agendas in Airtable automatically based on linked tasks or projects.
+Airtable,Sync with Dropbox,Automatically upload files attached to Airtable records to Dropbox for better file management.
+Airtable,Auto-create reports for stakeholders,Automatically generate reports and email them to stakeholders when specific conditions are met.
+Airtable,Notify on duplicate records,Send alerts when duplicate records are detected in an Airtable table.
+Airtable,Auto-create content calendars,"Automatically generate content calendars for blogs, social media, and email campaigns."
+Airtable,Sync with Asana,Automatically sync data between Airtable and Asana for cross-platform collaboration.
+Airtable,Auto-create Gantt charts,Automatically create Gantt charts for project timelines using Airtable records.
+Airtable,Notify on SLA breaches,Send alerts to stakeholders when SLA deadlines are breached for specific tasks or records.
+Airtable,Auto-create notifications for approvals,"Automatically notify approvers when records require approval, such as budget requests or project plans."
+Airtable,Sync with Power BI,Export Airtable data to Power BI for advanced reporting and visualization.
+Airtable,Auto-create workflows,"Automatically trigger workflows in Airtable when a record is added or updated, such as notifying team members or creating related records."
+Airtable,Auto-update inventory levels,Automatically update inventory records when new stock is added or sold.
+Airtable,Auto-generate shipping labels,Automatically create shipping labels using customer and order details from Airtable.
+Airtable,Sync with Salesforce,Automatically sync Airtable data with Salesforce for better CRM and sales tracking.
+Airtable,Notify on changes to custom fields,Send alerts when custom fields in Airtable records are updated or modified.
+Airtable,Auto-create marketing campaign tasks,Automatically generate tasks for marketing campaigns based on Airtable templates.
+Airtable,Notify on project delays,Send alerts when project deadlines are missed or milestones are delayed.
+Airtable,Auto-create onboarding workflows,"Automatically generate onboarding workflows for new employees, clients, or vendors."
+Airtable,Sync with Zendesk,Automatically create Airtable records for support tickets submitted in Zendesk.
+Airtable,Auto-create expense reports,Automatically generate expense reports based on receipts or transactions entered in Airtable.
+Airtable,Notify on changes to linked records,Send notifications when linked records in Airtable are updated or deleted.
+Airtable,Auto-create project templates,Automatically generate reusable project templates for common workflows in Airtable.
+Airtable,Auto-create training schedules,Automatically generate training schedules for employees based on their roles or departments.
+Airtable,Auto-create bug tracking workflows,Automatically generate workflows for tracking and resolving bugs reported in Airtable.
+Airtable,Sync with Microsoft Teams,"Notify Microsoft Teams channels when Airtable records are created, updated, or deleted."
+Airtable,Auto-create client profiles,Automatically generate detailed client profiles based on form submissions or CRM data.
+Airtable,Notify on payment failures,"Send alerts when payment transactions fail or are declined, using data in Airtable."
+Airtable,Auto-create subscription billing records,Automatically generate and update subscription billing records for recurring payments.
+Airtable,Sync with Zoho CRM,"Automatically sync leads, contacts, and deals between Airtable and Zoho CRM."
+Airtable,Auto-create compliance workflows,Automatically trigger workflows to ensure compliance with regulatory requirements.
+Airtable,Notify on overdue invoices,Send reminders for overdue invoices using data stored in Airtable.
+Airtable,Auto-create HR workflows,"Automatically generate HR workflows for tasks like leave requests, payroll management, and employee reviews."
+Airtable,Notify on duplicate tasks,Send alerts when duplicate tasks or records are detected in Airtable.
+Airtable,Sync with QuickBooks,Automatically sync Airtable records with QuickBooks for accounting and financial tracking.
+Airtable,Auto-create social media posts,"Automatically generate records for social media posts, including captions, images, and hashtags."
+Airtable,Notify on data discrepancies,Send alerts when data discrepancies are detected between linked Airtable records or tables.
+Airtable,Auto-create recurring invoices,Automatically generate recurring invoices based on existing customer data.
+Airtable,Auto-generate performance reports,Automatically create performance reports for employees or teams using Airtable data.
+Airtable,Notify on new form submissions,Send notifications to admins or stakeholders when a new form submission is received.
+Airtable,Sync with HubSpot,Automatically sync marketing and sales data between Airtable and HubSpot.
+Airtable,Auto-create contracts,Automatically generate contracts using Airtable data and templates.
+Airtable,Auto-create timesheets,Automatically generate timesheets for employees using their logged hours in Airtable.
+Airtable,Notify on changes to linked fields,Send alerts when linked fields in Airtable are updated or modified.
+Airtable,Auto-create delivery schedules,Automatically generate delivery schedules using customer and order data.
+Airtable,Sync with Tableau,Export Airtable data to Tableau for advanced visualization and analytics.
+Airtable,Auto-create event planning workflows,"Automatically generate workflows for event planning, including logistics and scheduling."
+Airtable,Notify on task dependencies,Send alerts when task dependencies are resolved or blocked in Airtable.
+Airtable,Auto-create customer feedback forms,Automatically generate feedback forms and send them to customers after service completion.
+Airtable,Notify on SLA breaches,Send alerts

@@ -1,0 +1,73 @@
+Category,Short Description,Description
+Foreman,Server provisioning,Automate the provisioning of physical and virtual servers using Foreman’s orchestration features.
+Foreman,Bare-metal provisioning,Set up bare-metal servers with automated installation of operating systems and configurations.
+Foreman,VM provisioning,"Automate the creation and configuration of virtual machines on hypervisors like VMware, KVM, or Hyper-V."
+Foreman,Cloud instance provisioning,"Automate cloud instance creation on platforms like AWS, Azure, and GCP."
+Foreman,Configuration management integration,"Integrate Foreman with tools like Puppet, Ansible, or Chef to manage server configurations."
+Foreman,Operating system deployment,"Automate OS deployments with pre-configured templates for Linux distributions like CentOS, Ubuntu, and Red Hat."
+Foreman,Network boot setup,Configure PXE boot environments to deploy operating systems over the network.
+Foreman,Disk partitioning automation,Automate disk partitioning during server provisioning using Foreman templates.
+Foreman,Hostgroup management,Use hostgroups to group servers with similar configurations for easier management.
+Foreman,Puppet environment synchronization,Sync Puppet environments and modules with Foreman to maintain consistent infrastructure configurations.
+Foreman,Role-based access control,Automate user permissions and access control using Foreman’s role-based access control (RBAC) features.
+Foreman,Domain and subnet management,Automate the creation and assignment of domains and subnets for seamless network configuration.
+Foreman,IP address assignment,Automate IP address allocation and management using Foreman’s integrated DHCP capabilities.
+Foreman,DNS record creation,Automatically create DNS records for newly provisioned hosts using Foreman.
+Foreman,DHCP server integration,Integrate Foreman with external or internal DHCP servers to manage IP leases for hosts.
+Foreman,Multi-environment management,"Manage multiple environments (e.g., dev, staging, production) and their associated configurations through Foreman."
+Foreman,Software package deployment,Automate the installation and management of software packages across hosts.
+Foreman,Security patching,Automate the deployment of security patches to keep systems updated and secure.
+Foreman,Host monitoring,Monitor host health and performance metrics using Foreman’s built-in monitoring tools or plugins.
+Foreman,Reporting and auditing,Generate detailed reports and audit logs for all infrastructure changes managed through Foreman.
+Foreman,Host inventory tracking,Maintain an inventory of all managed hosts with detailed hardware and software information.
+Foreman,Automatic provisioning templates,Use and customize provisioning templates for automated server builds.
+Foreman,Lifecycle management,"Manage the entire lifecycle of hosts, from provisioning to decommissioning."
+Foreman,Puppet class assignment,Assign Puppet classes to hosts or hostgroups for configuration management.
+Foreman,Ansible playbook execution,Automate the execution of Ansible playbooks directly from Foreman.
+Foreman,Content view management,Automate the creation and management of content views for delivering specific software versions to hosts.
+Foreman,Multi-organization support,Manage infrastructure for multiple organizations or departments using Foreman’s organizational features.
+Foreman,Subscription management,Automate subscription management for Red Hat or other licensed software using Foreman’s subscription manager.
+Foreman,Puppet facts reporting,Collect and report Puppet facts from managed hosts for detailed infrastructure insights.
+Foreman,Host parameter management,Define and manage host parameters for dynamic configurations during provisioning.
+Foreman,Configuration drift detection,Detect and report configuration drift by comparing current states with desired configurations.
+Foreman,Log aggregation setup,Automate the setup of centralized logging tools like ELK or Splunk using Foreman.
+Foreman,Remote execution,Execute ad-hoc commands or scripts on remote servers using Foreman’s remote execution plugin.
+Foreman,Compliance enforcement,Enforce compliance requirements by automating policy checks and remediation.
+Foreman,Kernel parameter configuration,Automate the configuration of kernel parameters during provisioning.
+Foreman,Multi-cloud integration,"Use Foreman to manage hybrid or multi-cloud environments across AWS, Azure, and GCP."
+Foreman,Certificate management,"Automate SSL/TLS certificate creation, deployment, and renewal for hosts."
+Foreman,Backup automation,Automate backup processes for critical servers and applications using Foreman.
+Foreman,Centralized user authentication,Integrate Foreman with LDAP or Active Directory for centralized user authentication.
+Foreman,Host decommissioning,"Automate the decommissioning of hosts, including resource cleanup and de-registration."
+Foreman,Host re-provisioning,Re-provision existing hosts with updated configurations or operating systems.
+Foreman,Host status notifications,"Send automated alerts for host status changes, such as failures or configuration drift."
+Foreman,Package version control,Manage and enforce specific software package versions on hosts.
+Foreman,Orchestration with external tools,Integrate Foreman with orchestration tools like Terraform or Jenkins for end-to-end automation.
+Foreman,Time-based job scheduling,Automate recurring tasks like updates or backups using Foreman’s job scheduling features.
+Foreman,Network interface configuration,Automate the setup and configuration of network interfaces on hosts.
+Foreman,Storage provisioning,Automate the provisioning and management of storage volumes for hosts.
+Foreman,Virtualization host management,Manage hypervisors like KVM or VMware and their associated VMs using Foreman.
+Foreman,Deployment pipeline integration,Integrate Foreman with deployment pipelines to automate infrastructure provisioning and software delivery.
+Foreman,Hostgroup parameter inheritance,Define parameters in hostgroups and inherit them for hosts to simplify configurations.
+Foreman,Role-based host access,Automate access control for different hosts based on user roles or groups.
+Foreman,PXE boot configuration,Automatically configure PXE boot environments for bare-metal provisioning.
+Foreman,Host failover setup,Automate failover configurations for critical hosts to improve high availability.
+Foreman,Data encryption setup,Ensure data security by automating the setup of encryption for data at rest and in transit.
+Foreman,Snapshot management,Automate the creation and management of VM snapshots for backups and rollbacks.
+Foreman,Host tagging,Use tags to categorize and organize hosts for easier management and reporting.
+Foreman,Configuration templates,Create and manage reusable templates for consistent host configurations.
+Foreman,Software dependency resolution,Automatically resolve and install required software dependencies during provisioning.
+Foreman,Host capacity planning,Monitor and plan resource utilization to prevent capacity shortages using Foreman reports.
+Foreman,IP conflict detection,Detect and prevent IP address conflicts during provisioning.
+Foreman,Network topology visualization,Generate network topology diagrams for managed hosts and networks.
+Foreman,Resource usage reporting,Generate reports for resource usage across the infrastructure using Foreman’s reporting tools.
+Foreman,Compliance reporting,Generate compliance reports to ensure hosts meet organizational policies and standards.
+Foreman,High availability host configuration,Automate the configuration of high availability systems for critical infrastructure.
+Foreman,Multi-tenancy support,Manage multiple tenants or environments with isolated configurations using Foreman.
+Foreman,Cloud-init integration,Use Foreman with cloud-init to automate instance initialization and configuration.
+Foreman,Service monitoring setup,Automate the deployment of monitoring agents like Nagios or Zabbix across hosts.
+Foreman,Host lifecycle tracking,"Track the complete lifecycle of hosts, from provisioning to retirement."
+Foreman,Compliance policy enforcement,Automate the enforcement of compliance policies using Foreman’s configuration management tools.
+Foreman,Multi-region infrastructure management,Manage infrastructure across multiple geographical regions from a single Foreman instance.
+Foreman,Host provisioning analytics,Analyze provisioning metrics to improve efficiency and reduce deployment times.
+Foreman,Logging policy enforcement,Enforce logging policies for all hosts by managing log configurations

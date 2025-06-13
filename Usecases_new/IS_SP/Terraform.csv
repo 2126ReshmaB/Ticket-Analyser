@@ -1,0 +1,75 @@
+Category,Short Description,Description
+Terraform,Multi-cloud deployment,"Automate the provisioning of resources across multiple cloud providers like AWS, Azure, and GCP using a single Terraform configuration."
+Terraform,Infrastructure versioning,"Use Terraform to track and version infrastructure changes, enabling rollbacks and auditing of infrastructure modifications."
+Terraform,Automated scaling,Configure auto-scaling groups for cloud resources to handle varying workloads automatically.
+Terraform,Policy compliance enforcement,Implement policies using tools like Sentinel to ensure infrastructure adheres to organizational compliance standards.
+Terraform,Self-service infrastructure,Enable teams to provision their own infrastructure using pre-approved Terraform modules.
+Terraform,Kubernetes cluster provisioning,Automate the creation and management of Kubernetes clusters on cloud platforms.
+Terraform,Network infrastructure automation,"Define and deploy complex network configurations, such as VPCs, subnets, and routing tables, using Terraform."
+Terraform,Disaster recovery setup,"Automate the creation of disaster recovery environments, ensuring quick failover in case of outages."
+Terraform,CI/CD pipeline integration,Integrate Terraform with CI/CD pipelines to automate infrastructure deployment alongside application code.
+Terraform,Cloud resource tagging,Enforce consistent tagging of cloud resources for better cost management and organization.
+Terraform,Hybrid cloud infrastructure,Manage resources across on-premises and cloud environments using Terraform.
+Terraform,Serverless application deployment,"Automate the deployment of serverless applications, such as AWS Lambda functions, using Terraform."
+Terraform,Database provisioning,"Automate the creation and configuration of databases like MySQL, PostgreSQL, or DynamoDB."
+Terraform,Load balancer setup,Configure and deploy load balancers to distribute traffic across multiple servers.
+Terraform,DNS management,Automate DNS record creation and management for domains using providers like Route 53 or Cloudflare.
+Terraform,IAM policy management,"Define and manage IAM roles, policies, and permissions for secure access control."
+Terraform,Monitoring and alerting setup,Automate the configuration of monitoring tools like CloudWatch or Prometheus to track resource performance.
+Terraform,Secret management integration,Integrate Terraform with secret management tools like HashiCorp Vault to securely manage sensitive data.
+Terraform,Resource dependency management,Use Terraform's dependency graph to ensure resources are created in the correct order.
+Terraform,Immutable infrastructure,Implement immutable infrastructure patterns by replacing resources instead of modifying them.
+Terraform,Cost estimation,Use Terraform's cost estimation tools to predict infrastructure expenses before deployment.
+Terraform,Blue-green deployment,Automate blue-green deployments to minimize downtime during application updates.
+Terraform,Infrastructure testing,Use tools like Terratest to validate Terraform configurations and ensure they work as expected.
+Terraform,Resource drift detection,Detect and correct configuration drift between Terraform state and actual infrastructure.
+Terraform,Cross-account resource management,Manage resources across multiple cloud accounts using Terraform.
+Terraform,Edge computing infrastructure,Automate the deployment of edge computing resources for low-latency applications.
+Terraform,Data lake setup,Automate the creation of data lakes using cloud storage services like S3 or Azure Blob Storage.
+Terraform,Firewall rule automation,Define and deploy firewall rules to secure network traffic.
+Terraform,Application load testing environments,Create temporary environments for load testing applications.
+Terraform,Multi-region deployment,Deploy resources across multiple regions for high availability and disaster recovery.
+Terraform,Static website hosting,Automate the setup of static website hosting on platforms like AWS S3 or Azure Blob Storage.
+Terraform,API gateway configuration,Automate the setup of API gateways for managing and securing APIs.
+Terraform,Backup automation,Automate the creation of backups for critical resources like databases and file systems.
+Terraform,Container orchestration,Automate the deployment of container orchestration platforms like Docker Swarm or Kubernetes.
+Terraform,Resource lifecycle management,"Use Terraform to manage the lifecycle of resources, including creation, updates, and deletion."
+Terraform,Cloud storage provisioning,Automate the creation and management of cloud storage buckets and policies.
+Terraform,Identity federation setup,Automate the configuration of identity federation between cloud providers and on-premises systems.
+Terraform,Service mesh deployment,Automate the deployment of service mesh solutions like Istio or Linkerd.
+Terraform,High-performance computing clusters,Automate the provisioning of HPC clusters for scientific or data-intensive workloads.
+Terraform,Logging infrastructure setup,Automate the configuration of logging tools like ELK Stack or CloudWatch Logs.
+Terraform,Resource tagging compliance,Enforce tagging policies to ensure all resources are properly tagged for cost and usage tracking.
+Terraform,Cloud migration,Automate the migration of workloads from on-premises to the cloud.
+Terraform,Resource cleanup automation,Automate the cleanup of unused or orphaned resources to reduce costs.
+Terraform,Stateful application deployment,Automate the deployment of stateful applications with persistent storage.
+Terraform,Certificate management,Automate the provisioning and renewal of SSL/TLS certificates.
+Terraform,Edge CDN configuration,Automate the setup of content delivery networks (CDNs) for faster content delivery.
+Terraform,Resource quota enforcement,Enforce resource quotas to prevent over-provisioning and manage costs.
+Terraform,Cloud-native CI/CD tools setup,Automate the deployment of cloud-native CI/CD tools like Jenkins or GitLab CI.
+Terraform,Resource monitoring dashboards,Automate the creation of monitoring dashboards for visualizing resource performance.
+Terraform,Multi-cloud failover setup,Automate failover configurations across multiple cloud providers for high availability.
+Terraform,Resource encryption,Automate the configuration of encryption for data at rest and in transit.
+Terraform,Resource scaling policies,Define and automate scaling policies for cloud resources based on usage metrics.
+Terraform,Cloud-native data pipelines,Automate the deployment of data pipelines using cloud-native tools like AWS Glue or Azure Data Factory.
+Terraform,Resource state locking,Use Terraform's state locking feature to prevent concurrent modifications to infrastructure.
+Terraform,Resource import automation,Automate the import of existing resources into Terraform state for better management.
+Terraform,Cloud-native AI/ML infrastructure,"Automate the provisioning of AI/ML infrastructure, such as GPU instances or AI platforms."
+Terraform,Resource snapshot automation,Automate the creation of resource snapshots for backup and recovery purposes.
+Terraform,Resource dependency visualization,Use Terraform's graphing tools to visualize resource dependencies for better understanding.
+Terraform,Resource lifecycle hooks,Automate pre- and post-deployment actions using Terraform lifecycle hooks.
+Terraform,Resource cost optimization,Automate the identification and optimization of underutilized resources to reduce costs.
+Terraform,Resource state migration,Automate the migration of Terraform state files to remote backends like S3 or Azure Blob Storage.
+Terraform,Resource provisioning templates,Create reusable Terraform modules for consistent resource provisioning.
+Terraform,Resource access auditing,Automate the auditing of resource access logs for security and compliance.
+Terraform,Resource scaling testing,Automate the testing of resource scaling configurations to ensure they work as expected.
+Terraform,Resource lifecycle policies,Define and enforce lifecycle policies for resources to manage their retention and deletion.
+Terraform,Resource tagging automation,Automate the tagging of resources based on predefined policies.
+Terraform,Resource state validation,Automate the validation of Terraform state files to ensure consistency with actual infrastructure.
+Terraform,Resource provisioning rollback,Automate the rollback of failed resource provisioning attempts to maintain stability.
+Terraform,Resource provisioning analytics,Automate the collection and analysis of resource provisioning metrics for optimization.
+Terraform,Resource provisioning notifications,Automate notifications for resource provisioning events using tools like Slack or email.
+Terraform,Resource provisioning approval workflows,Automate approval workflows for resource provisioning to ensure compliance with organizational policies.
+Terraform,Resource provisioning retries,Automate retries for failed resource provisioning attempts to ensure successful deployment.
+Terraform,Resource provisioning error handling,Automate error handling for resource provisioning to provide detailed error messages and logs.
+Terraform,Resource provisioning rollback testing,Automate the testing of

@@ -1,0 +1,53 @@
+Category,Short Description,Description
+Aruba ClearPass,Automate device profiling,"Automatically profile devices connecting to the network to classify them based on type, OS, and other attributes."
+Aruba ClearPass,Automate guest user onboarding,Automate the creation of guest user accounts and assign appropriate access policies.
+Aruba ClearPass,Automate policy updates,Automate the deployment of updated security policies across the network.
+Aruba ClearPass,Automate certificate renewal,Automate the renewal and deployment of digital certificates for secure communication.
+Aruba ClearPass,Automate endpoint compliance checks,Automate compliance checks for endpoints to ensure they meet security requirements before granting access.
+Aruba ClearPass,Automate VLAN assignment,Automatically assign VLANs to devices based on their profiles or user roles.
+Aruba ClearPass,Automate network access revocation,Automate the process of revoking network access for users or devices violating security policies.
+Aruba ClearPass,Automate backup and restore,Schedule and automate regular backups of ClearPass configurations and restore them when needed.
+Aruba ClearPass,Automate license monitoring,Automate the monitoring and renewal of ClearPass licenses to ensure uninterrupted service.
+Aruba ClearPass,Automate posture assessment,Automate the posture assessment process to check if endpoints comply with security policies.
+Aruba ClearPass,Automate endpoint quarantine,Automatically quarantine non-compliant or suspicious devices detected on the network.
+Aruba ClearPass,Automate integration with Active Directory,Automate the integration of ClearPass with Active Directory for user authentication and policy enforcement.
+Aruba ClearPass,Automate network device onboarding,"Automate the onboarding process for new network devices, including configuration and policy assignment."
+Aruba ClearPass,Automate reporting,"Generate and schedule automated reports on network access, compliance, and security incidents."
+Aruba ClearPass,Automate guest portal customization,Automate the customization of guest portals to match organizational branding.
+Aruba ClearPass,Automate device certificate provisioning,Automatically provision device certificates for secure communication.
+Aruba ClearPass,Automate endpoint remediation,"Automate remediation actions for non-compliant endpoints, such as installing updates or applying patches."
+Aruba ClearPass,Automate network segmentation,Automate the creation and enforcement of network segmentation policies to isolate devices and users.
+Aruba ClearPass,Automate API integration,Automate the integration of ClearPass with third-party tools and platforms using APIs.
+Aruba ClearPass,Automate user role assignment,"Automatically assign roles to users based on their department, job function, or other criteria."
+Aruba ClearPass,Automate device de-registration,Automate the removal of devices from the ClearPass database when they are no longer in use.
+Aruba ClearPass,Automate guest user expiration,Automatically expire guest user accounts after a predefined period.
+Aruba ClearPass,Automate network access testing,Automate testing of network access policies to ensure they are functioning as expected.
+Aruba ClearPass,Automate rogue device detection,Automate the detection and alerting of rogue devices attempting to connect to the network.
+Aruba ClearPass,Automate endpoint inventory,Generate automated inventory reports of all endpoints connected to the network.
+Aruba ClearPass,Automate policy rollback,Automate the rollback of policies to a previous state in case of misconfiguration.
+Aruba ClearPass,Automate multi-factor authentication,Automate the enforcement of multi-factor authentication for sensitive network access.
+Aruba ClearPass,Automate network access for IoT devices,Automatically configure and enforce network access policies for IoT devices.
+Aruba ClearPass,Automate user activity monitoring,Automate the monitoring and logging of user activity on the network for security audits.
+Aruba ClearPass,Automate endpoint patch management,Automate the deployment of patches to endpoints to ensure they are up-to-date.
+Aruba ClearPass,Automate integration with SIEM tools,Automate the integration of ClearPass with Security Information and Event Management (SIEM) tools for enhanced threat detection.
+Aruba ClearPass,Automate BYOD onboarding,"Automate the onboarding process for Bring Your Own Device (BYOD) users, including policy assignment and compliance checks."
+Aruba ClearPass,Automate network access for contractors,Automatically configure and enforce network access policies for contractors.
+Aruba ClearPass,Automate endpoint isolation,Automatically isolate endpoints that exhibit suspicious behavior or violate policies.
+Aruba ClearPass,Automate integration with cloud services,Automate the integration of ClearPass with cloud services for centralized policy management.
+Aruba ClearPass,Automate guest Wi-Fi access,Automate the provisioning of guest Wi-Fi access credentials.
+Aruba ClearPass,Automate compliance reporting,Generate automated compliance reports for regulatory audits.
+Aruba ClearPass,Automate network access for remote workers,Automatically configure and enforce network access policies for remote workers.
+Aruba ClearPass,Automate endpoint decommissioning,Automate the decommissioning of endpoints that are no longer in use.
+Aruba ClearPass,Automate captive portal management,Automate the management of captive portals for guest and BYOD users.
+Aruba ClearPass,Automate health checks,Automate health checks for devices to ensure compliance with security standards.
+Aruba ClearPass,Automate integration with firewalls,Automate the integration of ClearPass with firewalls for dynamic policy enforcement.
+Aruba ClearPass,Automate user authentication logs,Automate the collection and analysis of user authentication logs for security monitoring.
+Aruba ClearPass,Automate device onboarding for IoT,"Automate the onboarding process for IoT devices, including profiling and policy assignment."
+Aruba ClearPass,Automate policy conflict resolution,Automate the detection and resolution of policy conflicts in ClearPass configurations.
+Aruba ClearPass,Automate integration with intrusion detection,Automate the integration of ClearPass with intrusion detection systems for real-time threat response.
+Aruba ClearPass,Automate guest user notifications,Automate the sending of notifications to guest users about their account status or expiration.
+Aruba ClearPass,Automate network access for shared devices,Automatically configure and enforce network access policies for shared devices like printers and scanners.
+Aruba ClearPass,Automate integration with endpoint protection,Automate the integration of ClearPass with endpoint protection tools for enhanced security.
+Aruba ClearPass,Automate user self-service portal,Automate the management of user self-service portals for password resets and device registration.
+Aruba ClearPass,Automate device health monitoring,Automate the monitoring of device health to ensure compliance with security policies.
+Aruba ClearPass,Automate integration with VPN services,Automate the integration of ClearPass with VPN services for secure remote access.

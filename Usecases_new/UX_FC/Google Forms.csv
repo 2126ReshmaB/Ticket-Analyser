@@ -1,0 +1,67 @@
+Category,Short Description,Description
+Google Forms,Auto-generate forms from spreadsheet data,Automatically create Google Forms by pulling questions and options from a Google Sheet using Apps Script.
+Google Forms,Pre-fill form responses,Use scripts to generate pre-filled form URLs with specific answers for personalized surveys or feedback collection.
+Google Forms,Auto-close form after a specific date,Set a script to automatically close the form after a specific date or time to prevent further submissions.
+Google Forms,Limit submissions per user,"Use Apps Script to track user submissions and limit the number of responses per user (e.g., one submission per email)."
+Google Forms,Send email notifications on submission,Automate email notifications to form owners or specific recipients whenever a new response is submitted.
+Google Forms,Validate email addresses,Add a script to ensure that only properly formatted email addresses are accepted in the form.
+Google Forms,Auto-generate unique response IDs,Automatically assign unique IDs to each form submission for tracking purposes.
+Google Forms,Export responses to a custom format,"Use scripts to export form responses into custom formats like PDF, CSV, or JSON."
+Google Forms,Auto-update form questions,Automatically update form questions based on changes in a linked Google Sheet.
+Google Forms,Conditional form branching,Use Apps Script to dynamically show or hide questions based on previous answers.
+Google Forms,Auto-translate form questions,Translate form questions into multiple languages using Google Translate API and Apps Script.
+Google Forms,Generate summary charts from responses,"Automatically create summary charts (e.g., pie charts, bar graphs) from form responses in Google Sheets."
+Google Forms,Auto-send thank-you emails,Send personalized thank-you emails to respondents after they submit the form.
+Google Forms,Schedule form availability,"Use scripts to make the form available only during specific time periods (e.g., 9 AM to 5 PM)."
+Google Forms,Auto-delete duplicate responses,Automatically detect and delete duplicate responses based on specific fields like email or name.
+Google Forms,Integrate with Google Calendar,"Automatically create Google Calendar events based on form responses (e.g., scheduling appointments)."
+Google Forms,Auto-grade quizzes,Use Apps Script to grade quiz responses automatically and send scores to respondents.
+Google Forms,Generate certificates for respondents,Automatically generate and email certificates of completion to respondents after they submit the form.
+Google Forms,Track incomplete submissions,Use scripts to track partially completed forms and send reminders to users to finish them.
+Google Forms,Auto-assign tasks in Google Tasks,"Create tasks in Google Tasks based on form responses (e.g., assigning tasks to team members)."
+Google Forms,Integrate with Slack,Send form submission notifications to a Slack channel using Apps Script and Slack API.
+Google Forms,Auto-create Google Docs from responses,"Generate Google Docs based on form responses, such as meeting agendas or reports."
+Google Forms,Validate phone numbers,Add a script to ensure that only properly formatted phone numbers are accepted in the form.
+Google Forms,Auto-archive old responses,Automatically move older responses to a separate Google Sheet for better organization.
+Google Forms,Generate QR codes for form links,Use Apps Script to generate QR codes for form links and share them with users.
+Google Forms,Auto-create Google Drive folders,Automatically create Google Drive folders for each form submission and organize uploaded files.
+Google Forms,Integrate with Google Maps,Use form responses to generate Google Maps links or embed maps based on location data.
+Google Forms,Auto-send reminders for incomplete tasks,Send reminders to respondents who have not completed their assigned tasks based on form responses.
+Google Forms,Track attendance,Use Google Forms to track attendance and generate attendance reports automatically.
+Google Forms,Auto-create invoices,Generate invoices in Google Sheets or Docs based on form responses.
+Google Forms,Integrate with Trello,Automatically create Trello cards based on form submissions for project management.
+Google Forms,Auto-assign unique passwords,Generate and email unique passwords to respondents after form submission.
+Google Forms,Auto-create surveys for feedback,Use Apps Script to generate feedback surveys dynamically based on user input.
+Google Forms,Auto-assign roles in a team,Assign team roles or responsibilities based on form responses.
+Google Forms,Auto-create event registration forms,Generate event registration forms dynamically based on event details in a Google Sheet.
+Google Forms,Auto-send meeting invites,Send Google Calendar meeting invites to respondents based on their form responses.
+Google Forms,Auto-generate progress reports,Create progress reports in Google Sheets or Docs based on form responses.
+Google Forms,Auto-create surveys for customer feedback,Generate customer feedback surveys dynamically based on product or service details.
+Google Forms,Auto-create polls for decision-making,Use Apps Script to generate polls for team decision-making based on input from a Google Sheet.
+Google Forms,Auto-create quizzes for training,Generate training quizzes dynamically based on training material in a Google Sheet.
+Google Forms,Auto-create surveys for employee feedback,Generate employee feedback surveys dynamically based on HR data in a Google Sheet.
+Google Forms,Auto-create forms for project management,Generate project management forms dynamically based on project details in a Google Sheet.
+Google Forms,Auto-create forms for event planning,Generate event planning forms dynamically based on event details in a Google Sheet.
+Google Forms,Auto-create forms for customer support,Generate customer support forms dynamically based on support ticket details in a Google Sheet.
+Google Forms,Auto-create forms for product feedback,Generate product feedback forms dynamically based on product details in a Google Sheet.
+Google Forms,Auto-create forms for service feedback,Generate service feedback forms dynamically based on service details in a Google Sheet.
+Google Forms,Auto-create forms for training feedback,Generate training feedback forms dynamically based on training details in a Google Sheet.
+Google Forms,Auto-create forms for performance reviews,Generate performance review forms dynamically based on employee details in a Google Sheet.
+Google Forms,Auto-create forms for goal setting,Generate goal-setting forms dynamically based on goal details in a Google Sheet.
+Google Forms,Auto-create forms for team building,Generate team-building forms dynamically based on team details in a Google Sheet.
+Google Forms,Auto-create forms for brainstorming,Generate brainstorming forms dynamically based on brainstorming session details in a Google Sheet.
+Google Forms,Auto-create forms for idea generation,Generate idea generation forms dynamically based on idea details in a Google Sheet.
+Google Forms,Auto-create forms for decision-making,Generate decision-making forms dynamically based on decision details in a Google Sheet.
+Google Forms,Auto-create forms for problem-solving,Generate problem-solving forms dynamically based on problem details in a Google Sheet.
+Google Forms,Auto-create forms for conflict resolution,Generate conflict resolution forms dynamically based on conflict details in a Google Sheet.
+Google Forms,Auto-create forms for risk assessment,Generate risk assessment forms dynamically based on risk details in a Google Sheet.
+Google Forms,Auto-create forms for contingency planning,Generate contingency planning forms dynamically based on contingency details in a Google Sheet.
+Google Forms,Auto-create forms for crisis management,Generate crisis management forms dynamically based on crisis details in a Google Sheet.
+Google Forms,Auto-create forms for disaster recovery,Generate disaster recovery forms dynamically based on disaster details in a Google Sheet.
+Google Forms,Auto-create forms for emergency response,Generate emergency response forms dynamically based on emergency details in a Google Sheet.
+Google Forms,Auto-create forms for business continuity,Generate business continuity forms dynamically based on business continuity details in a Google Sheet.
+Google Forms,Auto-create forms for succession planning,Generate succession planning forms dynamically based on succession details in a Google Sheet.
+Google Forms,Auto-create forms for strategic planning,Generate strategic planning forms dynamically based on strategic details in a Google Sheet.
+Google Forms,Auto-create forms for operational planning,Generate operational planning forms dynamically based on operational details in a Google Sheet.
+Google Forms,Auto-create forms for tactical planning,Generate tactical planning forms dynamically based on tactical details in a Google Sheet.
+Google Forms,Auto-create forms for financial planning,Generate financial planning forms dynamically based on financial details in a Google Sheet.

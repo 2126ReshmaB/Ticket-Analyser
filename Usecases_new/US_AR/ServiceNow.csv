@@ -1,0 +1,56 @@
+Category,Short Description,Description
+ServiceNow,Automate Incident Creation,Automatically create incidents based on incoming emails or monitoring alerts using inbound email actions or integration with monitoring tools.
+ServiceNow,Automate Incident Assignment,Automatically assign incidents to the appropriate group or individual based on predefined rules or conditions.
+ServiceNow,Automate Change Request Approvals,Automate the approval process for change requests by routing them to the appropriate approvers based on workflows.
+ServiceNow,Automate User Provisioning,Automatically create user accounts and assign roles in ServiceNow or integrated systems during onboarding.
+ServiceNow,Automate User Deprovisioning,Automatically deactivate user accounts and revoke access during offboarding processes.
+ServiceNow,Automate Knowledge Article Expiry,Automatically notify authors or archive knowledge articles that are nearing their expiration date.
+ServiceNow,Automate SLA Breach Notifications,Send automated notifications to stakeholders when an SLA is about to breach or has been breached.
+ServiceNow,Automate Asset Discovery,Use ServiceNow Discovery to automatically identify and populate the CMDB with IT assets.
+ServiceNow,Automate CMDB Updates,Automatically update CMDB records based on changes detected in the environment using Discovery or Integration Hub.
+ServiceNow,Automate Problem Management,Automatically create problem records from recurring incidents to identify root causes.
+ServiceNow,Automate Task Escalation,"Escalate tasks automatically based on priority, SLA, or inactivity."
+ServiceNow,Automate Service Catalog Approvals,Route service catalog requests for approval automatically based on predefined workflows.
+ServiceNow,Automate Software License Compliance,Automatically track and notify about software license compliance using IT Asset Management.
+ServiceNow,Automate Patch Management,Automate patch deployment and tracking using ServiceNow ITOM and integration with patch management tools.
+ServiceNow,Automate Incident Resolution,Use AI and machine learning to suggest resolutions for incidents automatically.
+ServiceNow,Automate Email Notifications,"Send automated email notifications for task updates, approvals, or escalations."
+ServiceNow,Automate Report Generation,"Automatically generate and distribute reports on incidents, changes, or other metrics at scheduled intervals."
+ServiceNow,Automate Workflow Error Handling,Automatically log and notify administrators of errors in workflows for quick resolution.
+ServiceNow,Automate Password Resets,Enable users to reset their passwords automatically through self-service portals.
+ServiceNow,Automate Data Import,Automatically import data from external systems into ServiceNow using scheduled imports or Integration Hub.
+ServiceNow,Automate Data Cleanup,Automatically identify and remove duplicate or outdated records in the CMDB or other tables.
+ServiceNow,Automate Event Correlation,Use ITOM Event Management to automatically correlate events and reduce noise.
+ServiceNow,Automate Virtual Agent Responses,Configure Virtual Agent to provide automated responses to common user queries.
+ServiceNow,Automate SLA Tracking,Automatically track and update SLA progress based on task status and conditions.
+ServiceNow,Automate Knowledge Base Updates,Notify authors to review and update knowledge articles periodically.
+ServiceNow,Automate Integration with Monitoring Tools,Automatically create incidents or alerts in ServiceNow based on events from monitoring tools like SolarWinds or Nagios.
+ServiceNow,Automate Change Calendar Updates,Automatically update the change calendar with approved changes.
+ServiceNow,Automate Service Mapping,Automatically map services to their underlying infrastructure using ITOM Service Mapping.
+ServiceNow,Automate Contract Renewals,Notify stakeholders automatically about upcoming contract renewals.
+ServiceNow,Automate Vendor Performance Tracking,Automatically track and report vendor performance using Vendor Management.
+ServiceNow,Automate Incident Categorization,Use machine learning to automatically categorize incidents based on historical data.
+ServiceNow,Automate Knowledge Article Suggestions,Suggest relevant knowledge articles to users based on their queries or incidents.
+ServiceNow,Automate Risk Assessments,Automatically assess risks for changes or projects using GRC workflows.
+ServiceNow,Automate Compliance Audits,Schedule and automate compliance audits using GRC modules.
+ServiceNow,Automate Employee Onboarding Tasks,Automatically create and assign onboarding tasks for new employees.
+ServiceNow,Automate Employee Offboarding Tasks,Automatically create and assign offboarding tasks for departing employees.
+ServiceNow,Automate Performance Analytics Dashboards,Automatically update and refresh Performance Analytics dashboards with the latest data.
+ServiceNow,Automate Incident Closure Notifications,Notify users automatically when their incidents are resolved or closed.
+ServiceNow,Automate Field Service Task Assignments,Automatically assign field service tasks to technicians based on location and availability.
+ServiceNow,Automate Approval Reminders,Send automated reminders to approvers for pending approvals.
+ServiceNow,Automate Knowledge Article Feedback,Collect and analyze feedback on knowledge articles automatically.
+ServiceNow,Automate CMDB Health Checks,Schedule and automate health checks for the CMDB to ensure data accuracy.
+ServiceNow,Automate Incident Priority Updates,Automatically update incident priority based on impact and urgency.
+ServiceNow,Automate Change Risk Calculations,Automatically calculate risk scores for changes based on predefined criteria.
+ServiceNow,Automate Service Catalog Item Updates,Automatically update service catalog items based on changes in underlying services.
+ServiceNow,Automate Asset Lifecycle Management,Track and automate the lifecycle of IT assets from procurement to retirement.
+ServiceNow,Automate Incident Resolution Time Tracking,Automatically track and report the time taken to resolve incidents.
+ServiceNow,Automate Knowledge Article Translation,Automatically translate knowledge articles into multiple languages using integration with translation tools.
+ServiceNow,Automate Task Dependency Management,Automatically update task dependencies based on changes in related tasks.
+ServiceNow,Automate SLA Breach Root Cause Analysis,Automatically analyze and report the root causes of SLA breaches.
+ServiceNow,Automate Service Desk Call Logging,Automatically log service desk calls as incidents or requests in ServiceNow.
+ServiceNow,Automate Incident Trend Analysis,Use Performance Analytics to automatically analyze and report on incident trends.
+ServiceNow,Automate Change Implementation Tracking,Automatically track the progress of change implementations and notify stakeholders.
+ServiceNow,Automate User Role Audits,Schedule and automate audits of user roles and permissions.
+ServiceNow,Automate Incident Reassignment,Automatically reassign incidents to different groups or individuals based on workload or expertise.

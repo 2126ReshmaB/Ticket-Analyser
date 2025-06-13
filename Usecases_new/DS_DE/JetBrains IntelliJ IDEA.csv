@@ -1,0 +1,87 @@
+Category,Short Description,Description
+JetBrains IntelliJ IDEA,Auto Project Setup,Automate the creation of new projects with predefined templates and settings.
+JetBrains IntelliJ IDEA,Build Configuration Automation,"Automate configuring multiple build profiles like Debug, Release, and Test."
+JetBrains IntelliJ IDEA,Code Style Enforcement,Automate the application of a predefined code style across the project.
+JetBrains IntelliJ IDEA,Dependency Management,"Automate addition, removal, and updates of dependencies in Maven/Gradle projects."
+JetBrains IntelliJ IDEA,Source Control Integration,"Automate Git operations like commit, pull, push, and branch switching."
+JetBrains IntelliJ IDEA,Unit Test Stub Generation,Automate the creation of unit test stubs for classes and methods.
+JetBrains IntelliJ IDEA,Continuous Compilation,Automate incremental compilation of code upon file changes.
+JetBrains IntelliJ IDEA,Code Cleanup,"Automate removal of unused imports, redundant code, and applying consistent formatting."
+JetBrains IntelliJ IDEA,Export Project Artifacts,"Automate exporting projects as JAR, WAR, or ZIP files."
+JetBrains IntelliJ IDEA,Automated Refactoring,"Automate common refactoring tasks like renaming methods, variables, or classes."
+JetBrains IntelliJ IDEA,Debug Configuration Setup,Automate the setup of debug configurations for new or existing projects.
+JetBrains IntelliJ IDEA,Log Analysis,Automate analysis of application logs to identify errors and warnings.
+JetBrains IntelliJ IDEA,JavaDoc Generation,Automate generating JavaDocs for public and protected classes and methods.
+JetBrains IntelliJ IDEA,Test Execution,Automate running unit tests and generating detailed test reports.
+JetBrains IntelliJ IDEA,Workspace Backup,Automate regular backups of IntelliJ IDEA projects and settings.
+JetBrains IntelliJ IDEA,Plugin Management,"Automate downloading, installing, and updating IntelliJ IDEA plugins."
+JetBrains IntelliJ IDEA,Code Coverage Reporting,Automate generation of code coverage reports after running tests.
+JetBrains IntelliJ IDEA,Snippet Management,Automate management and sharing of reusable code snippets.
+JetBrains IntelliJ IDEA,Code Formatting,Automate formatting of code files based on preconfigured styles.
+JetBrains IntelliJ IDEA,Build Notifications,Automate notifications for build status (success or failure).
+JetBrains IntelliJ IDEA,Automated Project Import,"Automate importing projects (e.g., from Git repositories) into the workspace."
+JetBrains IntelliJ IDEA,Java SDK Setup,Automate configuring Java SDK versions across projects.
+JetBrains IntelliJ IDEA,Resource Cleanup,Automate detection and removal of unused files and resources.
+JetBrains IntelliJ IDEA,IDE Version Upgrade,Automate updating IntelliJ IDEA to the latest release.
+JetBrains IntelliJ IDEA,Library Updating,Automate updating external libraries for compatibility with the latest SDKs.
+JetBrains IntelliJ IDEA,Archive Old Projects,Automate archiving of older or unused projects.
+JetBrains IntelliJ IDEA,Dependency Version Updates,Automate checking for and updating outdated dependencies in Maven or Gradle.
+JetBrains IntelliJ IDEA,Workspace Synchronization,Automate syncing workspace settings across different machines or team members.
+JetBrains IntelliJ IDEA,Build Script Automation,Automate creation of Maven or Gradle build scripts.
+JetBrains IntelliJ IDEA,Log File Cleanup,Automate deletion of old or unused application log files.
+JetBrains IntelliJ IDEA,Database Connections Setup,Automate configuring database connections in IntelliJ IDEA.
+JetBrains IntelliJ IDEA,Code Snippet Auto-Insertion,Automate the insertion of predefined code snippets into files.
+JetBrains IntelliJ IDEA,Test Data Generation,Automate generation of test data for unit and integration tests.
+JetBrains IntelliJ IDEA,Compiler Configuration,"Automate configuring compiler preferences for Java, Kotlin, or other supported languages."
+JetBrains IntelliJ IDEA,Documentation Export,Automate exporting project documentation in formats like HTML or PDF.
+JetBrains IntelliJ IDEA,Static Code Analysis,Automate running static code analysis tools to identify issues.
+JetBrains IntelliJ IDEA,Artifact Cleanup,Automate cleanup of old build artifacts like JARs or WARs.
+JetBrains IntelliJ IDEA,Multi-Module Builds,Automate building multi-module projects with dependencies.
+JetBrains IntelliJ IDEA,Integration with Testing Frameworks,"Automate configuring JUnit, TestNG, or other test frameworks."
+JetBrains IntelliJ IDEA,Merge Conflict Resolution,Automate resolving simple merge conflicts in Git repositories.
+JetBrains IntelliJ IDEA,Dependency Analysis,Automate analysis of project dependencies to detect potential issues.
+JetBrains IntelliJ IDEA,Team Settings Sync,Automate sharing and syncing IntelliJ settings across team members.
+JetBrains IntelliJ IDEA,Performance Profiling,Automate profiling applications to identify performance bottlenecks.
+JetBrains IntelliJ IDEA,Code Review Preparation,Automate preparing code for review by ensuring style and standard compliance.
+JetBrains IntelliJ IDEA,Maven Build Automation,Automate triggering Maven builds and generating reports.
+JetBrains IntelliJ IDEA,Gradle Build Automation,Automate running Gradle tasks and creating build artifacts.
+JetBrains IntelliJ IDEA,Error Marker Cleanup,Automate clearing resolved error markers in the IDE.
+JetBrains IntelliJ IDEA,Annotation Validation,Automate validation of annotations like @Deprecated or @Override.
+JetBrains IntelliJ IDEA,XML Schema Validation,Automate validating XML files against schemas.
+JetBrains IntelliJ IDEA,Memory Leak Detection,Automate identifying and reporting memory leaks in applications.
+JetBrains IntelliJ IDEA,Code History Reports,Automate generating reports from version control history.
+JetBrains IntelliJ IDEA,Hotfix Deployment,Automate deploying hotfixes directly from IntelliJ IDEA.
+JetBrains IntelliJ IDEA,Test Coverage Metrics,Automate generating and enforcing test coverage thresholds.
+JetBrains IntelliJ IDEA,Test Suite Setup,Automate creating test suites for regression and integration testing.
+JetBrains IntelliJ IDEA,Java Build Paths,Automate configuring Java build paths for projects.
+JetBrains IntelliJ IDEA,Automated Code Refactoring Rules,Automate applying predefined refactoring rules across projects.
+JetBrains IntelliJ IDEA,CI/CD Pipeline Integration,Automate creating CI/CD scripts directly from IntelliJ IDEA.
+JetBrains IntelliJ IDEA,Code Metrics Reporting,Automate generating metrics like cyclomatic complexity and maintainability.
+JetBrains IntelliJ IDEA,Dead Code Identification,Automate identifying and removing dead or unused code.
+JetBrains IntelliJ IDEA,Metadata Cleanup,Automate cleaning up unnecessary project metadata files.
+JetBrains IntelliJ IDEA,Plugin Dependency Resolution,Automate resolving dependency conflicts in IntelliJ plugins.
+JetBrains IntelliJ IDEA,Debugging Scripts,Automate generating scripts for debugging recurring issues.
+JetBrains IntelliJ IDEA,Workspace Migration,Automate migrating workspaces to new machines or environments.
+JetBrains IntelliJ IDEA,Build Time Analysis,Automate tracking and optimizing project build times.
+JetBrains IntelliJ IDEA,Custom Code Completion,Automate customizing IntelliJ code completion suggestions.
+JetBrains IntelliJ IDEA,Resource Bundle Management,Automate updating resource bundles for internationalization.
+JetBrains IntelliJ IDEA,Continuous Deployment Integration,Automate deploying applications from IntelliJ to remote servers.
+JetBrains IntelliJ IDEA,Automated Code Comparison,Automate comparing code between two versions of a file.
+JetBrains IntelliJ IDEA,Java Version Upgrade,Automate upgrading Java versions for existing projects.
+JetBrains IntelliJ IDEA,Getter/Setter Generation,Automate generating getters and setters for class attributes.
+JetBrains IntelliJ IDEA,File Encoding Fixes,Automate fixing encoding issues for cross-platform compatibility.
+JetBrains IntelliJ IDEA,Performance Test Reports,Automate generating performance test reports after execution.
+JetBrains IntelliJ IDEA,Spring Boot Project Configuration,Automate configuring Spring Boot projects with required dependencies.
+JetBrains IntelliJ IDEA,JavaFX Project Setup,Automate setting up JavaFX projects with necessary libraries.
+JetBrains IntelliJ IDEA,Bug Report Automation,Automate generating detailed bug reports for issues.
+JetBrains IntelliJ IDEA,Integration with Docker,Automate running and managing Docker containers from IntelliJ.
+JetBrains IntelliJ IDEA,Kubernetes Integration,Automate deploying applications to Kubernetes clusters.
+JetBrains IntelliJ IDEA,Multi-Language Support,Automate setting up projects with multiple programming languages.
+JetBrains IntelliJ IDEA,Annotation Processing,Automate processing of custom annotations during compilation.
+JetBrains IntelliJ IDEA,Code Quality Gates,Automate enforcing quality gates before merging or deploying code.
+JetBrains IntelliJ IDEA,Custom Keyboard Shortcuts,Automate configuring custom keyboard shortcuts for IntelliJ.
+JetBrains IntelliJ IDEA,Automated Code Imports,Automate importing code from other IDEs into IntelliJ.
+JetBrains IntelliJ IDEA,Hotkey Mapping Export,Automate exporting and importing IntelliJ hotkey mappings.
+JetBrains IntelliJ IDEA,Build Artifact Publishing,Automate publishing build artifacts to repositories like Nexus.
+JetBrains IntelliJ IDEA,Code Execution Logs,Automate capturing and storing code execution logs.
+JetBrains IntelliJ IDEA,UML Diagram Generation,Automate generating UML

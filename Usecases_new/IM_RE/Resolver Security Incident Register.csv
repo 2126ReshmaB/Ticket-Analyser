@@ -1,0 +1,60 @@
+Category,Short Description,Description
+Resolver Security Incident Register,Auto-assign incidents to teams,"Automatically assign incidents to the appropriate team based on the type, severity, or location of the incident."
+Resolver Security Incident Register,Notify on new incident creation,Send notifications to relevant stakeholders when a new incident is logged in the system.
+Resolver Security Incident Register,Auto-prioritize incidents,"Automatically assign priority levels to incidents based on predefined criteria such as severity, impact, or urgency."
+Resolver Security Incident Register,Auto-create incident playbooks,Automatically generate incident response playbooks based on the type of incident reported.
+Resolver Security Incident Register,Notify on overdue incidents,Send reminders to incident owners when incidents are overdue or nearing their resolution deadlines.
+Resolver Security Incident Register,Auto-link related incidents,"Automatically link related incidents based on shared attributes such as location, type, or involved assets."
+Resolver Security Incident Register,Auto-generate incident reports,"Automatically generate detailed incident reports for stakeholders, including timelines, actions taken, and resolution status."
+Resolver Security Incident Register,Sync with SIEM systems,Automatically sync incident data with Security Information and Event Management (SIEM) systems for centralized monitoring.
+Resolver Security Incident Register,Notify on critical incidents,Send immediate alerts to senior management or security teams when critical incidents are logged.
+Resolver Security Incident Register,Auto-close resolved incidents,"Automatically close incidents that meet predefined resolution criteria, such as all tasks being completed."
+Resolver Security Incident Register,Auto-create tasks for incident resolution,Automatically generate resolution tasks for incidents based on predefined workflows or playbooks.
+Resolver Security Incident Register,Notify on incident status changes,"Send notifications to stakeholders when the status of an incident changes (e.g., from ""Open"" to ""In Progress"")."
+Resolver Security Incident Register,Auto-update incident severity,Automatically update the severity of incidents based on new information or changes in impact.
+Resolver Security Incident Register,Sync with threat intelligence feeds,Automatically update incident data with information from external threat intelligence feeds.
+Resolver Security Incident Register,Auto-create compliance reports,Automatically generate compliance reports for incidents to meet regulatory requirements.
+Resolver Security Incident Register,Notify on SLA breaches,Send alerts when incidents exceed their Service Level Agreement (SLA) deadlines.
+Resolver Security Incident Register,Auto-create incident categories,Automatically categorize incidents based on predefined rules or keywords in incident descriptions.
+Resolver Security Incident Register,Auto-assign incident owners,Automatically assign ownership of incidents to specific individuals or teams based on incident type or location.
+Resolver Security Incident Register,Notify on incident escalation,Send alerts when incidents are escalated to higher levels of management or response teams.
+Resolver Security Incident Register,Auto-create incident timelines,"Automatically generate timelines for incidents, including key events and actions taken."
+Resolver Security Incident Register,Sync with ticketing systems,"Automatically create tickets in external ticketing systems (e.g., Jira, ServiceNow) for incidents logged in Resolver."
+Resolver Security Incident Register,Auto-create recurring incident reviews,Automatically schedule recurring reviews for incidents to ensure proper follow-up and closure.
+Resolver Security Incident Register,Notify on incident resolution,Send notifications to stakeholders when incidents are resolved or closed.
+Resolver Security Incident Register,Auto-create incident dashboards,"Automatically generate dashboards to visualize incident trends, statuses, and key metrics."
+Resolver Security Incident Register,Sync with endpoint protection tools,Automatically update incident data with information from endpoint protection tools.
+Resolver Security Incident Register,Notify on incident reassignment,Send alerts when incidents are reassigned to different teams or individuals.
+Resolver Security Incident Register,Auto-create incident KPIs,"Automatically generate Key Performance Indicators (KPIs) for incident management, such as average resolution time."
+Resolver Security Incident Register,Auto-create incident workflows,Automatically generate workflows for incident response based on predefined templates.
+Resolver Security Incident Register,Notify on incident containment,Send alerts when containment actions are successfully executed for an incident.
+Resolver Security Incident Register,Auto-create incident tags,Automatically tag incidents with relevant keywords or categories for easier search and filtering.
+Resolver Security Incident Register,Sync with firewalls,Automatically update incident data with logs and alerts from firewall systems.
+Resolver Security Incident Register,Notify on incident verification,Send notifications when incidents are verified as legitimate or false positives.
+Resolver Security Incident Register,Auto-create incident summaries,"Automatically generate summaries for incidents, including key details and resolution steps."
+Resolver Security Incident Register,Sync with vulnerability management tools,Automatically update incident data with information from vulnerability management tools.
+Resolver Security Incident Register,Notify on incident containment failures,Send alerts when containment actions fail or are incomplete.
+Resolver Security Incident Register,Auto-create incident escalation workflows,Automatically generate workflows for escalating incidents to higher levels of management or response teams.
+Resolver Security Incident Register,Auto-create incident follow-up tasks,Automatically generate follow-up tasks for incidents to ensure proper resolution and documentation.
+Resolver Security Incident Register,Notify on incident trends,Send alerts when specific incident trends or patterns are detected.
+Resolver Security Incident Register,Auto-create incident heatmaps,Automatically generate heatmaps to visualize incident frequency and severity by location or category.
+Resolver Security Incident Register,Sync with access control systems,Automatically update incident data with logs from access control systems.
+Resolver Security Incident Register,Notify on incident recurrence,Send alerts when similar incidents recur within a specified timeframe.
+Resolver Security Incident Register,Auto-create incident root cause analysis,Automatically generate root cause analysis reports for incidents based on available data.
+Resolver Security Incident Register,Sync with cloud security tools,Automatically update incident data with information from cloud security tools.
+Resolver Security Incident Register,Notify on incident resolution delays,Send alerts when incidents are not resolved within the expected timeframe.
+Resolver Security Incident Register,Auto-create incident severity heatmaps,Automatically generate heatmaps to visualize incident severity across different categories or locations.
+Resolver Security Incident Register,Sync with antivirus tools,Automatically update incident data with logs and alerts from antivirus tools.
+Resolver Security Incident Register,Notify on incident misclassification,Send alerts when incidents are misclassified or require reclassification.
+Resolver Security Incident Register,Auto-create incident response SLAs,Automatically generate Service Level Agreements (SLAs) for incident response based on predefined criteria.
+Resolver Security Incident Register,Sync with email security tools,Automatically update incident data with information from email security tools.
+Resolver Security Incident Register,Notify on incident resolution verification,Send alerts when incident resolution is verified by the appropriate team or individual.
+Resolver Security Incident Register,Auto-create incident response metrics,Automatically generate metrics to measure the effectiveness of incident response efforts.
+Resolver Security Incident Register,Sync with threat hunting tools,Automatically update incident data with findings from threat hunting tools.
+Resolver Security Incident Register,Notify on incident response gaps,Send alerts when gaps or inefficiencies are identified in incident response workflows.
+Resolver Security Incident Register,Auto-create incident response training tasks,Automatically generate training tasks for teams based on incident response gaps or trends.
+Resolver Security Incident Register,Sync with forensic analysis tools,Automatically update incident data with findings from forensic analysis tools.
+Resolver Security Incident Register,Notify on incident response improvements,Send alerts when improvements are made to incident response workflows or processes.
+Resolver Security Incident Register,Auto-create incident response benchmarks,Automatically generate benchmarks to compare incident response performance over time.
+Resolver Security Incident Register,Sync with compliance management tools,Automatically update incident data with compliance-related information from external tools.
+Resolver Security Incident Register,Notify on incident response readiness,Send alerts when incident response teams are fully prepared or require additional resources.

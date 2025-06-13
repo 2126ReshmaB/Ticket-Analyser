@@ -1,0 +1,87 @@
+Category,Short Description,Description
+LogMeIn,Remote Desktop Access,Securely access and control remote computers from any location.
+LogMeIn,File Transfer Between Devices,Transfer files between local and remote devices seamlessly.
+LogMeIn,Unattended Remote Access,Set up remote computers for unattended access and 24/7 availability.
+LogMeIn,Multi-Monitor Support,Access and manage multiple monitors on a remote system.
+LogMeIn,Remote System Reboot,Reboot remote systems directly from the LogMeIn interface.
+LogMeIn,Remote Printing,Print documents from remote systems to local printers effortlessly.
+LogMeIn,Remote Task Manager Access,Manage and monitor processes using the task manager on remote devices.
+LogMeIn,Clipboard Sharing Between Systems,Share clipboard content between local and remote computers.
+LogMeIn,Remote Audio Streaming,Stream audio from remote computers to local devices.
+LogMeIn,Remote Webcam Access,Access and view webcams connected to remote systems.
+LogMeIn,Remote System Lock,Lock remote systems to prevent unauthorized access.
+LogMeIn,Two-Factor Authentication,Enhance security with two-factor authentication for remote sessions.
+LogMeIn,Remote System Shutdown,Shut down remote systems securely from a central location.
+LogMeIn,Remote File Synchronization,Synchronize files between local and remote systems automatically.
+LogMeIn,Remote Software Installation,Install or update software on remote systems without physical access.
+LogMeIn,Remote System Diagnostics,Run diagnostics on remote systems to troubleshoot performance issues.
+LogMeIn,Remote Collaboration Tools,Use built-in tools to collaborate with remote users in real time.
+LogMeIn,Wake-on-LAN Functionality,Wake up powered-off remote systems using Wake-on-LAN technology.
+LogMeIn,Remote System Updates,Apply operating system updates to remote computers remotely.
+LogMeIn,Remote Antivirus Scanning,Run antivirus scans on remote systems to detect and remove threats.
+LogMeIn,Remote Command Line Access,Execute command-line operations on remote devices securely.
+LogMeIn,Remote User Support,Provide real-time support for end users by accessing their systems remotely.
+LogMeIn,Remote File Compression,Compress files on remote systems before transferring them.
+LogMeIn,Cross-Platform Remote Access,"Access devices across Windows, macOS, Linux, and mobile platforms."
+LogMeIn,Session Recording,Record remote sessions for auditing or training purposes.
+LogMeIn,Remote Application Launch,Launch applications on remote systems directly from the interface.
+LogMeIn,Remote System Inventory Management,Track hardware and software inventory on remote devices.
+LogMeIn,File Sharing During Remote Sessions,Share files between devices during an active remote session.
+LogMeIn,Remote Disk Cleanup,Perform disk cleanup on remote systems to free up storage.
+LogMeIn,Remote System Event Logs Access,Access and analyze event logs on remote systems.
+LogMeIn,Remote Software Deployment,Deploy software to multiple remote systems simultaneously.
+LogMeIn,Remote Application Updates,Update applications on remote systems without physical intervention.
+LogMeIn,Remote System Monitoring,Monitor system performance metrics such as CPU and memory usage remotely.
+LogMeIn,Group Policy Management,Configure and enforce group policies on remote systems.
+LogMeIn,Remote System Compliance Auditing,Conduct compliance audits on remote devices for security checks.
+LogMeIn,Remote BIOS Configuration,Access and modify BIOS settings on remote systems.
+LogMeIn,Remote Network Configuration,Configure network settings on remote systems for connectivity fixes.
+LogMeIn,Remote VPN Setup,Set up and manage VPN connections on remote devices securely.
+LogMeIn,Secure File Sharing,Share files securely between local and remote systems using encryption.
+LogMeIn,Remote USB Device Access,Connect USB devices to remote systems virtually for seamless usage.
+LogMeIn,Remote Peripheral Management,Manage connected peripherals like printers and cameras on remote systems.
+LogMeIn,Remote System Power Management,Adjust power settings on remote devices to conserve energy.
+LogMeIn,Remote System Resource Allocation,Allocate resources like CPU and memory on remote systems for optimization.
+LogMeIn,Remote Patch Management,Apply patches to remote systems to ensure security compliance.
+LogMeIn,Remote Disk Partitioning,Create or modify disk partitions on remote devices.
+LogMeIn,Remote RAID Configuration,Set up and manage RAID configurations on remote computers.
+LogMeIn,Remote Driver Updates,Update drivers on remote systems to maintain compatibility.
+LogMeIn,Custom Branding for IT Support,Customize the LogMeIn interface with company branding for professional services.
+LogMeIn,Mobile Device Remote Access,Access and manage mobile devices remotely for troubleshooting.
+LogMeIn,Remote Access Permissions Management,Control and assign user permissions for secure remote access.
+LogMeIn,Remote User Activity Monitoring,Track and monitor user activity during remote sessions.
+LogMeIn,Secure Remote File Deletion,Delete sensitive files on remote systems securely to prevent recovery.
+LogMeIn,Remote Data Recovery,Recover accidentally deleted files on remote systems.
+LogMeIn,Remote Printing Permissions Management,Manage printing permissions for remote systems during sessions.
+LogMeIn,Remote Disk Encryption,Encrypt drives on remote systems to protect sensitive data.
+LogMeIn,Remote BIOS Updates,Update BIOS firmware on remote systems without physical access.
+LogMeIn,Remote Network Traffic Monitoring,Monitor network traffic on remote systems for security analysis.
+LogMeIn,Remote Collaboration for Designers,Collaborate on design projects by sharing remote desktops.
+LogMeIn,Remote File Versioning,Track and manage file versions on remote systems automatically.
+LogMeIn,Remote Compliance Reporting,Generate compliance reports for remote systems to meet regulations.
+LogMeIn,Remote File Search,Search for specific files on remote systems quickly and efficiently.
+LogMeIn,Remote File Upload,Upload files to remote systems for processing or storage.
+LogMeIn,Remote File Download,Download files from remote systems to local devices securely.
+LogMeIn,Remote File Synchronization Scheduling,Schedule file synchronization tasks between local and remote systems.
+LogMeIn,Remote Troubleshooting for IoT Devices,Manage and troubleshoot IoT devices remotely.
+LogMeIn,Remote System Health Monitoring,Monitor hardware and system health metrics on remote devices.
+LogMeIn,Collaborative Training Sessions,Conduct training sessions by sharing remote desktops with participants.
+LogMeIn,Remote System Crash Analysis,Analyze crash reports on remote systems to identify root causes.
+LogMeIn,Remote System Event Notifications,Set up notifications for specific events on remote systems.
+LogMeIn,Remote IoT Device Firmware Updates,Update firmware for IoT devices remotely.
+LogMeIn,Remote File Permissions Management,Assign or modify file access permissions on remote systems.
+LogMeIn,Remote Smart Home Device Management,Manage smart home devices remotely for troubleshooting or updates.
+LogMeIn,Remote IT Policy Enforcement,Apply and enforce IT policies on remote systems automatically.
+LogMeIn,Remote System Bandwidth Optimization,Optimize bandwidth usage during remote sessions.
+LogMeIn,Remote Access Analytics,Generate analytics on remote session usage and performance.
+LogMeIn,Remote File Extraction,Extract compressed files on remote systems for use.
+LogMeIn,Remote Multi-User Collaboration,Allow multiple users to collaborate on a single remote session.
+LogMeIn,Remote Smart Device Troubleshooting,Diagnose and resolve issues on smart office devices remotely.
+LogMeIn,Remote System Compliance Scans,Perform compliance scans on remote systems to ensure data security.
+LogMeIn,Remote Document Collaboration,Collaborate on documents stored on remote systems in real time.
+LogMeIn,Remote Smart Device Firmware Updates,Update firmware for smart devices without physical access.
+LogMeIn,Remote System Crash Recovery,Recover systems from crashes remotely without requiring on-site intervention.
+LogMeIn,Remote System File Archiving,Archive files on remote systems for long-term storage.
+LogMeIn,Remote Infrastructure Management,"Manage IT infrastructure remotely, including servers and workstations."
+LogMeIn,Remote Project Management Support,Assist remote teams with IT support for project management tools.
+LogMeIn,Remote Application Compatibility Testing,Test software compatibility on remote devices before deployment.

@@ -1,0 +1,61 @@
+Category,Short Description,Description
+Bro/Zeek,Detect DNS Tunneling,"Monitor DNS queries for unusually large payloads or high frequencies, indicating potential DNS tunneling for data exfiltration."
+Bro/Zeek,Detect Malware Downloads,Identify HTTP or HTTPS responses containing known malicious file signatures by integrating with threat intelligence feeds.
+Bro/Zeek,Monitor Suspicious User Agents,Analyze HTTP headers to detect unusual or suspicious user-agent strings that may indicate bots or malware.
+Bro/Zeek,Detect Port Scanning Activity,Identify port scanning behavior by detecting rapid sequential connection attempts to multiple ports from a single IP address.
+Bro/Zeek,Block Malicious IPs,Automate the blocking of malicious IP addresses by integrating with external blocklists or threat feeds.
+Bro/Zeek,Detect SQL Injection,Monitor HTTP traffic for SQL injection attempts by analyzing query strings and detecting malicious SQL keywords.
+Bro/Zeek,Detect Command & Control (C2) Traffic,Identify beaconing patterns or suspicious traffic to known C2 servers by analyzing connection logs.
+Bro/Zeek,Detect Brute Force Login Attempts,"Monitor login attempts to detect repeated failed logins targeting protocols like SSH, RDP, or HTTP."
+Bro/Zeek,Monitor DNS Query Volume,"Flag excessive DNS queries from a single source that may indicate DDoS attacks, malware, or botnet activity."
+Bro/Zeek,Detect Fileless Malware,Identify abnormal process or memory patterns associated with fileless malware by monitoring command execution logs.
+Bro/Zeek,Monitor TLS Certificate Anomalies,"Detect HTTPS traffic using self-signed, expired, or untrusted TLS certificates."
+Bro/Zeek,Detect Phishing Websites,Identify traffic to known phishing URLs by integrating with real-time phishing domain feeds or analyzing domain reputation.
+Bro/Zeek,Monitor Data Exfiltration,Detect unusually large outbound data transfers or data sent to unauthorized external IPs.
+Bro/Zeek,Detect DNS Amplification Attacks,Monitor for high-rate DNS queries with large responses that may indicate DNS amplification attacks.
+Bro/Zeek,Detect Suspicious HTTP Methods,"Flag unusual HTTP methods like PUT, DELETE, or TRACE that may indicate exploitation attempts."
+Bro/Zeek,Detect SMB Exploitation Attempts,"Monitor SMB traffic for signs of exploitation, such as EternalBlue or unauthorized file access."
+Bro/Zeek,Detect ICMP Tunnel Activity,"Identify ICMP packets with unusual payload sizes or patterns, indicative of ICMP tunneling."
+Bro/Zeek,Monitor RDP Connections,Track RDP connections to detect unauthorized access attempts or brute force attacks.
+Bro/Zeek,Detect Rogue DHCP Servers,Identify unauthorized DHCP servers on the network that distribute malicious configurations.
+Bro/Zeek,Monitor FTP Activity,"Analyze FTP logs for suspicious file uploads, downloads, or unauthorized access."
+Bro/Zeek,Detect Insider Threats,Monitor internal traffic patterns for data exfiltration or unauthorized access attempts by employees or contractors.
+Bro/Zeek,Detect Encrypted Malware Traffic,Identify anomalies in encrypted traffic that may indicate malware communication over HTTPS.
+Bro/Zeek,Monitor IoT Device Traffic,Track and analyze traffic to and from IoT devices for unusual patterns or communication with unknown servers.
+Bro/Zeek,Detect Zero-Day Exploits,"Monitor traffic for unusual patterns that deviate from normal protocol behavior, potentially indicating zero-day exploits."
+Bro/Zeek,Alert on DNS Cache Poisoning,Detect unauthorized modifications to DNS responses that may indicate cache poisoning attacks.
+Bro/Zeek,Detect Unusual DNS TTL Values,Flag DNS responses with unusually short or long TTL values that indicate malicious activity.
+Bro/Zeek,Monitor Social Engineering Attempts,Identify traffic to known fake login pages or phishing sites to prevent credential theft.
+Bro/Zeek,Detect HTTP Flood Attacks,"Monitor HTTP traffic for high-frequency requests from individual IPs, indicative of HTTP flood attacks."
+Bro/Zeek,Detect Rogue Wi-Fi Access Points,Identify traffic originating from unauthorized Wi-Fi access points within the network.
+Bro/Zeek,Detect Cryptojacking Activity,Monitor traffic to known cryptocurrency mining pools or detect unusual CPU usage from internal devices.
+Bro/Zeek,Monitor Network Bandwidth Usage,Track bandwidth consumption by IP address or protocol to identify resource-hogging devices or DDoS attacks.
+Bro/Zeek,Detect ARP Spoofing,Monitor for duplicate MAC addresses or unusual ARP traffic patterns indicative of ARP spoofing.
+Bro/Zeek,Detect Watering Hole Attacks,Identify traffic to compromised legitimate websites serving malicious content.
+Bro/Zeek,Monitor Email Traffic,"Analyze SMTP traffic for potential spam campaigns, unauthorized relay attempts, or email with suspicious attachments."
+Bro/Zeek,Detect File Integrity Changes,Monitor file hashes or metadata for unauthorized modifications to critical files.
+Bro/Zeek,Detect VPN Misuse,Identify unauthorized VPN usage or connections to non-approved VPN servers.
+Bro/Zeek,Detect Unusual Protocol Activity,"Flag unusual or unexpected protocol usage, such as IRC traffic, on the network."
+Bro/Zeek,Detect DNS Over HTTPS (DoH),"Monitor for DNS queries tunneled over HTTPS, which may bypass traditional DNS filters."
+Bro/Zeek,Monitor Sensitive Data Leakage,"Detect patterns in traffic that indicate the transmission of sensitive data, such as credit card numbers or PII."
+Bro/Zeek,Detect Command Injection Attacks,Monitor HTTP traffic for patterns suggesting command injection attacks in request payloads.
+Bro/Zeek,Monitor Unusual Host Communication,Identify hosts communicating with unusual or unexpected destinations.
+Bro/Zeek,Detect Network Reconnaissance,"Identify network scanning behavior, such as Nmap scans or OS fingerprinting attempts."
+Bro/Zeek,Detect Cross-Site Scripting (XSS),Analyze HTTP requests for patterns indicative of cross-site scripting attacks targeting web applications.
+Bro/Zeek,Monitor Peer-to-Peer (P2P) Traffic,"Identify and block unauthorized P2P traffic, such as BitTorrent or file-sharing protocols."
+Bro/Zeek,Monitor SMB Traffic for Anomalies,Track SMB connections for unauthorized file transfers or unusual access patterns.
+Bro/Zeek,Detect Privilege Escalation Attempts,"Monitor logs for signs of privilege escalation, such as suspicious sudo commands or access to sensitive files."
+Bro/Zeek,Detect DNS Rebinding Attacks,Monitor DNS responses that indicate potential DNS rebinding attacks.
+Bro/Zeek,Detect HTTP Content Injection,"Identify malicious content injection in HTTP responses, such as injected scripts or iframes."
+Bro/Zeek,Monitor TLS Fingerprints,Analyze TLS fingerprints to detect traffic from unusual or malicious clients.
+Bro/Zeek,Detect Botnet Activity,Identify botnet-related traffic by correlating connection patterns with known C2 servers or malicious domains.
+Bro/Zeek,Monitor Web Application Exploits,"Detect attack patterns targeting web applications, such as directory traversal or parameter tampering."
+Bro/Zeek,Detect Email Bombing,"Identify patterns of high-volume email delivery to single recipients, indicative of email bombing attempts."
+Bro/Zeek,Monitor HTTP Referrer Spoofing,Detect spoofed HTTP referrer headers that may indicate phishing or malicious redirections.
+Bro/Zeek,Detect Unauthorized Proxy Usage,Identify traffic routed through unauthorized proxy servers that bypass security controls.
+Bro/Zeek,Monitor Unusual File Transfers,Detect large or unusual file transfers that could indicate data exfiltration or malware delivery.
+Bro/Zeek,Detect Insider Lateral Movement,"Monitor internal traffic for signs of lateral movement, such as unauthorized access to shared resources."
+Bro/Zeek,Detect IoT Device Exploits,"Identify traffic patterns associated with exploitation of IoT devices, such as brute force login attempts or firmware vulnerabilities."
+Bro/Zeek,Detect HTTP Header Injection,"Monitor HTTP headers for injection attacks, such as malicious command or script delivery."
+Bro/Zeek,Monitor DNS Traffic for Typosquatting,"Detect DNS queries to domains resembling legitimate ones but with slight misspellings, indicative of phishing attempts."
+Bro/Zeek,Detect Network Time Protocol (NTP) Anomalies,"Monitor NTP traffic for signs of abuse, such as reflection attacks or unauthorized time synchronization attempts."

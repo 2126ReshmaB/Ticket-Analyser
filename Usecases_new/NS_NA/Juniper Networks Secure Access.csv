@@ -1,0 +1,60 @@
+Category,Short Description,Description
+Juniper Networks Secure Access,Automate user account creation,"Automate the creation of new user accounts for secure access, including role assignment and permissions."
+Juniper Networks Secure Access,Automate user account deletion,Automate the removal of inactive or unauthorized user accounts to maintain security.
+Juniper Networks Secure Access,Automate password resets,Automate the process of resetting user passwords for secure access portals.
+Juniper Networks Secure Access,Automate user group management,Automate the creation and management of user groups for role-based access control.
+Juniper Networks Secure Access,Automate certificate-based authentication setup,Automate the configuration of certificate-based authentication for secure access.
+Juniper Networks Secure Access,Automate multi-factor authentication setup,Automate the integration and enforcement of multi-factor authentication (MFA) for users.
+Juniper Networks Secure Access,Automate session timeout policies,Automate the enforcement of session timeout policies for inactive users.
+Juniper Networks Secure Access,Automate user role assignment,Automate the assignment of user roles based on their department or responsibilities.
+Juniper Networks Secure Access,Automate access policy updates,Automate the updates to access control policies to reflect organizational changes.
+Juniper Networks Secure Access,Automate compliance reporting,Automate the generation of compliance reports for regulatory audits.
+Juniper Networks Secure Access,Automate log collection,Automate the collection of logs from Secure Access systems for auditing and analysis.
+Juniper Networks Secure Access,Automate log rotation,Automate the rotation of logs to prevent storage issues and maintain performance.
+Juniper Networks Secure Access,Automate backup of configurations,Automate the regular backup of Secure Access device configurations to ensure recoverability.
+Juniper Networks Secure Access,Automate restore of configurations,Automate the restoration of Secure Access device configurations in case of system failures.
+Juniper Networks Secure Access,Automate endpoint compliance checks,Automate compliance checks on endpoints to ensure they meet security requirements before granting access.
+Juniper Networks Secure Access,Automate endpoint quarantine,Automate the quarantine of non-compliant or suspicious endpoints detected on the network.
+Juniper Networks Secure Access,Automate integration with Active Directory,Automate the integration of Juniper Secure Access with Active Directory for centralized user authentication.
+Juniper Networks Secure Access,Automate integration with LDAP,Automate the configuration of LDAP for directory services and user authentication.
+Juniper Networks Secure Access,Automate integration with RADIUS,Automate the setup of RADIUS servers for user authentication and accounting.
+Juniper Networks Secure Access,Automate certificate renewal,Automate the renewal of server and client certificates for secure communication.
+Juniper Networks Secure Access,Automate split-tunneling configuration,Automate the creation of split-tunneling policies to route only specific traffic through the VPN.
+Juniper Networks Secure Access,Automate full-tunneling configuration,Automate the setup of full-tunneling policies to route all traffic through the VPN.
+Juniper Networks Secure Access,Automate integration with endpoint protection tools,Automate the integration of endpoint protection tools to verify device security before granting access.
+Juniper Networks Secure Access,Automate VPN gateway deployment,Automate the deployment of Juniper Secure Access VPN gateways for secure remote access.
+Juniper Networks Secure Access,Automate VPN client distribution,Automate the distribution of Secure Access VPN clients to user devices.
+Juniper Networks Secure Access,Automate session monitoring,Automate the monitoring of user sessions for real-time insights into VPN usage.
+Juniper Networks Secure Access,Automate bandwidth monitoring,Automate the monitoring of bandwidth usage for users and groups connected to the VPN.
+Juniper Networks Secure Access,Automate user activity tracking,Automate the tracking of user activity for security audits and compliance.
+Juniper Networks Secure Access,Automate integration with SIEM tools,Automate the integration of Secure Access logs with SIEM tools for centralized monitoring and threat detection.
+Juniper Networks Secure Access,Automate QoS (Quality of Service) policies,Automate the configuration of QoS policies to prioritize critical traffic over the VPN.
+Juniper Networks Secure Access,Automate IP whitelisting,Automate the addition of trusted IP addresses to the whitelist for secure access.
+Juniper Networks Secure Access,Automate IP blacklisting,Automate the blocking of malicious or unauthorized IP addresses.
+Juniper Networks Secure Access,Automate geo-restriction enforcement,Automate the enforcement of geo-restrictions to block or allow access based on user location.
+Juniper Networks Secure Access,Automate DNS configuration,Automate the setup of DNS servers for VPN clients to ensure proper name resolution.
+Juniper Networks Secure Access,Automate integration with MFA providers,Automate the integration of multi-factor authentication solutions like Duo or Okta for enhanced security.
+Juniper Networks Secure Access,Automate user onboarding,"Automate the process of onboarding new users, including credential distribution and access configuration."
+Juniper Networks Secure Access,Automate user offboarding,Automate the process of removing user access when employees leave the organization.
+Juniper Networks Secure Access,Automate user session termination,Automate the termination of user sessions for security or policy violations.
+Juniper Networks Secure Access,Automate integration with cloud platforms,Automate the deployment and configuration of Secure Access in cloud environments like AWS or Azure.
+Juniper Networks Secure Access,Automate compliance alerts,Automate the sending of alerts for non-compliance with security policies.
+Juniper Networks Secure Access,Automate kill switch setup,Automate the setup of a kill switch to block internet access if the VPN disconnects.
+Juniper Networks Secure Access,Automate DNS leak prevention,Automate the configuration of DNS leak prevention to protect user privacy.
+Juniper Networks Secure Access,Automate integration with backup systems,Automate the backup of Secure Access configurations and data for disaster recovery purposes.
+Juniper Networks Secure Access,Automate server patching,Automate the application of patches to Secure Access servers to keep them updated.
+Juniper Networks Secure Access,Automate server health monitoring,Automate health checks and monitoring of Secure Access servers to ensure uptime.
+Juniper Networks Secure Access,Automate server scaling,Automate the scaling of Secure Access servers to handle increased traffic demand.
+Juniper Networks Secure Access,Automate access policy rollback,Automate the rollback of access policies to previous configurations in case of misconfigurations.
+Juniper Networks Secure Access,Automate user notifications for policy changes,Automate sending notifications to users about updates to access policies.
+Juniper Networks Secure Access,Automate API token management,Automate the creation and management of API tokens for administrative tasks.
+Juniper Networks Secure Access,Automate VPN usage analytics,Automate the generation of analytics reports for VPN usage trends and statistics.
+Juniper Networks Secure Access,Automate alert notifications,"Automate the sending of alerts for security incidents, system events, or policy violations."
+Juniper Networks Secure Access,Automate VPN license monitoring,Automate the monitoring of Secure Access license usage and renewal reminders.
+Juniper Networks Secure Access,Automate server uptime reporting,Automate the generation of reports on Secure Access server uptime and availability.
+Juniper Networks Secure Access,Automate firewall integration,Automate the integration of Secure Access with firewalls for centralized policy enforcement.
+Juniper Networks Secure Access,Automate session recording,Automate the recording of user sessions for security and compliance purposes.
+Juniper Networks Secure Access,Automate configuration validation,Automate the validation of Secure Access configurations to ensure they align with best practices.
+Juniper Networks Secure Access,Automate device profiling,Automate the profiling of devices connecting to the VPN to enhance security and visibility.
+Juniper Networks Secure Access,Automate incident response workflows,Automate workflows to respond to security incidents detected in Secure Access systems.
+Juniper Networks Secure Access,Automate access request approvals,Automate the approval process for user access requests to save time and reduce manual effort.

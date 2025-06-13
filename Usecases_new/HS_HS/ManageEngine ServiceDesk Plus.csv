@@ -1,0 +1,65 @@
+Category,Short Description,Description
+ManageEngine ServiceDesk Plus,Auto-Assign Tickets to Technicians,Automatically assign tickets to the appropriate technician based on the request category or priority.
+ManageEngine ServiceDesk Plus,Notify on SLA Breach,Send automated notifications to technicians and managers when an SLA is about to breach or already breached.
+ManageEngine ServiceDesk Plus,Auto-Close Resolved Tickets,Automatically close tickets that have been in the resolved state for a predefined number of days.
+ManageEngine ServiceDesk Plus,Escalate Overdue Tickets,Automatically escalate tickets that exceed their SLA time to higher-level support teams.
+ManageEngine ServiceDesk Plus,Auto-Assign Priority to Tickets,Automatically assign ticket priorities based on keywords in the subject or description.
+ManageEngine ServiceDesk Plus,Notify Users of Ticket Updates,Send real-time notifications to users when their ticket status or priority changes.
+ManageEngine ServiceDesk Plus,Reopen Tickets on User Response,Automatically reopen tickets if a user responds to a closed or resolved ticket.
+ManageEngine ServiceDesk Plus,Notify Technicians of High-Priority Tickets,Send immediate notifications to technicians when a high-priority ticket is created.
+ManageEngine ServiceDesk Plus,Auto-Create Tickets from Emails,Automatically generate tickets from emails sent to a support mailbox.
+ManageEngine ServiceDesk Plus,Assign Tickets Based on Technician Skills,Automatically assign tickets to technicians with the required skills for resolving the issue.
+ManageEngine ServiceDesk Plus,Send Surveys After Ticket Resolution,Automatically send customer satisfaction surveys to users after their tickets are resolved.
+ManageEngine ServiceDesk Plus,Generate Weekly SLA Reports,Automate the generation and distribution of weekly SLA performance reports to stakeholders.
+ManageEngine ServiceDesk Plus,Auto-Categorize Tickets,Automatically categorize tickets based on keywords in the ticket description or predefined rules.
+ManageEngine ServiceDesk Plus,Notify on Major Incidents,Automatically notify all impacted users and stakeholders when a major incident is logged.
+ManageEngine ServiceDesk Plus,Monitor Technician Workload,Automatically track and report technician workloads to ensure even distribution of tasks.
+ManageEngine ServiceDesk Plus,Notify on VIP User Tickets,Send automated notifications to technicians when a ticket is submitted by a VIP user.
+ManageEngine ServiceDesk Plus,Archive Old Tickets,Automatically archive tickets that have been closed for a specified period of time.
+ManageEngine ServiceDesk Plus,Auto-Resolve Duplicate Tickets,Automatically resolve duplicate tickets by linking them to the original ticket.
+ManageEngine ServiceDesk Plus,Notify on Ticket Escalation,Send alerts to technicians and managers whenever a ticket is escalated.
+ManageEngine ServiceDesk Plus,Assign Tickets During After-Hours,Automatically assign tickets to on-call technicians for after-hours requests.
+ManageEngine ServiceDesk Plus,Create Problem Records from Repeated Tickets,Automatically create a problem record when multiple tickets with the same issue are logged.
+ManageEngine ServiceDesk Plus,Auto-Close Tickets Without User Response,Automatically close tickets if the user does not respond within a specified period after a resolution is provided.
+ManageEngine ServiceDesk Plus,Generate Daily Ticket Reports,"Automate the creation of daily reports summarizing ticket activity, resolutions, and pending issues."
+ManageEngine ServiceDesk Plus,Notify Users of Scheduled Maintenance,Automatically notify users about planned maintenance windows through email or portal alerts.
+ManageEngine ServiceDesk Plus,Auto-Assign Group Ownership,Automatically assign tickets to specific technician groups based on category or department.
+ManageEngine ServiceDesk Plus,Monitor SLA Adherence,Automate SLA adherence tracking and notify managers of SLA violations.
+ManageEngine ServiceDesk Plus,Auto-Tag Tickets for Reporting,Automatically tag tickets with relevant labels for easier tracking and reporting.
+ManageEngine ServiceDesk Plus,Notify on Low Customer Satisfaction,Send alerts to managers when customer satisfaction scores fall below a defined threshold.
+ManageEngine ServiceDesk Plus,Auto-Generate Knowledge Base Articles,Automatically create knowledge base articles from resolved tickets with detailed solutions.
+ManageEngine ServiceDesk Plus,Create Tasks for New Employees,"Automatically generate onboarding tasks for new employees, such as account creation or hardware setup."
+ManageEngine ServiceDesk Plus,Notify on High-Traffic Categories,Send alerts when certain ticket categories receive a high volume of requests within a short period.
+ManageEngine ServiceDesk Plus,Update Tickets on Dependency Changes,Automatically update ticket status when dependent tasks or tickets are completed.
+ManageEngine ServiceDesk Plus,Monitor Asset Warranty Expiry,Automatically notify the asset management team when an asset's warranty is about to expire.
+ManageEngine ServiceDesk Plus,Escalate VIP Tickets,Automatically escalate tickets submitted by VIP users to higher-priority queues.
+ManageEngine ServiceDesk Plus,Assign Tickets Based on Location,Automatically route tickets to technicians based on the user's location.
+ManageEngine ServiceDesk Plus,Generate Monthly Performance Dashboards,Automate the creation of performance dashboards summarizing key metrics for the month.
+ManageEngine ServiceDesk Plus,Notify on Outdated Knowledge Articles,Send reminders to update or archive knowledge base articles that have not been reviewed for a long time.
+ManageEngine ServiceDesk Plus,Monitor Integration Failures,Automatically track failures in third-party integrations and generate alerts or tickets for investigation.
+ManageEngine ServiceDesk Plus,Notify on Critical Asset Downtime,Automatically send alerts when critical assets experience downtime or performance degradation.
+ManageEngine ServiceDesk Plus,Auto-Assign Change Requests,Automatically assign change requests to the appropriate change manager or team based on the request type.
+ManageEngine ServiceDesk Plus,Send SLA Achievement Alerts,Notify technicians when they successfully resolve tickets within SLA timelines.
+ManageEngine ServiceDesk Plus,Auto-Categorize Change Requests,Automatically categorize change requests based on keywords or related services.
+ManageEngine ServiceDesk Plus,Generate Asset Inventory Reports,Automate the creation of detailed asset inventory reports for IT teams.
+ManageEngine ServiceDesk Plus,Notify on License Expiry,Automatically notify relevant teams when software licenses are nearing their expiration date.
+ManageEngine ServiceDesk Plus,Schedule Recurring Tasks,Automatically create recurring tasks for routine maintenance or audits.
+ManageEngine ServiceDesk Plus,Auto-Assign Tickets for New Hardware,Automatically assign requests related to new hardware setup to the appropriate technicians.
+ManageEngine ServiceDesk Plus,Monitor Unassigned Tickets,Automatically track unassigned tickets and notify managers if they remain unassigned for a specified time.
+ManageEngine ServiceDesk Plus,Generate Ticket Trend Analysis,Automate the analysis of ticket trends over time and generate reports for management.
+ManageEngine ServiceDesk Plus,Notify on Failed Scheduled Jobs,Automatically alert administrators when scheduled jobs fail to execute properly.
+ManageEngine ServiceDesk Plus,Monitor Network Downtime,Automatically create tickets or send alerts when network downtime is detected.
+ManageEngine ServiceDesk Plus,Auto-Update Fields in Tickets,Automatically update specific fields in tickets based on triggers or conditions.
+ManageEngine ServiceDesk Plus,Notify on Unauthorized Access Attempts,Automatically alert security teams when unauthorized access attempts are detected in the system.
+ManageEngine ServiceDesk Plus,Auto-Assign Tickets for Software Issues,Automatically route software-related tickets to specific technicians or groups.
+ManageEngine ServiceDesk Plus,Generate Compliance Reports,Automate the creation of compliance reports for audits or regulatory requirements.
+ManageEngine ServiceDesk Plus,Notify Users of Agent Assignments,Automatically notify users when a technician is assigned to their ticket.
+ManageEngine ServiceDesk Plus,Auto-Renew Expiring Contracts,"Automatically renew service contracts that are nearing expiry, based on predefined rules."
+ManageEngine ServiceDesk Plus,Auto-Create Child Tickets,Automatically create child tickets for larger requests that require multiple tasks to be completed.
+ManageEngine ServiceDesk Plus,Notify on SLA Timer Resets,Send notifications when SLA timers are reset due to ticket status changes.
+ManageEngine ServiceDesk Plus,Auto-Assign Onboarding Tasks,Automatically create and assign onboarding tasks for new employees.
+ManageEngine ServiceDesk Plus,Monitor Disk Space Usage,Automatically generate alerts or tickets when server disk space usage exceeds predefined thresholds.
+ManageEngine ServiceDesk Plus,Notify on Major Incident Resolution,Send automated notifications to all stakeholders when a major incident is resolved.
+ManageEngine ServiceDesk Plus,Escalate Tickets for Negative Feedback,Automatically escalate tickets that receive negative customer satisfaction feedback.
+ManageEngine ServiceDesk Plus,Monitor API Usage Limits,Automatically generate alerts when API usage approaches predefined thresholds.
+ManageEngine ServiceDesk Plus,Auto-Create Tickets for Social Media Queries,

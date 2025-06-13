@@ -1,0 +1,69 @@
+Category,Short Description,Description
+Trello,Auto-assign cards to team members,"Automatically assign cards to team members based on their roles, expertise, or workload."
+Trello,Notify on card creation,Send notifications to relevant team members or channels when a new card is created in a Trello board.
+Trello,Move cards to different lists automatically,"Automatically move cards to different lists based on their status (e.g., ""In Progress,"" ""Completed"")."
+Trello,Notify on due dates,Send reminders to card owners when a card's due date is approaching.
+Trello,Auto-create checklists,Automatically add a checklist to newly created cards based on predefined templates.
+Trello,Automatically archive completed cards,"Archive cards automatically when they are moved to a ""Done"" or ""Completed"" list."
+Trello,Sync Trello with Slack,"Notify team members in Slack when cards are created, updated, or moved in Trello."
+Trello,Auto-label cards,"Automatically assign labels to cards based on their content, type, or priority."
+Trello,Notify on high-priority cards,Send alerts to team members when high-priority cards are created or updated.
+Trello,Auto-create recurring cards,"Automatically create recurring cards for repetitive activities, such as weekly meetings or daily standups."
+Trello,Sync Trello with Google Calendar,Automatically sync Trello cards with Google Calendar for better scheduling and planning.
+Trello,Notify on card updates,Send updates to team members when cards are updated or reassigned.
+Trello,Auto-create cards from emails,Automatically create Trello cards when an email is received in a designated inbox.
+Trello,Sync Trello with Asana,Automatically sync tasks or cards between Trello and Asana for cross-platform collaboration.
+Trello,Notify on project completion,Send notifications to team members when all cards in a project board are marked as complete.
+Trello,Auto-resolve duplicate cards,Identify and merge duplicate cards in a Trello board automatically.
+Trello,Auto-add members to cards,Automatically add members to cards based on project roles or card criteria.
+Trello,Generate weekly progress reports,Automatically generate and send weekly progress reports for Trello boards to stakeholders.
+Trello,Notify on overdue cards,Send reminders for overdue cards to task owners or project managers.
+Trello,Sync Trello with Microsoft Teams,"Notify team members in Microsoft Teams when Trello cards are created, updated, or completed."
+Trello,Auto-create cards for onboarding,Automatically create a set of onboarding cards for new employees or team members.
+Trello,Sync Trello with GitHub,Automatically link Trello cards with GitHub pull requests or commits.
+Trello,Notify on blocked cards,Send alerts when a card is blocked or has unresolved dependencies.
+Trello,Auto-prioritize cards,Automatically assign priority levels to cards based on due dates or other criteria.
+Trello,"Auto-move cards to ""In Progress"" list","Move cards to the ""In Progress"" list automatically when a team member starts working on them."
+Trello,Notify on card approvals,Send notifications when cards are approved or rejected by stakeholders.
+Trello,Auto-create cards for recurring meetings,"Automatically create cards for recurring meetings, including agendas and follow-ups."
+Trello,Generate project health reports,Automate the generation of project health reports to track progress and bottlenecks in Trello boards.
+Trello,Notify on changes to card descriptions,Send alerts when card descriptions are updated or modified.
+Trello,Sync Trello with Power BI,Export Trello data to Power BI for advanced reporting and visualization.
+Trello,Notify on changes to card priorities,Send notifications when card priorities are updated in a Trello board.
+Trello,Auto-create cards for event planning,"Automatically generate cards for event planning, including logistics and agenda creation."
+Trello,Notify on changes to project timelines,Send alerts when project timelines are updated in Trello boards.
+Trello,Auto-create cards for content creation,"Automatically generate cards for content creation workflows, such as blog posts or videos."
+Trello,Notify on card dependencies,Send notifications when dependencies for a card are resolved or blocked.
+Trello,Auto-create templates for boards,Automatically create board templates for repetitive workflows or projects.
+Trello,Sync Trello with Jira,Automatically sync tasks between Trello and Jira for cross-platform collaboration.
+Trello,Sync Trello with Zendesk,Automatically create Trello cards for support tickets submitted in Zendesk.
+Trello,Notify on changes to custom fields,Send notifications when custom fields in Trello cards are updated.
+Trello,Auto-create cards for bug reports,Automatically create cards for bug reports submitted through forms or external tools.
+Trello,Notify on overdue milestones,Send reminders for overdue milestones in a project Trello board.
+Trello,Auto-archive inactive lists,Automatically archive lists that have been inactive for a predefined period.
+Trello,Notify on task completion,"Send notifications to team members when a card is moved to the ""Completed"" list."
+Trello,Auto-create cards for product launches,"Automatically generate cards for product launches, including marketing, testing, and delivery activities."
+Trello,Sync Trello with Airtable,Automatically sync Trello cards with Airtable databases for better organization and tracking.
+Trello,Notify on card comment updates,Send notifications when comments are added or updated on Trello cards.
+Trello,Auto-create cards for marketing campaigns,Automatically generate cards for marketing campaigns using board templates.
+Trello,Notify on milestone completion,Send notifications when project milestones are achieved in a Trello board.
+Trello,Auto-create cards for retrospectives,Automatically create retrospective cards at the end of each sprint or project.
+Trello,Sync Trello with Notion,Automatically link or sync cards between Trello and Notion to manage tasks and notes effectively.
+Trello,Notify on changes to board goals,Send alerts when board goals are updated or modified.
+Trello,Sync Trello with Dropbox,Automatically link Trello cards with Dropbox files for better file management.
+Trello,Generate automated board summaries,Automatically generate and send daily or weekly summaries for Trello boards to stakeholders.
+Trello,Auto-create cards for financial reports,Automatically generate cards for creating and reviewing financial reports.
+Trello,Notify on card assignment delays,Send alerts when cards are not assigned to members within a specified timeframe.
+Trello,Auto-create cards for social media posts,Automatically generate cards for planning and scheduling social media posts.
+Trello,Notify on recurring card completion,Send notifications when recurring cards are completed in a Trello board.
+Trello,Auto-create cards for training sessions,Automatically generate cards for organizing and delivering employee training sessions.
+Trello,Notify on project delays,Send alerts to stakeholders when a project in Trello is delayed or behind schedule.
+Trello,Track card aging,Automatically track and report on cards that have been in the same list for too long.
+Trello,Auto-create cards for recruitment,"Automatically generate cards for recruitment workflows, such as interviews and job postings."
+Trello,Sync Trello with HubSpot,Automatically sync cards between Trello and HubSpot for marketing and sales tracking.
+Trello,Auto-create cards for client onboarding,Automatically generate cards for onboarding new clients or accounts.
+Trello,Notify on changes to card deadlines,Send notifications when card due dates are updated in a Trello board.
+Trello,Notify on SLA breaches,Send alerts when SLA (Service Level Agreement) deadlines are breached for specific cards.
+Trello,Sync Trello with Tableau,Automatically export Trello data to Tableau for advanced reporting and visualization.
+Trello,Auto-generate meeting agenda cards,Automatically create Trello cards for meeting agendas based on recurring schedules.
+Trello,Notify on card reassignment,Send alerts when cards are reass

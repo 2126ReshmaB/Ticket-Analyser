@@ -1,0 +1,64 @@
+Category,Short Description,Description
+BMC BladeLogic,Server provisioning,"Automate the provisioning of physical, virtual, and cloud servers with predefined configurations."
+BMC BladeLogic,Patch management,Automate the deployment of patches to servers to ensure they are up-to-date and secure.
+BMC BladeLogic,Compliance auditing,"Perform automated compliance checks against industry standards like PCI, HIPAA, and CIS."
+BMC BladeLogic,Vulnerability remediation,Automate the remediation of vulnerabilities identified by tools like Nessus or Qualys.
+BMC BladeLogic,Software deployment,Deploy software packages across multiple servers in a consistent and automated manner.
+BMC BladeLogic,Configuration drift detection,Detect and remediate configuration drift to ensure servers remain compliant with desired states.
+BMC BladeLogic,Role-based access control,Automate the management of user roles and permissions for secure access to BladeLogic.
+BMC BladeLogic,Server decommissioning,"Automate the decommissioning of servers, including resource cleanup and deregistration."
+BMC BladeLogic,Multi-cloud management,"Manage and automate resources across AWS, Azure, and Google Cloud from a single platform."
+BMC BladeLogic,Application deployment,Automate the deployment of applications with predefined configurations and dependencies.
+BMC BladeLogic,Change tracking,Track and log all configuration changes made to servers for auditing purposes.
+BMC BladeLogic,OS patching,"Automate operating system patching for Linux, Windows, and Unix servers."
+BMC BladeLogic,Database patching,"Automate the patching of database servers like Oracle, MySQL, and PostgreSQL."
+BMC BladeLogic,Network device configuration,Automate the configuration of network devices like routers and switches.
+BMC BladeLogic,SSL certificate management,Automate the deployment and renewal of SSL/TLS certificates across servers.
+BMC BladeLogic,Service restart automation,Automate the restart of services after configuration changes or updates.
+BMC BladeLogic,Disk space monitoring,Automate the monitoring and alerting of disk space usage on servers.
+BMC BladeLogic,File integrity monitoring,Automate the monitoring of critical files for unauthorized changes.
+BMC BladeLogic,Backup automation,Automate the creation and management of backups for critical systems and configurations.
+BMC BladeLogic,Disaster recovery setup,Automate the configuration of disaster recovery environments for business continuity.
+BMC BladeLogic,Multi-environment management,"Manage and automate configurations for development, staging, and production environments."
+BMC BladeLogic,API integration,Automate workflows by integrating BladeLogic with external tools using its REST API.
+BMC BladeLogic,Compliance reporting,Generate automated compliance reports for regulatory and internal audits.
+BMC BladeLogic,Configuration templates,Create and manage reusable configuration templates for consistent server setups.
+BMC BladeLogic,Resource tagging,Automate the tagging of resources for better organization and cost tracking.
+BMC BladeLogic,Security hardening,Automate the application of security hardening policies to servers.
+BMC BladeLogic,Kernel parameter configuration,Automate the configuration of kernel parameters for performance tuning.
+BMC BladeLogic,BIOS configuration,Automate BIOS settings configuration for servers.
+BMC BladeLogic,UEFI boot support,Automate the provisioning of servers with UEFI boot configurations.
+BMC BladeLogic,Secure boot integration,Automate the setup of Secure Boot for enhanced security.
+BMC BladeLogic,High availability setup,Automate the configuration of high availability clusters for critical applications.
+BMC BladeLogic,Load balancer provisioning,Automate the setup and configuration of load balancers for traffic distribution.
+BMC BladeLogic,Centralized logging setup,Automate the deployment of centralized logging systems like ELK Stack.
+BMC BladeLogic,Time synchronization,Automate the configuration of NTP or Chrony for time synchronization across servers.
+BMC BladeLogic,SSH key deployment,Automate the deployment of SSH keys to servers for secure access.
+BMC BladeLogic,Certificate deployment,Automate the deployment of certificates for secure communication.
+BMC BladeLogic,Software dependency resolution,Automate the resolution and installation of software dependencies during deployments.
+BMC BladeLogic,Monitoring agent deployment,Automate the deployment of monitoring agents like Nagios or Zabbix.
+BMC BladeLogic,RAID configuration automation,Automate RAID setup during server provisioning for improved storage performance.
+BMC BladeLogic,Host tagging,Use tags to categorize and manage servers for better organization.
+BMC BladeLogic,Resource usage reporting,Generate automated reports for resource usage across the infrastructure.
+BMC BladeLogic,Compliance policy enforcement,Automate the enforcement of compliance policies across servers.
+BMC BladeLogic,Snapshot management,Automate the creation and management of snapshots for backups and rollbacks.
+BMC BladeLogic,Network topology visualization,Generate network topology diagrams for managed servers and devices.
+BMC BladeLogic,IPv6 provisioning support,Automate the provisioning of servers with IPv6 configurations.
+BMC BladeLogic,Proxy server configuration,Automate the setup of proxy servers for secure internet access.
+BMC BladeLogic,Multi-tenant provisioning,Manage provisioning for multiple tenants or organizations using BladeLogic.
+BMC BladeLogic,Edge computing provisioning,Automate edge computing environment setups for low-latency workloads.
+BMC BladeLogic,IoT device provisioning,Automate the provisioning of IoT devices with Linux-based operating systems.
+BMC BladeLogic,System health check automation,Perform health checks on provisioned systems to ensure proper configuration.
+BMC BladeLogic,Host decommissioning,Automate the decommissioning of outdated or unused systems.
+BMC BladeLogic,Host re-provisioning,Re-provision existing servers with updated configurations or operating systems.
+BMC BladeLogic,Host status notifications,"Send automated alerts for host status changes, such as failures or configuration drift."
+BMC BladeLogic,Multi-region infrastructure management,Manage infrastructure across multiple geographical regions from a single BladeLogic instance.
+BMC BladeLogic,Logging policy enforcement,Enforce logging policies for all servers by managing log configurations.
+BMC BladeLogic,Resource cleanup automation,Automate the cleanup of unused or orphaned resources to optimize costs.
+BMC BladeLogic,Multi-environment management,"Manage multiple environments (e.g., dev, staging, production) and their associated configurations through BladeLogic."
+BMC BladeLogic,Host lifecycle tracking,"Track the complete lifecycle of servers, from provisioning to retirement."
+BMC BladeLogic,Compliance policy enforcement,Automate the enforcement of compliance policies using BladeLogic’s configuration management tools.
+BMC BladeLogic,Logging policy enforcement,Enforce logging policies for all servers by managing log configurations.
+BMC BladeLogic,Resource cleanup automation,Automate the cleanup of unused or orphaned resources to optimize costs.
+BMC BladeLogic,Multi-environment management,"Manage multiple environments (e.g., dev, staging, production) and their associated configurations through BladeLogic."
+BMC BladeLogic,Host lifecycle tracking,"Track the complete lifecycle of servers, from provisioning to retirement."

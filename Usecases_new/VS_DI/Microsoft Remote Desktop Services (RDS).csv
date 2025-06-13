@@ -1,0 +1,77 @@
+Category,Short Description,Description
+Microsoft Remote Desktop Services (RDS),Centralized Application Management,Manage and deliver applications from a centralized RDS server.
+Microsoft Remote Desktop Services (RDS),Remote Desktop Access,Provide secure remote desktop access from any location.
+Microsoft Remote Desktop Services (RDS),Application Virtualization,Deliver virtualized applications without installing them locally.
+Microsoft Remote Desktop Services (RDS),Multi-Device Compatibility,"Access RDS-hosted desktops and applications from PCs, Macs, tablets, and smartphones."
+Microsoft Remote Desktop Services (RDS),Session-Based Desktop Delivery,Deliver session-based desktops to multiple users from a single server.
+Microsoft Remote Desktop Services (RDS),Role-Based Access Control,Assign permissions based on user roles for secure access.
+Microsoft Remote Desktop Services (RDS),Integration with Active Directory,Authenticate users seamlessly with Active Directory integration.
+Microsoft Remote Desktop Services (RDS),Secure Data Transmission,Encrypt data in transit using RDP encryption for secure communication.
+Microsoft Remote Desktop Services (RDS),Application Entitlement Management,Control which users or groups can access specific applications.
+Microsoft Remote Desktop Services (RDS),Multi-Monitor Support,Allow users to utilize multiple monitors for enhanced productivity.
+Microsoft Remote Desktop Services (RDS),Remote Printing Support,Enable users to print from remote desktops to local printers.
+Microsoft Remote Desktop Services (RDS),RemoteApp Program Delivery,Deliver specific applications to users without providing full desktops.
+Microsoft Remote Desktop Services (RDS),High Availability Deployment,Ensure continuous availability with RDS deployment in high-availability mode.
+Microsoft Remote Desktop Services (RDS),Load Balancing for Sessions,Distribute user sessions across multiple servers for optimal performance.
+Microsoft Remote Desktop Services (RDS),Session Timeout Policies,Configure session timeouts for enhanced security and resource management.
+Microsoft Remote Desktop Services (RDS),Integration with Microsoft 365,Deliver Microsoft 365 applications seamlessly through RDS.
+Microsoft Remote Desktop Services (RDS),BYOD Support,Allow employees to securely access RDS resources on personal devices.
+Microsoft Remote Desktop Services (RDS),Application Usage Monitoring,Track application usage to optimize licensing and performance.
+Microsoft Remote Desktop Services (RDS),Remote Workforce Enablement,Provide secure access to corporate desktops for remote employees.
+Microsoft Remote Desktop Services (RDS),Thin Client Optimization,Optimize performance for users accessing RDS via thin clients.
+Microsoft Remote Desktop Services (RDS),HTML5 Web Access,Enable users to access RDS-hosted resources via HTML5-compatible browsers.
+Microsoft Remote Desktop Services (RDS),Secure Gateway Access,Provide secure entry points for users accessing RDS environments remotely.
+Microsoft Remote Desktop Services (RDS),Session-Based Load Balancing,Dynamically distribute user sessions across servers based on load.
+Microsoft Remote Desktop Services (RDS),Centralized License Management,Manage RDS licenses and usage across multiple servers.
+Microsoft Remote Desktop Services (RDS),Real-Time Session Reconnection,Automatically reconnect users to their sessions after network interruptions.
+Microsoft Remote Desktop Services (RDS),Customizable End-User Portals,Create branded portals for end users to access RDS resources.
+Microsoft Remote Desktop Services (RDS),Resource Usage Analytics,Monitor resource consumption to optimize server performance.
+Microsoft Remote Desktop Services (RDS),Secure Clipboard Redirection,Control clipboard data transfers between remote and local systems.
+Microsoft Remote Desktop Services (RDS),Integration with Cloud Storage,Enable users to access OneDrive or other cloud storage within RDS sessions.
+Microsoft Remote Desktop Services (RDS),Support for Legacy Applications,Deliver legacy applications that require older Windows environments.
+Microsoft Remote Desktop Services (RDS),Remote Collaboration Tools,Allow teams to collaborate using shared applications or desktops.
+Microsoft Remote Desktop Services (RDS),Automated Application Updates,Push updates to applications without disrupting user sessions.
+Microsoft Remote Desktop Services (RDS),RemoteApp File Association,Associate file types with RemoteApp programs for seamless usage.
+Microsoft Remote Desktop Services (RDS),GPU-Accelerated Application Delivery,Deliver graphics-intensive applications with GPU support.
+Microsoft Remote Desktop Services (RDS),Temporary Desktop Provisioning,Quickly deploy desktops for temporary workers or contractors.
+Microsoft Remote Desktop Services (RDS),Integration with Azure Virtual Desktop,Extend RDS capabilities to Azure Virtual Desktop for hybrid deployments.
+Microsoft Remote Desktop Services (RDS),Power Management for Idle Sessions,Conserve energy by managing idle sessions or desktops.
+Microsoft Remote Desktop Services (RDS),Session-Based Remote Printing,Configure remote printing for session-based desktops.
+Microsoft Remote Desktop Services (RDS),Licensing Compliance Tracking,Ensure compliance with RDS CAL licensing requirements.
+Microsoft Remote Desktop Services (RDS),Scheduled Maintenance Automation,Automate server updates and maintenance during non-peak hours.
+Microsoft Remote Desktop Services (RDS),Secure Network Segmentation,Use network segmentation to isolate and secure RDS traffic.
+Microsoft Remote Desktop Services (RDS),Bandwidth Optimization,Optimize bandwidth usage for remote sessions across low-speed networks.
+Microsoft Remote Desktop Services (RDS),Real-Time Monitoring Dashboards,Monitor session and server health in real time using built-in tools.
+Microsoft Remote Desktop Services (RDS),Integration with Identity Providers,Use single sign-on with identity solutions like Okta or Azure AD.
+Microsoft Remote Desktop Services (RDS),Session Shadowing,Allow administrators to view and interact with user sessions for support.
+Microsoft Remote Desktop Services (RDS),Secure File Sharing,Enable secure file sharing within RDS environments.
+Microsoft Remote Desktop Services (RDS),Application Isolation for Security,Isolate applications to prevent conflicts or potential data breaches.
+Microsoft Remote Desktop Services (RDS),Hybrid Cloud Integration,Extend RDS to hybrid environments spanning on-premises and cloud.
+Microsoft Remote Desktop Services (RDS),Resource Scaling for Seasonal Demands,Scale RDS resources dynamically to handle seasonal workloads.
+Microsoft Remote Desktop Services (RDS),Multi-Tenant Application Delivery,Deliver applications to multiple tenants in a single RDS deployment.
+Microsoft Remote Desktop Services (RDS),Integration with Microsoft Teams,Optimize Microsoft Teams performance in RDS environments.
+Microsoft Remote Desktop Services (RDS),Policy-Based Application Delivery,"Deliver applications based on user roles, locations, or devices."
+Microsoft Remote Desktop Services (RDS),Application Testing Sandbox,Test and debug applications in isolated RDS environments.
+Microsoft Remote Desktop Services (RDS),Secure API Access,Automate RDS management using secure APIs.
+Microsoft Remote Desktop Services (RDS),Remote Session Recording,Record RDS user sessions for auditing and compliance purposes.
+Microsoft Remote Desktop Services (RDS),Real-Time Collaboration on Shared Desktops,Allow multiple users to work on shared desktops securely.
+Microsoft Remote Desktop Services (RDS),Temporary Licensing Support,Enable temporary RDS CALs for short-term projects.
+Microsoft Remote Desktop Services (RDS),GPU Workstations for CAD Applications,Deliver virtual workstations optimized for CAD and 3D rendering.
+Microsoft Remote Desktop Services (RDS),Integration with VMware and Hyper-V,Deploy RDS on virtual machines hosted on VMware or Hyper-V platforms.
+Microsoft Remote Desktop Services (RDS),Secure Session Gateway Deployment,Deploy secure gateways to allow external access to RDS resources.
+Microsoft Remote Desktop Services (RDS),Resource Quota Management,Monitor and enforce resource quotas for RDS users.
+Microsoft Remote Desktop Services (RDS),Advanced Load Balancing Rules,Define advanced rules for load balancing user sessions.
+Microsoft Remote Desktop Services (RDS),Integration with Cloud Identity Providers,Support authentication through providers like Okta or Ping Identity.
+Microsoft Remote Desktop Services (RDS),AI-Based Session Optimization,Use AI to optimize session performance and resource allocation.
+Microsoft Remote Desktop Services (RDS),Notification Alerts for Performance Issues,Receive real-time alerts for resource or performance issues.
+Microsoft Remote Desktop Services (RDS),Desktop Image Version Control,Maintain and roll back desktop images as needed.
+Microsoft Remote Desktop Services (RDS),Endpoint Security Compliance,Ensure endpoints meet security standards before accessing RDS.
+Microsoft Remote Desktop Services (RDS),Shared Desktop Pools for Departments,Create shared desktop pools for specific teams or departments.
+Microsoft Remote Desktop Services (RDS),Cross-Platform Application Delivery,"Deliver applications to multiple platforms like Windows, macOS, and Linux."
+Microsoft Remote Desktop Services (RDS),Resource Usage Analytics,Generate reports on resource usage for cost optimization.
+Microsoft Remote Desktop Services (RDS),API-Based Automation,Automate RDS tasks like provisioning and session management using APIs.
+Microsoft Remote Desktop Services (RDS),Temporary Resource Scaling,Scale RDS resources dynamically for short-term projects.
+Microsoft Remote Desktop Services (RDS),Multi-Factor Authentication Support,Add MFA to enhance security for RDS logins.
+Microsoft Remote Desktop Services (RDS),Secure Collaboration for Remote Teams,Allow remote teams to collaborate securely via RDS-hosted applications.
+Microsoft Remote Desktop Services (RDS),Licensing Audit Compliance,Generate reports to ensure compliance with licensing audits.
+Microsoft Remote Desktop Services (RDS),Real-Time Desktop Scaling,Dynamically scale desktop

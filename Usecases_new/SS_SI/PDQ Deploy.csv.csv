@@ -1,0 +1,74 @@
+Category,Short Description,Description
+PDQ Deploy,Deploy Software Updates,Automate the deployment of software updates to ensure all systems are running the latest versions.
+PDQ Deploy,Install New Applications,Automatically install new applications on target machines with preconfigured deployment packages.
+PDQ Deploy,Uninstall Applications,Automate the removal of unwanted or deprecated software from devices.
+PDQ Deploy,Patch Third-Party Applications,"Deploy patches for third-party applications such as Adobe Reader, Chrome, or Java."
+PDQ Deploy,Schedule Recurring Deployments,"Automate recurring deployments, such as monthly updates or quarterly software rollouts."
+PDQ Deploy,Monitor Deployment Status,Track and log the status of deployments to identify failures or issues.
+PDQ Deploy,Deploy Custom Scripts,"Automate the execution of custom PowerShell, Batch, or VBScript scripts on target machines."
+PDQ Deploy,Install Windows Updates,Deploy Windows updates to ensure devices are up to date with the latest security and performance patches.
+PDQ Deploy,Restart Machines After Updates,Automatically restart machines after deploying updates or software installations.
+PDQ Deploy,Deploy Drivers,Automate the deployment of updated device drivers to ensure compatibility and performance.
+PDQ Deploy,Disable Unused Features,Deploy scripts to disable unused Windows features such as Cortana or OneDrive.
+PDQ Deploy,Install Antivirus Software,Automate the deployment of antivirus or endpoint protection software across all systems.
+PDQ Deploy,Remove Bloatware,Automate the removal of pre-installed or unnecessary applications from new devices.
+PDQ Deploy,Set Desktop Backgrounds,Deploy scripts to set or enforce corporate branding as desktop wallpapers.
+PDQ Deploy,Update Browser Settings,"Automate the deployment of browser configurations, such as default search engine or homepage settings."
+PDQ Deploy,Deploy Printer Drivers,Automatically install or update printer drivers on target machines.
+PDQ Deploy,Configure Network Settings,"Deploy scripts to configure network settings, such as DNS or proxy configurations."
+PDQ Deploy,Install VPN Clients,Automate the deployment of VPN client software to enable secure remote access.
+PDQ Deploy,Deploy Office Suite,Automatically deploy or update Microsoft Office or other office productivity suites.
+PDQ Deploy,Remove Legacy Software,Automate the removal of outdated or unsupported software versions.
+PDQ Deploy,Deploy File Permissions Changes,Deploy scripts to modify file or folder permissions across target devices.
+PDQ Deploy,Configure Firewall Rules,Automate the deployment of firewall configurations to ensure a secure network environment.
+PDQ Deploy,Install Development Tools,Automatically deploy tools such as Visual Studio or programming language compilers for developers.
+PDQ Deploy,Enforce Password Policies,Deploy scripts to enforce password complexity or expiration policies on target systems.
+PDQ Deploy,Update Firmware,Automate firmware updates for devices such as network adapters or BIOS.
+PDQ Deploy,Disable USB Ports,Deploy scripts to disable USB ports on devices for security purposes.
+PDQ Deploy,Configure Power Settings,Deploy energy-saving power plans or disable sleep mode on specific machines.
+PDQ Deploy,Reset Local Administrator Passwords,Deploy scripts to reset local administrator passwords across devices.
+PDQ Deploy,Deploy Registry Changes,Automate registry modifications for specific application or system settings.
+PDQ Deploy,Install Fonts,Deploy custom fonts to target machines for specific projects or branding.
+PDQ Deploy,Distribute Configuration Files,Automatically distribute configuration files to target devices.
+PDQ Deploy,Deploy Time Zone Settings,Deploy scripts to set or modify time zone settings on devices.
+PDQ Deploy,Clean Temporary Files,Automate the cleanup of temporary files to free up disk space on target devices.
+PDQ Deploy,Disable Windows Update Service,Deploy scripts to disable or modify the behavior of the Windows Update service.
+PDQ Deploy,Install Collaboration Tools,"Automate the deployment of communication tools like Teams, Zoom, or Slack."
+PDQ Deploy,Deploy Group Policy Updates,Deploy scripts to refresh or enforce Group Policy settings on devices.
+PDQ Deploy,Configure Startup Programs,Automate the addition or removal of startup programs on target machines.
+PDQ Deploy,Deploy Desktop Shortcuts,Automatically create or deploy shortcuts for applications or network resources on desktops.
+PDQ Deploy,Disable Guest Accounts,Deploy scripts to disable guest accounts across all systems.
+PDQ Deploy,Configure Proxy Settings,Automate the deployment of proxy settings for web traffic filtering or monitoring.
+PDQ Deploy,Deploy Security Certificates,Automatically deploy SSL or security certificates to managed devices.
+PDQ Deploy,Clear Event Logs,Deploy scripts to clear old event logs on devices to free up disk space.
+PDQ Deploy,Deploy Email Client Configuration,Automate the setup of email clients such as Outlook or Thunderbird for users.
+PDQ Deploy,Enforce Disk Encryption,Deploy scripts to enforce disk encryption policies such as BitLocker.
+PDQ Deploy,Install Monitoring Tools,Automate the deployment of system or network monitoring tools like SolarWinds or Nagios agents.
+PDQ Deploy,Deploy Backup Agents,Automatically deploy backup agents for third-party backup solutions.
+PDQ Deploy,Configure Scheduled Tasks,Deploy scripts to create or update scheduled tasks on target machines.
+PDQ Deploy,Remove Old User Profiles,Automate the cleanup of unused or old user profiles on shared devices.
+PDQ Deploy,Install Browser Plugins,"Automatically deploy or update browser plugins, such as Adobe Flash or Java plugins for legacy systems."
+PDQ Deploy,Update BIOS Settings,Deploy scripts to update or modify BIOS settings such as boot order or secure boot.
+PDQ Deploy,Deploy Software Licensing Keys,Automate the distribution of software licensing keys to applications.
+PDQ Deploy,Disable Windows Defender,Deploy scripts to disable Windows Defender on systems where a third-party antivirus is installed.
+PDQ Deploy,Configure System Restore Settings,Deploy scripts to configure or enable system restore points on Windows devices.
+PDQ Deploy,Install Patch Management Tools,Automate the deployment of patch management tools for endpoint updates.
+PDQ Deploy,Remove Temporary User Accounts,Deploy scripts to remove temporary or test user accounts from devices.
+PDQ Deploy,Configure RDP Settings,Automate the configuration of Remote Desktop Protocol settings for remote access.
+PDQ Deploy,Install Database Clients,Deploy database client tools such as MySQL Workbench or SQL Server Management Studio.
+PDQ Deploy,Deploy File Server Mappings,Automatically configure shared drive mappings for users.
+PDQ Deploy,Enable Remote Assistance,Deploy scripts to enable or configure remote assistance tools for IT support.
+PDQ Deploy,Install Cloud Storage Clients,"Automate the deployment of cloud storage clients like OneDrive, Google Drive, or Dropbox."
+PDQ Deploy,Disable Windows Cortana,Deploy scripts to disable Cortana on Windows devices to improve privacy.
+PDQ Deploy,Configure Application Whitelisting,Automate the deployment of application whitelisting policies for enhanced security.
+PDQ Deploy,Configure File Sharing Settings,Deploy scripts to enable or disable file sharing on devices.
+PDQ Deploy,Deploy Compliance Scripts,Automate the deployment of scripts to check and enforce compliance with company policies.
+PDQ Deploy,Install Web Browsers,"Automate the deployment of popular web browsers such as Chrome, Edge, or Firefox."
+PDQ Deploy,Schedule Reboots,Deploy scripts to schedule reboots on target machines after updates or installations.
+PDQ Deploy,Enforce Screen Lock Policies,Deploy scripts to enforce screen lock timeout policies for security purposes.
+PDQ Deploy,Configure Active Directory Settings,Automatically deploy changes to Active Directory settings for users or devices.
+PDQ Deploy,Deploy Remote Desktop Tools,Automate the installation of remote desktop tools like AnyDesk or TeamViewer.
+PDQ Deploy,Configure Local Firewall Rules,Deploy scripts to modify local firewall rules on devices.
+PDQ Deploy,Disable AutoPlay,Automate the deployment of scripts to disable AutoPlay for external devices.
+PDQ Deploy,Install Password Management Tools,"Deploy password management tools such as LastPass, KeePass, or 1Password."
+PDQ Deploy,Deploy Log Monitoring Tools,Automate the installation of log

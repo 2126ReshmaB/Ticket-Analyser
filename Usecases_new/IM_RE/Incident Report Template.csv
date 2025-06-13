@@ -1,0 +1,51 @@
+Category,Short Description,Description
+Incident Report Template,Auto-fill incident details,"Automatically populate incident details such as date, time, and location using predefined fields or integrations with monitoring tools."
+Incident Report Template,Notify on new incident creation,Send notifications to relevant stakeholders when a new incident report is created.
+Incident Report Template,Auto-assign incident owners,Automatically assign ownership of incidents to specific individuals or teams based on incident type or severity.
+Incident Report Template,Auto-prioritize incidents,"Automatically assign priority levels to incidents based on predefined criteria such as severity, impact, or urgency."
+Incident Report Template,Auto-create incident categories,Automatically categorize incidents based on keywords or predefined rules in the report.
+Incident Report Template,Notify on overdue incidents,Send reminders to incident owners when incidents are overdue or nearing their resolution deadlines.
+Incident Report Template,Auto-link related incidents,"Automatically link related incidents based on shared attributes such as location, type, or involved assets."
+Incident Report Template,Auto-generate incident summaries,"Automatically generate summaries for incidents, including key details and resolution steps."
+Incident Report Template,Auto-create incident timelines,"Automatically generate timelines for incidents, including key events and actions taken."
+Incident Report Template,Notify on incident status changes,"Send notifications to stakeholders when the status of an incident changes (e.g., from ""Open"" to ""In Progress"")."
+Incident Report Template,Auto-create incident dashboards,"Automatically generate dashboards to visualize incident trends, statuses, and key metrics."
+Incident Report Template,Auto-create compliance reports,Automatically generate compliance reports for incidents to meet regulatory requirements.
+Incident Report Template,Notify on SLA breaches,Send alerts when incidents exceed their Service Level Agreement (SLA) deadlines.
+Incident Report Template,Auto-create incident playbooks,Automatically generate incident response playbooks based on the type of incident reported.
+Incident Report Template,Auto-create incident tags,Automatically tag incidents with relevant keywords or categories for easier search and filtering.
+Incident Report Template,Notify on critical incidents,Send immediate alerts to senior management or security teams when critical incidents are logged.
+Incident Report Template,Auto-close resolved incidents,"Automatically close incidents that meet predefined resolution criteria, such as all tasks being completed."
+Incident Report Template,Auto-create tasks for incident resolution,Automatically generate resolution tasks for incidents based on predefined workflows or playbooks.
+Incident Report Template,Auto-update incident severity,Automatically update the severity of incidents based on new information or changes in impact.
+Incident Report Template,Auto-create root cause analysis,Automatically generate root cause analysis reports for incidents based on available data.
+Incident Report Template,Notify on incident escalation,Send alerts when incidents are escalated to higher levels of management or response teams.
+Incident Report Template,Auto-create incident follow-up tasks,Automatically generate follow-up tasks for incidents to ensure proper resolution and documentation.
+Incident Report Template,Auto-create incident heatmaps,Automatically generate heatmaps to visualize incident frequency and severity by location or category.
+Incident Report Template,Notify on incident recurrence,Send alerts when similar incidents recur within a specified timeframe.
+Incident Report Template,Auto-create incident response SLAs,Automatically generate Service Level Agreements (SLAs) for incident response based on predefined criteria.
+Incident Report Template,Notify on incident resolution delays,Send alerts when incidents are not resolved within the expected timeframe.
+Incident Report Template,Auto-create incident severity heatmaps,Automatically generate heatmaps to visualize incident severity across different categories or locations.
+Incident Report Template,Notify on incident misclassification,Send alerts when incidents are misclassified or require reclassification.
+Incident Report Template,Auto-create incident response metrics,Automatically generate metrics to measure the effectiveness of incident response efforts.
+Incident Report Template,Notify on incident response gaps,Send alerts when gaps or inefficiencies are identified in incident response workflows.
+Incident Report Template,Auto-create incident response training tasks,Automatically generate training tasks for teams based on incident response gaps or trends.
+Incident Report Template,Auto-create incident escalation workflows,Automatically generate workflows for escalating incidents to higher levels of management or response teams.
+Incident Report Template,Notify on incident trends,Send alerts when specific incident trends or patterns are detected.
+Incident Report Template,Auto-create incident KPIs,"Automatically generate Key Performance Indicators (KPIs) for incident management, such as average resolution time."
+Incident Report Template,Auto-create incident workflows,Automatically generate workflows for incident response based on predefined templates.
+Incident Report Template,Notify on incident containment,Send alerts when containment actions are successfully executed for an incident.
+Incident Report Template,Auto-create incident response benchmarks,Automatically generate benchmarks to compare incident response performance over time.
+Incident Report Template,Notify on incident resolution verification,Send alerts when incident resolution is verified by the appropriate team or individual.
+Incident Report Template,Auto-create incident response dashboards,Automatically generate dashboards to track incident response performance and trends.
+Incident Report Template,Notify on incident response improvements,Send alerts when improvements are made to incident response workflows or processes.
+Incident Report Template,Auto-create incident response readiness reports,Automatically generate reports to assess the readiness of incident response teams.
+Incident Report Template,Notify on incident response readiness,Send alerts when incident response teams are fully prepared or require additional resources.
+Incident Report Template,Auto-create incident response training plans,Automatically generate training plans for incident response teams based on identified gaps or trends.
+Incident Report Template,Auto-create incident response playbooks,Automatically generate playbooks for incident response based on incident type or severity.
+Incident Report Template,Notify on incident response effectiveness,Send alerts when incident response efforts are deemed effective or require improvement.
+Incident Report Template,Auto-create incident response improvement plans,Automatically generate plans to improve incident response workflows and processes.
+Incident Report Template,Notify on incident response readiness gaps,Send alerts when gaps are identified in incident response readiness.
+Incident Report Template,Auto-create incident response readiness benchmarks,Automatically generate benchmarks to assess incident response readiness over time.
+Incident Report Template,Notify on incident response readiness improvements,Send alerts when improvements are made to incident response readiness.
+Incident Report Template,Auto-create incident response readiness dashboards,Automatically generate dashboards to track incident response readiness and performance.

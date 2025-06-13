@@ -1,0 +1,69 @@
+Category,Short Description,Description
+inSSIDer,Automated Wi-Fi Channel Scanning,Automate the scanning of Wi-Fi channels to identify the least congested one for optimal performance.
+inSSIDer,Signal Strength Monitoring,Automate the monitoring of signal strength for all detected Wi-Fi networks.
+inSSIDer,Access Point Discovery,Automate the discovery of all active access points in the vicinity.
+inSSIDer,Channel Congestion Analysis,Automate the analysis of Wi-Fi channel congestion to identify overcrowded channels.
+inSSIDer,Multi-Band Scanning,Automate the scanning of both 2.4 GHz and 5 GHz frequency bands for a complete overview of network conditions.
+inSSIDer,Real-Time Signal Strength Alerts,Automatically generate alerts when the signal strength of a selected network drops below a specified threshold.
+inSSIDer,Historical Signal Strength Logging,Automate the logging of signal strength over time to analyze trends and detect performance changes.
+inSSIDer,Wi-Fi Security Type Detection,"Automate the detection of the security type (e.g., WPA2, WPA3) used by nearby networks."
+inSSIDer,SSID Name Change Detection,Automatically detect and log changes in SSID names for nearby networks.
+inSSIDer,Rogue Access Point Detection,Automate the identification of unauthorized or rogue access points in the area.
+inSSIDer,Wi-Fi Signal Strength Heatmap,Automatically generate signal strength heatmaps for a physical location.
+inSSIDer,Device-Specific Network Scanning,Automate scans tailored to specific devices to measure their connection quality.
+inSSIDer,Channel Width Analysis,"Automate the analysis of channel width configurations (e.g., 20 MHz, 40 MHz) for connected networks."
+inSSIDer,Wi-Fi Interference Identification,Automate the detection of interference sources affecting Wi-Fi performance.
+inSSIDer,AP Load Monitoring,Automate the monitoring of access point load based on connected devices and throughput.
+inSSIDer,Neighboring Network Analysis,Automate the analysis of nearby networks to determine their impact on the current network.
+inSSIDer,Automated Channel Reassignment,Automate recommendations for the best channel reassignment to reduce interference.
+inSSIDer,Wi-Fi Coverage Analysis,Automatically analyze the coverage area of a Wi-Fi network to highlight dead zones.
+inSSIDer,RSSI Threshold Alerts,Automatically trigger alerts when the RSSI (Received Signal Strength Indicator) of a network exceeds or falls below a threshold.
+inSSIDer,Automated AP Configuration Validation,"Automate the validation of access point configurations, such as security settings and channel selection."
+inSSIDer,Network Speed Testing,Automate the testing of network speed for all detected Wi-Fi networks.
+inSSIDer,Wi-Fi Network Health Report Generation,Automatically generate comprehensive health reports for selected Wi-Fi networks.
+inSSIDer,Connection Stability Monitoring,Automate the monitoring of connection stability for a specific Wi-Fi network.
+inSSIDer,Channel Overlap Analysis,Automate the detection and reporting of overlapping channels between networks.
+inSSIDer,Automated Wi-Fi Security Alerts,Automatically trigger alerts for detected Wi-Fi networks with weak security protocols.
+inSSIDer,Signal-to-Noise Ratio Monitoring,Automate the monitoring of SNR (Signal-to-Noise Ratio) to assess network quality.
+inSSIDer,SSID Broadcast Status Detection,Automate the detection of networks that have disabled SSID broadcasting.
+inSSIDer,Wi-Fi Device Discovery,Automate the identification of devices connected to a specific access point.
+inSSIDer,Automated Bandwidth Usage Analysis,Automate the analysis of bandwidth usage across all detected access points.
+inSSIDer,Integration with Network Monitoring Tools,Automate the export of Wi-Fi network metrics to external network monitoring tools.
+inSSIDer,Hidden Network Detection,Automate the detection of hidden Wi-Fi networks in the area.
+inSSIDer,Channel Reuse Analysis,Automate the analysis of channel reuse among access points to avoid interference.
+inSSIDer,Real-Time Wi-Fi Performance Alerts,"Automatically generate alerts for performance issues, such as low throughput or high latency."
+inSSIDer,Automated Wi-Fi Audit,Automate the auditing of Wi-Fi networks for compliance with security and performance standards.
+inSSIDer,Wi-Fi Signal Coverage Prediction,Automate predictions of signal coverage for new access point deployments.
+inSSIDer,Automated Wi-Fi Heatmap Updates,Automatically update Wi-Fi heatmaps based on real-time signal strength data.
+inSSIDer,Multi-AP Coordination Analysis,Automate the analysis of coordination between multiple access points in the same network.
+inSSIDer,802.11 Standard Compliance Analysis,Automate the verification of compliance with 802.11 standards for all detected networks.
+inSSIDer,Automated Wi-Fi Network Prioritization,"Automate the prioritization of networks based on signal strength, security, and other factors."
+inSSIDer,Wi-Fi Channel Utilization Monitoring,Automate the monitoring of channel utilization to identify overused channels.
+inSSIDer,Wi-Fi Device Signal Strength Comparison,Automate the comparison of signal strength for multiple devices connected to the same network.
+inSSIDer,Integration with Analytics Tools,Automate the export of Wi-Fi performance data to analytics platforms for deeper insights.
+inSSIDer,Real-Time Rogue Device Alerts,Automatically generate alerts when rogue devices connect to the network.
+inSSIDer,Wi-Fi Encryption Protocol Analysis,Automate the analysis of encryption protocols for all detected networks.
+inSSIDer,Automated AP Power Level Analysis,Automate the analysis of access point power levels to optimize coverage and minimize interference.
+inSSIDer,Automated SSID Filtering,"Automate the filtering of SSIDs based on specific parameters, such as security type or signal strength."
+inSSIDer,Wi-Fi Signal Strength Benchmarking,Automate the benchmarking of signal strength for selected networks against industry standards.
+inSSIDer,AP Firmware Validation,Automate the validation of firmware versions for detected access points.
+inSSIDer,Wi-Fi Signal Stability Analysis,Automate the analysis of signal stability over time for selected networks.
+inSSIDer,Automated Network Downtime Alerts,Automatically generate alerts when a selected network goes down.
+inSSIDer,Wi-Fi Authentication Type Detection,"Automate the detection of authentication types (e.g., WPA3-Enterprise) used by networks."
+inSSIDer,Real-Time Network Load Monitoring,Automate the monitoring of network load on access points to identify bottlenecks.
+inSSIDer,Automated Signal Drop Detection,Automatically detect and log instances of signal drops for selected networks.
+inSSIDer,Wi-Fi Dead Zone Identification,Automate the identification of dead zones in the coverage area.
+inSSIDer,Channel Optimization Recommendations,Automate the generation of recommendations for channel optimization.
+inSSIDer,AP Signal Strength Validation,Automate validation of signal strength levels for existing access points.
+inSSIDer,Network Congestion Alerts,Automatically generate alerts when network congestion exceeds predefined thresholds.
+inSSIDer,Wi-Fi Device Location Estimation,Automate the estimation of device locations based on signal strength and triangulation.
+inSSIDer,Automated Wi-Fi Roaming Analysis,Automate the analysis of device roaming behavior between access points.
+inSSIDer,Integration with Cloud Platforms,Automate the synchronization of inSSIDer data with cloud platforms for storage and analysis.
+inSSIDer,Automated Wi-Fi Vulnerability Scanning,Automate the scanning of networks for potential security vulnerabilities.
+inSSIDer,Wi-Fi Network Latency Monitoring,Automate the monitoring of latency for selected Wi-Fi networks.
+inSSIDer,Automated Wi-Fi Speed Testing,"Automate the testing of download, upload, and ping speeds for selected networks."
+inSSIDer,Device Bandwidth Usage Analysis,Automate the analysis of bandwidth usage for devices connected to the same network.
+inSSIDer,Automated Wi-Fi Dependability Testing,Automate the testing of Wi-Fi network dependability under various conditions.
+inSSIDer,Hidden SSID Alerts,Automatically generate alerts when hidden SSIDs are detected.
+inSSIDer,Wi-Fi Traffic Pattern Analysis,Automate the analysis of traffic patterns for selected networks.
+inSSIDer,Real-Time SNR Alerts,Automatically generate alerts when the Signal-to-

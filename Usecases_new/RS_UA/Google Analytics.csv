@@ -1,0 +1,105 @@
+Category,Short Description,Description
+Google Analytics,Automated Daily Traffic Report,"Generates and emails daily traffic reports showing key metrics like sessions, users, and pageviews to stakeholders. The report includes comparison with previous periods and highlights significant changes [\[1\]](https://www.youtube.com/watch?v=DLp9lwgrWGU#:~:text=use%20of%20machine%20learning,which%20will%20highlight%20anomalies)."
+Google Analytics,User Behavior Flow Analysis,"Automatically creates and distributes reports showing user navigation patterns through the website, identifying common paths and drop-off points [\[2\]](https://databox.com/most-useful-google-analytics-reports#:~:text=paths%2C%20and%20goals%2C%20there,what%20pages%20and%20posts)."
+Google Analytics,Conversion Funnel Monitoring,"Tracks and alerts on changes in conversion rates across defined funnels, automatically notifying teams when conversion rates drop below specified thresholds."
+Google Analytics,Campaign Performance Dashboard,"Creates automated dashboards showing real-time campaign performance metrics, including ROI, conversion rates, and engagement metrics [\[3\]](https://rollout.com/integration-guides/google-analytics/api-essentials#:~:text=identification%2C%20and%20adherence%20to,data%20limitations%20and%20best)."
+Google Analytics,E-commerce Revenue Tracking,"Generates detailed reports on e-commerce performance, including product sales, average order value, and shopping cart abandonment rates [\[4\]](https://developers.google.com/analytics/devguides/reporting/data/v1#:~:text=You%20can%20use%20the,with%20legacy%20Universal%20Analytics)."
+Google Analytics,Audience Segment Analysis,Automatically segments users based on behavior patterns and generates reports showing how different segments interact with the website.
+Google Analytics,Real-time Traffic Alerts,"Monitors real-time traffic patterns and sends alerts when unusual spikes or drops in traffic occur [\[5\]](https://support.google.com/analytics/answer/10089681?hl=en#:~:text=Explore%20Google%20Analytics%204%2C,from%20both%20websites%20and)."
+Google Analytics,Custom Event Tracking,"Automatically tracks and reports on specific user interactions like video views, file downloads, or form submissions [\[6\]](https://www.youtube.com/watch?v=DLp9lwgrWGU#:~:text=uploading%20cost%20data%20to,tag%20manager%20Google%20tag)."
+Google Analytics,SEO Performance Monitoring,"Creates reports showing organic search performance, including landing page performance and keyword rankings [\[2\]](https://databox.com/most-useful-google-analytics-reports#:~:text=paths%2C%20and%20goals%2C%20there,what%20pages%20and%20posts)."
+Google Analytics,Mobile vs Desktop Analysis,Generates comparative analysis reports between mobile and desktop user behavior and conversion rates.
+Google Analytics,Geographic Performance Report,"Automatically creates reports showing performance metrics broken down by geographic regions [\[7\]](https://www.optimizesmart.com/complete-guide-to-dimensions-and-metrics-in-google-analytics/#:~:text=Here%2C%20%E2%80%98Gender%E2%80%99%2C%20%E2%80%98Age%E2%80%99%2C%20%E2%80%98City%E2%80%99%2C,characteristics%20of%20your%20website)."
+Google Analytics,Page Load Time Monitoring,Tracks and alerts on page load time issues across different pages and devices.
+Google Analytics,Social Media Impact Analysis,Measures and reports on traffic and conversions from various social media channels.
+Google Analytics,Content Performance Tracking,Analyzes and reports on top-performing content based on engagement metrics and conversion rates.
+Google Analytics,User Path Analysis,"Creates visualizations of common user paths through the website, highlighting key interaction points."
+Google Analytics,Bounce Rate Analysis,Monitors bounce rates across different pages and sends alerts when rates exceed thresholds.
+Google Analytics,Device Category Report,"Generates reports showing performance metrics across different device categories [\[8\]](https://www.optimizesmart.com/complete-guide-to-dimensions-and-metrics-in-google-analytics/#:~:text=%232%20Session%20Dimensions%20%E2%80%93,example%2C%20Session%20Duration%2C%20Session)."
+Google Analytics,Goal Completion Tracking,Automatically tracks and reports on goal completions and conversion rates across different segments.
+Google Analytics,Traffic Source Analysis,"Creates detailed reports on traffic sources and their respective conversion rates [\[2\]](https://databox.com/most-useful-google-analytics-reports#:~:text=paths%2C%20and%20goals%2C%20there,what%20pages%20and%20posts)."
+Google Analytics,Custom Dimension Reporting,Automatically generates reports based on custom dimensions and metrics specific to business needs.
+Google Analytics,Exit Page Analysis,"Identifies and reports on pages with high exit rates, helping optimize user retention."
+Google Analytics,Session Duration Tracking,"Monitors and reports on average session duration trends across different user segments [\[8\]](https://www.optimizesmart.com/complete-guide-to-dimensions-and-metrics-in-google-analytics/#:~:text=%232%20Session%20Dimensions%20%E2%80%93,example%2C%20Session%20Duration%2C%20Session)."
+Google Analytics,Landing Page Performance,Analyzes and reports on landing page effectiveness based on conversion rates and bounce rates.
+Google Analytics,User Retention Analysis,"Creates reports showing user retention rates and patterns over time [\[9\]](https://www.owox.com/blog/articles/metrics-and-dimensions-in-ga#:~:text=In%20Google%20Analytics%204,This%20report%20is%20crucial)."
+Google Analytics,Event Flow Analysis,Tracks and visualizes the flow of events as users interact with the website.
+Google Analytics,Cross-Device Tracking,Generates reports showing user behavior across different devices and platforms.
+Google Analytics,Acquisition Channel Analysis,"Creates detailed reports on the performance of different acquisition channels [\[10\]](https://databox.com/the-most-tracked-google-analytics-metrics#:~:text=monetization%20metrics.%20For%20example%3A,metrics%20Item%20views%2C%20add)."
+Google Analytics,Custom Alert Configuration,Automatically sets up and manages custom alerts based on specific triggers and thresholds.
+Google Analytics,A/B Test Performance,"Tracks and reports on A/B test results, including conversion rates and user behavior differences."
+Google Analytics,User Flow Visualization,"Creates automated visualizations of user flows through the website, highlighting key conversion paths."
+Google Analytics,Site Search Analysis,Monitors and reports on internal search patterns and effectiveness.
+Google Analytics,Page Scroll Depth Tracking,Measures and reports on how far users scroll on different pages.
+Google Analytics,Form Abandonment Analysis,Tracks and reports on form completion rates and abandonment points.
+Google Analytics,Custom Segment Creation,Automatically creates and updates user segments based on behavior patterns.
+Google Analytics,Browser Usage Report,"Analyzes and reports on website performance across different browsers [\[8\]](https://www.optimizesmart.com/complete-guide-to-dimensions-and-metrics-in-google-analytics/#:~:text=%232%20Session%20Dimensions%20%E2%80%93,example%2C%20Session%20Duration%2C%20Session)."
+Google Analytics,Campaign ROI Calculation,Automatically calculates and reports ROI for different marketing campaigns.
+Google Analytics,User Lifetime Value Tracking,"Monitors and reports on customer lifetime value across different segments [\[11\]](https://www.optimizesmart.com/complete-guide-to-dimensions-and-metrics-in-google-analytics/#:~:text=What%20are%20the%20different,default%20dimensions%20in%20Google)."
+Google Analytics,Error Page Monitoring,Tracks and alerts on 404 errors and other error page occurrences.
+Google Analytics,Download Tracking,Monitors and reports on file download patterns and frequencies.
+Google Analytics,Video Engagement Analysis,Tracks and reports on video view patterns and engagement metrics.
+Google Analytics,Cart Abandonment Tracking,Monitors shopping cart abandonment rates and triggers automated follow-ups.
+Google Analytics,User Demographics Report,"Generates reports on user demographics and behavior patterns [\[11\]](https://www.optimizesmart.com/complete-guide-to-dimensions-and-metrics-in-google-analytics/#:~:text=What%20are%20the%20different,default%20dimensions%20in%20Google)."
+Google Analytics,Page Speed Impact Analysis,Analyzes and reports on how page speed affects user behavior and conversions.
+Google Analytics,Custom URL Parameter Tracking,Automatically tracks and reports on custom URL parameter performance.
+Google Analytics,Event Goal Tracking,Sets up and monitors goals based on specific event triggers.
+Google Analytics,Cross-Domain Tracking,Monitors user behavior across multiple domains or subdomains.
+Google Analytics,Enhanced E-commerce Report,"Generates detailed reports on shopping behavior and product performance [\[4\]](https://developers.google.com/analytics/devguides/reporting/data/v1#:~:text=You%20can%20use%20the,with%20legacy%20Universal%20Analytics)."
+Google Analytics,User ID Tracking,Implements and monitors user ID tracking across sessions.
+Google Analytics,Custom Metric Reporting,Creates reports based on custom metrics specific to business needs.
+Google Analytics,Automated Annotation Creation,Automatically creates annotations for significant events or changes.
+Google Analytics,Channel Grouping Analysis,Creates and monitors custom channel groupings and their performance.
+Google Analytics,Time on Page Analysis,Tracks and reports on time spent on different pages across segments.
+Google Analytics,Event Value Tracking,Monitors and reports on the value of different events and interactions.
+Google Analytics,Goal Flow Visualization,Creates automated visualizations of goal completion flows.
+Google Analytics,Custom Report Scheduling,Automatically schedules and distributes custom reports to stakeholders.
+Google Analytics,Site Speed Sample Rate,Adjusts and monitors site speed sample rates for optimal tracking.
+Google Analytics,User Timing Analysis,Tracks and reports on user timing metrics across different interactions.
+Google Analytics,Content Grouping Analysis,Creates and monitors performance of content groups.
+Google Analytics,Enhanced Link Attribution,Implements and monitors enhanced link attribution tracking.
+Google Analytics,Event Category Analysis,Analyzes and reports on event category performance and patterns.
+Google Analytics,Custom Dashboard Creation,Automatically creates and updates custom dashboards for different stakeholders.
+Google Analytics,Referral Traffic Analysis,Monitors and reports on referral traffic sources and their quality.
+Google Analytics,Page Value Analysis,Calculates and reports on the value of different pages to conversions.
+Google Analytics,Session Quality Analysis,Monitors and reports on session quality scores across segments.
+Google Analytics,Goal Value Tracking,Tracks and reports on goal values and their contribution to ROI.
+Google Analytics,User Explorer Analysis,Generates detailed reports on individual user behavior patterns.
+Google Analytics,Conversion Probability,Calculates and reports on conversion probabilities for different segments.
+Google Analytics,Custom Channel Definition,Creates and monitors custom channel definitions and performance.
+Google Analytics,Page Timing Analysis,Tracks and reports on page timing metrics across different pages.
+Google Analytics,Event Label Analysis,Analyzes and reports on event label performance and patterns.
+Google Analytics,Custom Filter Creation,Automatically creates and manages custom filters for data views.
+Google Analytics,Site Search Term Analysis,Monitors and reports on site search term patterns and effectiveness.
+Google Analytics,User Type Analysis,Analyzes and reports on new vs returning user behavior patterns.
+Google Analytics,Page Path Analysis,Tracks and reports on common page paths through the website.
+Google Analytics,Goal Funnel Visualization,Creates automated visualizations of goal funnel performance.
+Google Analytics,Event Action Analysis,Analyzes and reports on event action performance and patterns.
+Google Analytics,Custom Dimension Creation,Automatically creates and manages custom dimensions for tracking.
+Google Analytics,Landing Page Optimization,Monitors and reports on landing page optimization opportunities.
+Google Analytics,Session Duration Goals,Sets up and monitors goals based on session duration.
+Google Analytics,User Engagement Score,Calculates and reports on user engagement scores across segments.
+Google Analytics,Page Exit Rate Analysis,Monitors and reports on exit rates for different pages.
+Google Analytics,Event Flow Visualization,Creates automated visualizations of event flows through the site.
+Google Analytics,Custom Report Templates,Creates and manages custom report templates for different needs.
+Google Analytics,Referral Path Analysis,Tracks and reports on referral paths and their quality.
+Google Analytics,Goal Completion Rate,Monitors and reports on goal completion rates across segments.
+Google Analytics,User Segment Performance,Analyzes and reports on performance of different user segments.
+Google Analytics,Page Depth Analysis,Tracks and reports on page depth metrics across sessions.
+Google Analytics,Event Value Calculation,Calculates and reports on the value of different events.
+Google Analytics,Custom Alert Monitoring,Monitors and manages custom alerts for different metrics.
+Google Analytics,Site Search Category,Analyzes and reports on site search category performance.
+Google Analytics,User Flow Optimization,Identifies and reports on user flow optimization opportunities.
+Google Analytics,Page Interaction Analysis,Tracks and reports on page interaction patterns and metrics.
+Google Analytics,Event Goal Configuration,Sets up and monitors event-based goal configurations.
+Google Analytics,Custom Report Distribution,Automatically distributes custom reports to stakeholders.
+Google Analytics,Site Search Refinement,Monitors and reports on site search refinement patterns.
+Google Analytics,User Path Optimization,Identifies and reports on user path optimization opportunities.
+Google Analytics,Page Performance Score,Calculates and reports on page performance scores.
+Google Analytics,Event Tracking Setup,Automatically sets up and manages event tracking configurations.
+Google Analytics,Custom Visualization Creation,Creates and manages custom data visualizations.
+Google Analytics,Referral Exclusion,Manages and monitors referral exclusion lists.
+Google Analytics,Goal Value Analysis,Analyzes and reports on goal value patterns and impact.
+Google Analytics,User Behavior Pattern,Identifies and reports on user behavior patterns and trends.
+Google Analytics,Page Content Analysis,Analyzes and reports on page content performance metrics.
+Google Analytics,Event Impact Analysis,Measures and reports on the impact of different events.

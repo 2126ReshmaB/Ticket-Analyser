@@ -1,0 +1,110 @@
+Category,Short Description,Description
+Cisco Firepower Management Center,Policy Deployment Automation,Script the automated deployment of security policies across multiple Firepower devices in the network. This ensures consistent policy implementation and reduces manual configuration errors.
+Cisco Firepower Management Center,Threat Intelligence Integration,Automate the integration and updates of Cisco Talos threat intelligence feeds into Firepower policies. This ensures real-time protection against emerging threats and vulnerabilities.
+Cisco Firepower Management Center,Configuration Backup,Script regular backups of Firepower device configurations and policies. This includes scheduling automatic backups and storing them in secure locations for disaster recovery.
+Cisco Firepower Management Center,Compliance Reporting,Automate the generation and distribution of compliance reports for various regulatory standards. This includes creating customized reports based on specific compliance requirements and scheduling their delivery.
+Cisco Firepower Management Center,User Access Management,"Script the management of role-based access control (RBAC) for different user groups. This includes automating user provisioning, deprovisioning, and access level modifications."
+Cisco Firepower Management Center,Health Monitoring,Automate the monitoring of Firepower device health status and performance metrics. This includes setting up alerts for critical health issues and generating performance reports.
+Cisco Firepower Management Center,Policy Audit Logging,"Script the logging and tracking of all policy changes made to Firepower devices. This includes capturing who made changes, what was changed, and when changes occurred."
+Cisco Firepower Management Center,Device Registration,"Automate the process of registering new Firepower devices to the management center. This includes initial setup, configuration, and policy assignment."
+Cisco Firepower Management Center,Security Intelligence Updates,Script the regular updates of security intelligence feeds and custom blacklists/whitelists. This ensures that security policies are using the most current threat intelligence data.
+Cisco Firepower Management Center,Event Response Automation,Automate responses to specific security events and alerts. This includes creating custom scripts to take predetermined actions when certain conditions are met.
+Cisco Firepower Management Center,Policy Template Management,Script the creation and management of policy templates for different security requirements. This includes automating template updates and deployment across multiple devices.
+Cisco Firepower Management Center,License Management,"Automate the management of Firepower licenses, including monitoring expiration dates and initiating renewal processes. This ensures continuous compliance with licensing requirements."
+Cisco Firepower Management Center,System Updates,Script the deployment of system updates and patches across Firepower devices. This includes scheduling updates during maintenance windows and verifying successful installations.
+Cisco Firepower Management Center,Backup Verification,Automate the verification of backup integrity and restoration testing. This includes regular testing of backup files to ensure they can be successfully restored when needed.
+Cisco Firepower Management Center,Configuration Validation,Script the validation of device configurations against security best practices. This includes checking for misconfigurations and policy violations.
+Cisco Firepower Management Center,Network Discovery,Automate network discovery processes and host identification. This includes regular scanning and updating of network assets in the Firepower database.
+Cisco Firepower Management Center,Application Control Updates,Script updates to application detection signatures and controls. This ensures accurate identification and control of applications traversing the network.
+Cisco Firepower Management Center,IPS Signature Management,"Automate the management of Intrusion Prevention System signatures. This includes updating, enabling, and disabling signatures based on threat landscape."
+Cisco Firepower Management Center,SSL Policy Management,Script the management of SSL inspection policies and certificates. This includes automating certificate updates and policy modifications for encrypted traffic inspection.
+Cisco Firepower Management Center,VPN Configuration,"Automate the configuration and management of VPN tunnels. This includes creating, modifying, and monitoring VPN connections across Firepower devices."
+Cisco Firepower Management Center,High Availability Setup,Script the configuration and monitoring of high availability pairs. This includes automating failover testing and synchronization verification.
+Cisco Firepower Management Center,Traffic Analysis,Automate the analysis of network traffic patterns and generation of traffic reports. This includes identifying anomalies and potential security issues.
+Cisco Firepower Management Center,Policy Optimization,Script the analysis and optimization of security policies based on traffic patterns. This includes identifying and removing redundant or unused rules.
+Cisco Firepower Management Center,Incident Response,Automate incident response procedures based on specific security events. This includes coordinating responses across multiple security tools and platforms.
+Cisco Firepower Management Center,Log Management,"Script the management of system logs and security event data. This includes log rotation, archival, and analysis for security insights."
+Cisco Firepower Management Center,Interface Configuration,Automate the configuration and monitoring of network interfaces. This includes setting up interface policies and monitoring interface status.
+Cisco Firepower Management Center,DNS Policy Management,Script the management of DNS-based security policies and filters. This includes updating domain lists and configuring DNS security features.
+Cisco Firepower Management Center,Network Object Management,"Automate the creation and management of network objects and groups. This includes updating IP addresses, networks, and service objects."
+Cisco Firepower Management Center,Security Zone Configuration,Script the configuration and management of security zones. This includes creating and modifying zone-based security policies.
+Cisco Firepower Management Center,Policy Change Workflow,"Automate the workflow for policy change requests and approvals. This includes notification, review, and implementation of policy changes."
+Cisco Firepower Management Center,Device Clustering,Script the setup and management of Firepower device clusters. This includes configuring cluster policies and monitoring cluster health.
+Cisco Firepower Management Center,URL Filtering Updates,Automate updates to URL filtering categories and policies. This includes managing custom URL categories and filtering rules.
+Cisco Firepower Management Center,Malware Protection,Script the configuration and updates of malware protection features. This includes managing file policies and malware detection settings.
+Cisco Firepower Management Center,Performance Monitoring,Automate the monitoring and reporting of system performance metrics. This includes tracking resource utilization and identifying performance bottlenecks.
+Cisco Firepower Management Center,Policy Version Control,Script the management of policy versions and rollback capabilities. This includes tracking policy changes and maintaining version history.
+Cisco Firepower Management Center,Security Module Management,Automate the management of security service modules. This includes monitoring module status and updating configurations.
+Cisco Firepower Management Center,Access Control Policy,"Script the management of access control policies and rules. This includes creating, updating, and optimizing access control settings."
+Cisco Firepower Management Center,Network Analysis Policy,Automate the configuration of network analysis policies. This includes managing preprocessor settings and traffic inspection parameters.
+Cisco Firepower Management Center,File Policy Management,Script the management of file policies and file type detection. This includes configuring file control and analysis settings.
+Cisco Firepower Management Center,Identity Policy Management,Automate the management of identity policies and user authentication. This includes configuring user awareness and identity-based access control.
+Cisco Firepower Management Center,QoS Policy Management,Script the configuration of Quality of Service policies. This includes managing traffic prioritization and bandwidth control settings.
+Cisco Firepower Management Center,Platform Integration,Automate integration with other security platforms and tools. This includes configuring API connections and data sharing between systems.
+Cisco Firepower Management Center,Correlation Policy Management,Script the creation and management of correlation policies. This includes configuring event correlation rules and responses.
+Cisco Firepower Management Center,Remote Access Management,Automate the management of remote access settings and policies. This includes configuring remote management capabilities and security.
+Cisco Firepower Management Center,System Maintenance,Script routine system maintenance tasks and health checks. This includes scheduling maintenance windows and performing system cleanup.
+Cisco Firepower Management Center,Policy Export/Import,Automate the export and import of policies between Firepower systems. This includes managing policy templates and configurations across multiple deployments.
+Cisco Firepower Management Center,Security Intelligence Feeds,Script the management of security intelligence feeds and blacklists. This includes updating and maintaining threat intelligence data.
+Cisco Firepower Management Center,Custom Detection Lists,Automate the management of custom detection lists and signatures. This includes creating and updating custom detection rules.
+Cisco Firepower Management Center,Syslog Configuration,Script the configuration of syslog settings and log forwarding. This includes managing log destinations and formats.
+Cisco Firepower Management Center,SNMP Configuration,Automate the configuration of SNMP monitoring and alerts. This includes managing SNMP communities and trap settings.
+Cisco Firepower Management Center,Time Synchronization,Script the management of time synchronization across Firepower devices. This includes configuring NTP settings and monitoring time drift.
+Cisco Firepower Management Center,Backup Scheduling,Automate the scheduling and management of system backups. This includes configuring backup retention and verification.
+Cisco Firepower Management Center,Certificate Management,Script the management of SSL certificates and trust relationships. This includes automating certificate renewals and updates.
+Cisco Firepower Management Center,Interface Monitoring,Automate the monitoring of interface status and performance. This includes tracking interface statistics and generating alerts.
+Cisco Firepower Management Center,Rule Optimization,Script the analysis and optimization of security rules. This includes identifying redundant rules and improving rule efficiency.
+Cisco Firepower Management Center,Policy Compliance Check,Automate compliance checking of security policies. This includes verifying policy settings against compliance requirements.
+Cisco Firepower Management Center,Device Inventory Management,Script the management of device inventory and asset tracking. This includes maintaining device information and configurations.
+Cisco Firepower Management Center,Threat Detection Settings,Automate the configuration of threat detection parameters. This includes managing detection sensitivity and thresholds.
+Cisco Firepower Management Center,Report Generation,Script the generation and distribution of security reports. This includes creating custom reports and scheduling their delivery.
+Cisco Firepower Management Center,Alert Configuration,Automate the configuration of security alerts and notifications. This includes managing alert conditions and recipients.
+Cisco Firepower Management Center,Policy Testing,Script the testing of security policies before deployment. This includes validating policy changes and impact analysis.
+Cisco Firepower Management Center,Audit Log Analysis,Automate the analysis of audit logs for security events. This includes identifying suspicious activities and policy violations.
+Cisco Firepower Management Center,Device Group Management,Script the management of device groups and policies. This includes organizing devices and applying group-based configurations.
+Cisco Firepower Management Center,Network Topology Updates,Automate updates to network topology information. This includes maintaining accurate network maps and relationships.
+Cisco Firepower Management Center,Security Zone Mapping,Script the mapping of security zones to network segments. This includes managing zone-based security policies.
+Cisco Firepower Management Center,Policy Documentation,Automate the generation of policy documentation. This includes maintaining current documentation of security configurations.
+Cisco Firepower Management Center,Access List Management,Script the management of access control lists. This includes updating and optimizing access rules.
+Cisco Firepower Management Center,Security Event Analysis,Automate the analysis of security events and alerts. This includes correlating events and identifying patterns.
+Cisco Firepower Management Center,Configuration Archival,Script the archival of device configurations and changes. This includes maintaining historical configuration records.
+Cisco Firepower Management Center,Policy Migration,Automate the migration of policies between systems. This includes transferring configurations between Firepower deployments.
+Cisco Firepower Management Center,System Resource Monitoring,Script the monitoring of system resources and performance. This includes tracking resource utilization and capacity planning.
+Cisco Firepower Management Center,Network Segment Management,Automate the management of network segments and zones. This includes configuring segment-specific security policies.
+Cisco Firepower Management Center,Policy Conflict Resolution,Script the detection and resolution of policy conflicts. This includes identifying and resolving rule conflicts.
+Cisco Firepower Management Center,Device Health Monitoring,Automate the monitoring of device health and status. This includes tracking device performance and generating alerts.
+Cisco Firepower Management Center,Security Module Updates,Script updates to security service modules. This includes managing module configurations and updates.
+Cisco Firepower Management Center,Policy Backup Management,Automate the management of policy backups and versions. This includes maintaining policy revision history.
+Cisco Firepower Management Center,Interface Policy Management,Script the management of interface policies and settings. This includes configuring interface security parameters.
+Cisco Firepower Management Center,System Alert Management,Automate the management of system alerts and notifications. This includes configuring alert conditions and responses.
+Cisco Firepower Management Center,Policy Deployment Verification,Script the verification of policy deployments. This includes confirming successful policy implementation.
+Cisco Firepower Management Center,Security Event Correlation,Automate the correlation of security events across devices. This includes identifying related security incidents.
+Cisco Firepower Management Center,Configuration Validation,Script the validation of device configurations. This includes checking for security best practices compliance.
+Cisco Firepower Management Center,Policy Template Updates,Automate updates to policy templates and standards. This includes maintaining current security policy templates.
+Cisco Firepower Management Center,Device Configuration Sync,Script the synchronization of device configurations. This includes ensuring consistent configurations across devices.
+Cisco Firepower Management Center,Security Policy Audit,Automate security policy audits and reviews. This includes verifying policy effectiveness and compliance.
+Cisco Firepower Management Center,Network Access Control,Script the management of network access control policies. This includes configuring access restrictions and permissions.
+Cisco Firepower Management Center,Security Event Response,Automate responses to security events and incidents. This includes executing predefined response procedures.
+Cisco Firepower Management Center,Policy Change Tracking,Script the tracking of policy changes and updates. This includes maintaining change history and documentation.
+Cisco Firepower Management Center,Device Monitoring Setup,Automate the setup of device monitoring parameters. This includes configuring monitoring thresholds and alerts.
+Cisco Firepower Management Center,Security Module Configuration,Script the configuration of security service modules. This includes managing module settings and policies.
+Cisco Firepower Management Center,Policy Deployment Schedule,Automate the scheduling of policy deployments. This includes managing deployment windows and dependencies.
+Cisco Firepower Management Center,Security Event Logging,Script the configuration of security event logging. This includes managing log settings and retention.
+Cisco Firepower Management Center,Device Status Monitoring,Automate the monitoring of device operational status. This includes tracking device availability and performance.
+Cisco Firepower Management Center,Policy Exception Management,Script the management of policy exceptions and overrides. This includes tracking and documenting policy exceptions.
+Cisco Firepower Management Center,Security Module Monitoring,Automate the monitoring of security module status. This includes tracking module health and performance.
+Cisco Firepower Management Center,Configuration Change Control,Script the management of configuration changes. This includes controlling and documenting configuration updates.
+Cisco Firepower Management Center,Security Event Analysis,Automate the analysis of security events and trends. This includes generating insights from security event data.
+Cisco Firepower Management Center,Policy Compliance Reporting,Script the generation of policy compliance reports. This includes tracking and reporting compliance status.
+Cisco Firepower Management Center,Device Configuration Backup,Automate device configuration backups and recovery. This includes managing backup schedules and verification.
+Cisco Firepower Management Center,Security Module Updates,Script updates to security module configurations. This includes managing module updates and patches.
+Cisco Firepower Management Center,Policy Version Management,Automate the management of policy versions. This includes tracking and controlling policy revisions.
+Cisco Firepower Management Center,Security Event Notification,Script the configuration of security event notifications. This includes managing alert distribution and escalation.
+Cisco Firepower Management Center,Device Performance Analysis,Automate the analysis of device performance metrics. This includes tracking and reporting performance trends.
+Cisco Firepower Management Center,Security Policy Optimization,Script the optimization of security policies. This includes analyzing and improving policy effectiveness.
+Cisco Firepower Management Center,Configuration Standardization,Automate the standardization of device configurations. This includes enforcing configuration standards across devices.
+Cisco Firepower Management Center,Security Event Archival,Script the archival of security event data. This includes managing event retention and storage.
+Cisco Firepower Management Center,Policy Impact Analysis,Automate the analysis of policy change impacts. This includes assessing the effects of policy modifications.
+Cisco Firepower Management Center,Device Configuration Audit,Script the auditing of device configurations. This includes verifying configuration compliance and security.
+Cisco Firepower Management Center,Security Module Integration,Automate the integration of security modules. This includes managing module interactions and dependencies.
+Cisco Firepower Management Center,Policy Deployment Validation,Script the validation of policy deployments. This includes verifying successful policy implementation.

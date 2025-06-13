@@ -1,0 +1,53 @@
+Category,Short Description,Description
+StorageCraft Cloud Backup,Automated Backup Job Creation,Automate the creation of backup jobs for SaaS applications like Microsoft 365 and Google Workspace.
+StorageCraft Cloud Backup,Scheduled Backups,"Automate the scheduling of backups to run daily, weekly, or monthly based on organizational needs."
+StorageCraft Cloud Backup,Backup Repository Management,"Automate the configuration of backup repositories, such as Amazon S3 or Azure, for storing backups."
+StorageCraft Cloud Backup,Multi-Tenant Backup Management,Automate the management of backups for multiple tenants or clients from a single interface.
+StorageCraft Cloud Backup,Backup Retention Policy,Automate the enforcement of retention policies to manage storage efficiently and comply with regulations.
+StorageCraft Cloud Backup,Backup Job Monitoring,Automate the monitoring of backup job statuses and send alerts for failures or warnings.
+StorageCraft Cloud Backup,Backup Failure Recovery,Automate retry mechanisms for failed backup jobs to ensure data protection without manual intervention.
+StorageCraft Cloud Backup,Backup Verification,Automate the verification of backup integrity to ensure data can be restored successfully.
+StorageCraft Cloud Backup,Disaster Recovery Testing,Automate disaster recovery testing to validate that backups can be restored in case of an emergency.
+StorageCraft Cloud Backup,Backup for Microsoft 365,"Automate the backup of Microsoft 365 data, including emails, calendars, and OneDrive files."
+StorageCraft Cloud Backup,Backup for Google Workspace,"Automate the backup of Google Workspace data, including Gmail, Google Drive, and Google Calendar."
+StorageCraft Cloud Backup,Backup for SaaS Applications,Automate the backup of SaaS applications integrated with StorageCraft Cloud Backup.
+StorageCraft Cloud Backup,Backup Encryption,Automate the encryption of backups to ensure data security during storage and transfer.
+StorageCraft Cloud Backup,Backup Compression,Automate backup compression to reduce the size of backup files and save storage space.
+StorageCraft Cloud Backup,Backup Alerts and Notifications,"Automate email or SMS notifications for backup completion, failures, or errors."
+StorageCraft Cloud Backup,Backup Logs and Reporting,Automate the generation of detailed backup logs and reports for auditing and compliance purposes.
+StorageCraft Cloud Backup,Multi-Organization Backup,Automate the backup of multiple organizations from a centralized console.
+StorageCraft Cloud Backup,Endpoint Backup Automation,Automate the backup of endpoints such as employee laptops and mobile devices integrated with SaaS platforms.
+StorageCraft Cloud Backup,Backup for Remote Workers,Automate backups for remote workers by integrating with cloud storage solutions.
+StorageCraft Cloud Backup,Backup for Hybrid Environments,Automate the backup of hybrid environments that include both on-premises and cloud resources.
+StorageCraft Cloud Backup,Backup for Compliance,"Automate the backup of data to ensure compliance with industry regulations like GDPR, HIPAA, or PCI DSS."
+StorageCraft Cloud Backup,Backup for Archiving,Automate the archiving of old or infrequently accessed data to reduce storage costs.
+StorageCraft Cloud Backup,Backup for Collaboration Tools,Automate the backup of collaboration tools like Microsoft Teams or Google Chat to ensure data availability.
+StorageCraft Cloud Backup,Backup for Legal Hold,Automate the backup of data under legal hold to ensure compliance with legal requirements.
+StorageCraft Cloud Backup,Backup for Financial Data,Automate the backup of financial data to ensure compliance with regulatory requirements.
+StorageCraft Cloud Backup,Backup for Healthcare Data,Automate the backup of healthcare data to ensure compliance with HIPAA and other regulations.
+StorageCraft Cloud Backup,Backup for Educational Institutions,"Automate the backup of data for schools, colleges, and universities to ensure continuity of operations."
+StorageCraft Cloud Backup,Backup for Government Agencies,Automate the backup of sensitive government data to ensure compliance with regulations.
+StorageCraft Cloud Backup,Backup for Non-Profit Organizations,Automate the backup of data for non-profit organizations to ensure data protection and availability.
+StorageCraft Cloud Backup,Backup for Small Businesses,Automate the backup of data for small businesses to ensure business continuity.
+StorageCraft Cloud Backup,Backup for Large Enterprises,Automate the backup of data for large enterprises with complex IT infrastructures.
+StorageCraft Cloud Backup,Backup for Cloud Workloads,"Automate the backup of cloud workloads running on platforms like AWS, Azure, or Google Cloud."
+StorageCraft Cloud Backup,Backup for Containers,Automate the backup of containerized applications integrated with SaaS platforms.
+StorageCraft Cloud Backup,Backup for Edge Devices,Automate the backup of edge devices to ensure data protection at the network edge.
+StorageCraft Cloud Backup,Backup for Smart Devices,"Automate the backup of smart devices like smartphones, tablets, and smart TVs integrated with SaaS platforms."
+StorageCraft Cloud Backup,Backup for IT Service Providers,Automate the backup of client data for IT service providers to ensure data protection and availability.
+StorageCraft Cloud Backup,Backup for Managed Service Providers,Automate the backup of client data for managed service providers (MSPs) to ensure business continuity.
+StorageCraft Cloud Backup,Backup for Disaster Recovery,Automate the creation of disaster recovery plans and backups to ensure business continuity.
+StorageCraft Cloud Backup,Backup for Cybersecurity,Automate the integration of backup and cybersecurity solutions to protect against ransomware and other threats.
+StorageCraft Cloud Backup,Backup for Marketing Data,Automate the backup of marketing data to ensure data integrity and availability.
+StorageCraft Cloud Backup,Backup for Video Surveillance Systems,Automate the backup of video surveillance data to ensure data integrity and availability.
+StorageCraft Cloud Backup,Backup for AI and Machine Learning Models,Automate the backup of AI and machine learning models to ensure data integrity and availability.
+StorageCraft Cloud Backup,Backup for Blockchain Data,Automate the backup of blockchain data to ensure data integrity and availability.
+StorageCraft Cloud Backup,Backup for Cryptocurrency Wallets,Automate the backup of cryptocurrency wallets to ensure data integrity and availability.
+StorageCraft Cloud Backup,Backup for Social Media Data,Automate the backup of social media data to ensure data integrity and availability.
+StorageCraft Cloud Backup,Backup for SaaS Application Logs,Automate the backup of logs generated by SaaS applications for auditing and compliance purposes.
+StorageCraft Cloud Backup,Backup for ERP Systems,Automate the backup of ERP systems like SAP or Oracle to ensure business continuity.
+StorageCraft Cloud Backup,Backup for CRM Systems,Automate the backup of CRM systems like Salesforce or HubSpot to protect customer data.
+StorageCraft Cloud Backup,Backup for E-Commerce Platforms,Automate the backup of e-commerce platforms like Shopify or Magento to ensure business continuity.
+StorageCraft Cloud Backup,Backup for Development Environments,"Automate the backup of development environments, including source code repositories and CI/CD pipelines."
+StorageCraft Cloud Backup,Backup for Media Files,"Automate the backup of large media files like videos, images, and audio files to ensure data availability."
+StorageCraft Cloud Backup,Backup for Collaboration Tools,Automate the backup of collaboration tools like Microsoft Teams or Slack to ensure data availability.

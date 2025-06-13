@@ -1,0 +1,72 @@
+Category,Short Description,Description
+EisenVault,Automate Document Uploads,Automatically upload bulk documents into EisenVault and organize them into predefined folders.
+EisenVault,Assign Metadata to Documents,Automatically assign metadata to documents based on predefined rules for categorization and searchability.
+EisenVault,Notify of Document Expiration,Send automated alerts when a document is nearing its expiration date.
+EisenVault,Archive Expired Documents,Automatically move expired documents to an archival folder or delete them after approval.
+EisenVault,Schedule Document Retention,Automate document retention schedules based on organizational policies or compliance requirements.
+EisenVault,Notify of Retention Policy Deadlines,Send reminders to administrators or document owners when retention deadlines are approaching.
+EisenVault,Automate Document Approval Workflows,Automatically route documents to the appropriate approvers for review and approval.
+EisenVault,Notify Approvers of Pending Documents,Send automated reminders to approvers when document approvals are pending.
+EisenVault,Track Document Approval Status,Automatically track and report on the status of document approvals across the organization.
+EisenVault,Generate Document Audit Trails,"Automate the creation of audit trails to track changes, views, or approvals for specific documents."
+EisenVault,Monitor Document Access Logs,Automatically track and report on who accessed specific documents and when.
+EisenVault,Notify of Unauthorized Access Attempts,Send alerts when unauthorized access attempts are detected on sensitive documents.
+EisenVault,Automate Document Sharing,Automatically share documents with users or external partners based on predefined rules.
+EisenVault,Notify of Shared Document Expirations,Send reminders about shared documents that are set to expire soon.
+EisenVault,Automate Folder Creation,Automatically create folders based on organizational hierarchy or project requirements.
+EisenVault,Assign Folder Permissions,Automatically assign access permissions to folders based on user roles or departments.
+EisenVault,Notify of Folder Access Changes,Send alerts to administrators when folder access permissions are modified.
+EisenVault,Automate Version Control,Automatically manage document versioning to ensure that only the latest version is accessible.
+EisenVault,Notify of New Document Versions,Send automated notifications to users when a new version of a document is uploaded.
+EisenVault,Schedule Document Backups,"Automate daily, weekly, or monthly backups of documents stored in EisenVault."
+EisenVault,Notify of Backup Completion,Send alerts when scheduled document backups are successfully completed.
+EisenVault,Automate Document Restoration,Automatically restore documents from backups in case of accidental deletion or data loss.
+EisenVault,Generate Document Usage Reports,Automatically generate reports summarizing document usage trends across the organization.
+EisenVault,Track Document Modification History,"Automatically log and report changes made to documents, including who made the changes and when."
+EisenVault,Notify of Document Check-Out,Send alerts to users when a document has been checked out for editing.
+EisenVault,Notify of Document Check-In,Send notifications when a document is checked back in after editing.
+EisenVault,Automate Document Tagging,Automatically assign tags to documents based on their content or metadata.
+EisenVault,Notify of Missing Metadata,Send alerts to administrators when uploaded documents are missing mandatory metadata.
+EisenVault,Automate Document Indexing,Automatically index documents for faster search and retrieval.
+EisenVault,Notify of Search Trends,Send reports on frequently searched keywords or documents to help improve document organization.
+EisenVault,Automate Workflow Assignments,Automatically assign workflows to users or teams based on document type or project requirements.
+EisenVault,Notify of Workflow Delays,Send alerts when workflows are delayed or bottlenecked at a specific stage.
+EisenVault,Track Workflow Progress,Automatically monitor and generate reports on the progress of document workflows.
+EisenVault,Automate Document Collaboration,Automatically notify collaborators when a document is updated or commented on.
+EisenVault,Notify of Collaboration Activity,"Send automated summaries of collaboration activity, such as comments or edits, to document owners."
+EisenVault,Automate Compliance Document Management,"Automatically upload, categorize, and track compliance-related documents for audits."
+EisenVault,Notify of Compliance Deadlines,Send reminders to compliance teams when critical document deadlines are approaching.
+EisenVault,Generate Compliance Reports,Automate the creation of reports summarizing compliance documentation statuses.
+EisenVault,Automate Policy Distribution,Automatically distribute updated policies to employees and track acknowledgments.
+EisenVault,Notify of Policy Acknowledgment Deadlines,Send reminders to employees who have not acknowledged mandatory policies.
+EisenVault,Automate Contract Uploads,Automatically upload and organize contracts into specific folders with relevant metadata.
+EisenVault,Notify of Contract Expirations,Send automated alerts to stakeholders when contracts are nearing their expiration dates.
+EisenVault,Automate Contract Approval Workflows,Automatically route contracts to the appropriate approvers for review and sign-off.
+EisenVault,Track Contract Approval Progress,Automatically monitor and report on the status of contract approvals.
+EisenVault,Automate Vendor Document Management,Automatically collect and organize vendor-related documents such as agreements or certifications.
+EisenVault,Notify of Missing Vendor Documents,Send alerts to administrators when required vendor documents are missing.
+EisenVault,Monitor Vendor Compliance,Automatically track and report on vendor compliance documentation to ensure it meets organizational standards.
+EisenVault,Automate Employee Document Management,"Automatically upload, organize, and track employee-related documents such as onboarding forms or certifications."
+EisenVault,Notify of Expiring Employee Certifications,Send reminders to employees and managers when certifications are nearing expiration.
+EisenVault,Automate Employee Offboarding Document Archival,Automatically archive terminated employees’ documents while maintaining compliance.
+EisenVault,Notify of Document Collaboration Inactivity,Send alerts when collaboration on critical documents is inactive for a specified period.
+EisenVault,Automate Legal Document Management,Automatically categorize and track legal documents based on case or project.
+EisenVault,Notify of Legal Document Deadlines,Send reminders to legal teams when critical deadlines for document submissions are approaching.
+EisenVault,Automate Document Access Reviews,Automatically review document access permissions periodically to ensure compliance.
+EisenVault,Notify of Stale Documents,Send alerts to document owners when documents remain unused or unaccessed for a specified duration.
+EisenVault,Automate Customer Document Sharing,Automatically share relevant documents with customers via secure links and track access.
+EisenVault,Notify of Shared Document Expiration,Send reminders to internal teams when customer-shared documents are set to expire.
+EisenVault,Automate Document Template Usage,Automatically apply templates to documents during upload for consistent formatting.
+EisenVault,Notify of Template Updates,Send alerts to users when document templates are updated or modified.
+EisenVault,Automate Project Document Organization,Automatically organize project-related documents into predefined folder structures.
+EisenVault,Notify of Project Document Changes,Send notifications to project team members when documents are added or updated.
+EisenVault,Automate Multi-Language Document Management,Automatically categorize and organize documents based on their language for global teams.
+EisenVault,Notify of Translation Requirements,Send alerts when uploaded documents require translation.
+EisenVault,Automate Document Encryption,Automatically encrypt sensitive documents upon upload to ensure data security.
+EisenVault,Notify of Encryption Failures,Send alerts when document encryption processes fail.
+EisenVault,Automate Document Decryption Requests,Automatically handle document decryption requests with proper authorization.
+EisenVault,Automate External Document Requests,Automatically create workflows for processing document requests from external parties.
+EisenVault,Notify of Unfulfilled Document Requests,Send reminders to teams when external document requests remain unfulfilled.
+EisenVault,Automate Document Dependency Tracking,Automatically track dependencies between related documents to ensure consistency.
+EisenVault,Notify of Dependent Document Updates,Send alerts to users when dependent documents are updated or modified.
+EisenVault,Automate Document Annotation Tracking,Automatically track and log annotations or comments

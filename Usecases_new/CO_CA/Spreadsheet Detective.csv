@@ -1,0 +1,79 @@
+Category,Short Description,Description
+Spreadsheet Detective,Detect duplicate rows,Identify and flag duplicate rows in a spreadsheet to ensure data integrity.
+Spreadsheet Detective,Highlight inconsistent formulas,Detect and highlight cells with inconsistent formulas in a column or row.
+Spreadsheet Detective,Trace formula dependencies,Map and visualize all cells that a formula depends on for easier debugging.
+Spreadsheet Detective,Identify unused cells,Detect cells that are not referenced by any formula or calculation.
+Spreadsheet Detective,Validate data types,"Ensure that data in each column matches the expected data type (e.g., text, number, date)."
+Spreadsheet Detective,Check for broken links,Identify and report broken external links in the spreadsheet.
+Spreadsheet Detective,Audit hidden sheets,Detect and list all hidden sheets in the workbook for review.
+Spreadsheet Detective,Validate named ranges,Check for unused or invalid named ranges in the spreadsheet.
+Spreadsheet Detective,Detect circular references,Identify circular references in formulas that may cause calculation errors.
+Spreadsheet Detective,Audit conditional formatting rules,Review and validate all conditional formatting rules applied in the spreadsheet.
+Spreadsheet Detective,Highlight hardcoded values,Identify cells with hardcoded values in areas where formulas are expected.
+Spreadsheet Detective,Validate cell references,Ensure that all cell references in formulas are valid and not pointing to deleted cells.
+Spreadsheet Detective,Detect merged cells,Identify merged cells that may disrupt data analysis or sorting.
+Spreadsheet Detective,Audit workbook structure,"Generate a report on the structure of the workbook, including sheets, ranges, and formulas."
+Spreadsheet Detective,Check for inconsistent data formats,Highlight cells with inconsistent data formats in a column or row.
+Spreadsheet Detective,Validate date ranges,Ensure that all date values fall within a specified range.
+Spreadsheet Detective,Detect empty rows,Identify and flag empty rows that may indicate missing data.
+Spreadsheet Detective,Audit formula complexity,"Analyze and report on the complexity of formulas, such as nested functions."
+Spreadsheet Detective,Validate pivot table references,Ensure that pivot tables are referencing the correct data ranges.
+Spreadsheet Detective,Detect unused columns,Identify columns that are not used in any calculations or reports.
+Spreadsheet Detective,Audit data validation rules,Review and validate all data validation rules applied in the spreadsheet.
+Spreadsheet Detective,Highlight inconsistent column headers,Detect and flag inconsistent or missing column headers.
+Spreadsheet Detective,Validate file size,Analyze the file size and identify elements contributing to excessive size.
+Spreadsheet Detective,Detect hidden rows and columns,Identify and list all hidden rows and columns in the workbook.
+Spreadsheet Detective,Audit external data connections,Review and validate all external data connections in the spreadsheet.
+Spreadsheet Detective,Check for unused macros,Identify macros that are not used or referenced in the workbook.
+Spreadsheet Detective,Validate chart data ranges,Ensure that all charts are referencing valid and correct data ranges.
+Spreadsheet Detective,Detect inconsistent sheet names,Highlight sheet names that do not follow a specified naming convention.
+Spreadsheet Detective,Audit protection settings,Review and validate protection settings for sheets and cells.
+Spreadsheet Detective,Validate dropdown lists,Ensure that dropdown lists are correctly configured and reference valid data ranges.
+Spreadsheet Detective,Detect excessive blank spaces,Identify cells with excessive blank spaces that may cause data entry issues.
+Spreadsheet Detective,Audit workbook links,Review and validate all links between workbooks.
+Spreadsheet Detective,Highlight volatile formulas,"Identify volatile formulas that may impact performance, such as NOW() or RAND()."
+Spreadsheet Detective,Validate unique constraints,Ensure that columns with unique constraints do not contain duplicate values.
+Spreadsheet Detective,Detect inconsistent row heights,Highlight rows with inconsistent heights for better formatting.
+Spreadsheet Detective,Audit workbook metadata,"Extract and review metadata such as author, creation date, and modification history."
+Spreadsheet Detective,Validate password protection,Ensure that password protection is applied to sensitive sheets or workbooks.
+Spreadsheet Detective,Detect unused styles,Identify and remove unused cell styles to reduce file size.
+Spreadsheet Detective,Audit shared workbook changes,Review and log changes made in shared workbooks.
+Spreadsheet Detective,Validate formula references across sheets,Ensure that formulas referencing other sheets are valid and accurate.
+Spreadsheet Detective,Detect inconsistent font styles,Highlight cells with inconsistent font styles or sizes.
+Spreadsheet Detective,Audit workbook calculation settings,"Review and validate calculation settings, such as manual or automatic mode."
+Spreadsheet Detective,Validate hyperlink targets,Ensure that all hyperlinks point to valid and accessible URLs or files.
+Spreadsheet Detective,Detect excessive use of formatting,Identify cells with excessive formatting that may impact performance.
+Spreadsheet Detective,Audit workbook for compliance,"Check the workbook against industry compliance standards, such as GDPR or SOX."
+Spreadsheet Detective,Validate data consistency across sheets,Ensure that data is consistent across multiple sheets in the workbook.
+Spreadsheet Detective,Detect unused formulas,Identify formulas that are not used or referenced by other cells.
+Spreadsheet Detective,Audit workbook for sensitive data,"Detect and flag sensitive data, such as credit card numbers or personal information."
+Spreadsheet Detective,Validate workbook naming conventions,Ensure that the workbook name follows organizational naming standards.
+Spreadsheet Detective,Detect excessive use of array formulas,Highlight array formulas that may impact performance.
+Spreadsheet Detective,Audit workbook for accessibility,"Check the workbook for accessibility issues, such as missing alt text for images."
+Spreadsheet Detective,Validate workbook for printing,"Ensure that the workbook is properly formatted for printing, including page breaks and margins."
+Spreadsheet Detective,Detect inconsistent use of colors,Highlight cells with inconsistent color usage for better readability.
+Spreadsheet Detective,Audit workbook for performance issues,"Identify elements that may cause performance issues, such as large data ranges or complex formulas."
+Spreadsheet Detective,Validate workbook for archiving,"Ensure that the workbook is properly prepared for long-term archiving, including metadata and format."
+Spreadsheet Detective,Detect unused worksheets,Identify worksheets that are not used or referenced in the workbook.
+Spreadsheet Detective,Audit workbook for duplicate sheets,Detect and flag duplicate sheets with similar content.
+Spreadsheet Detective,Validate workbook for mobile compatibility,"Ensure that the workbook is compatible with mobile devices, including layout and functionality."
+Spreadsheet Detective,Detect excessive use of comments,Highlight cells with excessive or unnecessary comments.
+Spreadsheet Detective,Audit workbook for outdated data,Identify and flag data that has not been updated within a specified timeframe.
+Spreadsheet Detective,Validate workbook for shared access,"Ensure that the workbook is properly configured for shared access, including permissions."
+Spreadsheet Detective,Detect inconsistent use of borders,Highlight cells with inconsistent border styles or thickness.
+Spreadsheet Detective,Audit workbook for linked images,Review and validate all linked images in the workbook.
+Spreadsheet Detective,Validate workbook for cloud storage,"Ensure that the workbook is optimized for cloud storage, including file size and format."
+Spreadsheet Detective,Detect excessive use of hidden objects,"Identify hidden objects, such as shapes or charts, that may impact performance."
+Spreadsheet Detective,Audit workbook for template compliance,Check the workbook against organizational template standards.
+Spreadsheet Detective,Validate workbook for internationalization,"Ensure that the workbook is properly formatted for international use, including date and currency formats."
+Spreadsheet Detective,Detect excessive use of named ranges,Highlight named ranges that are not used or are redundant.
+Spreadsheet Detective,Audit workbook for macro security,Review and validate macro security settings to prevent unauthorized access.
+Spreadsheet Detective,Validate workbook for backup,Ensure that the workbook is properly backed up and versioned.
+Spreadsheet Detective,Detect excessive use of volatile functions,Highlight volatile functions that may impact workbook performance.
+Spreadsheet Detective,Audit workbook for data integrity,"Check the workbook for data integrity issues, such as missing or incorrect values."
+Spreadsheet Detective,Validate workbook for collaboration,"Ensure that the workbook is properly configured for collaboration, including track changes."
+Spreadsheet Detective,Detect excessive use of hyperlinks,Identify and review excessive hyperlinks that may clutter the workbook.
+Spreadsheet Detective,Audit workbook for regulatory compliance,"Check the workbook against specific regulatory requirements, such as HIPAA or PCI DSS."
+Spreadsheet Detective,Validate workbook for scalability,Ensure that the workbook is scalable for larger datasets or additional users.
+Spreadsheet Detective,Detect excessive use of blank cells,Highlight excessive blank cells that may indicate poor data organization.
+Spreadsheet Detective,Audit workbook for formula errors,"Identify and correct formula errors, such as #DIV"

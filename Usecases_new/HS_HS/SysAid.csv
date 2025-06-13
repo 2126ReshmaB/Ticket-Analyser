@@ -1,0 +1,65 @@
+Category,Short Description,Description
+SysAid,Auto-Assign Tickets to Technicians,"Automatically assign tickets to the appropriate technician based on ticket category, priority, or department."
+SysAid,Notify on SLA Breach,Send automated notifications to technicians and managers when an SLA is about to breach or has breached.
+SysAid,Auto-Close Resolved Tickets,"Automatically close tickets that have been in the ""Resolved"" state for a specified number of days."
+SysAid,Escalate Overdue Tickets,Automatically escalate tickets that exceed SLA time to higher-level support teams or managers.
+SysAid,Auto-Assign Priority to Tickets,Automatically assign ticket priorities based on keywords in the subject or description.
+SysAid,Notify Users of Ticket Updates,Automatically notify users when their ticket status or priority changes.
+SysAid,Reopen Tickets on User Response,Automatically reopen tickets if a user responds to a closed or resolved ticket.
+SysAid,Notify on High-Priority Tickets,Send alerts to technicians and managers when high-priority tickets are logged.
+SysAid,Auto-Create Tickets from Emails,Convert emails sent to the support mailbox into tickets automatically.
+SysAid,Assign Tickets Based on Skills,Automatically route tickets to technicians with relevant skills to resolve the issue.
+SysAid,Send Satisfaction Surveys After Resolution,Automatically send customer satisfaction surveys to users after their tickets are resolved.
+SysAid,Generate Weekly SLA Reports,Automate the creation and distribution of weekly SLA performance reports for stakeholders.
+SysAid,Auto-Categorize Tickets,Automatically categorize tickets based on keywords in the description or predefined rules.
+SysAid,Notify on Major Incidents,Automatically notify all impacted users and stakeholders when a major incident is logged.
+SysAid,Monitor Technician Workload,Track technician workloads automatically to ensure even distribution of tasks.
+SysAid,Notify on VIP User Tickets,Send notifications to technicians when a ticket is submitted by a VIP user.
+SysAid,Archive Old Tickets,Automatically archive tickets that have been closed for a specified period of time.
+SysAid,Auto-Resolve Duplicate Tickets,Automatically resolve duplicate tickets by linking them to the original ticket.
+SysAid,Notify on Ticket Escalation,Send alerts to technicians and managers whenever a ticket is escalated.
+SysAid,Assign Tickets During After-Hours,Automatically assign tickets to on-call technicians for after-hours requests.
+SysAid,Create Problem Records from Repeated Tickets,Automatically create a problem record when multiple tickets with the same issue are logged.
+SysAid,Auto-Close Tickets Without User Response,Automatically close tickets if the user does not respond within a set time period after a resolution is provided.
+SysAid,Generate Daily Ticket Reports,"Automate the creation of daily reports summarizing ticket activity, resolutions, and pending issues."
+SysAid,Notify Users of Scheduled Maintenance,Automatically notify users about planned system maintenance through emails or portal alerts.
+SysAid,Auto-Assign Tickets to Groups,Automatically route tickets to specific technician groups based on the issue type or request category.
+SysAid,Monitor SLA Adherence,Automate SLA adherence tracking and notify managers of SLA violations.
+SysAid,Auto-Tag Tickets for Reporting,Automatically tag tickets with relevant labels for easier tracking and reporting.
+SysAid,Notify on Low Customer Satisfaction,Send alerts to managers when customer satisfaction scores fall below a defined threshold.
+SysAid,Auto-Generate Knowledge Base Articles,Automatically create knowledge base articles from resolved tickets with detailed solutions.
+SysAid,Create Tasks for New Employees,"Automatically generate onboarding tasks for new employees, such as account creation or hardware setup."
+SysAid,Notify on High-Traffic Categories,Send alerts when specific ticket categories receive a high volume of requests in a short time.
+SysAid,Update Tickets on Dependency Changes,Automatically update ticket status when dependent tasks or tickets are completed.
+SysAid,Monitor Asset Warranty Expiry,Automatically notify the asset management team when an asset's warranty is about to expire.
+SysAid,Escalate VIP Tickets,Automatically escalate tickets submitted by VIP users to higher-priority queues.
+SysAid,Assign Tickets Based on Location,Automatically route tickets to technicians based on the user's location.
+SysAid,Generate Monthly Performance Dashboards,Automate the creation of dashboards summarizing key metrics for the month.
+SysAid,Notify on Outdated Knowledge Articles,Send reminders to update or archive knowledge base articles that have not been reviewed for a long time.
+SysAid,Monitor Integration Failures,Automatically track failures in third-party integrations and generate alerts or tickets for investigation.
+SysAid,Notify on Critical Asset Downtime,Automatically send alerts when critical assets experience downtime or performance degradation.
+SysAid,Auto-Assign Change Requests,Automatically assign change requests to the appropriate change manager or team.
+SysAid,Send SLA Achievement Alerts,Notify technicians when they successfully resolve tickets within SLA timelines.
+SysAid,Auto-Categorize Change Requests,Automatically categorize change requests based on keywords or related services.
+SysAid,Generate Asset Inventory Reports,Automate the creation of detailed asset inventory reports for IT teams.
+SysAid,Notify on License Expiry,Automatically notify relevant teams when software licenses are nearing their expiration dates.
+SysAid,Schedule Recurring Tasks,Automatically create recurring tasks for routine maintenance or audits.
+SysAid,Auto-Assign Tickets for New Hardware,Automatically assign requests related to new hardware setup to the appropriate technicians.
+SysAid,Monitor Unassigned Tickets,Automatically track unassigned tickets and notify managers if they remain unassigned for a specified time.
+SysAid,Generate Ticket Trend Analysis,Automate the analysis of ticket trends over time and generate reports for management.
+SysAid,Notify on Failed Scheduled Jobs,Automatically alert administrators when scheduled jobs fail to execute properly.
+SysAid,Monitor Network Downtime,Automatically create tickets or send alerts when network downtime is detected.
+SysAid,Auto-Update Fields in Tickets,Automatically update specific fields in tickets based on triggers or conditions.
+SysAid,Notify on Unauthorized Access Attempts,Automatically alert security teams when unauthorized access attempts are detected in the system.
+SysAid,Auto-Assign Tickets for Software Issues,Automatically route software-related tickets to specific technicians or groups.
+SysAid,Generate Compliance Reports,Automate the creation of compliance reports for audits or regulatory requirements.
+SysAid,Notify Users of Agent Assignments,Automatically notify users when a technician is assigned to their ticket.
+SysAid,Auto-Renew Expiring Contracts,Automatically renew service contracts that are nearing expiry based on predefined rules.
+SysAid,Auto-Create Child Tickets,Automatically create child tickets for larger requests that require multiple tasks to be completed.
+SysAid,Notify on SLA Timer Resets,Send notifications when SLA timers are reset due to ticket status changes.
+SysAid,Auto-Assign Onboarding Tasks,Automatically create and assign onboarding tasks for new employees.
+SysAid,Monitor Disk Space Usage,Automatically generate alerts or tickets when server disk space usage exceeds predefined thresholds.
+SysAid,Notify on Major Incident Resolution,Send automated notifications to all stakeholders when a major incident is resolved.
+SysAid,Escalate Tickets for Negative Feedback,Automatically escalate tickets that receive negative customer satisfaction feedback.
+SysAid,Monitor API Usage Limits,Automatically generate alerts when API usage approaches predefined thresholds.
+SysAid,Auto-Create Tickets for Social Media Queries,Automatically generate tickets for customer queries posted on social media platforms.

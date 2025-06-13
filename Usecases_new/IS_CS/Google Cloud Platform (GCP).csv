@@ -1,0 +1,79 @@
+Category,Short Description,Description
+GCP,Auto-Scaling Compute Instances,Automatically scale Compute Engine instances based on CPU or memory usage using Instance Groups and Autoscaler.
+GCP,Cloud Storage Lifecycle Management,Automate data archiving and deletion in Cloud Storage using lifecycle management policies.
+GCP,Cloud Functions for File Processing,Trigger Cloud Functions to process files uploaded to Cloud Storage.
+GCP,Deployment Manager for Resource Setup,Automate the deployment of GCP resources using Deployment Manager templates.
+GCP,BigQuery Scheduled Queries,Automate data analysis by scheduling SQL queries in BigQuery.
+GCP,Cloud SQL Backup Scheduling,Schedule automated backups for Cloud SQL databases using Cloud Scheduler.
+GCP,Pub/Sub for Event-Driven Workflows,Automate workflows by triggering events using Pub/Sub messaging.
+GCP,Cloud Monitoring Alert Notifications,Set up Cloud Monitoring alerts to notify teams of resource issues via email or SMS.
+GCP,Key Rotation in Secret Manager,Automate the rotation of secrets stored in Secret Manager using Cloud Functions.
+GCP,App Engine Deployment,Automate the deployment of web applications to App Engine using Cloud Build pipelines.
+GCP,Security Command Center Threat Response,Automate responses to security threats detected by Security Command Center using Cloud Functions.
+GCP,Event-Driven Data Processing,Trigger data processing workflows using Cloud Functions and Pub/Sub.
+GCP,Auto-Tagging Resources,Use Cloud Functions to automatically tag GCP resources for cost tracking and management.
+GCP,Kubernetes Cluster Autoscaling,Automate scaling of Google Kubernetes Engine (GKE) clusters based on application load.
+GCP,Log-Based Alerting,Automate alerting based on specific log patterns using Cloud Logging and Monitoring.
+GCP,Cost Management Budget Alerts,Set up automated budget alerts using GCP Cost Management to track spending.
+GCP,Load Balancer Health Checks,Automate health checks for GCP Load Balancers to ensure application availability.
+GCP,IoT Core Data Processing,Process IoT data streams in real-time using Cloud IoT Core and Dataflow.
+GCP,Cloud Storage Cross-Region Replication,Automate replication of Cloud Storage data across regions for disaster recovery.
+GCP,Log Retention Policies,Automate log retention settings for Cloud Logging.
+GCP,Auto-Healing Compute Instances,Automatically restart unhealthy Compute Engine instances using Instance Groups.
+GCP,Compliance Checks with Policy,Automate compliance checks using GCP Organization Policy and remediation tasks.
+GCP,Scheduled Tasks with Cloud Scheduler,Schedule tasks using Cloud Scheduler to trigger workflows at specific times.
+GCP,ElasticSearch Log Ingestion,Automate log ingestion into ElasticSearch for analysis using Dataflow.
+GCP,Cloud Storage Access Monitoring,Monitor and alert on unauthorized access to Cloud Storage buckets.
+GCP,Infrastructure Drift Detection,Automate detection of infrastructure drift using Deployment Manager or Terraform.
+GCP,Media Transcoding with Cloud Functions,Automate video transcoding using Cloud Functions and Transcoder API.
+GCP,Preemptible VM Scaling,Automate scaling of Preemptible VMs for cost savings.
+GCP,Monitoring Dashboard Updates,Automate updates to Cloud Monitoring dashboards for real-time monitoring.
+GCP,Cloud Storage Versioning,Enable and manage versioning for Cloud Storage objects automatically.
+GCP,Cloud SQL Read Replica Management,Automate creation and management of read replicas for Cloud SQL databases.
+GCP,CDN Cache Invalidation,Automate cache invalidation for Cloud CDN endpoints.
+GCP,Predictive Analytics with BigQuery ML,Use BigQuery ML to automate predictive analytics workflows using SQL-based machine learning.
+GCP,Data Lifecycle Management,Automate data movement between Cloud Storage tiers based on access patterns.
+GCP,Custom Metric Alerts,Automate creation of alerts for custom metrics in Cloud Monitoring.
+GCP,App Engine Environment Updates,Automate updates to App Engine environments using deployment pipelines.
+GCP,Security Scans with Cloud Functions,Automate security scans using Cloud Functions and third-party tools.
+GCP,Template Validation,Automate validation of Deployment Manager or Terraform templates before deployment.
+GCP,Cloud Storage Policy Enforcement,Automate enforcement of Cloud Storage policies for compliance.
+GCP,BigQuery Data Export,Automate data export from BigQuery to Cloud Storage using scheduled queries.
+GCP,Anomaly Detection,Automate anomaly detection using Cloud Monitoring and AI models.
+GCP,Log Parsing with Cloud Functions,Automate parsing and analysis of logs using Cloud Functions.
+GCP,Cloud Storage Encryption Enforcement,Automate enforcement of encryption for Cloud Storage buckets.
+GCP,Event Monitoring,Automate monitoring of Pub/Sub events for security and operational insights.
+GCP,Data Transformation,Automate data transformation workflows using Dataflow and Cloud Functions.
+GCP,Maintenance Window Automation,Automate scheduling of maintenance windows for Cloud SQL databases.
+GCP,Custom Metrics Creation,Automate creation of custom metrics for Cloud Monitoring.
+GCP,Public Access Blocking,Automate blocking of public access to Cloud Storage buckets.
+GCP,API Gateway Integration,Automate backend logic for API Gateway using Cloud Functions.
+GCP,Template Deployment,Automate deployment of resources using validated Deployment Manager templates.
+GCP,Metadata Extraction,Automate extraction of metadata from Cloud Storage objects.
+GCP,Real-Time Notifications,Automate real-time notifications using Cloud Functions and Pub/Sub.
+GCP,Log Insights Queries,Automate execution of queries in Cloud Logging for insights.
+GCP,Inventory Reports,Automate generation of inventory reports for GCP resources.
+GCP,Data Aggregation,Automate data aggregation workflows using Dataflow and BigQuery.
+GCP,Deployment Rollbacks,Automate rollbacks for failed deployments using Deployment Manager or Terraform.
+GCP,Access Logs Analysis,Automate collection and analysis of access logs for GCP resources.
+GCP,Event-Driven Workflows,Automate workflows triggered by specific events using Pub/Sub and Cloud Functions.
+GCP,Alarm-Based Scaling,Automate scaling of resources based on Cloud Monitoring alarms.
+GCP,Object Locking,Automate enforcement of object locking for Cloud Storage buckets.
+GCP,Data Validation,Automate data validation workflows using Cloud Functions.
+GCP,Resource Deletion,Automate deletion of unused or obsolete GCP resources.
+GCP,Data Replication,Automate replication of data between Cloud Storage buckets.
+GCP,Data Enrichment,Automate data enrichment workflows using Dataflow and BigQuery.
+GCP,Alarm-Based Notifications,Automate notifications based on Cloud Monitoring alarms.
+GCP,Object Tagging,Automate tagging of objects in Cloud Storage buckets.
+GCP,Data Cleansing,Automate data cleansing workflows using Dataflow and Cloud Functions.
+GCP,Resource Creation,Automate creation of GCP resources using Deployment Manager or Terraform.
+GCP,Object Archiving,Automate archiving of objects in Cloud Storage buckets.
+GCP,Data Synchronization,Automate data synchronization workflows using Dataflow.
+GCP,Alarm-Based Actions,Automate actions based on Cloud Monitoring alarms.
+GCP,Object Deletion,Automate deletion of objects in Cloud Storage buckets.
+GCP,Data Integration,Automate data integration workflows using Dataflow and BigQuery.
+GCP,Resource Management,Automate management of GCP resources using Cloud Console or APIs.
+GCP,Object Restoration,Automate restoration of objects in Cloud Storage buckets.
+GCP,Data Export,Automate data export workflows using Dataflow and BigQuery.
+GCP,Object Migration,Automate migration of objects between Cloud Storage buckets.
+GCP,Data Import,Automate data

@@ -1,0 +1,83 @@
+Category,Short Description,Description
+Handy Backup,Scheduled File Backups,Automate regular file backups to local or external storage.
+Handy Backup,Cloud Storage Backups,"Automate backups to cloud services like Google Drive, OneDrive, or Amazon S3."
+Handy Backup,Database Backup Automation,"Automate backups for databases like MySQL, PostgreSQL, and MS SQL."
+Handy Backup,Incremental Backups,Automate incremental backups to save only changed data since the last backup.
+Handy Backup,Differential Backups,Automate differential backups to save changes since the last full backup.
+Handy Backup,Encrypted Backups,Automate the creation of encrypted backups for enhanced security.
+Handy Backup,Backup Scheduling,"Automate backup tasks on a daily, weekly, or custom schedule."
+Handy Backup,Network Drive Backups,Automate backups of files stored on network drives or shared folders.
+Handy Backup,FTP Server Backups,"Automate backups to FTP, SFTP, or FTPS servers."
+Handy Backup,Email Backup Automation,Automate backups of email accounts like Gmail or MS Outlook.
+Handy Backup,Virtual Machine Backups,Automate backups of virtual machines like VMware or Hyper-V.
+Handy Backup,Disaster Recovery Backups,Automate full system backups for disaster recovery purposes.
+Handy Backup,Backup Verification,Automate verification of backup integrity after completion.
+Handy Backup,Backup Compression,Automate compression of backup files to save storage space.
+Handy Backup,Backup to External Drives,Automate backups to external USB or HDD drives.
+Handy Backup,Backup to NAS,Automate backups to Network Attached Storage (NAS) devices.
+Handy Backup,Backup to Multiple Locations,Automate backups to multiple destinations for redundancy.
+Handy Backup,Backup Retention Policies,Automate the enforcement of retention policies to delete old backups.
+Handy Backup,Backup Notifications,Automate email or SMS notifications for backup status updates.
+Handy Backup,Backup Logs,Automate the generation and storage of detailed backup logs.
+Handy Backup,Backup Encryption Key Rotation,Automate the rotation of encryption keys for secure backups.
+Handy Backup,Backup of System Registry,Automate backups of the Windows system registry.
+Handy Backup,Backup of Application Data,Automate backups of application-specific data and settings.
+Handy Backup,Backup of User Profiles,Automate backups of user profiles and personal data.
+Handy Backup,Backup of Multimedia Files,"Automate backups of photos, videos, and music files."
+Handy Backup,Backup of Documents,Automate backups of important documents and spreadsheets.
+Handy Backup,Backup of Project Files,Automate backups of project files for software development or design.
+Handy Backup,Backup of Website Data,Automate backups of website files and databases.
+Handy Backup,Backup of Cloud Services,Automate backups of data from cloud services like Dropbox or Google Workspace.
+Handy Backup,Backup of Social Media Data,Automate backups of social media data like Facebook or Twitter posts.
+Handy Backup,Backup of IoT Device Data,Automate backups of data from IoT devices.
+Handy Backup,Backup of Logs,Automate backups of system and application logs.
+Handy Backup,Backup of Email Attachments,Automate backups of email attachments.
+Handy Backup,Backup of Shared Folders,Automate backups of shared folders in a network.
+Handy Backup,Backup of Remote Servers,Automate backups of remote servers via SSH or FTP.
+Handy Backup,Backup of Encrypted Files,Automate backups of already encrypted files.
+Handy Backup,Backup of Large Files,Automate backups of large files with split archive options.
+Handy Backup,Backup of Archived Data,Automate backups of archived data for long-term storage.
+Handy Backup,Backup of Temporary Files,Automate backups of temporary files for recovery purposes.
+Handy Backup,Backup of Configuration Files,Automate backups of system and application configuration files.
+Handy Backup,Backup of API Data,Automate backups of data retrieved via APIs.
+Handy Backup,Backup of CRM Data,Automate backups of CRM system data.
+Handy Backup,Backup of ERP Data,Automate backups of ERP system data.
+Handy Backup,Backup of HR Data,Automate backups of HR system data.
+Handy Backup,Backup of Financial Data,Automate backups of financial and accounting data.
+Handy Backup,Backup of Legal Documents,Automate backups of legal documents and contracts.
+Handy Backup,Backup of Medical Records,Automate backups of medical records and patient data.
+Handy Backup,Backup of Educational Data,Automate backups of educational content and student records.
+Handy Backup,Backup of Research Data,Automate backups of research data and findings.
+Handy Backup,Backup of Scientific Data,Automate backups of scientific datasets and experiments.
+Handy Backup,Backup of Engineering Data,Automate backups of engineering designs and blueprints.
+Handy Backup,Backup of CAD Files,Automate backups of CAD files for design projects.
+Handy Backup,Backup of Video Editing Projects,Automate backups of video editing project files.
+Handy Backup,Backup of Audio Editing Projects,Automate backups of audio editing project files.
+Handy Backup,Backup of Game Development Files,Automate backups of game development assets and code.
+Handy Backup,Backup of AI Models,Automate backups of AI and machine learning models.
+Handy Backup,Backup of IoT Sensor Data,Automate backups of IoT sensor data for analysis.
+Handy Backup,Backup of Blockchain Data,Automate backups of blockchain data and smart contracts.
+Handy Backup,Backup of Virtual Reality Data,Automate backups of virtual reality project files.
+Handy Backup,Backup of Augmented Reality Data,Automate backups of augmented reality project files.
+Handy Backup,Backup of 3D Printing Files,Automate backups of 3D printing designs and files.
+Handy Backup,Backup of Drone Data,Automate backups of drone footage and telemetry data.
+Handy Backup,Backup of Robotics Data,Automate backups of robotics programming and sensor data.
+Handy Backup,Backup of Smart Home Data,Automate backups of smart home device configurations.
+Handy Backup,Backup of E-Commerce Data,Automate backups of e-commerce product and transaction data.
+Handy Backup,Backup of Marketing Data,Automate backups of marketing campaign data and analytics.
+Handy Backup,Backup of Customer Support Data,Automate backups of customer support tickets and chat logs.
+Handy Backup,Backup of Inventory Data,Automate backups of inventory and supply chain data.
+Handy Backup,Backup of Manufacturing Data,Automate backups of manufacturing process data.
+Handy Backup,Backup of Energy Data,Automate backups of energy consumption and production data.
+Handy Backup,Backup of Weather Data,Automate backups of weather monitoring data.
+Handy Backup,Backup of Satellite Data,Automate backups of satellite imagery and telemetry data.
+Handy Backup,Backup of Space Exploration Data,Automate backups of space exploration mission data.
+Handy Backup,Backup of Historical Data,Automate backups of historical archives and records.
+Handy Backup,Backup of Cultural Heritage Data,Automate backups of cultural heritage and museum data.
+Handy Backup,Backup of Agricultural Data,Automate backups of agricultural monitoring and research data.
+Handy Backup,Backup of Environmental Data,Automate backups of environmental monitoring data.
+Handy Backup,Backup of Wildlife Data,Automate backups of wildlife tracking and research data.
+Handy Backup,Backup of Oceanographic Data,Automate backups of oceanographic research data.
+Handy Backup,Backup of Seismographic Data,Automate backups of seismographic monitoring data.
+Handy Backup,Backup of Astronomical Data,Automate backups of astronomical observation data.
+,,

@@ -1,0 +1,63 @@
+Category,Short Description,Description
+iCare Data Recovery Pro,Recover deleted files,Automate recovery of files accidentally deleted by users.
+iCare Data Recovery Pro,Recover files from formatted drives,Automate recovery of files from storage drives that were mistakenly formatted.
+iCare Data Recovery Pro,Recover emptied Recycle Bin,Automate recovery of files deleted from the Recycle Bin after emptying it.
+iCare Data Recovery Pro,Recover files from corrupted partitions,Automate recovery of files stored on partitions that have been damaged or corrupted.
+iCare Data Recovery Pro,Recover files after system crash,Automate the recovery of files lost or damaged during a system crash.
+iCare Data Recovery Pro,Recover files from RAW drives,Automate recovery of files from drives that have turned RAW and are no longer accessible.
+iCare Data Recovery Pro,Recover files from external hard drives,Automate recovery of data stored on external hard drives that are corrupted or inaccessible.
+iCare Data Recovery Pro,Recover files from SSDs,"Automate recovery of files deleted or lost from SSDs, even after TRIM operations."
+iCare Data Recovery Pro,Recover files from USB flash drives,Automate recovery of data stored on USB flash drives that were deleted or corrupted.
+iCare Data Recovery Pro,Recover files from SD cards,"Automate recovery of files deleted from SD or microSD cards used in cameras, smartphones, or other devices."
+iCare Data Recovery Pro,Recover files from FAT32 partitions,Automate recovery of files stored on FAT32-formatted partitions.
+iCare Data Recovery Pro,Recover files from NTFS partitions,Automate recovery of files stored on NTFS-formatted partitions.
+iCare Data Recovery Pro,Recover files after virus infection,Automate recovery of files deleted or corrupted due to virus or malware infections.
+iCare Data Recovery Pro,Recover files after power failure,Automate recovery of files lost during an unexpected power outage.
+iCare Data Recovery Pro,Recover files from system restore points,Automate recovery of files from system restore snapshots.
+iCare Data Recovery Pro,Recover files from BitLocker-encrypted drives,Automate recovery of files stored on BitLocker-encrypted drives after decryption.
+iCare Data Recovery Pro,Recover files from damaged MBR,Automate recovery of files stored on drives with a damaged Master Boot Record (MBR).
+iCare Data Recovery Pro,Recover files from GPT partitions,Automate recovery of files stored on GUID Partition Table (GPT)-formatted drives.
+iCare Data Recovery Pro,Recover files after accidental formatting,Automate recovery of files from drives that were accidentally formatted.
+iCare Data Recovery Pro,Recover files from corrupted USB drives,Automate recovery of data stored on USB drives that are no longer readable.
+iCare Data Recovery Pro,Recover files from optical media,"Automate recovery of files stored on CDs, DVDs, and Blu-ray discs."
+iCare Data Recovery Pro,Recover files from deleted partitions,Automate recovery of files from partitions that were deleted or are no longer visible.
+iCare Data Recovery Pro,Recover files from RAID arrays,Automate recovery of files stored on failed or degraded RAID arrays.
+iCare Data Recovery Pro,Recover files from NAS devices,Automate recovery of files stored on Network Attached Storage (NAS) devices.
+iCare Data Recovery Pro,Recover files from camera storage,Automate recovery of photos and other files deleted from camera SD cards or internal storage.
+iCare Data Recovery Pro,Recover files from corrupted file systems,Automate recovery of files from drives with damaged or corrupted file systems.
+iCare Data Recovery Pro,Recover files from hidden partitions,Automate recovery of files stored on hidden or unallocated partitions.
+iCare Data Recovery Pro,Recover files from smartphone storage,Automate recovery of files stored on smartphone internal or external storages.
+iCare Data Recovery Pro,Recover files from Quick Format drives,Automate recovery of files from drives that underwent a Quick Format operation.
+iCare Data Recovery Pro,Recover files from compressed drives,Automate recovery of files stored on compressed drives.
+iCare Data Recovery Pro,Recover files from logical drives,Automate recovery of files from logical drives that are inaccessible or showing errors.
+iCare Data Recovery Pro,Recover files after disk repartitioning,Automate recovery of files lost during disk repartitioning or resizing.
+iCare Data Recovery Pro,Recover files from fragmented drives,Automate recovery of files from highly fragmented storage devices.
+iCare Data Recovery Pro,Recover files from external SSDs,Automate recovery of files from portable or external SSDs.
+iCare Data Recovery Pro,Recover files from inaccessible drives,"Automate recovery of files from drives showing ""drive not accessible"" errors."
+iCare Data Recovery Pro,Recover files from hybrid drives,Automate recovery of data stored on hybrid drives (combination of HDD + SSD).
+iCare Data Recovery Pro,Recover files from bad sectors,Automate recovery of files stored on drives with bad sectors.
+iCare Data Recovery Pro,Recover files after failed updates,Automate recovery of files lost during failed system or software updates.
+iCare Data Recovery Pro,Recover files from encrypted drives,Automate recovery of files stored on encrypted drives after providing decryption credentials.
+iCare Data Recovery Pro,Recover files from old hard drives,Automate recovery of files stored on old or aging hard drives.
+iCare Data Recovery Pro,Recover files from hidden folders,Automate recovery of files stored in hidden folders on any drive.
+iCare Data Recovery Pro,Recover files from renamed extensions,Automate recovery of files that have been renamed to incorrect or non-standard extensions.
+iCare Data Recovery Pro,Recover files from RAID-0 configurations,Automate recovery of data stored on RAID-0 (striped) configurations.
+iCare Data Recovery Pro,Recover files from RAID-5 configurations,Automate recovery of data stored on RAID-5 (parity) configurations.
+iCare Data Recovery Pro,Recover files from network drives,Automate recovery of files stored on network or shared drives.
+iCare Data Recovery Pro,Recover files from dual-boot systems,Automate recovery of files lost during a dual-boot operating system setup.
+iCare Data Recovery Pro,Recover files from system crash logs,Automate recovery of files that were temporarily stored during a system crash.
+iCare Data Recovery Pro,Recover files from VMware disks,Automate recovery of files stored in VMware virtual disk images (VMDK).
+iCare Data Recovery Pro,Recover files from VirtualBox disks,Automate recovery of files stored in VirtualBox disk images (VDI).
+iCare Data Recovery Pro,Recover files from ISO images,Automate recovery of files stored in ISO or similar disk image formats.
+iCare Data Recovery Pro,Recover deleted email attachments,Automate recovery of deleted email attachments from local storage.
+iCare Data Recovery Pro,Recover files from partially overwritten files,Automate recovery of files that were partially overwritten on the disk.
+iCare Data Recovery Pro,Recover files from corrupted registry,Automate recovery of files lost due to corrupted registry entries or configurations.
+iCare Data Recovery Pro,Recover files from FAT16 drives,Automate recovery of files stored on FAT16-formatted drives or partitions.
+iCare Data Recovery Pro,Recover lost Excel files,Automate recovery of Excel files that were deleted or corrupted.
+iCare Data Recovery Pro,Recover lost Word documents,Automate recovery of Word documents that were deleted or lost.
+iCare Data Recovery Pro,Recover lost PowerPoint presentations,Automate recovery of PowerPoint presentations that were deleted or corrupted.
+iCare Data Recovery Pro,Recover deleted PDF files,Automate recovery of deleted or corrupted PDF files from any storage device.
+iCare Data Recovery Pro,Recover lost multimedia files,"Automate recovery of deleted or lost multimedia files, including photos, videos, and audio files."
+iCare Data Recovery Pro,Recover files from deleted logical drives,Automate recovery of files from logical drives that were deleted or lost.
+iCare Data Recovery Pro,Recover files from Windows.old folder,Automate recovery of files stored in the Windows.old folder after a system reset or upgrade.
+iCare Data Recovery Pro,,

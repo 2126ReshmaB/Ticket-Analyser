@@ -1,0 +1,87 @@
+Category,Short Description,Description
+Dell Boomi,Cloud Application Integration,Seamlessly connect cloud applications to share data and workflows.
+Dell Boomi,On-Premises to Cloud Integration,Enable secure data transfer between on-premises and cloud systems.
+Dell Boomi,API Management,"Design, manage, and scale APIs for seamless integration."
+Dell Boomi,Real-Time Data Synchronization,Ensure up-to-date information across multiple systems in real time.
+Dell Boomi,Legacy System Modernization,Connect and modernize legacy systems for better interoperability.
+Dell Boomi,E-Commerce Integration,"Connect e-commerce platforms with inventory, payment, and CRM systems."
+Dell Boomi,Data Transformation,"Transform data formats (e.g., XML to JSON) to ensure compatibility."
+Dell Boomi,Application Network Creation,Build a unified network of applications with reusable integrations.
+Dell Boomi,Integration with Salesforce,"Sync Salesforce data with ERP, marketing, and other enterprise tools."
+Dell Boomi,Healthcare System Interoperability,Enable seamless data exchange between healthcare systems using HL7.
+Dell Boomi,Batch Data Processing,Automate batch data processing for large datasets efficiently.
+Dell Boomi,Event-Driven Architecture Support,Build event-driven workflows to handle real-time events.
+Dell Boomi,Master Data Management,Maintain consistent and accurate master data across systems.
+Dell Boomi,IoT Device Data Integration,Integrate IoT device data with backend systems for analysis.
+Dell Boomi,API Gateway Deployment,Deploy secure and scalable API gateways for external integrations.
+Dell Boomi,Multi-Cloud Integration,Enable workflows and data synchronization across multiple cloud providers.
+Dell Boomi,File Transfer Automation,Automate secure file transfers between systems and applications.
+Dell Boomi,HR System Integration,Connect HR platforms like Workday or BambooHR with payroll or ERP systems.
+Dell Boomi,Dynamic Data Routing,Route data dynamically between systems based on business rules.
+Dell Boomi,Data Lake Integration,Connect enterprise systems with data lakes for centralized storage.
+Dell Boomi,Integration with SAP,Synchronize SAP ERP with other business applications for seamless workflows.
+Dell Boomi,API Lifecycle Management,Manage APIs from design to deprecation in a unified platform.
+Dell Boomi,Integration with AWS Services,Connect AWS services with enterprise systems for enhanced functionality.
+Dell Boomi,GDPR Compliance Integration,Ensure data integration workflows comply with GDPR regulations.
+Dell Boomi,Salesforce Marketing Cloud Integration,Sync marketing campaign data with other platforms.
+Dell Boomi,Integration with NetSuite,"Connect NetSuite with other ERP, CRM, or e-commerce systems."
+Dell Boomi,Supply Chain Integration,Automate supply chain workflows by connecting inventory and logistics systems.
+Dell Boomi,Integration with Microsoft Dynamics,Sync Microsoft Dynamics data with financial or CRM platforms.
+Dell Boomi,Integration with Google Workspace,Connect Google Workspace apps with enterprise systems for collaboration.
+Dell Boomi,Data Governance Enforcement,Monitor and enforce data governance policies across integrations.
+Dell Boomi,Integration with Workday,Automate HR and payroll data workflows using Workday integration.
+Dell Boomi,Integration with Shopify,"Sync Shopify data with inventory, CRM, and financial tools."
+Dell Boomi,Integration with Magento,Enable data workflows between Magento and backend systems.
+Dell Boomi,Integration with Snowflake,Automate data workflows into and from Snowflake data warehouses.
+Dell Boomi,Integration with BigQuery,Connect enterprise systems to Google BigQuery for scalable analytics.
+Dell Boomi,API Security Enforcement,Implement robust security policies for API traffic and access.
+Dell Boomi,Data Quality Monitoring,Ensure consistent data quality across integrated platforms.
+Dell Boomi,Integration Monitoring and Alerts,Receive real-time alerts for workflow errors or performance issues.
+Dell Boomi,Integration with Jira,Automate ticket creation and management in Jira.
+Dell Boomi,Integration with Zendesk,Sync customer support tickets between Zendesk and other platforms.
+Dell Boomi,Integration with HubSpot,Connect HubSpot CRM with marketing and financial tools.
+Dell Boomi,Integration with QuickBooks,Automate financial workflows by connecting QuickBooks to other systems.
+Dell Boomi,Integration with Slack,Send automated updates and alerts to Slack channels.
+Dell Boomi,Integration with Microsoft Teams,Sync tasks and notifications between enterprise systems and Teams.
+Dell Boomi,Integration with Twilio,Automate SMS and voice notifications using Twilio APIs.
+Dell Boomi,Integration with Jira Service Desk,Sync IT service management workflows with other business tools.
+Dell Boomi,Integration with Tableau,Automate data updates in Tableau dashboards for real-time reporting.
+Dell Boomi,Integration with Elasticsearch,Index and search enterprise data using Elasticsearch workflows.
+Dell Boomi,Integration with MongoDB,Connect MongoDB databases to enterprise systems for real-time data exchange.
+Dell Boomi,Integration with Redis,Use Redis for caching or message brokering in workflows.
+Dell Boomi,Integration with ActiveMQ,Enable asynchronous communication using ActiveMQ message queues.
+Dell Boomi,Integration with RabbitMQ,Automate complex workflows with RabbitMQ message processing.
+Dell Boomi,Integration with PostgreSQL,Sync PostgreSQL databases with enterprise applications.
+Dell Boomi,Integration with MySQL,Automate data workflows for MySQL databases.
+Dell Boomi,Integration with Oracle DB,"Sync Oracle DB with CRM, ERP, or e-commerce platforms."
+Dell Boomi,Integration with Azure Services,Enable workflows and data exchange with Microsoft Azure ecosystems.
+Dell Boomi,Integration with Google Cloud,Automate workflows and data sync with Google Cloud services.
+Dell Boomi,Integration with ServiceNow,Automate IT service management by syncing ServiceNow with other tools.
+Dell Boomi,API Usage Analytics,Track and analyze API traffic and usage patterns.
+Dell Boomi,Integration with Tableau CRM,Automate data workflows for Tableau CRM dashboards.
+Dell Boomi,Batch Workflow Automation,Automate batch processing workflows for high-volume data operations.
+Dell Boomi,Real-Time Order Sync,Sync orders between e-commerce platforms and inventory systems.
+Dell Boomi,Integration with PayPal,Automate payment workflows by connecting PayPal to backend systems.
+Dell Boomi,Integration with Stripe,Process payments and manage financial workflows with Stripe.
+Dell Boomi,Integration with SharePoint,Automate document management workflows in SharePoint.
+Dell Boomi,Integration with OneDrive,Sync files between enterprise systems and OneDrive.
+Dell Boomi,Integration with Dropbox,Automate file storage and sharing workflows with Dropbox.
+Dell Boomi,Integration with Airtable,Sync Airtable data with enterprise systems for real-time updates.
+Dell Boomi,Integration with Marketo,Automate marketing campaigns by syncing Marketo with other platforms.
+Dell Boomi,Integration with Mailchimp,Sync email marketing workflows with Mailchimp.
+Dell Boomi,Integration with Constant Contact,Automate email campaign workflows using Constant Contact.
+Dell Boomi,Integration with Trello,Automate project updates and task management in Trello.
+Dell Boomi,Integration with Monday.com,Sync data between Monday.com and other project management tools.
+Dell Boomi,Integration with Asana,Automate task and project workflows with Asana integration.
+Dell Boomi,Integration with Zoom,Automate meeting scheduling and notifications with Zoom.
+Dell Boomi,Integration with Google Calendar,Sync events and schedules with Google Calendar.
+Dell Boomi,Integration with Outlook Calendar,Automate calendar updates and notifications in Outlook.
+Dell Boomi,Integration with HubSpot Marketing,Sync marketing data between HubSpot and enterprise systems.
+Dell Boomi,Integration with Zendesk Sell,Automate sales workflows by connecting Zendesk Sell with other tools.
+Dell Boomi,Integration with Tableau Public,Automate publishing updates to Tableau Public dashboards.
+Dell Boomi,Integration with Freshdesk,Sync customer support workflows between Freshdesk and enterprise tools.
+Dell Boomi,Integration with QuickBooks Online,Automate workflows for QuickBooks Online financial operations.
+Dell Boomi,Integration for E-Learning Platforms,Connect LMS platforms with CRM and financial systems.
+Dell Boomi,Integration with Typeform,Sync form data submissions with enterprise systems.
+Dell Boomi,Integration with SurveyMonkey,Automate survey data workflows between SurveyMonkey and other tools.
+Dell Boomi,Integration with SAP HANA,Automate data workflows with SAP HANA databases.

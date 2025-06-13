@@ -1,0 +1,53 @@
+Category,Short Description,Description
+JotForm,Auto-Generate Forms,Automatically create JotForm forms using predefined templates or data from a database. This saves time when creating repetitive forms.
+JotForm,Auto-Populate Form Fields,"Automatically populate dropdowns, checkboxes, or multiple-choice options in a form from a database or spreadsheet."
+JotForm,Auto-Send Form Links,Automatically send form links to a list of recipients via email or SMS.
+JotForm,Auto-Close Forms,Automatically disable a form after reaching a specific number of submissions or a set deadline.
+JotForm,Auto-Send Confirmation Emails,Automatically send personalized confirmation emails to respondents after they submit a form.
+JotForm,Auto-Notify on New Submissions,Automatically notify form owners or admins when a new submission is received.
+JotForm,Auto-Create Response Spreadsheets,Automatically create and link a Google Sheet or Excel file to store form responses.
+JotForm,Auto-Export Responses,Automatically export form responses to a CSV or Excel file for further analysis.
+JotForm,Auto-Filter Responses,"Automatically filter form responses based on specific criteria, such as location or score."
+JotForm,Auto-Assign Tasks,"Automatically assign tasks in project management tools (e.g., Asana, Trello) based on form responses."
+JotForm,Auto-Generate Reports,Automatically generate summary reports from form responses and email them to stakeholders.
+JotForm,Auto-Notify Respondents,Automatically notify respondents of their submission status or next steps.
+JotForm,Auto-Schedule Reminders,Automatically schedule reminder emails to participants who haven’t completed the form.
+JotForm,Auto-Sort Responses,Automatically sort responses in linked spreadsheets based on specific columns or criteria.
+JotForm,Auto-Analyze Data,Automatically analyze form responses using built-in analytics or external tools like Google Analytics.
+JotForm,Auto-Create Charts,Automatically generate charts or graphs from form responses for visual representation.
+JotForm,Auto-Validate Responses,"Automatically validate form responses for specific criteria, such as email format or numeric ranges."
+JotForm,Auto-Tag Responses,Automatically tag responses with custom labels based on their content or score.
+JotForm,Auto-Redirect Respondents,Automatically redirect respondents to a specific URL or follow-up form after submission.
+JotForm,Auto-Pre-Fill Forms,Automatically pre-fill form fields with data from a database or previous submissions.
+JotForm,Auto-Categorize Responses,Automatically categorize responses into groups based on predefined criteria.
+JotForm,Auto-Send Thank You Emails,Automatically send personalized thank-you emails to respondents after submission.
+JotForm,Auto-Send Follow-Up Forms,Automatically send follow-up forms based on responses to the initial form.
+JotForm,Auto-Generate Certificates,Automatically generate and email certificates of participation or achievement based on form responses.
+JotForm,Auto-Update Dropdown Options,Automatically update dropdown options in a form based on changes in a linked database or spreadsheet.
+JotForm,Auto-Assign Scores,Automatically calculate scores for quiz responses and display them to respondents.
+JotForm,Auto-Notify Admins of Errors,Automatically notify admins if an error occurs in the form submission process or linked scripts.
+JotForm,Auto-Send Custom Notifications,Automatically send custom email or SMS notifications based on specific responses or conditions.
+JotForm,Auto-Generate Event Invites,Automatically create Google Calendar or Outlook invites based on form submission details.
+JotForm,Auto-Create Google Drive Folders,Automatically create a Google Drive folder for each respondent and share it with them.
+JotForm,Auto-Update CRM Systems,"Automatically update CRM systems (e.g., Salesforce, HubSpot) with form response data."
+JotForm,Auto-Track Attendance,Automatically track attendance for events or meetings based on form submissions.
+JotForm,Auto-Trigger Workflows,"Automatically trigger workflows in tools like Zapier, Make (formerly Integromat), or Power Automate based on form responses."
+JotForm,Auto-Generate Unique IDs,Automatically generate unique IDs for each form submission and store them in the linked database.
+JotForm,Auto-Summarize Feedback,Automatically summarize feedback from form responses into a concise report.
+JotForm,Auto-Create Approval Workflows,Automatically route form responses through an approval process based on specific criteria.
+JotForm,Auto-Sort Quiz Results,Automatically sort quiz results by score or respondent name in the linked spreadsheet.
+JotForm,Auto-Convert Responses to PDF,Automatically convert form responses into a PDF document and email it to the respondent or admin.
+JotForm,Auto-Generate Invoice Numbers,Automatically generate unique invoice numbers for form submissions related to payments or orders.
+JotForm,Auto-Flag Duplicate Submissions,Automatically identify and flag duplicate form submissions based on email or other unique identifiers.
+JotForm,Auto-Filter Spam Responses,Automatically filter and flag responses that appear to be spam or invalid.
+JotForm,Auto-Create Tasks in Asana,Automatically create tasks in Asana based on form responses for project management.
+JotForm,Auto-Create Trello Cards,"Automatically create Trello cards from form responses, including attachments or due dates."
+JotForm,Auto-Sync with Google Contacts,Automatically update Google Contacts with information collected from form submissions.
+JotForm,Auto-Generate Survey Results,Automatically compile and analyze survey results to generate charts and insights.
+JotForm,Auto-Notify Supervisors,Automatically notify supervisors or team leads if a critical issue is reported via the form.
+JotForm,Auto-Forward Responses to Slack,Automatically forward form responses to a specific Slack channel for quick team updates.
+JotForm,Auto-Create Helpdesk Tickets,"Automatically create tickets in helpdesk systems (e.g., Zendesk, Freshdesk) based on form submissions."
+JotForm,Auto-Assign Respondent Numbers,Automatically assign respondent numbers to submissions for easier tracking.
+JotForm,Auto-Translate Responses,Automatically translate form responses into a specific language using Google Translate API.
+JotForm,Auto-Send SMS Notifications,Automatically send SMS notifications to respondents or admins based on specific form responses.
+JotForm,Auto-Generate Attendance Certificates,Automatically generate attendance certificates for events based on form submissions.

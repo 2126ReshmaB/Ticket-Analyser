@@ -1,0 +1,79 @@
+Category,Short Description,Description
+Looker,Automate Data Refresh,Schedule and automate data refreshes for Looker’s dashboards to keep reports updated.
+Looker,Scheduled Report Delivery,Automate the delivery of Looker reports via email to stakeholders on a recurring basis.
+Looker,Data Source Integration,"Use scripts to automate integration of new data sources into Looker, including APIs and databases."
+Looker,Custom KPI Dashboards,Automate the creation of KPI dashboards by pulling data from multiple sources dynamically.
+Looker,Real-Time Data Updates,Automate real-time data streaming into Looker dashboards to provide live insights.
+Looker,Marketing Campaign Reports,"Automate dashboards to track marketing campaign performance across Google Ads, Facebook, etc."
+Looker,Financial Reporting,"Use scripts to automate dashboards for financial metrics like revenue, expenses, and cash flow."
+Looker,Social Media Analytics,Automate social media performance dashboards by integrating data from platforms like Twitter and Instagram.
+Looker,Sales Pipeline Dashboards,Automate dashboards to track sales pipeline metrics like lead-to-conversion rates.
+Looker,Inventory Management,Automate dashboards to monitor stock levels and inventory movement in real time.
+Looker,Goal Progress Dashboards,Track progress toward business goals dynamically with automated updates.
+Looker,Subscription Metrics,"Automate dashboards for tracking subscription KPIs like MRR, ARR, and churn rate."
+Looker,SEO Performance Dashboards,Automate dashboards to track SEO metrics like keyword rankings and organic traffic.
+Looker,Automated Alerts,Use Looker’s API to trigger alerts when metrics exceed or fall below thresholds.
+Looker,PPC Campaign Monitoring,Automate dashboards to track PPC campaign performance for platforms like Google Ads and Bing Ads.
+Looker,Data Transformation,Automate transformations of raw data into actionable insights before Looker visualizations.
+Looker,A/B Testing Metrics,Automate dashboards to track A/B testing results across marketing or product experiments.
+Looker,Budget vs Actual Analysis,Automate dashboards comparing budgeted vs actual performance metrics.
+Looker,Data Validation Scripts,Use scripts to validate and clean data before it is processed in Looker dashboards.
+Looker,Multi-Channel Attribution,Automate dashboards to analyze multi-channel marketing attribution data.
+Looker,Automated Forecasting,Automate forecasting dashboards using predictive models integrated with Looker.
+Looker,Data Consolidation,Use scripts to automate the consolidation of data from multiple sources into a single dashboard.
+Looker,Employee Productivity Metrics,Automate dashboards to measure employee productivity and identify trends.
+Looker,Automated Benchmarking,Automate dashboards to compare company performance against industry benchmarks.
+Looker,Churn Rate Analysis,Automate dashboards to calculate and visualize customer churn rates over time.
+Looker,E-commerce Sales Dashboards,Automate dashboards to track e-commerce performance metrics like revenue and conversion rates.
+Looker,Automated SLA Monitoring,Automate dashboards to track compliance with service-level agreements (SLAs).
+Looker,IT Infrastructure Monitoring,Automate dashboards to track IT system performance metrics in real time.
+Looker,Customer Retention Metrics,Automate dashboards to monitor and analyze customer retention trends.
+Looker,Automated Data Anomaly Detection,Use scripts to flag anomalies or outliers in Looker dashboards for immediate review.
+Looker,Revenue Growth Dashboards,Automate dashboards to track revenue growth over time and identify key drivers.
+Looker,Automated Workflow Insights,Automate dashboards to measure workflow efficiency using tools like Zapier or Power Automate.
+Looker,Project Milestone Tracking,Automate dashboards to track project milestones and deadlines dynamically.
+Looker,Automated Compliance Reporting,Use scripts to automate dashboards for compliance tracking and reporting.
+Looker,Workforce Metrics,"Automate dashboards to track workforce diversity, headcount, and turnover rates."
+Looker,Automated Geospatial Data,Visualize geographic data dynamically in Looker dashboards for spatial analysis.
+Looker,Campaign ROI Dashboards,Automate dashboards to calculate and visualize marketing campaign ROI.
+Looker,Automated Goal Tracking,Create dashboards to dynamically track progress toward team and company goals.
+Looker,Supplier Performance Metrics,Automate dashboards to track supplier performance KPIs like delivery time and quality.
+Looker,Automated NPS Dashboards,Automate dashboards to visualize Net Promoter Score (NPS) results for customer satisfaction.
+Looker,Data Permissions Management,Use scripts to dynamically manage user permissions and data access in Looker.
+Looker,Heatmap Visualizations,Automate the creation of heatmaps in dashboards to highlight trends or geographic data.
+Looker,Risk Management Dashboards,Automate dashboards to track risk metrics and prioritize mitigation strategies.
+Looker,Automated Data Sync,Schedule and automate syncing of Looker data sources with external tools or databases.
+Looker,Survey Data Integration,Automate dashboards to analyze survey results from tools like Google Forms or Typeform.
+Looker,Automated SLA Breach Alerts,"Trigger alerts when SLA breaches occur, and visualize them in dashboards."
+Looker,Automated Data Export,"Use scripts to export Looker dashboards to PDF, Excel, or other formats for sharing."
+Looker,Automated Metadata Updates,Use scripts to dynamically update metadata for datasets used in Looker.
+Looker,Fundraising Dashboards,Automate dashboards to track fundraising progress for nonprofits or campaigns.
+Looker,Automated Data Blending,Blend data from multiple sources automatically to create unified dashboards.
+Looker,Automated Chart Generation,Use scripts to dynamically create charts and graphs for Looker dashboards.
+Looker,Multi-Region Dashboards,Automate dashboards to track performance by geographic region.
+Looker,Automated SLA Compliance Tracking,Visualize SLA performance metrics dynamically with automated updates.
+Looker,Automated Energy Usage Dashboards,Track energy consumption and sustainability metrics automatically in Looker.
+Looker,Campaign Attribution Analysis,Automate dashboards to analyze marketing campaign attribution data.
+Looker,Automated Goal Alerts,Trigger automated alerts when specific business goals are achieved.
+Looker,Automated IT Ticket Dashboards,Automate dashboards to track IT ticket resolution rates and volumes.
+Looker,Automated Financial Forecasting,Use predictive models to create dynamic financial forecasting dashboards.
+Looker,Automated Inventory Tracking,Automate dashboards to track inventory levels and reorder points in real time.
+Looker,Automated Profit Margin Reports,Automate dashboards that calculate and display profit margins for products or services.
+Looker,Real-Time Collaboration Dashboards,Automate dashboards that enable real-time collaboration and data sharing across teams.
+Looker,Automated Data Transformation,Use scripts to transform data before it is visualized in Looker.
+Looker,Automated Supplier Analysis,Automate dashboards to track and analyze supplier costs and performance.
+Looker,Automated Sales Forecasting,Automate dashboards to predict sales trends using historical data.
+Looker,Automated Attendance Dashboards,Track employee attendance dynamically with automated Looker dashboards.
+Looker,Automated Expense Management,Automate dashboards to monitor and categorize expenses by department or project.
+Looker,Automated Workflow Monitoring,Create dashboards to track task completion rates and bottlenecks in workflows.
+Looker,Automated Tax Calculation Reports,Automate dashboards to calculate and visualize tax data dynamically.
+Looker,Automated Profit & Loss Reports,Generate dynamic P\&L dashboards automatically based on real-time data.
+Looker,Automated Campaign Heatmaps,Create heatmaps dynamically to track campaign performance by region.
+Looker,Automated Revenue Attribution,Automate dashboards to track revenue attribution across channels.
+Looker,Automated Data Validation Alerts,Trigger notifications when data validation rules are violated.
+Looker,Automated Customer Segmentation,Automate dashboards to dynamically segment customers by behavior or demographics.
+Looker,Automated Resource Allocation,Automate dashboards to monitor resource allocation and utilization in real time.
+Looker,Automated Multi-Tenant Reporting,Create dashboards for multi-tenant SaaS applications with role-based data segregation.
+Looker,Automated Holiday Tracking,Automate dashboards to track employee holiday and leave balances.
+Looker,Real-Time Streaming Dashboards,Automate dashboards to display real-time streaming data from IoT or APIs.
+Looker,Automated Stock Market Dashboards,Pull live stock market data into Looker dashboards for investment tracking.

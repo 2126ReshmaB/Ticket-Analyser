@@ -1,0 +1,68 @@
+Category,Short Description,Description
+Service Level Management Dashboard,SLA Compliance Monitoring,Automate real-time tracking of SLA compliance across services and display metrics on the dashboard.
+Service Level Management Dashboard,SLA Breach Alerts,Automate alerts for SLA breaches and highlight them on the dashboard.
+Service Level Management Dashboard,SLA Violation Trend Analysis,Automate the analysis and visualization of SLA violations over time to identify trends.
+Service Level Management Dashboard,Real-Time SLA Status Updates,Automate updates to SLA metrics in real-time to provide accurate status information.
+Service Level Management Dashboard,Service Availability Monitoring,Automate tracking of service availability and uptime percentages on the dashboard.
+Service Level Management Dashboard,Incident Response Time Reporting,Automate reporting and visualization of incident response times across services.
+Service Level Management Dashboard,SLA Compliance Percentage,Automate the calculation and display of SLA compliance percentages for different services.
+Service Level Management Dashboard,SLA Breach Root Cause Analysis,Automate linking SLA breaches to their root causes and display actionable insights in the dashboard.
+Service Level Management Dashboard,Service Downtime Tracking,Automate tracking and reporting of service downtimes on the dashboard.
+Service Level Management Dashboard,SLA Target vs. Actual Comparison,Automate the comparison of SLA targets versus actual performance metrics.
+Service Level Management Dashboard,SLA Performance by Region,Automate the display of SLA compliance performance segmented by geographic regions.
+Service Level Management Dashboard,SLA Performance by Team,Automate tracking and reporting SLA compliance performance by support teams.
+Service Level Management Dashboard,SLA Breach Escalation Status,Automate the visualization of SLA breaches that have been escalated for resolution.
+Service Level Management Dashboard,Incident Aging Reports,Automate generating reports on aging incidents and highlight overdue tickets on the dashboard.
+Service Level Management Dashboard,SLA Threshold Alerts,Automate alerts for tickets that are approaching SLA deadlines and display them on the dashboard.
+Service Level Management Dashboard,SLA Trends by Service Type,Automate visualization of SLA compliance trends across different service categories.
+Service Level Management Dashboard,SLA Breach Prediction,Automate the prediction of SLA breaches based on ticket activity trends and display warnings.
+Service Level Management Dashboard,Ticket Priority Analysis,Automate the analysis and visualization of SLA adherence based on ticket priority.
+Service Level Management Dashboard,SLA Impact Analysis,Automate the calculation of SLA breaches’ impact on business operations and service delivery.
+Service Level Management Dashboard,SLA Compliance by Customer Group,Automate segmentation of SLA compliance metrics based on customer groups or tiers.
+Service Level Management Dashboard,SLA Metrics for VIP Customers,Automate the tracking of SLA compliance specifically for VIP customers and display metrics on the dashboard.
+Service Level Management Dashboard,SLA Compliance by Time Period,"Automate SLA compliance reporting segmented by time periods (e.g., daily, weekly, monthly)."
+Service Level Management Dashboard,SLA Metrics by Product,Automate SLA compliance tracking for individual products and display them on the dashboard.
+Service Level Management Dashboard,SLA Compliance for Multi-Channel Tickets,"Automate tracking SLA performance for tickets raised via multiple channels (e.g., email, chat, phone)."
+Service Level Management Dashboard,SLA Metrics for Service Requests,Automate SLA compliance calculations for service requests and display the metrics.
+Service Level Management Dashboard,SLA Metrics for Incidents,Automate SLA compliance tracking and reporting for incident tickets.
+Service Level Management Dashboard,SLA Metrics for Change Requests,Automate SLA compliance tracking and reporting for change management activities.
+Service Level Management Dashboard,SLA Metrics for Problem Management,Automate SLA compliance tracking for problems and their resolution times.
+Service Level Management Dashboard,SLA Metrics for Major Incidents,Automate tracking SLA compliance for major incidents and display related metrics.
+Service Level Management Dashboard,SLA Compliance for Recurring Issues,Automate tracking SLA compliance for recurring issues and display these metrics.
+Service Level Management Dashboard,SLA Compliance for Third-Party Vendors,Automate SLA compliance tracking for third-party vendor services and display these metrics.
+Service Level Management Dashboard,SLA Metrics for Internal Teams,Automate SLA compliance reporting for internal service teams and departments.
+Service Level Management Dashboard,SLA Compliance for External Teams,Automate SLA performance metrics for external teams or service providers.
+Service Level Management Dashboard,SLA Metrics by Ticket Source,"Automate tracking SLA compliance segmented by ticket source (e.g., web portal, email, API)."
+Service Level Management Dashboard,SLA Metrics by Ticket Type,"Automate visualization of SLA compliance for different ticket types (e.g., incidents, requests)."
+Service Level Management Dashboard,SLA Breach Cost Analysis,Automate the calculation of costs associated with SLA breaches and display on the dashboard.
+Service Level Management Dashboard,SLA Compliance for High-Priority Services,Automate tracking SLA compliance for high-priority services and alert stakeholders.
+Service Level Management Dashboard,SLA Metrics by Business Unit,Automate SLA reporting segmented by business units or departments.
+Service Level Management Dashboard,SLA Metrics by Service Area,Automate tracking SLA compliance segmented by different service areas or functions.
+Service Level Management Dashboard,SLA Performance by Technician,Automate SLA compliance tracking for individual technicians and display their performance metrics.
+Service Level Management Dashboard,SLA Compliance by Contract,Automate SLA compliance tracking for specific contracts or service-level agreements.
+Service Level Management Dashboard,SLA Metrics by Severity Level,Automate tracking SLA performance based on severity levels of incidents.
+Service Level Management Dashboard,SLA Metrics for First Response Times,Automate tracking SLA compliance for first response times across all tickets.
+Service Level Management Dashboard,SLA Metrics for Resolution Times,Automate tracking SLA compliance for average resolution times across all services.
+Service Level Management Dashboard,SLA Trends for New Services,Automate tracking SLA compliance trends for newly introduced services.
+Service Level Management Dashboard,SLA Metrics by Resolution Workflow,Automate SLA compliance reporting segmented by different resolution workflows.
+Service Level Management Dashboard,SLA Compliance for Escalations,Automate tracking SLA compliance for escalated tickets and highlight performance.
+Service Level Management Dashboard,SLA Breach Notifications,"Automate alerts for stakeholders when SLA breaches occur, displayed on the dashboard."
+Service Level Management Dashboard,SLA Metrics for Reopened Tickets,Automate SLA compliance tracking for reopened tickets and display related metrics.
+Service Level Management Dashboard,SLA Compliance for Deferred Tickets,Automate tracking SLA compliance for deferred or postponed tickets.
+Service Level Management Dashboard,SLA Metrics for Urgent Tickets,Automate SLA compliance tracking for urgent tickets and highlight them on the dashboard.
+Service Level Management Dashboard,SLA Metrics for Pending Tickets,Automate tracking of SLA metrics for tickets in pending status.
+Service Level Management Dashboard,SLA Metrics for Multi-Step Approvals,Automate tracking SLA compliance for workflows involving multi-step approval processes.
+Service Level Management Dashboard,SLA Compliance for VIP Incidents,Automate tracking SLA compliance for incidents raised by VIP users and display metrics.
+Service Level Management Dashboard,SLA Performance for Restricted Services,Automate SLA compliance tracking for services with restricted access or usage conditions.
+Service Level Management Dashboard,SLA Metrics for Contracts with Penalties,Automate SLA compliance tracking for contracts with penalty clauses and display breach metrics.
+Service Level Management Dashboard,SLA Metrics for Low-Priority Tickets,Automate SLA compliance analysis for low-priority tickets and highlight them on the dashboard.
+Service Level Management Dashboard,SLA Metrics for Non-Business Hours,Automate SLA compliance tracking for tickets resolved outside business hours.
+Service Level Management Dashboard,SLA Metrics for Long-Running Tickets,Automate tracking SLA compliance for tickets that remain open for extended periods.
+Service Level Management Dashboard,SLA Metrics for Automation-Resolved Tickets,Automate SLA compliance tracking for tickets resolved through automation tools.
+Service Level Management Dashboard,SLA Metrics for Manual Resolutions,Automate SLA compliance tracking for tickets resolved manually by agents.
+Service Level Management Dashboard,SLA Metrics for Workflow Bottlenecks,Automate tracking SLA compliance for workflows with known bottlenecks and display metrics.
+Service Level Management Dashboard,SLA Metrics for Service Restoration Times,Automate tracking SLA compliance for service restoration times after outages.
+Service Level Management Dashboard,Automated SLA Compliance Benchmarking,Automate benchmarking SLA compliance metrics against industry standards or internal KPIs.
+Service Level Management Dashboard,SLA Metrics for Backlogged Tickets,Automate tracking SLA compliance for backlogged or overdue tickets.
+Service Level Management Dashboard,SLA Metrics for Seasonal Trends,Automate tracking SLA compliance trends during seasonal peaks or high-demand periods.
+Service Level Management Dashboard,SLA Metrics for Third-Party Dependencies,Automate tracking SLA compliance for services that depend on third-party

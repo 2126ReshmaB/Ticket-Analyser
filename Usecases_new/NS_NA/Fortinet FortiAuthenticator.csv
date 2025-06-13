@@ -1,0 +1,55 @@
+Category,Short Description,Description
+Fortinet FortiAuthenticator,Automate user account creation,Automate the creation of user accounts for authentication purposes in FortiAuthenticator.
+Fortinet FortiAuthenticator,Automate user account deletion,Automate the removal of inactive or unauthorized user accounts to maintain security.
+Fortinet FortiAuthenticator,Automate LDAP sync,Automate the synchronization of users and groups from an LDAP directory to FortiAuthenticator.
+Fortinet FortiAuthenticator,Automate radius server configuration,Automate the setup of RADIUS server settings required for authentication.
+Fortinet FortiAuthenticator,Automate two-factor authentication (2FA) setup,Automate the provisioning and configuration of 2FA for all users.
+Fortinet FortiAuthenticator,Automate failed login alerts,Automate the generation and delivery of alerts for failed login attempts.
+Fortinet FortiAuthenticator,Automate OTP token assignment,Automate the assignment of one-time password (OTP) tokens to users.
+Fortinet FortiAuthenticator,Automate certificate-based authentication setup,Automate the configuration of certificate-based authentication policies.
+Fortinet FortiAuthenticator,Automate guest user account management,"Automate the creation, expiration, and deletion of guest user accounts."
+Fortinet FortiAuthenticator,Automate user password reset,Automate the user password reset process for seamless password recovery.
+Fortinet FortiAuthenticator,Automate user role assignment,Automate the assignment of roles to users based on their job functions.
+Fortinet FortiAuthenticator,Automate group policy updates,Automate updates to user group policies for authentication and access control.
+Fortinet FortiAuthenticator,Automate user group synchronization,Schedule and automate synchronization of user groups with external directories like AD or LDAP.
+Fortinet FortiAuthenticator,Automate backup and restore,Automate regular backups of FortiAuthenticator configurations and restore them when necessary.
+Fortinet FortiAuthenticator,Automate SSO (Single Sign-On) configuration,Automate the setup of SSO for seamless user authentication across connected systems.
+Fortinet FortiAuthenticator,Automate idle session timeout enforcement,Automate the configuration of idle session timeout policies for enhanced security.
+Fortinet FortiAuthenticator,Automate multi-domain authentication setup,Automate configurations to support authentication for multiple domains.
+Fortinet FortiAuthenticator,Automate user session logging,Automate the logging of user authentication sessions for audit purposes.
+Fortinet FortiAuthenticator,Automate API token generation,Automate the creation and management of API tokens for integration with external systems.
+Fortinet FortiAuthenticator,Automate integration with FortiGate,Automate the integration of FortiAuthenticator with FortiGate for authentication and policy enforcement.
+Fortinet FortiAuthenticator,Automate self-service portal configuration,Automate the setup of a user self-service portal for password resets and profile updates.
+Fortinet FortiAuthenticator,Automate user lockout policies,Automate the configuration of user lockout policies to prevent brute-force attacks.
+Fortinet FortiAuthenticator,Automate hardware token provisioning,Automate the provisioning of hardware tokens for 2FA.
+Fortinet FortiAuthenticator,Automate software token distribution,Automate the distribution of software tokens to user devices for 2FA.
+Fortinet FortiAuthenticator,Automate RADIUS accounting logs export,Automate the export of RADIUS accounting logs for analysis and reporting.
+Fortinet FortiAuthenticator,Automate monitoring of authentication attempts,Automate monitoring and alerting for successful and failed authentication attempts.
+Fortinet FortiAuthenticator,Automate session revocation,Automate the termination of user sessions upon account suspension or security concerns.
+Fortinet FortiAuthenticator,Automate authentication report generation,Automate the creation of detailed authentication reports for compliance and auditing.
+Fortinet FortiAuthenticator,Automate integration with Azure AD,Automate the configuration of FortiAuthenticator with Azure AD for cloud-based authentication.
+Fortinet FortiAuthenticator,Automate integration with Google Workspace,Automate the integration of FortiAuthenticator with Google Workspace for user authentication.
+Fortinet FortiAuthenticator,Automate OTP token expiration management,Automate the monitoring and expiration of OTP tokens for security purposes.
+Fortinet FortiAuthenticator,Automate SSL certificate updates,Automate the renewal and deployment of SSL certificates for secure communications.
+Fortinet FortiAuthenticator,Automate user enrollment notifications,Automate notifications to users about enrollment in 2FA or other authentication services.
+Fortinet FortiAuthenticator,Automate integration with SIEM tools,Automate the integration of FortiAuthenticator with SIEM tools for real-time monitoring and alerting.
+Fortinet FortiAuthenticator,Automate integration with VPN,Automate the configuration of VPN authentication through FortiAuthenticator.
+Fortinet FortiAuthenticator,Automate identity federation,Automate configurations for identity federation with third-party identity providers.
+Fortinet FortiAuthenticator,Automate user deactivation,Automate user deactivation processes for terminated employees or inactive accounts.
+Fortinet FortiAuthenticator,Automate user activity dashboard updates,Automate updates to user activity dashboards for real-time monitoring.
+Fortinet FortiAuthenticator,Automate firewall authentication integration,Automate the setup of FortiAuthenticator with firewalls for authentication purposes.
+Fortinet FortiAuthenticator,Automate session timeout policies,Automate the enforcement of session timeout policies across all users.
+Fortinet FortiAuthenticator,Automate guest user notifications,Automate email or SMS notifications to guest users regarding account status or expiration.
+Fortinet FortiAuthenticator,Automate integration with third-party MFA tools,Automate the setup of third-party MFA tools with FortiAuthenticator for enhanced security.
+Fortinet FortiAuthenticator,Automate user authentication retries monitoring,Automate the detection and alerting of excessive user authentication retries.
+Fortinet FortiAuthenticator,Automate event log analysis,Automate the analysis of event logs to identify security issues or patterns.
+Fortinet FortiAuthenticator,Automate AD failover configuration,Automate the setup of failover configurations for Active Directory authentication.
+Fortinet FortiAuthenticator,Automate custom RADIUS attributes,Automate the creation of custom RADIUS attributes for specific authentication scenarios.
+Fortinet FortiAuthenticator,Automate guest portal branding,Automate the customization of guest portal branding to match corporate identity.
+Fortinet FortiAuthenticator,Automate user identity verification,Automate identity verification processes for secure enrollment and authentication.
+Fortinet FortiAuthenticator,Automate IP address whitelisting,Automate the configuration of IP whitelisting for trusted networks or devices.
+Fortinet FortiAuthenticator,Automate blacklist management,Automate the addition and removal of IPs or users from the blacklist.
+Fortinet FortiAuthenticator,Automate integration with cloud apps,Automate the setup of authentication for cloud applications through FortiAuthenticator.
+Fortinet FortiAuthenticator,Automate log archiving,Automate the archiving of logs for long-term storage and compliance.
+Fortinet FortiAuthenticator,Automate email alerts for security events,Automate email notifications for critical security events detected by FortiAuthenticator.
+Fortinet FortiAuthenticator,Automate SMS gateway configuration,Automate the setup of SMS gateways for OTP delivery.

@@ -1,0 +1,71 @@
+Category,Short Description,Description
+JotForm,Auto-send confirmation emails,Automatically send confirmation emails to respondents after they submit a form.
+JotForm,Generate PDF submissions,Create and send PDFs of form submissions to respondents or stakeholders.
+JotForm,Sync responses to Google Sheets,Automatically sync form submissions to a connected Google Sheets file for data analysis.
+JotForm,Add data to Airtable,Automatically push form submissions into Airtable for organized project tracking.
+JotForm,Send Slack notifications,Trigger Slack messages to specific channels whenever a new submission is received.
+JotForm,Create Trello cards from submissions,Automatically generate Trello cards based on form responses for task management.
+JotForm,Create calendar events,Create Google Calendar or Outlook calendar events based on form responses.
+JotForm,Payment confirmation emails,Automatically email payment receipts to respondents after payment submissions.
+JotForm,CRM data integration,Sync form responses with CRM tools like HubSpot or Salesforce to update customer records.
+JotForm,Generate unique submission IDs,Automatically assign unique IDs to each form submission for easier tracking.
+JotForm,Pre-fill form responses,"Use scripts to pre-fill forms with data from external sources (e.g., user profiles or CRM systems)."
+JotForm,Schedule email reminders,Send automated email reminders to respondents who haven’t completed their forms.
+JotForm,Auto-assign tasks in Asana,Automatically create and assign tasks in Asana based on form submissions.
+JotForm,Send SMS notifications,Trigger SMS alerts to notify respondents or team members about form submissions.
+JotForm,Create folders in Google Drive,Automatically create Google Drive folders for uploaded files from form submissions.
+JotForm,Auto-tag submissions,Use scripts to automatically tag or categorize form submissions based on specific responses.
+JotForm,Generate certificates,"Automatically generate and email certificates to respondents after completing a form (e.g., course completion)."
+JotForm,Populate Word templates,Populate Microsoft Word templates with form data to generate personalized documents.
+JotForm,Auto-generate contracts,Use form data to automatically generate contracts or agreements in PDF or Word format.
+JotForm,Track attendance,Use form submissions to automatically track attendance for an event or meeting.
+JotForm,Auto-update databases,"Update external databases (e.g., MySQL or PostgreSQL) with form submission data."
+JotForm,Auto-create Zoom meetings,"Trigger Zoom meeting creation automatically based on form submissions (e.g., webinar registrations)."
+JotForm,Conduct sentiment analysis,Use scripts to analyze sentiment in open-text responses to understand respondent feedback.
+JotForm,Filter spam submissions,Automatically filter and flag spam submissions based on predefined criteria.
+JotForm,Auto-translate forms,Translate form submissions into different languages using Google Translate API.
+JotForm,Export submissions to CSV,Automatically export form submissions to a CSV file for offline processing.
+JotForm,Schedule form availability,Use scripts to open and close form availability during specific time periods.
+JotForm,Integrate with QuickBooks,Push payment data from forms to QuickBooks for automated bookkeeping.
+JotForm,Send personalized thank-you emails,Automatically send customized thank-you emails to respondents based on their submissions.
+JotForm,Dynamic pricing calculations,Use scripts to calculate dynamic pricing based on user selections in the form.
+JotForm,Auto-create invoices,Generate invoices automatically based on form submissions and email them to respondents.
+JotForm,Auto-add contacts to mailing lists,Add respondent emails to mailing lists in tools like Mailchimp or Constant Contact.
+JotForm,Generate barcodes or QR codes,"Create and send barcodes or QR codes based on form data (e.g., event registrations)."
+JotForm,Auto-create tasks in Monday.com,Automatically create tasks in Monday.com based on form responses to improve workflow management.
+JotForm,Auto-update SharePoint lists,Push form submission data into SharePoint lists for better collaboration.
+JotForm,Integrate with Zapier workflows,Trigger custom multi-step workflows in Zapier based on form submissions.
+JotForm,Auto-grade quizzes,Use scripts to grade quizzes submitted through JotForm and send scores to respondents.
+JotForm,Generate progress reports,Automatically generate progress reports from form data and share them with stakeholders.
+JotForm,Sync with Dropbox,Automatically save uploaded files from forms into Dropbox folders.
+JotForm,Create Notion pages,Automatically create pages in Notion based on form submissions for organized documentation.
+JotForm,Manage inventory,Automatically update inventory levels based on form submissions for purchase or product-related requests.
+JotForm,Auto-create leads in Pipedrive,Push form data to Pipedrive to create new leads automatically.
+JotForm,Trigger WhatsApp messages,Send automated WhatsApp messages to respondents or admins after form submissions.
+JotForm,Auto-categorize feedback,Use scripts to categorize customer feedback into themes for easier analysis.
+JotForm,Auto-assign support tickets,Automatically assign support tickets to team members based on form submissions.
+JotForm,Generate PowerPoint slides,Use form responses to dynamically generate PowerPoint presentations.
+JotForm,Auto-update HubSpot contacts,Automatically update or create contact records in HubSpot based on form submissions.
+JotForm,Auto-send surveys,Trigger follow-up surveys automatically based on initial form responses.
+JotForm,Auto-close forms,Automatically close forms when a certain number of responses are reached.
+JotForm,Geo-location tracking,Capture and process geographic data from form submissions for location-based services.
+JotForm,Auto-respond to FAQs,Use scripts to auto-generate FAQ replies based on form submissions.
+JotForm,Integrate with Microsoft Teams,Send automated notifications to Microsoft Teams channels based on form responses.
+JotForm,Auto-create GitHub issues,Automatically create GitHub issues from bug report forms or feature requests.
+JotForm,Auto-populate Excel sheets,Push form submission data into pre-formatted Excel templates for reporting.
+JotForm,Recurring task creation,Create recurring tasks in task management tools based on form responses.
+JotForm,Auto-send donation receipts,Automatically generate and send receipts for donation forms.
+JotForm,Auto-create surveys,Use scripts to generate follow-up surveys based on responses from initial forms.
+JotForm,Auto-validate email addresses,Validate email submissions automatically to avoid invalid entries.
+JotForm,Auto-tag customer types,"Use form responses to automatically tag customers into categories (e.g., VIPs, prospects)."
+JotForm,Create recurring invoices,Automatically generate recurring invoices based on subscription forms.
+JotForm,Auto-log submissions in CRMs,Log all form submissions into CRM tools for centralized data management.
+JotForm,Auto-create event badges,Generate and print event badges for attendees automatically based on form submissions.
+JotForm,Auto-update Zendesk tickets,Push form data into Zendesk to update or create support tickets.
+JotForm,Auto-create milestones in ClickUp,Automatically create project milestones in ClickUp based on form responses.
+JotForm,Auto-tag survey respondents,Tag survey respondents based on their answers to certain questions for segmentation purposes.
+JotForm,Export form responses to JSON,Automatically convert form responses into a JSON file for integration with other systems.
+JotForm,Auto-send birthday emails,Trigger automated birthday emails to respondents based on date of birth fields in forms.
+JotForm,Auto-create invoices in Xero,Push payment data from forms into Xero to create invoices automatically.
+JotForm,Auto-update email preferences,Update email preferences in your database based on form submissions.
+JotForm,Create personalized thank-you pages,Dynamically generate personalized thank-you pages based on

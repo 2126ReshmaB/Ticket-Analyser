@@ -1,0 +1,79 @@
+Category,Short Description,Description
+SafetyCulture,Automate safety inspection scheduling,Automatically schedule recurring safety inspections for specific sites or teams.
+SafetyCulture,Send reminders for overdue inspections,Notify employees or inspectors of overdue safety inspections.
+SafetyCulture,Generate safety audit reports,Automatically create detailed safety audit reports upon the completion of inspections.
+SafetyCulture,Track inspection completion rates,Monitor and report inspection completion rates for teams or locations.
+SafetyCulture,Validate checklist completion,Ensure that all items on safety checklists are completed before submission.
+SafetyCulture,Automate corrective action tracking,Track and update the status of corrective actions identified during inspections automatically.
+SafetyCulture,Send notifications for high-priority risks,Notify supervisors when inspections identify high-priority risks or hazards.
+SafetyCulture,Generate real-time dashboards,Automatically update dashboards with real-time data from inspections and audits.
+SafetyCulture,Automate hazard identification reports,Generate reports for hazards identified during inspections automatically.
+SafetyCulture,Track recurring safety issues,Identify and flag recurring safety issues across multiple inspections.
+SafetyCulture,Automate safety training reminders,Notify employees about upcoming or mandatory safety training sessions.
+SafetyCulture,Sync inspections with calendars,Automatically sync scheduled inspections with team calendars.
+SafetyCulture,Generate compliance heatmaps,Create visual heatmaps to highlight compliance levels across different locations.
+SafetyCulture,Automate safety equipment inspections,Automatically schedule and track inspections for safety equipment like fire extinguishers or PPE.
+SafetyCulture,Validate inspection evidence,"Ensure all required evidence, such as photos or documents, is attached to inspection reports."
+SafetyCulture,Monitor safety trends,Analyze historical data to monitor safety trends and identify areas for improvement.
+SafetyCulture,Send follow-up reminders for corrective actions,Notify stakeholders of pending corrective actions that need to be addressed.
+SafetyCulture,Automate safety score calculations,Calculate safety scores for sites or teams based on inspection results automatically.
+SafetyCulture,Sync with incident management tools,Automatically create incident reports in external tools when hazards are logged in SafetyCulture.
+SafetyCulture,Automate safety inspection approvals,Route completed inspections to designated approvers automatically.
+SafetyCulture,Generate historical safety reports,Automatically generate reports summarizing historical safety performance.
+SafetyCulture,Track employee safety certifications,Monitor and notify employees about expiring safety certifications.
+SafetyCulture,Automate action plan reviews,Schedule and track reviews for action plans created to resolve safety issues.
+SafetyCulture,Validate inspection checklists,Ensure that inspection checklists adhere to organizational safety standards.
+SafetyCulture,Monitor inspection frequency,Track the frequency of inspections for specific assets or locations.
+SafetyCulture,Automate data export,"Export inspection and audit data to external systems, such as Excel or a database, automatically."
+SafetyCulture,Generate site-specific safety reports,Automatically create safety reports tailored to specific sites or locations.
+SafetyCulture,Automate incident escalation workflows,Trigger escalation workflows automatically for critical incidents or hazards.
+SafetyCulture,Track inspection completion by department,Monitor and report inspection completion rates for each department.
+SafetyCulture,Send notifications for failed inspections,Notify supervisors when inspections fail to meet compliance standards.
+SafetyCulture,Automate risk assessment updates,Update risk assessments automatically based on inspection findings.
+SafetyCulture,Validate checklist item dependencies,Ensure dependent checklist items are completed in the correct order.
+SafetyCulture,Automate safety inspection templates,Create and distribute standardized inspection templates automatically.
+SafetyCulture,Monitor safety compliance for contractors,Track safety compliance metrics for contractors working on-site.
+SafetyCulture,Generate recurring safety performance reports,Automatically create recurring reports summarizing safety performance metrics.
+SafetyCulture,Automate safety meeting agendas,Generate agendas for safety meetings based on recent inspection findings.
+SafetyCulture,Track inspection durations,Monitor the time taken to complete inspections and identify inefficiencies.
+SafetyCulture,Send reminders for equipment maintenance,Notify teams about upcoming maintenance for safety-critical equipment.
+SafetyCulture,Automate inspection feedback collection,Collect feedback from inspectors or employees on completed inspections automatically.
+SafetyCulture,Validate incident response timelines,Ensure that incident response times are within acceptable limits and flag delays.
+SafetyCulture,Automate safety compliance reviews,Schedule periodic reviews of safety compliance metrics and standards.
+SafetyCulture,Generate safety compliance certificates,Automatically issue certificates for locations or teams meeting safety compliance standards.
+SafetyCulture,Monitor PPE usage,Track and report on the usage of personal protective equipment (PPE) across sites.
+SafetyCulture,Automate follow-up inspections,Schedule and track follow-up inspections for previously identified safety issues.
+SafetyCulture,Track safety observations,Monitor and analyze trends in safety observations submitted by employees.
+SafetyCulture,Automate data syncing with BI tools,Sync safety data with business intelligence tools like Power BI or Tableau automatically.
+SafetyCulture,Generate safety audit scorecards,Create scorecards to summarize audit results for stakeholders.
+SafetyCulture,Automate compliance reminders,Notify stakeholders of upcoming compliance deadlines or requirements.
+SafetyCulture,Validate corrective action effectiveness,Monitor and report on the effectiveness of implemented corrective actions.
+SafetyCulture,Automate employee safety engagement tracking,Track employee participation and engagement in safety programs automatically.
+SafetyCulture,Monitor safety inspection trends,Analyze trends in inspection results to identify common risks or hazards.
+SafetyCulture,Automate safety training completion tracking,Track and report on employee safety training completion rates.
+SafetyCulture,Generate risk heatmaps,Automatically create heatmaps to visualize risk levels across different locations or operations.
+SafetyCulture,Send notifications for safety milestones,"Notify stakeholders when safety milestones, such as 100 days without incidents, are achieved."
+SafetyCulture,Automate inspection result sharing,Share inspection results with relevant teams or stakeholders automatically.
+SafetyCulture,Track safety compliance across regions,Monitor and report compliance levels for different regions or sites.
+SafetyCulture,Automate hazard reporting workflows,Streamline and automate workflows for reporting and resolving hazards.
+SafetyCulture,Monitor safety KPIs,Automatically track and report on key performance indicators (KPIs) related to safety.
+SafetyCulture,Automate recurring safety audits,Schedule and track recurring safety audits for compliance purposes.
+SafetyCulture,Validate inspection quality,Ensure that inspections are conducted thoroughly and meet quality standards.
+SafetyCulture,Automate incident investigation workflows,Streamline incident investigations by automating workflows for evidence collection and analysis.
+SafetyCulture,Monitor safety metrics in real-time,Provide real-time updates on key safety metrics through automated dashboards.
+SafetyCulture,Automate safety reporting to executives,Automatically generate and share safety reports with executives or leadership teams.
+SafetyCulture,Automate safety recognition programs,Track and recognize employees or teams with excellent safety performance automatically.
+SafetyCulture,Send reminders for expiring safety policies,Notify teams when safety policies are due for review or renewal.
+SafetyCulture,Automate incident root cause analysis,Pre-fill root cause analysis templates based on incident data.
+SafetyCulture,Track inspection coverage across sites,Monitor how well each site is covered by safety inspections and identify gaps.
+SafetyCulture,Automate contractor safety orientation tracking,Track and ensure that contractors complete required safety orientations before starting work.
+SafetyCulture,Monitor safety checklist usage,Track the usage rates of safety checklists across teams and identify underutilized templates.
+SafetyCulture,Automate inspection template updates,Update inspection templates automatically when safety standards or regulations change.
+SafetyCulture,Send automated safety tips to employees,Share safety tips or best practices with employees automatically through email or messaging platforms.
+SafetyCulture,Automate incident recurrence tracking,Track incidents across time to identify and address recurring safety issues.
+SafetyCulture,Generate compliance scorecards,Automatically create scorecards summarizing compliance performance for each team.
+SafetyCulture,Track safety performance by shift,Monitor and report safety performance metrics for different shifts or time periods.
+SafetyCulture,Automate safety report approvals,Streamline the approval process for safety reports by routing them automatically to approvers.
+SafetyCulture,Monitor inspection gaps,Identify and flag areas or assets that haven’t been inspected recently.
+SafetyCulture,Automate PPE inventory tracking,Track inventory levels for personal protective equipment and notify when resupplies are needed.
+SafetyCulture,Generate safety,

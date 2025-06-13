@@ -1,0 +1,88 @@
+Category,Short Description,Description
+Klipfolio,Automate Data Refresh,Schedule automated data refreshes for real-time dashboard updates in Klipfolio.
+Klipfolio,Scheduled Report Delivery,Automate the delivery of Klipfolio dashboards and reports via email to stakeholders.
+Klipfolio,Custom KPI Dashboards,Use scripts to automate the creation of KPI dashboards pulling data from multiple sources.
+Klipfolio,Data Consolidation,Automate the consolidation of data from multiple sources into a single Klipfolio dashboard.
+Klipfolio,Real-Time Data Updates,Automate real-time data streaming into Klipfolio from APIs or databases.
+Klipfolio,Marketing Campaign Metrics,Automate the tracking and visualization of marketing campaign performance metrics.
+Klipfolio,Financial Reporting,"Use scripts to automate financial reporting dashboards for revenue, expenses, and profitability."
+Klipfolio,Social Media Analytics,"Automate the integration of social media metrics from platforms like Facebook, LinkedIn, and Instagram."
+Klipfolio,Website Traffic Monitoring,Pull website traffic data from Google Analytics into Klipfolio dashboards automatically.
+Klipfolio,Sales Pipeline Tracking,Automate sales pipeline dashboards by integrating data from CRM tools like Salesforce or HubSpot.
+Klipfolio,Goal Progress Dashboards,Automate dashboards tracking progress toward business goals or OKRs.
+Klipfolio,Churn Rate Analysis,Automate the calculation and visualization of customer churn rate metrics.
+Klipfolio,Subscription Metrics,"Use scripts to automate dashboards tracking metrics like MRR, ARR, and customer lifetime value."
+Klipfolio,Custom Data Visualizations,Automate the creation of custom charts and graphs tailored to specific business needs.
+Klipfolio,PPC Campaign Monitoring,Automate tracking PPC campaign performance metrics from Google Ads and Bing Ads.
+Klipfolio,SEO Performance Dashboards,Automate dashboards showing SEO performance metrics like keyword rankings and organic traffic.
+Klipfolio,Automated Alerts,Use scripts to trigger alerts when certain metrics meet or exceed thresholds.
+Klipfolio,Inventory Management,Automate inventory tracking dashboards to monitor stock levels in real time.
+Klipfolio,E-commerce Analytics,Automate dashboards for tracking e-commerce sales performance from Shopify or WooCommerce.
+Klipfolio,Data Transformation,Use scripts to transform raw data into actionable insights for Klipfolio dashboards.
+Klipfolio,Lead Generation Analytics,"Automate dashboards tracking leads from forms, landing pages, or CRM tools."
+Klipfolio,Customer Retention Metrics,Automate dashboards tracking retention metrics and trends over time.
+Klipfolio,Budget vs Actual Dashboards,Automate dashboards comparing budget vs actual performance metrics.
+Klipfolio,Multi-Channel Attribution,Automate dashboards analyzing multi-channel marketing attribution data.
+Klipfolio,A/B Testing Metrics,Automate dashboards to track and visualize A/B testing results from testing tools.
+Klipfolio,Data Quality Checks,Use scripts to automate validation and quality checks for incoming data sources.
+Klipfolio,Automated Goal Tracking,Automate dashboards that dynamically track goal progress based on live data.
+Klipfolio,Weekly Performance Reports,Automate weekly report generation and distribution to teams or managers.
+Klipfolio,Employee Productivity Metrics,Automate dashboards tracking employee productivity using data from project management tools.
+Klipfolio,Automated Benchmarking,Use scripts to automate benchmarking against competitors or industry standards.
+Klipfolio,Automated Forecasting,Automate forecasting dashboards using historical data trends and predictive models.
+Klipfolio,Automated SLA Monitoring,Automate SLA compliance dashboards to track adherence to service-level agreements.
+Klipfolio,IT Infrastructure Monitoring,Pull real-time IT performance metrics into Klipfolio dashboards.
+Klipfolio,Data Anomaly Detection,Use scripts to highlight anomalies or outliers in dashboard data automatically.
+Klipfolio,Project Milestone Tracking,Automate dashboards tracking project milestones and deadlines.
+Klipfolio,Energy Usage Dashboards,Automate energy consumption metrics tracking for sustainability initiatives.
+Klipfolio,Risk Management Metrics,Automate dashboards tracking risk assessment and management KPIs.
+Klipfolio,Compliance Reporting,Use scripts to automate dashboards for compliance with regulatory requirements.
+Klipfolio,Employee Engagement Metrics,Automate dashboards showing employee engagement survey results.
+Klipfolio,Automated Data Blending,Blend and automate data from multiple sources into unified dashboards.
+Klipfolio,Resource Allocation Dashboards,Automate dashboards tracking resource allocation and utilization.
+Klipfolio,Campaign ROI Dashboards,Automate dashboards to calculate and visualize marketing campaign ROI.
+Klipfolio,Real-Time Collaboration,Enable real-time collaboration on dashboards by automating data updates.
+Klipfolio,Workforce Diversity Metrics,Automate dashboards tracking workforce diversity and inclusion KPIs.
+Klipfolio,Monthly KPI Reports,Automate the generation and delivery of monthly KPI dashboards.
+Klipfolio,Multi-Language Dashboards,Automate the creation of dashboards in multiple languages for global teams.
+Klipfolio,Automated Data Sync,Schedule and automate data synchronization between sources and Klipfolio.
+Klipfolio,Automated Metadata Updates,Use scripts to automate the updating of metadata for datasets.
+Klipfolio,Automated Data Archiving,Archive old data automatically while keeping dashboards up-to-date with the latest data.
+Klipfolio,Automated Alerts for KPIs,Trigger automated alerts when key performance indicators (KPIs) cross thresholds.
+Klipfolio,Supplier Performance Dashboards,Automate dashboards that track and analyze supplier performance metrics.
+Klipfolio,Automated Heatmaps,Create heatmaps dynamically based on live data for visualizing trends.
+Klipfolio,Automated Survey Analysis,Automate dashboards for analyzing survey results from tools like Google Forms or Typeform.
+Klipfolio,Fundraising Dashboards,Automate dashboards for tracking fundraising performance for non-profits.
+Klipfolio,Automated Workflow Insights,Automate dashboards to track workflow efficiency from tools like Zapier.
+Klipfolio,Automated Data Permissions,Use scripts to manage data access permissions for dashboards dynamically.
+Klipfolio,Cross-Platform Analytics,Automate dashboards combining analytics data from multiple platforms like Google and Facebook Ads.
+Klipfolio,Customer Journey Mapping,Automate dashboards to visualize customer journeys from marketing to purchase.
+Klipfolio,Automated Shift Scheduling,Automate dashboards to monitor and manage employee shifts and schedules.
+Klipfolio,SLA Breach Alerts,Set up dashboards to trigger alerts for SLA breaches automatically.
+Klipfolio,Automated NPS Dashboards,Visualize Net Promoter Score (NPS) survey results automatically in dashboards.
+Klipfolio,Subscription Usage Dashboards,Automate dashboards tracking SaaS subscription usage metrics.
+Klipfolio,Automated Funnel Analysis,Create automated dashboards for visualizing sales or marketing funnels.
+Klipfolio,Automated Geospatial Data,Visualize geospatial data dynamically on dashboards for geographic insights.
+Klipfolio,Automated Financial Forecasting,Automate dashboards forecasting financial performance using predictive models.
+Klipfolio,Automated Campaign Attribution,Use scripts to automate attribution analysis for marketing campaigns.
+Klipfolio,Automated Workflow Monitoring,Automate dashboards that track workflows and task completion metrics.
+Klipfolio,Automated SLA Dashboards,Track SLA compliance metrics with automated data updates.
+Klipfolio,Revenue Growth Dashboards,Automate dashboards showing revenue growth trends over time.
+Klipfolio,Automated Holiday Trackers,Automate dashboards showing employee holiday and leave balances.
+Klipfolio,Automated Sales Forecasting,Use historical sales data to automate dashboards forecasting sales.
+Klipfolio,Automated Profit Margin Reports,Automate dashboards calculating and displaying profit margins for products or services.
+Klipfolio,Automated Customer Segmentation,Use scripts to segment customers dynamically and visualize segments in dashboards.
+Klipfolio,Automated SLA Compliance Reports,Generate automated SLA compliance dashboards and distribute them to stakeholders.
+Klipfolio,Automated Email Notifications,Automate email notifications based on changes in dashboard metrics.
+Klipfolio,Automated Data Validation,Use scripts to validate data accuracy and completeness before visualization.
+Klipfolio,Automated Shift Performance Metrics,Automate dashboards tracking shift-wise performance metrics.
+Klipfolio,Supplier Analysis Dashboards,Automate dashboards that analyze supplier costs and delivery performance.
+Klipfolio,Automated Goal Alerts,Trigger automated alerts when business goals are met or exceeded.
+Klipfolio,Automated IT Ticket Metrics,Automate dashboards tracking IT ticket resolution times and volumes.
+Klipfolio,Real-Time Streaming Dashboards,Automate dashboards displaying live-streaming data from IoT or APIs.
+Klipfolio,Automated Stock Market Dashboards,Pull and visualize stock market data dynamically into dashboards.
+Klipfolio,Automated Inventory Alerts,Trigger alerts for low inventory levels directly from dashboards.
+Klipfolio,Real-Time Data Collaboration,Enable real-time collaboration on live dashboards with automated updates.
+Klipfolio,Automated Data Normalization,Use scripts to normalize data before visualization in Klipfolio.
+Klipfolio,Automated Multi-Device Dashboards,"Optimize dashboards for viewing on desktop, tablet, and mobile devices."
+Klipfolio,Automated Data Export,Export Klipfolio dashboard data to

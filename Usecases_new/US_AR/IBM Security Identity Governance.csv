@@ -1,0 +1,41 @@
+Category,Short Description,Description
+IBM Security Identity Governance,Automate User Provisioning,Automatically provision user accounts in connected systems based on HR or business workflows.
+IBM Security Identity Governance,Automate User Deprovisioning,Automatically deactivate or delete user accounts when employees leave the organization.
+IBM Security Identity Governance,Automate Role-Based Access Control,"Automatically assign roles to users based on their department, job title, or other attributes."
+IBM Security Identity Governance,Automate Access Reviews,Schedule and automate periodic access reviews to ensure compliance with security policies.
+IBM Security Identity Governance,Automate Compliance Reporting,"Automatically generate compliance reports to track user access, role assignments, and policy adherence."
+IBM Security Identity Governance,Automate Password Resets,Enable users to reset their passwords automatically through self-service portals.
+IBM Security Identity Governance,Automate Group Membership Updates,Automatically update group memberships based on user attributes or roles.
+IBM Security Identity Governance,Automate Application Access Requests,Automatically approve or deny application access requests based on predefined rules.
+IBM Security Identity Governance,Automate User Attribute Mapping,Automatically map user attributes between IBM Security Identity Governance and connected applications.
+IBM Security Identity Governance,Automate User Onboarding,Automatically provision users with access to required applications and resources during onboarding.
+IBM Security Identity Governance,Automate User Offboarding,Automatically revoke access to applications and resources when a user leaves the organization.
+IBM Security Identity Governance,Automate Role Audits,Schedule and automate audits of user roles to ensure proper access control and compliance.
+IBM Security Identity Governance,Automate Access Certification,Automatically certify user access to applications and resources periodically based on compliance requirements.
+IBM Security Identity Governance,Automate Risk-Based Access Control,Automatically enforce additional access controls for high-risk users or activities.
+IBM Security Identity Governance,Automate Privileged Access Management,Automatically manage and monitor privileged access to critical systems and applications.
+IBM Security Identity Governance,Automate Policy Enforcement,"Automatically enforce security policies, such as password complexity or session timeouts, across all users."
+IBM Security Identity Governance,Automate User Activity Monitoring,Automatically monitor user activity and trigger alerts for unusual behavior or suspicious logins.
+IBM Security Identity Governance,Automate Event-Based Workflows,"Trigger automated workflows based on specific events, such as user creation, role changes, or group membership updates."
+IBM Security Identity Governance,Automate Threat Response,Automatically respond to security threats by disabling compromised accounts or enforcing additional authentication requirements.
+IBM Security Identity Governance,Automate Directory Sync,Sync user data between IBM Security Identity Governance and on-premises directories like Active Directory or LDAP.
+IBM Security Identity Governance,Automate Integration with HR Systems,Automatically sync user data between HR systems and IBM Security Identity Governance to align with user lifecycle events like onboarding and offboarding.
+IBM Security Identity Governance,Automate Audit Log Analysis,Automatically analyze audit logs to identify potential security risks or compliance violations.
+IBM Security Identity Governance,Automate Application Role Management,Automatically manage application roles based on user attributes or group memberships.
+IBM Security Identity Governance,Automate Application Access Reviews,Schedule and automate reviews of user access to applications to ensure compliance and reduce risk.
+IBM Security Identity Governance,Automate Compliance Policy Enforcement,"Automatically enforce compliance policies, such as GDPR or HIPAA, across all applications and users."
+IBM Security Identity Governance,Automate User Login Analytics,"Generate analytics reports automatically to track login trends, detect anomalies, and identify potential security risks."
+IBM Security Identity Governance,Automate Integration with Cloud Platforms,"Automatically configure and manage Single Sign-On (SSO) and provisioning for cloud platforms like AWS, Azure, or Google Cloud."
+IBM Security Identity Governance,Automate Access Certification,Automatically certify user access to applications and resources periodically based on compliance requirements.
+IBM Security Identity Governance,Automate Risk-Based Authentication,Automatically enforce additional authentication steps for high-risk user activities or login attempts.
+IBM Security Identity Governance,Automate User Account Lockouts,Automatically lock user accounts after multiple failed login attempts to prevent unauthorized access.
+IBM Security Identity Governance,Automate User Role-Based Notifications,Notify group owners or administrators automatically when there are changes to user roles or group memberships.
+IBM Security Identity Governance,Automate User Access Requests,"Enable users to request application access via automated workflows, ensuring approvals are routed correctly."
+IBM Security Identity Governance,Automate Audit Log Exports,Automatically export audit logs to external monitoring tools or systems for further analysis.
+IBM Security Identity Governance,Automate User Attribute Sync,Sync user attributes automatically between IBM Security Identity Governance and connected applications to maintain data consistency.
+IBM Security Identity Governance,Automate Login Failure Notifications,Notify administrators or security teams automatically after a certain number of failed login attempts.
+IBM Security Identity Governance,Automate Integration with DevOps Tools,Automate identity and access management for development environments by integrating IBM Security Identity Governance with DevOps tools like Jenkins or Kubernetes.
+IBM Security Identity Governance,Automate Risk Scoring for Applications,Automatically calculate risk scores for applications based on user activity and security metrics.
+IBM Security Identity Governance,Automate User Role Audits,Schedule and automate audits of user roles and permissions to ensure proper access control and compliance.
+IBM Security Identity Governance,Automate Application Role Assignments,Automatically assign application-specific roles to users based on their job attributes or group memberships.
+IBM Security Identity Governance,Automate Idle User Notifications,"Notify users automatically if their accounts are inactive for a certain period, prompting them to log in or take action."

@@ -1,0 +1,88 @@
+Category,Short Description,Description
+ConnectWise Control,Remote Desktop Access,Securely access and control remote desktops from any location.
+ConnectWise Control,File Transfer Between Devices,Transfer files between local and remote computers seamlessly.
+ConnectWise Control,Unattended Access Setup,Configure unattended access to remote devices for ongoing management.
+ConnectWise Control,Multi-Monitor Support,View and control multiple monitors on remote systems simultaneously.
+ConnectWise Control,Remote System Reboot,Reboot remote systems directly from the ConnectWise Control interface.
+ConnectWise Control,Remote Printing Support,Print documents from remote systems to local printers effortlessly.
+ConnectWise Control,Session Recording for Auditing,"Record remote sessions for compliance, training, or review purposes."
+ConnectWise Control,Remote Task Manager Access,View and manage processes on remote devices through the task manager.
+ConnectWise Control,Clipboard Sharing Between Systems,Share clipboard content between local and remote systems securely.
+ConnectWise Control,Two-Factor Authentication,Add additional security with two-factor authentication for remote sessions.
+ConnectWise Control,Remote System Diagnostics,Run diagnostics on remote devices to troubleshoot performance issues.
+ConnectWise Control,Remote Audio Streaming,Stream audio from remote systems to local devices in real time.
+ConnectWise Control,Remote User Support,Provide IT support to users by accessing and troubleshooting their systems.
+ConnectWise Control,Remote Software Installation,Install or update software on remote systems without physical access.
+ConnectWise Control,Remote Collaboration Tools,Use screen sharing and collaboration tools for team support.
+ConnectWise Control,Remote Webcam Access,Access and view webcams connected to remote devices.
+ConnectWise Control,Wake-on-LAN Functionality,Power on remote systems using Wake-on-LAN technology.
+ConnectWise Control,Remote System Updates,Apply system updates to remote devices from a central location.
+ConnectWise Control,Remote System Shutdown,Shut down remote systems securely from the ConnectWise Control dashboard.
+ConnectWise Control,Custom Branding for IT Support,Customize the interface with company branding for professional remote support.
+ConnectWise Control,Remote Access Permissions Management,Assign permissions to users for accessing remote devices securely.
+ConnectWise Control,Secure File Sharing,Share files securely between local and remote systems during sessions.
+ConnectWise Control,Real-Time Collaboration with Clients,Collaborate with clients by sharing screens and tools remotely.
+ConnectWise Control,Remote Antivirus Scanning,Run antivirus scans on remote systems to detect and remove malware.
+ConnectWise Control,Remote System Lock,Lock remote systems to restrict unauthorized access during or after sessions.
+ConnectWise Control,Mobile Device Remote Access,Access and troubleshoot Android and iOS devices remotely.
+ConnectWise Control,Remote Application Deployment,Deploy applications to multiple remote devices simultaneously.
+ConnectWise Control,Remote System Monitoring,"Monitor system resource usage, including CPU, memory, and disk usage, remotely."
+ConnectWise Control,Remote BIOS Configuration,Access and modify BIOS settings on remote systems securely.
+ConnectWise Control,Remote Disk Cleanup,Perform disk cleanup on remote systems to free up storage space.
+ConnectWise Control,Remote Crash Recovery,Recover crashed systems remotely to restore functionality.
+ConnectWise Control,Remote System Backup,Perform backups of remote systems to ensure data recovery options.
+ConnectWise Control,Remote Data Recovery,Recover lost or deleted files from remote devices securely.
+ConnectWise Control,Remote Compliance Audits,Audit remote devices for compliance with organizational policies.
+ConnectWise Control,Remote User Activity Monitoring,Monitor and log user activity during remote sessions for security purposes.
+ConnectWise Control,Remote Access for IoT Devices,Manage and troubleshoot IoT devices remotely using secure connections.
+ConnectWise Control,Remote VPN Configuration,Set up and manage VPN connections on remote systems.
+ConnectWise Control,Remote Firewall Configuration,Configure and manage firewall settings on remote devices.
+ConnectWise Control,Remote Power Management,Manage power settings on remote systems to reduce energy usage.
+ConnectWise Control,Remote Application Management,"Open, close, or troubleshoot applications on remote devices directly."
+ConnectWise Control,Remote Patch Management,Apply critical patches and updates to remote systems automatically.
+ConnectWise Control,Remote RAID Configuration,Configure RAID setups on remote systems for data redundancy.
+ConnectWise Control,Remote File Compression,Compress files on remote systems to optimize transfer speeds.
+ConnectWise Control,Remote File Decompression,Decompress archived files on remote systems for immediate use.
+ConnectWise Control,Remote File Search,Search for specific files on remote devices during a session.
+ConnectWise Control,Remote Disk Partitioning,Modify disk partitions on remote systems to optimize storage.
+ConnectWise Control,Secure File Encryption,Encrypt files during transfer to ensure data security.
+ConnectWise Control,Remote User Session Scheduling,Schedule remote access sessions for specific times to minimize disruptions.
+ConnectWise Control,Remote IT Asset Management,Track hardware and software inventory on all connected remote devices.
+ConnectWise Control,Remote Device Geolocation,Track the physical location of remote devices for security purposes.
+ConnectWise Control,Remote BIOS Updates,Update BIOS firmware on remote systems without physical access.
+ConnectWise Control,Remote User Training Sessions,Conduct training sessions with users by sharing remote systems.
+ConnectWise Control,Remote Network Configuration,Configure and troubleshoot network settings on remote systems.
+ConnectWise Control,Remote Smart Device Management,Access and manage smart home or office devices remotely.
+ConnectWise Control,Remote USB Device Access,Redirect USB devices to remote systems for seamless usage.
+ConnectWise Control,Multi-User Remote Collaboration,Allow multiple users to join and collaborate on a single remote session.
+ConnectWise Control,Remote Role-Based Access Management,Assign role-based access permissions for secure remote access.
+ConnectWise Control,Remote File Synchronization,Synchronize files automatically between local and remote systems.
+ConnectWise Control,Remote Document Collaboration,Work on documents stored on remote devices with team members.
+ConnectWise Control,Remote File Sharing During Sessions,Share files securely with users during active remote sessions.
+ConnectWise Control,Remote System Health Monitoring,Monitor hardware health metrics like temperature and fan speeds.
+ConnectWise Control,Remote IT Policy Enforcement,Enforce organizational IT policies on remote devices.
+ConnectWise Control,Remote Access Notifications,Notify users when their devices are accessed remotely.
+ConnectWise Control,Remote Meeting Platform Support,Provide technical support for video conferencing tools like Zoom or Teams.
+ConnectWise Control,Remote CRM Integration,Access and update customer records in CRM systems remotely.
+ConnectWise Control,Remote E-Commerce Platform Support,Troubleshoot and manage e-commerce systems remotely.
+ConnectWise Control,Remote Bandwidth Optimization,Optimize bandwidth usage during remote sessions to improve performance.
+ConnectWise Control,Remote System Encryption,Encrypt drives and files on remote systems for enhanced security.
+ConnectWise Control,Remote System Event Notifications,Get notified of critical system events on remote devices.
+ConnectWise Control,Remote Task Scheduling,Schedule tasks or maintenance activities on remote systems automatically.
+ConnectWise Control,Mobile Device Screen Sharing,Share mobile device screens with remote users for troubleshooting.
+ConnectWise Control,Remote POS System Management,Manage and troubleshoot point-of-sale systems remotely.
+ConnectWise Control,Remote Firmware Updates,Update firmware on remote devices securely and efficiently.
+ConnectWise Control,Remote Training for Designers,Enable designers to access high-performance desktops remotely for training.
+ConnectWise Control,Remote File Archiving,Archive files on remote systems for long-term storage.
+ConnectWise Control,Remote Crash Analysis,Analyze crash reports on remote systems to identify root causes.
+ConnectWise Control,Remote System Compliance Reporting,Generate compliance reports for remote devices automatically.
+ConnectWise Control,Remote System File Permissions,Manage and modify file permissions on remote systems.
+ConnectWise Control,Remote Device Temperature Monitoring,Monitor hardware temperature on remote systems for proactive maintenance.
+ConnectWise Control,Remote Smart Device Firmware Updates,Update firmware for IoT devices and smart systems remotely.
+ConnectWise Control,Remote Infrastructure Management,"Manage IT infrastructure remotely, including servers and workstations."
+ConnectWise Control,Remote Document Editing,Edit documents stored on remote systems collaboratively.
+ConnectWise Control,Remote Smart Device Troubleshooting,Diagnose and resolve issues on smart devices from remote locations.
+ConnectWise Control,Remote IT Help Desk Support,Provide IT help desk support by accessing and troubleshooting remote systems.
+ConnectWise Control,Remote Application Compatibility Testing,Test application compatibility on remote systems before deployment.
+ConnectWise Control,Remote System Crash Recovery,Restore remote systems from crashes without requiring physical intervention.
+ConnectWise Control,Remote Driver Installation,Install or update drivers on remote systems for compatibility.

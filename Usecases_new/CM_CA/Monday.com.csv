@@ -1,0 +1,69 @@
+Category,Short Description,Description
+Monday.com,Auto-assign tasks to team members,"Automatically assign tasks to team members based on their roles, workload, or expertise."
+Monday.com,Notify on task creation,Send notifications to relevant team members when a new task is created in a board.
+Monday.com,Auto-prioritize tasks,"Automatically set task priority based on deadlines, dependencies, or task type."
+Monday.com,Auto-create subtasks,Automatically generate subtasks for tasks based on project templates or predefined workflows.
+Monday.com,Notify on overdue tasks,Send automated reminders to task owners when tasks are overdue or approaching their deadlines.
+Monday.com,Sync with Google Calendar,Automatically sync Monday.com tasks with Google Calendar to integrate schedules and deadlines.
+Monday.com,Notify on task updates,Send notifications to team members when tasks are updated or reassigned.
+Monday.com,Auto-create tasks from emails,Automatically create Monday.com tasks when emails are sent to a designated inbox or include specific keywords.
+Monday.com,Sync with Slack,"Send automated updates to Slack channels when tasks are created, updated, or completed in Monday.com."
+Monday.com,Auto-create recurring tasks,Automatically generate recurring tasks for regular activities like meetings or reports.
+Monday.com,Notify on project completion,Send notifications to team members or stakeholders when a Monday.com project is marked as completed.
+Monday.com,Auto-archive completed tasks,Automatically archive or move completed tasks to a specific group or location.
+Monday.com,Notify on task dependencies,Send notifications when task dependencies are resolved or blocked.
+Monday.com,Generate weekly progress reports,Automate the creation and distribution of weekly progress reports for Monday.com projects.
+Monday.com,Auto-assign tasks to specific groups,"Automatically move tasks to specific groups based on their type, priority, or project."
+Monday.com,Notify on overdue milestones,Send reminders for overdue project milestones to relevant stakeholders.
+Monday.com,Auto-create project templates,Automatically generate project templates for repetitive workflows or processes.
+Monday.com,Sync with Asana,Automatically sync tasks between Monday.com and Asana for cross-platform collaboration.
+Monday.com,Notify on high-priority tasks,Send alerts to relevant team members when high-priority tasks are created or updated.
+Monday.com,Auto-add collaborators to tasks,Automatically add collaborators to tasks based on project roles or workflows.
+Monday.com,Notify on task approvals,Send notifications when tasks are approved or rejected by stakeholders.
+Monday.com,Sync with Microsoft Teams,"Automatically send updates to Microsoft Teams when Monday.com tasks are created, updated, or completed."
+Monday.com,Notify on changes to task priorities,Send alerts when task priorities are updated in Monday.com projects.
+Monday.com,Auto-create tasks for event planning,"Automatically generate tasks for event planning, including logistics and agenda creation."
+Monday.com,Sync with Airtable,Automatically sync Monday.com tasks with Airtable databases for better organization and tracking.
+Monday.com,Auto-create tasks for product launches,"Automatically generate tasks for product launches, covering activities like marketing, testing, and delivery."
+Monday.com,Notify on project delays,Send alerts to stakeholders when a Monday.com project is delayed or behind schedule.
+Monday.com,Auto-create tasks for recruitment,"Automatically generate tasks for recruitment workflows, such as job postings and interviews."
+Monday.com,Auto-create tasks for onboarding,Automatically create a set of onboarding tasks for new employees or team members.
+Monday.com,Sync with HubSpot,Automatically sync tasks between Monday.com and HubSpot for marketing and sales tracking.
+Monday.com,Notify on recurring task completion,Send notifications when recurring tasks are completed in Monday.com.
+Monday.com,Notify on task assignment changes,Send alerts when tasks are reassigned to different team members.
+Monday.com,Auto-link related tasks,"Automatically link related tasks based on tags, descriptions, or dependencies."
+Monday.com,Sync with Trello,Automatically sync tasks between Monday.com and Trello for cross-platform collaboration.
+Monday.com,Notify on changes to task deadlines,Send notifications when task deadlines are updated in Monday.com.
+Monday.com,Auto-create tasks for financial reports,"Automatically generate tasks for creating, reviewing, and approving financial reports."
+Monday.com,Notify on changes to task descriptions,Send alerts when task descriptions are updated or modified.
+Monday.com,Sync with Tableau,Automatically export Monday.com data to Tableau for advanced reporting and visualization.
+Monday.com,Notify on changes to project timelines,Send alerts when project timelines are updated or extended in Monday.com.
+Monday.com,Auto-create tasks for retrospectives,Automatically create retrospective tasks at the end of each sprint or project in Monday.com.
+Monday.com,Notify on task status changes,"Send notifications when tasks change status, such as moving from ""In Progress"" to ""Completed."""
+Monday.com,Auto-create tasks for feedback collection,Automatically generate tasks for collecting and analyzing feedback from surveys or users.
+Monday.com,Notify on changes to task dependencies,Send alerts when task dependencies are updated or resolved.
+Monday.com,Sync with Zendesk,Automatically create Monday.com tasks for support tickets submitted in Zendesk.
+Monday.com,Auto-create tasks for marketing campaigns,Automatically generate tasks for marketing campaigns using project templates in Monday.com.
+Monday.com,Notify on milestone completion,Send notifications when project milestones are achieved in Monday.com.
+Monday.com,Auto-create tasks for training sessions,Automatically generate tasks for organizing and delivering employee training sessions.
+Monday.com,Auto-assign reviewers to tasks,Automatically assign reviewers to tasks based on their roles or expertise.
+Monday.com,Notify on blocked tasks,Send alerts when tasks are marked as blocked or have unresolved dependencies.
+Monday.com,Auto-create tasks for social media posts,Automatically generate tasks for planning and scheduling social media posts.
+Monday.com,Notify on SLA breaches,Send alerts when SLA (Service Level Agreement) deadlines are breached for specific tasks.
+Monday.com,Auto-create cards for content creation,"Automatically generate tasks for content creation workflows, such as blog posts, videos, or graphics."
+Monday.com,Sync with Dropbox,Automatically link Monday.com tasks with Dropbox files for better file management and collaboration.
+Monday.com,Notify on changes to custom fields,Send notifications when custom fields in Monday.com tasks or projects are updated.
+Monday.com,Auto-create tasks for bug reports,Automatically create tasks for bug reports submitted through forms or external tools.
+Monday.com,Notify on overdue milestones,Send reminders for overdue milestones in Monday.com projects to team members and stakeholders.
+Monday.com,Auto-create recurring tasks for audits,Automatically generate recurring tasks for periodic audits or compliance checks.
+Monday.com,Notify on workflow changes,Send alerts to team members when changes are made to Monday.com workflows or templates.
+Monday.com,Sync with Power BI,Automatically export Monday.com data to Power BI for advanced analytics and reporting.
+Monday.com,Notify on card reassignment,Send notifications when tasks or cards are reassigned to new owners in Monday.com.
+Monday.com,Auto-create tasks for feature development,"Automatically generate tasks for feature development projects, including design, testing, and implementation."
+Monday.com,Notify on project status changes,"Send alerts to stakeholders when the status of a Monday.com project changes (e.g., from ""In Progress"" to ""Completed"")."
+Monday.com,Auto-create tasks for client onboarding,Automatically generate tasks for onboarding new clients or accounts in Monday.com.
+Monday.com,Notify on task progress,Send automated updates to stakeholders when tasks reach specific progress milestones.
+Monday.com,Auto-create tasks for meeting agendas,Automatically generate tasks for meeting agendas and follow-ups in Monday.com.
+Monday.com,Sync with GitHub,Automatically link Monday.com tasks with GitHub pull requests or commits.
+Monday.com,Notify on task reassignment delays,Send alerts when tasks are not assigned within a specific timeframe in Monday.com.
+Monday.com,Track task aging,Automatically track and report on tasks that have been in the same status for too long.

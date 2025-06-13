@@ -1,0 +1,70 @@
+Category,Short Description,Description
+Xoralia,Automate Policy Uploads,Automatically upload new policies to the central library and assign metadata for categorization.
+Xoralia,Notify of Policy Updates,Send automated notifications to employees when a policy is updated or revised.
+Xoralia,Assign Policy Owners,Automatically assign ownership of policies to specific individuals or departments.
+Xoralia,Schedule Policy Reviews,Automate the scheduling of periodic policy reviews and notify policy owners.
+Xoralia,Track Policy Acknowledgments,Automatically track employee acknowledgments of mandatory policies and generate reports.
+Xoralia,Notify of Overdue Acknowledgments,Send reminders to employees who have not acknowledged mandatory policies.
+Xoralia,Archive Expired Policies,Automatically archive policies that are no longer valid or have expired.
+Xoralia,Automate Policy Approval Workflows,"Create automated workflows for policy approvals, routing them to the appropriate approvers."
+Xoralia,Notify Approvers of Pending Policies,Send automated reminders to approvers for pending policy approvals.
+Xoralia,Generate Policy Compliance Reports,Automate the creation of reports summarizing policy compliance across the organization.
+Xoralia,Monitor Policy Usage,Track and report on how often policies are accessed or downloaded by employees.
+Xoralia,Notify of Policy Review Deadlines,Send automated alerts to policy owners when review deadlines are approaching.
+Xoralia,Assign Mandatory Reads,Automatically assign mandatory reads for critical policies to relevant employees.
+Xoralia,Track Mandatory Read Completion,Monitor and report on the completion status of mandatory reads.
+Xoralia,Automate Policy Version Control,"Automatically manage policy versions, ensuring only the latest version is accessible."
+Xoralia,Notify of New Policies,Send automated notifications to employees when new policies are published.
+Xoralia,Automate Policy Metadata Assignment,Automatically assign metadata to policies for easier categorization and searchability.
+Xoralia,Generate Policy Lifecycle Reports,"Automate the creation of reports summarizing the lifecycle status of policies (e.g., draft, review, published)."
+Xoralia,Notify of Policy Gaps,Send alerts to administrators when gaps are identified in the policy library.
+Xoralia,Automate Employee Attestation Tracking,Track and report on employee attestations for compliance purposes.
+Xoralia,Notify of Missing Attestations,Send automated reminders to employees who have not completed required attestations.
+Xoralia,Assign Policy Training Modules,Automatically assign training modules related to specific policies to employees.
+Xoralia,Track Policy Training Completion,Monitor and report on the completion status of policy-related training modules.
+Xoralia,Notify of Expiring Policies,Send automated alerts to policy owners when policies are nearing their expiration dates.
+Xoralia,Automate Policy Distribution,Automatically distribute policies to employees based on their roles or departments.
+Xoralia,Notify of Policy Non-Compliance,Send alerts to supervisors when employees fail to comply with mandatory policy requirements.
+Xoralia,Generate Policy Audit Trails,"Automate the creation of audit trails for policy changes, approvals, and acknowledgments."
+Xoralia,Monitor Policy Access Logs,Track and report on who accessed specific policies and when.
+Xoralia,Automate Policy Categorization,Automatically categorize policies based on predefined tags or metadata.
+Xoralia,Notify of Policy Ownership Changes,Send alerts when policy ownership is reassigned to a new individual or department.
+Xoralia,Automate Policy Deletion Requests,Create workflows to automate the approval and deletion of outdated policies.
+Xoralia,Notify of Policy Approval Delays,Send reminders to approvers when policy approvals are delayed.
+Xoralia,Assign Policy Reviewers,Automatically assign reviewers to policies based on their expertise or department.
+Xoralia,Track Policy Review Progress,Monitor and report on the progress of policy reviews across the organization.
+Xoralia,Automate Policy Search Indexing,Automatically index policies for improved searchability within the library.
+Xoralia,Notify of Policy Search Trends,Send reports on frequently searched policies to administrators for insights.
+Xoralia,Automate Policy Feedback Collection,Create workflows to collect employee feedback on specific policies.
+Xoralia,Notify of Policy Feedback Requests,Send reminders to employees to provide feedback on policies under review.
+Xoralia,Automate Policy Exception Requests,Create workflows to handle requests for policy exceptions and route them to approvers.
+Xoralia,Notify of Policy Exception Approvals,Send alerts to employees when their policy exception requests are approved or denied.
+Xoralia,Automate Policy Integration with Teams,Automatically share policy updates in Microsoft Teams channels for better communication.
+Xoralia,Notify of Policy Integration Errors,Send alerts when errors occur during policy integration with other systems.
+Xoralia,Automate Policy Change Notifications,Notify employees of changes made to policies they have previously acknowledged.
+Xoralia,Track Policy Change History,Automatically log and report on the history of changes made to policies.
+Xoralia,Automate Policy Approval Escalations,Create workflows to escalate policy approvals to higher management when deadlines are missed.
+Xoralia,Notify of Policy Escalation Actions,Send alerts to stakeholders when policy approvals are escalated.
+Xoralia,Automate Policy Compliance Dashboards,Automatically generate dashboards summarizing policy compliance metrics.
+Xoralia,Notify of Policy Compliance Trends,Send reports on compliance trends to administrators for analysis.
+Xoralia,Automate Policy Training Reminders,Send automated reminders to employees about upcoming policy-related training sessions.
+Xoralia,Notify of Policy Training Gaps,Send alerts to supervisors when employees fail to complete required policy training.
+Xoralia,Automate Policy Reporting to Regulators,Automatically generate and submit policy compliance reports to regulatory bodies.
+Xoralia,Notify of Regulatory Policy Updates,Send alerts to administrators when new regulatory requirements impact existing policies.
+Xoralia,Automate Policy Risk Assessments,Create workflows to assess risks associated with specific policies.
+Xoralia,Notify of Policy Risk Assessment Results,Send reports on policy risk assessment results to relevant stakeholders.
+Xoralia,Automate Policy Lifecycle Dashboards,Automatically generate dashboards summarizing the lifecycle stages of all policies.
+Xoralia,Notify of Policy Lifecycle Bottlenecks,Send alerts when bottlenecks are detected in the policy lifecycle process.
+Xoralia,Automate Policy Metadata Updates,Automatically update metadata for policies when changes are made.
+Xoralia,Notify of Policy Metadata Errors,Send alerts when errors are detected in policy metadata.
+Xoralia,Automate Policy Integration with HR Systems,Automatically sync policy acknowledgments with HR systems for compliance tracking.
+Xoralia,Notify of Policy Integration Success,Send confirmation alerts when policy integrations with external systems are successful.
+Xoralia,Automate Policy Attestation Reports,Automatically generate reports summarizing employee attestations for compliance audits.
+Xoralia,Notify of Policy Attestation Trends,Send reports on attestation trends to administrators for insights.
+Xoralia,Automate Policy Access Permissions,Automatically assign or revoke access permissions for policies based on employee roles.
+Xoralia,Notify of Policy Access Violations,Send alerts when unauthorized access to policies is detected.
+Xoralia,Automate Policy Integration with Power BI,Automatically sync policy data with Power BI for advanced analytics and reporting.
+Xoralia,Notify of Policy Analytics Insights,Send automated insights from policy analytics to administrators for decision-making.
+Xoralia,Automate Policy Integration with SharePoint,Automatically sync policy updates with SharePoint libraries for seamless access.
+Xoralia,Notify of SharePoint Policy Sync Errors,Send alerts when errors occur during policy synchronization with SharePoint.
+Xor,,

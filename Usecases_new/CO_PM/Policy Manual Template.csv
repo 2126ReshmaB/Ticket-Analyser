@@ -1,0 +1,69 @@
+Category,Short Description,Description
+Policy Manual Template,Automate Policy Template Creation,Automatically create standardized policy manual templates for use by different departments or teams.
+Policy Manual Template,Assign Template Ownership,Automatically assign ownership of specific sections or templates to relevant department heads.
+Policy Manual Template,Notify of Template Updates,Send automated notifications to all stakeholders when a policy manual template is updated.
+Policy Manual Template,Schedule Template Reviews,Automate the scheduling of periodic reviews for policy manual templates to ensure they remain up-to-date.
+Policy Manual Template,Track Template Usage,Automatically track which departments or teams are actively using specific policy manual templates.
+Policy Manual Template,Notify of Policy Updates,Notify employees when policies in the manual are updated or revised.
+Policy Manual Template,Automate Policy Formatting,Automatically apply formatting rules to ensure consistency across all policy manual templates.
+Policy Manual Template,Notify of Policy Review Deadlines,Send reminders to policy owners when policy review deadlines are due.
+Policy Manual Template,Assign Policy Reviewers,Automatically assign reviewers to specific policy sections based on their expertise or roles.
+Policy Manual Template,Automate Version Control,Automatically track and manage different versions of the policy manual template.
+Policy Manual Template,Notify of Outdated Policies,Send alerts when policies in the manual are outdated and need updating.
+Policy Manual Template,Automate Policy Approval Workflow,Automatically route policy manual updates to the appropriate approvers for review and sign-off.
+Policy Manual Template,Notify Approvers of Pending Policies,Send reminders to approvers for policies awaiting their review or approval.
+Policy Manual Template,Generate Policy Compliance Reports,Automatically generate reports summarizing compliance with policies outlined in the manual.
+Policy Manual Template,Automate Mandatory Read Assignments,Assign mandatory reads for critical policies to employees and track completion.
+Policy Manual Template,Notify of Incomplete Acknowledgments,Send automated reminders to employees who have not completed required policy acknowledgments.
+Policy Manual Template,Archive Expired Policies,Automatically archive policy sections in the manual that are no longer valid or applicable.
+Policy Manual Template,Notify of Policy Expiration,Send alerts to policy owners when policies within the manual are nearing their expiration dates.
+Policy Manual Template,Automate Policy Categorization,"Automatically categorize policies within the manual based on departments, compliance areas, or topics."
+Policy Manual Template,Notify of Policy Gaps,Send notifications to administrators when missing sections are identified in the policy manual.
+Policy Manual Template,Assign Policy Training Based on Roles,Automatically assign specific training modules based on the policies relevant to an employee's role.
+Policy Manual Template,Track Policy Training Completion,Monitor and report on employee training completion for policies in the manual.
+Policy Manual Template,Notify of Training Gaps,Send notifications to supervisors when employees fail to complete their assigned training on policies.
+Policy Manual Template,Automate Policy Integration,Automatically integrate policy manual templates with document management systems like SharePoint or Google Drive.
+Policy Manual Template,Notify of Integration Errors,Send alerts to administrators when integration with external systems fails.
+Policy Manual Template,Automate Metadata Assignment,Automatically assign metadata tags to policies to improve searchability and organization.
+Policy Manual Template,Notify of Missing Metadata,Send alerts when policy sections in the manual are missing required metadata.
+Policy Manual Template,Automate Template Distribution,Automatically distribute the latest templates to department heads or relevant employees.
+Policy Manual Template,Notify of Distribution Errors,Send alerts when errors occur during the distribution of policy manuals.
+Policy Manual Template,Automate Role-Based Access,Automatically assign access permissions to policy manuals based on employee roles.
+Policy Manual Template,Notify of Unauthorized Access Attempts,Send alerts when unauthorized users attempt to access restricted sections of a policy manual.
+Policy Manual Template,Automate Audit Trail Reports,Automatically record and generate reports on changes made to policy manuals and templates.
+Policy Manual Template,Notify of Policy Manual Changes,Send notifications to employees or managers when significant changes are made to the manual.
+Policy Manual Template,Schedule Policy Manual Reviews,Automate the scheduling of full manual reviews to ensure compliance with organizational standards.
+Policy Manual Template,Automate Feedback Collection,Automatically collect employee feedback on specific policies or sections of the manual.
+Policy Manual Template,Notify of Feedback Requests,Send reminders to employees or reviewers to provide feedback on draft policies.
+Policy Manual Template,Automate Exception Requests,Create workflows for employees to submit requests for exceptions to specific policies.
+Policy Manual Template,Notify of Exception Approvals,Send alerts when policy exception requests are approved or denied.
+Policy Manual Template,Automate Document Retention Policies,Automatically enforce retention policies for older versions of policy manuals.
+Policy Manual Template,Notify of Retention Policy Deadlines,Send reminders when retention deadlines for older policy manuals are due.
+Policy Manual Template,Automate Compliance Dashboards,Automatically generate dashboards summarizing compliance metrics for policies in the manual.
+Policy Manual Template,Notify of Compliance Trends,Send reports on compliance trends to administrators for deeper insights.
+Policy Manual Template,Automate Policy Search Indexing,Automatically index policy manuals for faster search and retrieval.
+Policy Manual Template,Notify of Search Trends,Send notifications on frequently searched policies or sections to administrators.
+Policy Manual Template,Automate Risk Assessment Updates,Automatically update risk assessments based on changes to policies in the manual.
+Policy Manual Template,Notify of Risk Assessment Results,Send automated reports on risk assessment results related to policies.
+Policy Manual Template,Automate Policy Manual Templates for Projects,Create reusable templates specific to project-related policies and distribute them as needed.
+Policy Manual Template,Notify of Template Usage Trends,Generate automated reports showing which templates are used most frequently.
+Policy Manual Template,Automate Policy Draft Approvals,Automatically route policy drafts to appropriate reviewers for approval.
+Policy Manual Template,Notify of Draft Approval Deadlines,Send reminders to approvers for draft policies that require their review.
+Policy Manual Template,Automate Policy Formatting Updates,Automatically apply updated formatting rules to all policies within the manual.
+Policy Manual Template,Notify of Formatting Errors,Send alerts when formatting errors are detected in policy templates.
+Policy Manual Template,Automate Compliance Reporting,Automatically generate compliance reports based on policies outlined in the manual.
+Policy Manual Template,Notify of Compliance Violations,Automatically alert supervisors when employees violate policies outlined in the manual.
+Policy Manual Template,Automate Policy Integration with Analytics,Sync policy data with analytics platforms to enable advanced insights and reporting.
+Policy Manual Template,Notify of Analytics Insights,Send automated insights about policy usage and trends to administrators.
+Policy Manual Template,Automate External Policy Sharing,Automatically share policy manuals with external stakeholders while maintaining access control.
+Policy Manual Template,Notify of Shared Policy Expirations,Send reminders when shared policy manuals are set to expire.
+Policy Manual Template,Automate Quarterly Policy Updates,Schedule and automate quarterly updates for policy manuals to ensure alignment with organizational goals.
+Policy Manual Template,Notify of Quarterly Update Progress,Send progress reports to stakeholders on the status of quarterly manual updates.
+Policy Manual Template,Automate Employee Acknowledgment Tracking,Automatically track employee acknowledgments for policies and generate compliance reports.
+Policy Manual Template,Notify of Non-Acknowledged Employees,Send alerts to managers when employees fail to acknowledge critical policies.
+Policy Manual Template,Automate Policy Manual Translations,Automatically manage and track translations for policy manuals in multiple languages.
+Policy Manual Template,Notify of Translation Errors,Send alerts when issues are detected in translated policy manuals.
+Policy Manual Template,Automate Policy Manual Sync with CRM,Sync policy manuals with CRM systems to ensure consistency in customer-facing policies.
+Policy Manual Template,Notify of CRM Policy Updates,Send alerts to relevant teams when CRM-related policies are updated.
+Policy Manual Template,Automate Board Report Integration,Automatically integrate policy manual updates into board reports for regular review.
+Policy Manual Template,Notify of Board Review Deadlines,

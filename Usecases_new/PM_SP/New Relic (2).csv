@@ -1,0 +1,92 @@
+Category,Short Description,Description
+New Relic,Monitor Application Performance,"Track application response times, throughput, and error rates."
+New Relic,Real-Time Alert Notifications,Receive instant alerts for performance issues or downtime.
+New Relic,Monitor Server Health,"Track CPU, memory, and disk usage on servers."
+New Relic,Monitor Database Performance,Analyze query execution times and database bottlenecks.
+New Relic,Monitor Cloud Infrastructure,Track the performance of cloud-hosted applications and services.
+New Relic,Monitor API Performance,"Measure API response times, error rates, and throughput."
+New Relic,Monitor Microservices,Track the health and performance of microservices architectures.
+New Relic,Monitor Kubernetes Clusters,Ensure Kubernetes clusters are running efficiently and without errors.
+New Relic,Monitor Containerized Applications,Track the performance of Docker and other containerized applications.
+New Relic,Monitor Web Application Performance,"Analyze page load times, user interactions, and errors."
+New Relic,Monitor Mobile Application Performance,"Track performance metrics for mobile apps, including crashes and latency."
+New Relic,Monitor Network Latency,Measure network latency between services and endpoints.
+New Relic,Monitor Application Dependencies,Identify and monitor dependencies between services and applications.
+New Relic,Monitor Application Errors,Track error rates and resolve application issues quickly.
+New Relic,Monitor Application Throughput,Measure the volume of requests handled by applications.
+New Relic,Monitor Application Scalability,Ensure applications can handle increased workloads effectively.
+New Relic,Monitor Application Availability,Track application uptime and ensure high availability.
+New Relic,Monitor Application Downtime,Analyze downtime events to improve reliability.
+New Relic,Monitor Application Trends,Analyze historical performance trends for applications.
+New Relic,Monitor Application Security Events,Track security events to identify potential vulnerabilities.
+New Relic,Monitor Application Authentication,Track authentication events to detect unauthorized access attempts.
+New Relic,Monitor Application SLA Compliance,Ensure applications meet service-level agreements for performance.
+New Relic,Monitor Application Resource Usage,Track resource usage for applications running on servers.
+New Relic,Monitor Application Crash Reports,Collect and analyze crash reports to identify root causes.
+New Relic,Monitor Application Update Logs,Track application updates to ensure successful deployments.
+New Relic,Monitor Application Dependency Changes,Track changes in application dependencies to prevent disruptions.
+New Relic,Monitor Application Error Logs,Collect and analyze error logs for troubleshooting.
+New Relic,Monitor Application Performance Metrics,Track key performance metrics for applications.
+New Relic,Monitor Server Uptime,Ensure servers remain operational with continuous uptime tracking.
+New Relic,Monitor Server Processes,Track and manage processes running on servers.
+New Relic,Monitor Server Disk Usage,Track disk space usage to prevent storage-related issues.
+New Relic,Monitor Server CPU Usage,Track CPU usage to prevent performance bottlenecks.
+New Relic,Monitor Server Memory Usage,Track memory usage to ensure optimal server performance.
+New Relic,Monitor Server Network Interfaces,Track network interface performance and bandwidth usage.
+New Relic,Monitor Server Latency,Track server response times to ensure low latency.
+New Relic,Monitor Server Error Rates,Track error rates to identify and resolve server issues.
+New Relic,Monitor Server Resource Contention,Identify resource contention issues affecting server performance.
+New Relic,Monitor Server Scalability,Track server scalability to handle increased workloads.
+New Relic,Monitor Server Trends,Analyze historical server performance trends.
+New Relic,Monitor Server Security Events,Track server security events to identify potential threats.
+New Relic,Monitor Server Authentication Logs,Track authentication logs to detect unauthorized access attempts.
+New Relic,Monitor Server Firewall Logs,Analyze firewall logs to ensure secure server operations.
+New Relic,Monitor Server Compliance,Ensure servers comply with regulatory and organizational standards.
+New Relic,Monitor Server Application Crashes,Track application crashes on servers to identify root causes.
+New Relic,Monitor Server Application Updates,Ensure applications on servers are updated to the latest versions.
+New Relic,Monitor Server Application Dependencies,Track dependencies to ensure seamless application performance.
+New Relic,Monitor Server Application Errors,Track application error rates on servers to resolve issues quickly.
+New Relic,Monitor Server Application Latency,Track application response times on servers to ensure low latency.
+New Relic,Monitor Server Application Throughput,Track application throughput on servers to ensure optimal performance.
+New Relic,Monitor Server Application Resource Usage,Track resource usage for applications running on servers.
+New Relic,Monitor Server Application SLA Compliance,Ensure server-hosted applications meet service-level agreements.
+New Relic,Monitor Server Application Scalability,Track application scalability on servers to handle increased workloads.
+New Relic,Monitor Server Application Availability,Ensure server-hosted applications remain available and accessible.
+New Relic,Monitor Server Application Downtime,Track and analyze application downtime on servers.
+New Relic,Monitor Server Application Trends,Analyze historical performance trends for server-hosted applications.
+New Relic,Monitor Server Application Security,Track application security events on servers to identify potential threats.
+New Relic,Monitor Server Application Authentication,Track authentication events for server-hosted applications.
+New Relic,Monitor Server Application Firewall Logs,Analyze firewall logs for server-hosted applications.
+New Relic,Monitor Server Application Compliance,Ensure server-hosted applications comply with standards.
+New Relic,Monitor Server Application Resource Contention,Identify resource contention issues affecting server-hosted applications.
+New Relic,Monitor Server Application Crash Reports,Track crash reports for server-hosted applications.
+New Relic,Monitor Server Application Update Logs,Track application update logs for server-hosted applications.
+New Relic,Monitor Server Application Dependency Changes,Track changes in dependencies for server-hosted applications.
+New Relic,Monitor Server Application Error Logs,Collect and analyze error logs for server-hosted applications.
+New Relic,Monitor Server Application Performance Metrics,Track key performance metrics for server-hosted applications.
+New Relic,Monitor Database Query Performance,Analyze query execution times to optimize database performance.
+New Relic,Monitor Database Connection Pools,Track connection pool usage to prevent database connection issues.
+New Relic,Monitor Database Transaction Logs,Analyze transaction logs to ensure database integrity.
+New Relic,Monitor Database Index Usage,Track index usage to optimize database query performance.
+New Relic,Monitor Database Deadlocks,Detect and resolve database deadlocks to ensure smooth operations.
+New Relic,Monitor Database Backup Jobs,Track the status of database backup jobs to ensure data safety.
+New Relic,Monitor Database Replication,Track replication performance to ensure data consistency.
+New Relic,Monitor Database Disk I/O,Analyze disk I/O for databases to detect performance bottlenecks.
+New Relic,Monitor Database Memory Usage,Track memory usage for databases to optimize performance.
+New Relic,Monitor Database CPU Usage,Analyze CPU usage for database processes to prevent bottlenecks.
+New Relic,Monitor Database Availability,Ensure databases remain available and accessible to applications.
+New Relic,Monitor Database Latency,Track database response times to ensure low latency.
+New Relic,Monitor Database Error Rates,Track database error rates to identify and resolve issues.
+New Relic,Monitor Database SLA Compliance,Ensure databases meet service-level agreements for performance.
+New Relic,Monitor Database Scalability,Track database scalability to handle increased workloads.
+New Relic,Monitor Database Trends,Analyze historical database performance trends.
+New Relic,Monitor Database Security Events,Track database security events to identify potential threats.
+New Relic,Monitor Database Authentication Logs,Track authentication logs for databases to detect unauthorized access.
+New Relic,Monitor Database Firewall Logs,Analyze firewall logs for databases to ensure secure operations.
+New Relic,Monitor Database Compliance,Ensure databases comply with regulatory and organizational standards.
+New Relic,Monitor Database Resource Contention,Identify resource contention issues affecting database performance.
+New Relic,Monitor Database Crash Reports,Track crash reports to identify and resolve database issues.
+New Relic,Monitor Database Update Logs,Track database update logs to ensure successful updates.
+New Relic,Monitor Database Dependency Changes,Track changes in database dependencies to prevent disruptions.
+New Relic,Monitor Database Error Logs,Collect and analyze error logs for database troubleshooting.
+New Relic,Monitor Database Performance Metrics,Track key performance metrics for databases running on the system.

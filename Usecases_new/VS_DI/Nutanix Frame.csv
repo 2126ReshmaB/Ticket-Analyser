@@ -1,0 +1,89 @@
+Category,Short Description,Description
+Nutanix Frame,Cloud-Based Virtual Desktop Delivery,Deliver virtual desktops hosted on public or private clouds.
+Nutanix Frame,Application Virtualization,Streamline application delivery without requiring local installations.
+Nutanix Frame,Centralized Desktop Management,Manage all virtual desktops from a centralized control plane.
+Nutanix Frame,Multi-Cloud Support,"Deploy virtual desktops across AWS, Azure, or Google Cloud."
+Nutanix Frame,Secure Remote Desktop Access,Provide secure access to virtual desktops from any location.
+Nutanix Frame,Persistent Desktop Sessions,Maintain user settings and data across multiple sessions.
+Nutanix Frame,Non-Persistent Desktops,Configure temporary desktops for task-based or shared environments.
+Nutanix Frame,BYOD Compatibility,Allow users to securely access desktops using their personal devices.
+Nutanix Frame,GPU-Accelerated Virtual Desktops,Support resource-intensive applications with GPU-powered desktops.
+Nutanix Frame,Dynamic Resource Scaling,Automatically scale desktop resources up or down based on usage.
+Nutanix Frame,Role-Based Access Control,Assign access permissions to users based on their roles.
+Nutanix Frame,Real-Time Monitoring and Analytics,Monitor user activity and desktop performance in real time.
+Nutanix Frame,Integration with Active Directory,Authenticate users using on-premises or cloud-based Active Directory.
+Nutanix Frame,Application Entitlement Management,Control access to specific applications for different user groups.
+Nutanix Frame,Cloud Storage Integration,Integrate with cloud storage services like Google Drive or OneDrive.
+Nutanix Frame,Secure File Sharing,Enable secure file sharing within virtual desktop environments.
+Nutanix Frame,Multi-Device Compatibility,"Access virtual desktops from PCs, Macs, tablets, and smartphones."
+Nutanix Frame,Secure Browser Access,Provide HTML5 browser-based access to virtual desktops.
+Nutanix Frame,Unified Workspace Access,"Deliver desktops, apps, and files in a single workspace interface."
+Nutanix Frame,Disaster Recovery for Desktops,Ensure business continuity with disaster recovery options for virtual desktops.
+Nutanix Frame,Integration with Identity Providers,"Support single sign-on via Okta, Azure AD, or other identity providers."
+Nutanix Frame,Endpoint Security Compliance,Enforce endpoint compliance before granting access to desktops.
+Nutanix Frame,Secure Clipboard Redirection,Control clipboard transfers between virtual desktops and local devices.
+Nutanix Frame,Integration with Nutanix AHV,Deploy virtual desktops on Nutanix AHV for private cloud environments.
+Nutanix Frame,GPU Workstations for CAD,Deliver high-performance virtual desktops for CAD and 3D rendering workloads.
+Nutanix Frame,Temporary Desktop Provisioning,Quickly provision desktops for temporary users or contractors.
+Nutanix Frame,Real-Time Collaboration Tools Support,Run collaborative tools like Slack and Microsoft Teams seamlessly.
+Nutanix Frame,Load Balancing for Sessions,Distribute user sessions across infrastructure for optimal performance.
+Nutanix Frame,Integration with Office 365,Enable seamless use of Office 365 applications within virtual desktops.
+Nutanix Frame,Multi-Region Desktop Deployment,Deploy desktops across multiple geographic regions for global teams.
+Nutanix Frame,Scheduled Maintenance Automation,Automate desktop updates and maintenance during off-peak hours.
+Nutanix Frame,Secure Gateway Access,Provide secure access to desktops through Nutanix Frame gateways.
+Nutanix Frame,Thin Client Optimization,Optimize virtual desktop performance for thin-client devices.
+Nutanix Frame,Context-Aware Access Policies,"Apply policies based on user location, device type, or network conditions."
+Nutanix Frame,Real-Time Audio and Video Optimization,Enhance performance for tools like Zoom or Teams in virtual desktops.
+Nutanix Frame,Integration with Google Workspace,Seamlessly integrate virtual desktops with Google Workspace applications.
+Nutanix Frame,Persistent Application Settings,Retain application preferences across user sessions.
+Nutanix Frame,Centralized Application Delivery,Deliver applications to multiple users from a single control panel.
+Nutanix Frame,Secure Data Encryption,Encrypt data at rest and in transit for enhanced security.
+Nutanix Frame,Multi-Monitor Support,Enable users to utilize multiple monitors in their virtual desktop sessions.
+Nutanix Frame,Resource Usage Analytics,Monitor and analyze resource usage to optimize performance.
+Nutanix Frame,User Session Timeout Policies,Configure session timeouts to enhance security and optimize resources.
+Nutanix Frame,Hybrid Cloud Desktop Deployments,Deploy desktops across private and public cloud environments.
+Nutanix Frame,Secure External Contractor Access,"Provide contractors with secure, temporary access to virtual desktops."
+Nutanix Frame,Real-Time Desktop Scaling,Dynamically add or remove desktops based on user demand.
+Nutanix Frame,Integration with Collaboration Tools,Support collaborative tools like Zoom and Slack in virtual desktops.
+Nutanix Frame,Automated Desktop Updates,Push updates to virtual desktops without disrupting user sessions.
+Nutanix Frame,Integration with Nutanix Calm,Automate desktop provisioning workflows using Nutanix Calm.
+Nutanix Frame,Temporary Resource Scaling,Scale resources during peaks or seasonal demands.
+Nutanix Frame,Secure Network Segmentation,Use VPCs to segment and secure virtual desktop traffic.
+Nutanix Frame,Power Management for Idle Desktops,Hibernate idle desktops to reduce operational costs.
+Nutanix Frame,GPU-Optimized Desktops for Simulations,Run simulations and modeling software on GPU-powered desktops.
+Nutanix Frame,Integration with Nutanix Flow,Enable microsegmentation and advanced security for desktop traffic.
+Nutanix Frame,Desktop Pool Management,Group desktops into pools for specific teams or departments.
+Nutanix Frame,Policy-Based Resource Allocation,Dynamically allocate resources based on user group policies.
+Nutanix Frame,Real-Time Monitoring Dashboards,Use built-in dashboards to monitor desktop health and performance.
+Nutanix Frame,Integration with Nutanix Files,Provide seamless file access for users with Nutanix Files integration.
+Nutanix Frame,Flexible Application Licensing,Use existing software licenses within virtual desktop environments.
+Nutanix Frame,AI-Based Desktop Optimization,Leverage AI to optimize desktop performance and resource allocation.
+Nutanix Frame,GPU Workstations for Media Editing,Deliver desktops optimized for video editing and rendering workflows.
+Nutanix Frame,Centralized License Management,Manage software licenses across all virtual desktops.
+Nutanix Frame,Secure API Access,Automate desktop management with secure API endpoints.
+Nutanix Frame,Integration with AWS S3,Enable seamless cloud storage access using Amazon S3.
+Nutanix Frame,Endpoint Device Whitelisting,Restrict virtual desktop access to approved devices for added security.
+Nutanix Frame,Automated User Provisioning,Automatically create user accounts for virtual desktop access.
+Nutanix Frame,Integration with Azure AD,Use Azure AD for single sign-on and user authentication.
+Nutanix Frame,Desktop Performance Alerts,Receive alerts for performance issues affecting virtual desktops.
+Nutanix Frame,Real-Time User Activity Tracking,Monitor user activity for compliance and auditing purposes.
+Nutanix Frame,Integration with Nutanix Karbon,Run virtual desktops alongside Kubernetes workloads using Nutanix Karbon.
+Nutanix Frame,BYOD Security Enforcement,Enforce security policies for employees using personal devices.
+Nutanix Frame,Desktop Image Versioning,Maintain version histories for desktop images to roll back updates.
+Nutanix Frame,Secure Application Isolation,Isolate applications to prevent conflicts or reduce security risks.
+Nutanix Frame,Application Usage Analytics,Track application usage to optimize licensing and performance.
+Nutanix Frame,Desktop Cost Optimization,Reduce operational costs by optimizing desktop resource usage.
+Nutanix Frame,Time-Zone-Specific Desktop Provisioning,Deploy desktops tailored to users in different time zones.
+Nutanix Frame,Resource Quota Management,Monitor and enforce resource quotas for desktop deployments.
+Nutanix Frame,Multi-Factor Authentication Support,Enable MFA for secure access to virtual desktops.
+Nutanix Frame,Licensing Compliance Tracking,Ensure compliance with software licensing requirements.
+Nutanix Frame,Desktop Backup and Restore,Back up desktop environments to prevent data loss.
+Nutanix Frame,Temporary Desktop Scaling,Scale desktop environments dynamically for short-term projects.
+Nutanix Frame,Integration with Cloud Identity Providers,Support authentication providers like Okta or Ping Identity.
+Nutanix Frame,Real-Time Collaboration on Shared Desktops,Enable users to collaborate on shared virtual desktops securely.
+Nutanix Frame,Desktop Session Auto-Reconnection,Automatically reconnect users to sessions after network interruptions.
+Nutanix Frame,Scheduled Desktop Maintenance,Automate routine maintenance tasks during off-peak hours.
+Nutanix Frame,API-Based Desktop Automation,Use APIs to automate repetitive desktop provisioning tasks.
+Nutanix Frame,Advanced Desktop Security Controls,Apply advanced security settings for data protection and compliance.
+Nutanix Frame,GPU-Optimized Desktops for Gaming,Deliver desktops designed for game development and testing.
+Nutanix Frame,Integration with Nutanix Prism,Monitor and manage virtual desktops using Nutanix Prism.

@@ -1,0 +1,76 @@
+Category,Short Description,Description
+Postman,Automated API Testing,Automate API test cases to validate API functionality using Postman collections and scripts.
+Postman,Environment Variable Setup,Automate the creation and management of environment variables for different environments.
+Postman,Scheduled Collection Runs,Automate the scheduling of collection runs to execute API tests at specific times.
+Postman,CI/CD Integration,"Automate API testing in CI/CD pipelines by integrating Postman with Jenkins, GitHub Actions, etc."
+Postman,API Mock Server Setup,Automate the creation of mock servers for simulating API endpoints during development.
+Postman,Dynamic Data Injection,Automate the injection of dynamic data into requests using Postman pre-request scripts.
+Postman,Response Validation Automation,Automate validation of API responses by writing assertions in Postman test scripts.
+Postman,Test Report Generation,Automate the generation of detailed reports after collection runs using Newman.
+Postman,Collection Sharing,Automate the sharing of Postman collections with team members or external stakeholders.
+Postman,API Documentation Generation,Automate the creation of API documentation from Postman collections.
+Postman,Global Variable Management,Automate the setup and updating of global variables across multiple collections.
+Postman,Multi-Environment Testing,Automate testing APIs across multiple environments using environment configurations.
+Postman,API Request Chaining,Automate chaining of API requests by passing data between requests using scripts.
+Postman,Token Authentication Setup,Automate token generation and injection for APIs using OAuth or other authentication methods.
+Postman,API Response Data Extraction,Automate the extraction of specific data from API responses for use in subsequent requests.
+Postman,CSV Data-Driven Testing,"Automate data-driven testing by running Postman collections with data files (CSV, JSON)."
+Postman,API Mock Response Validation,Automate the validation of mock API responses against expected outcomes.
+Postman,API Debugging,Automate API debugging by logging request and response details using scripts.
+Postman,Collection Import Automation,Automate the import of collections from external files or APIs into Postman.
+Postman,Collection Export Automation,Automate the export of Postman collections to share or back up API workflows.
+Postman,API Rate Limit Testing,Automate API rate limit testing by sending multiple requests in a short period.
+Postman,Sequence Validation,Automate the validation of API response sequences for workflows requiring multiple API calls.
+Postman,Header Injection,Automate the addition of custom headers to API requests for specific use cases.
+Postman,API Pagination Testing,Automate the testing of paginated APIs by iterating through pages using test scripts.
+Postman,Request Parameter Validation,Automate the testing of required and optional request parameters for APIs.
+Postman,API Error Handling Validation,Automate testing of error messages and codes returned by APIs for invalid inputs.
+Postman,Newman CLI Execution,Automate Postman collection execution using Newman CLI for batch processing.
+Postman,Integration Testing Automation,Automate API integration testing workflows by chaining dependent requests.
+Postman,API Schema Validation,Automate validation of API responses against OpenAPI or JSON schema specifications.
+Postman,Security Testing Automation,"Automate security testing by injecting SQL injection, XSS, or other malicious payloads in APIs."
+Postman,API Deprecation Testing,Automate testing of deprecated API endpoints to ensure appropriate error responses.
+Postman,Response Time Monitoring,Automate response time monitoring for APIs to ensure performance SLAs are met.
+Postman,Broken API Endpoint Detection,Automate detection of broken API endpoints by validating responses against expected codes.
+Postman,Authorization Testing,"Automate testing of API authorization flows, such as OAuth, API keys, and bearer tokens."
+Postman,API Load Testing,Automate API load testing by running multiple concurrent requests using Newman or scripts.
+Postman,API Dependency Validation,Automate validation of API dependencies to ensure they are returning the correct data.
+Postman,Workflow Automation,Automate complex workflows by chaining multiple API requests and validating each step.
+Postman,Mock API Deployment Automation,Automate deployment of mock APIs for testing environments.
+Postman,Configuration Backup,Automate the backup of Postman environment and collection configurations.
+Postman,API Health Check Automation,Automate periodic health checks for APIs by scheduling regular collection runs.
+Postman,API Testing with Random Data,Automate API testing with randomly generated data using libraries like Faker.js in pre-request scripts.
+Postman,Duplicate Request Detection,Automate detection of duplicate requests in collections using automated scripts.
+Postman,Error Rate Monitoring,Automate monitoring of error rates in API responses to detect failures.
+Postman,Conditional Request Execution,Automate conditional execution of requests based on previous API responses.
+Postman,Post-Request Cleanup Operations,"Automate cleanup tasks, such as deleting test data, after API testing is complete."
+Postman,API Key Rotation Testing,Automate API key rotation scenarios to validate application behavior during key updates.
+Postman,Collection Version Control,Automate versioning of Postman collections to track changes over time.
+Postman,Response Caching Validation,Automate validation of API caching mechanisms by simulating repeated requests.
+Postman,Request Retry Mechanism Testing,Automate testing of request retry mechanisms for APIs with intermittent failures.
+Postman,API Timeout Testing,Automate testing of APIs for timeout scenarios by simulating delayed responses.
+Postman,Multi-Language API Testing,Automate API testing with localized data to validate language-specific behavior.
+Postman,API Documentation Sync Automation,Automate synchronization of Postman collections with API documentation platforms.
+Postman,Team Workspace Automation,Automate the creation and management of team workspaces for collaboration.
+Postman,Request Body Schema Testing,Automate validation of request body schemas against specified formats.
+Postman,API SLA Monitoring,Automate monitoring of API compliance with service level agreements (SLAs) on performance and uptime.
+Postman,Jenkins Pipeline Testing,Automate Postman collection execution in Jenkins pipelines for continuous testing.
+Postman,API Retry Logic Validation,Automate testing of retry logic in APIs during transient failures.
+Postman,Failover API Testing,Automate testing of API failover mechanisms by simulating server downtime.
+Postman,Role-Based Access Testing,Automate testing of role-based access control (RBAC) in APIs.
+Postman,Rate Limiting Enforcement Testing,Automate testing of rate-limiting mechanisms by exceeding API usage thresholds.
+Postman,API Header Validation,Automate validation of required and optional headers in API responses.
+Postman,API Response Compression Testing,Automate testing of response compression mechanisms like GZIP for APIs.
+Postman,Multi-Region API Testing,Automate testing of APIs deployed in multiple geographic regions.
+Postman,API Dependency Graph Generation,Automate the creation of dependency graphs for APIs using their request/response relationships.
+Postman,Request Payload Size Testing,Automate testing of APIs for handling large payloads in requests.
+Postman,File Upload API Testing,Automate testing of file upload APIs with different file types and sizes.
+Postman,File Download API Testing,Automate testing of file download APIs to verify content and performance.
+Postman,API Rate Throttling Validation,Automate testing of API throttling mechanisms during high traffic.
+Postman,API Documentation Validation,Automate validation of API documentation against collections for accuracy.
+Postman,API Uptime Monitoring,Automate monitoring of API uptime by scheduling periodic health checks.
+Postman,Session Timeout Testing,Automate validation of session timeout behavior in APIs.
+Postman,API Response Localization Testing,Automate testing of APIs for returning localized responses based on user preferences.
+Postman,API Contract Validation,Automate validation of API contracts by comparing specifications with implementations.
+Postman,API Redirect Handling Validation,Automate testing of APIs for correct handling of redirects (301/302 status codes).
+Postman,API Response Streaming Testing,Automate testing of APIs that stream

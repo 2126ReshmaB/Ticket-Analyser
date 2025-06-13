@@ -1,0 +1,69 @@
+Category,Short Description,Description
+My Intranet HRIS,Automated Employee Onboarding,"Automatically create new employee profiles, assign roles, and generate welcome emails."
+My Intranet HRIS,New Hire Document Collection,"Automate the collection of onboarding documents such as contracts, tax forms, and ID proofs."
+My Intranet HRIS,Leave Request Approval,Automate the approval process for leave requests by routing them to the appropriate managers.
+My Intranet HRIS,Employee Offboarding Notifications,"Send automated notifications to IT, payroll, and other departments during employee offboarding."
+My Intranet HRIS,Timesheet Submission Reminders,Send reminders to employees to submit their timesheets before the deadline.
+My Intranet HRIS,Payroll Data Sync,Automatically sync payroll data with third-party payroll systems like QuickBooks or ADP.
+My Intranet HRIS,Performance Review Scheduling,Schedule performance reviews for employees automatically based on their hiring anniversary.
+My Intranet HRIS,Automated Training Enrollment,Automatically enroll new employees in mandatory training programs based on their roles.
+My Intranet HRIS,Employee Attendance Tracking,Track employee attendance data and generate weekly or monthly reports automatically.
+My Intranet HRIS,Policy Update Notifications,Notify employees automatically when new policies or updates are published on the intranet.
+My Intranet HRIS,Employee Birthday Reminders,Send automated birthday reminders to managers and teammates.
+My Intranet HRIS,Custom HR Reports,"Generate customized HR reports (e.g., headcount, turnover rates) and email them to HR leads automatically."
+My Intranet HRIS,Probation Period Notifications,Notify managers when an employee’s probation period is about to end.
+My Intranet HRIS,Exit Interview Scheduling,Automate scheduling of exit interviews for employees who are leaving the organization.
+My Intranet HRIS,Employee Promotion Alerts,Notify HR and managers when an employee becomes eligible for a promotion.
+My Intranet HRIS,Role-Based Access Control,Automatically assign or revoke system access based on employee roles.
+My Intranet HRIS,Annual Benefits Enrollment,Notify employees about annual benefits enrollment periods and track their submissions.
+My Intranet HRIS,Overtime Tracking and Reporting,Automatically calculate employee overtime and generate reports for payroll processing.
+My Intranet HRIS,HR Ticketing System Integration,Integrate with ticketing systems to automate HR ticket assignments and resolutions.
+My Intranet HRIS,Employee Certification Expiry Notifications,Notify employees and managers when certifications are about to expire and need renewal.
+My Intranet HRIS,Employee Survey Distribution,Distribute employee satisfaction surveys automatically and track responses.
+My Intranet HRIS,Employee Directory Updates,Automatically update the employee directory based on role changes or new hires.
+My Intranet HRIS,Absence Tracking,Track employee absences automatically and generate reports for managers.
+My Intranet HRIS,Shift Scheduling Automation,Automatically generate and distribute shift schedules for employees based on availability.
+My Intranet HRIS,Employee Expense Reimbursement,Automate the approval process for employee expense reimbursement requests.
+My Intranet HRIS,Training Completion Tracking,Track and notify managers about pending or completed employee training sessions.
+My Intranet HRIS,New Hire Welcome Emails,Send personalized welcome emails to new hires automatically on their first day.
+My Intranet HRIS,Role Change Notifications,"Notify relevant departments (e.g., IT, payroll) about employee role changes automatically."
+My Intranet HRIS,Compliance Reporting,Generate compliance reports automatically for audits or internal reviews.
+My Intranet HRIS,Employee Anniversary Notifications,Send automated notifications to managers about upcoming work anniversaries.
+My Intranet HRIS,PTO Balance Updates,Notify employees about their PTO balances automatically at the end of each month.
+My Intranet HRIS,Health and Safety Training Reminders,Send automated reminders for mandatory health and safety training sessions.
+My Intranet HRIS,Performance Improvement Plan (PIP) Tracking,Automatically track PIP deadlines and notify managers about progress updates.
+My Intranet HRIS,Job Application Status Updates,Notify candidates automatically about the status of their job applications.
+My Intranet HRIS,Employee Records Archiving,Automatically archive records for employees who have left the company.
+My Intranet HRIS,Custom Workflow Automation,"Automate specific HR workflows such as onboarding, leave approvals, or role changes."
+My Intranet HRIS,Diversity and Inclusion Reporting,Generate automated reports on workforce diversity metrics.
+My Intranet HRIS,Contractor Time Tracking,Track and report contractor work hours automatically.
+My Intranet HRIS,Internal Job Posting Notifications,Notify employees automatically when new internal job postings are added.
+My Intranet HRIS,Automated Tax Form Distribution,"Distribute tax forms (e.g., W-2, 1099) to employees automatically during tax season."
+My Intranet HRIS,Employee Engagement Survey,Send automated engagement surveys to employees and track responses.
+My Intranet HRIS,Document Expiry Alerts,Notify HR when important documents like work permits are about to expire.
+My Intranet HRIS,Automated Role-Based Notifications,"Send specific notifications to employees based on their roles (e.g., managers, interns, contractors)."
+My Intranet HRIS,Employee Transfer Workflow,Automate the workflow for transferring employees between departments or locations.
+My Intranet HRIS,Holiday Calendar Distribution,Automatically share the company holiday calendar with all employees.
+My Intranet HRIS,Team Performance Dashboards,Update team performance dashboards with real-time employee metrics.
+My Intranet HRIS,Employee Training Feedback Collection,Automate the collection of feedback after training sessions.
+My Intranet HRIS,Remote Work Policy Acknowledgments,Send reminders to employees to acknowledge remote work policies.
+My Intranet HRIS,Integration with Learning Management Systems,Sync employee training records with an LMS automatically.
+My Intranet HRIS,Salary Change Notifications,Notify employees automatically when salary changes are processed.
+My Intranet HRIS,Employee Badge Access Management,"Automate badge access updates for new hires, transfers, and terminations."
+My Intranet HRIS,Employee Visa Status Tracking,Track and notify HR about employee visa status and renewal deadlines.
+My Intranet HRIS,Cross-Departmental Task Assignments,"Create and assign tasks automatically for cross-departmental workflows, such as onboarding or offboarding."
+My Intranet HRIS,Work From Home Request Approvals,Automate the approval process for work-from-home requests.
+My Intranet HRIS,Job Description Updates,Notify managers automatically when job descriptions need to be updated.
+My Intranet HRIS,Employee Recognition Notifications,Notify managers about opportunities to recognize employees for achievements.
+My Intranet HRIS,Employee Referral Program Tracking,Track and notify HR about employee referrals automatically.
+My Intranet HRIS,Time Off Blackout Periods,Notify employees automatically when time-off requests fall within blackout periods.
+My Intranet HRIS,Skills Gap Analysis,Automate the generation of reports identifying skills gaps across teams.
+My Intranet HRIS,Employee Handbook Distribution,Automate the distribution and acknowledgment tracking for employee handbooks.
+My Intranet HRIS,Travel Request Approvals,Automate the approval process for employee travel requests.
+My Intranet HRIS,Exit Checklist Completion Tracking,Track and notify HR about exit checklist completion for departing employees.
+My Intranet HRIS,Employee Wellness Program Notifications,Send automated notifications about employee wellness programs and events.
+My Intranet HRIS,360-Degree Feedback Automation,Automate the collection and reporting of 360-degree feedback for employees.
+My Intranet HRIS,Annual Review Reminders,Send reminders to managers to complete annual employee reviews.
+My Intranet HRIS,Employee Demographic Reporting,Generate demographic reports automatically for workforce analysis.
+My Intranet HRIS,Lunch Break Compliance Tracking,Track employee lunch breaks automatically and notify managers of policy violations.
+My Intranet HRIS,Automated Job Offer Letters,Generate

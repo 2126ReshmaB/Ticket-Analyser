@@ -1,0 +1,69 @@
+Category,Short Description,Description
+Microsoft 365 Admin Center,Automate user account creation,Automatically create new user accounts in bulk by providing user details in a script or CSV file.
+Microsoft 365 Admin Center,Automate user license assignment,Assign Microsoft 365 licenses to users in bulk via PowerShell commands.
+Microsoft 365 Admin Center,Bulk reset passwords,Reset passwords for multiple users in one operation using a script.
+Microsoft 365 Admin Center,Automate user account deletion,Automatically delete user accounts for offboarding employees.
+Microsoft 365 Admin Center,Export user list,"Generate and export a list of all users, including their roles, licenses, and statuses."
+Microsoft 365 Admin Center,Bulk group creation,Create multiple security or distribution groups with predefined settings.
+Microsoft 365 Admin Center,Automate mailbox creation,Create mailboxes for new users or resource mailboxes automatically.
+Microsoft 365 Admin Center,Monitor sign-in activity,Automate the extraction of sign-in logs to monitor user activity trends.
+Microsoft 365 Admin Center,License usage reporting,Generate detailed license usage reports periodically.
+Microsoft 365 Admin Center,Automate MFA enforcement,Enforce multi-factor authentication for users based on specific conditions.
+Microsoft 365 Admin Center,Automate email forwarding setup,Configure email forwarding for multiple mailboxes in bulk.
+Microsoft 365 Admin Center,Automated inactive user identification,Identify inactive accounts based on sign-in activity and generate reports.
+Microsoft 365 Admin Center,Automate guest user account management,"Automatically manage guest accounts, including creation, expiration, or deletion."
+Microsoft 365 Admin Center,Automate shared mailbox creation,Create shared mailboxes for teams or departments with preconfigured settings.
+Microsoft 365 Admin Center,Automate group membership management,Add or remove users from groups programmatically.
+Microsoft 365 Admin Center,Automate password expiration notification,Notify users of upcoming password expiration via email.
+Microsoft 365 Admin Center,Automate email signature updates,Roll out uniform email signatures to all users or specific groups.
+Microsoft 365 Admin Center,Automate mailbox size monitoring,Track and report mailbox sizes to identify users nearing their quota limits.
+Microsoft 365 Admin Center,Automate tenant health monitoring,Regularly check and report tenant health status using scripts.
+Microsoft 365 Admin Center,Automate role assignment,Assign admin or custom roles to users in bulk.
+Microsoft 365 Admin Center,Automate OneDrive provisioning,Automatically provision OneDrive for new users.
+Microsoft 365 Admin Center,Automate document retention policy setup,"Apply document retention policies across SharePoint, OneDrive, and Teams."
+Microsoft 365 Admin Center,Bulk update user properties,"Modify user profile properties, such as phone numbers or department information, in bulk."
+Microsoft 365 Admin Center,Automate Teams policy assignment,Assign Teams meeting or messaging policies to users in bulk.
+Microsoft 365 Admin Center,Automate spam/quarantine management,Extract and report spam or quarantined emails for user review.
+Microsoft 365 Admin Center,Automate compliance alert notifications,Configure automated alerts for compliance violations.
+Microsoft 365 Admin Center,Automate Azure AD group policy assignment,Assign group policies to Azure Active Directory groups programmatically.
+Microsoft 365 Admin Center,Automate Teams channel creation,Create Teams channels with predefined settings and permissions.
+Microsoft 365 Admin Center,Automate email distribution list updates,Add or remove members from distribution lists using scripts.
+Microsoft 365 Admin Center,Automate external sharing reports,Generate reports on external sharing activities in SharePoint or OneDrive.
+Microsoft 365 Admin Center,Automate data loss prevention (DLP) policy setup,Deploy DLP policies for sensitive data across Microsoft 365 applications.
+Microsoft 365 Admin Center,Automate email retention policy application,Apply or modify retention policies for Exchange mailboxes.
+Microsoft 365 Admin Center,Automate device compliance reporting,Generate compliance reports for devices enrolled in Microsoft Endpoint Manager.
+Microsoft 365 Admin Center,Automate app usage monitoring,Extract and analyze app usage trends across Microsoft 365.
+Microsoft 365 Admin Center,Automate user account audit,"Generate audit logs for account activities, such as password resets or license changes."
+Microsoft 365 Admin Center,Automate user account reactivation,Reactivate inactive user accounts programmatically.
+Microsoft 365 Admin Center,Automate mobile device policy assignment,Assign mobile device management (MDM) policies to users automatically.
+Microsoft 365 Admin Center,Automate calendar sharing permissions,Configure calendar sharing permissions for users in bulk.
+Microsoft 365 Admin Center,Automate Teams guest access settings,Manage guest access permissions for Teams in bulk.
+Microsoft 365 Admin Center,Automate audit log extraction,Export audit logs for compliance or security investigations.
+Microsoft 365 Admin Center,Automate admin role expiration,Set expiration dates for temporary admin roles.
+Microsoft 365 Admin Center,Automate email archive activation,Enable email archiving for specific users.
+Microsoft 365 Admin Center,Automate phishing simulation setup,Configure phishing simulation campaigns for user awareness training.
+Microsoft 365 Admin Center,Automate compliance score tracking,Extract and report the compliance score for the tenant.
+Microsoft 365 Admin Center,Automate access review processes,Automate access reviews for users and groups.
+Microsoft 365 Admin Center,Automate Teams usage reporting,Generate usage reports for Teams meetings and chats.
+Microsoft 365 Admin Center,Automate SharePoint site creation,Create SharePoint sites with predefined templates and permissions.
+Microsoft 365 Admin Center,Automate external user expiration,Configure expiration dates for external guest users.
+Microsoft 365 Admin Center,Automate data export for legal hold,Export data for users under legal hold for compliance purposes.
+Microsoft 365 Admin Center,Automate blocked IP address updates,Update the list of blocked IP addresses for email security automatically.
+Microsoft 365 Admin Center,Automate user training reminders,Send automated reminders to users for mandatory training sessions.
+Microsoft 365 Admin Center,Automate suspicious login detection alerts,Configure alerts for suspicious login attempts based on activity logs.
+Microsoft 365 Admin Center,Automate Teams meeting policy enforcement,Apply meeting policies to specific users or groups automatically.
+Microsoft 365 Admin Center,Automate license reallocation,Reallocate unused licenses to other users automatically.
+Microsoft 365 Admin Center,Automate conditional access policy assignment,Assign conditional access policies to specific groups or users.
+Microsoft 365 Admin Center,Automate Microsoft Defender alerts,Extract alerts from Microsoft Defender for Office 365 and notify admins.
+Microsoft 365 Admin Center,Automate quarantine email notifications,Notify users about quarantined emails automatically.
+Microsoft 365 Admin Center,Automate IMAP/POP settings updates,Enable or disable IMAP/POP for specific users in bulk.
+Microsoft 365 Admin Center,Automate Teams retention policy updates,Apply or modify retention policies for Teams messages.
+Microsoft 365 Admin Center,Automate tenant-wide email footer setup,Add a standard email footer or disclaimer for the organization.
+Microsoft 365 Admin Center,Automate mailbox delegation assignment,"Assign mailbox delegation permissions (Send As, Full Access) in bulk."
+Microsoft 365 Admin Center,Automate Teams app configurations,Deploy or configure Teams apps for specific users or groups.
+Microsoft 365 Admin Center,Automate user account lockout alerts,Notify admins of user account lockout events automatically.
+Microsoft 365 Admin Center,Automate SharePoint user activity reporting,Extract reports on user activity in SharePoint sites.
+Microsoft 365 Admin Center,Automate compliance alerts for Teams messages,Configure compliance alerts for inappropriate Teams messages.
+Microsoft 365 Admin Center,Automate account provisioning for external vendors,Create and manage accounts for external vendors with limited access.
+Microsoft 365 Admin Center,Automate Teams call quality reports,Generate reports on Teams call quality and performance.
+Microsoft,,

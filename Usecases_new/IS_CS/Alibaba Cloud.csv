@@ -1,0 +1,76 @@
+Category,Short Description,Description
+Alibaba Cloud,ECS Instance Auto-Scaling,Automatically scale Elastic Compute Service (ECS) instances based on CPU or memory usage using Auto Scaling.
+Alibaba Cloud,Object Storage Lifecycle Management,"Automate data aging, archiving, and deletion in Object Storage Service (OSS) using lifecycle rules."
+Alibaba Cloud,Function Compute for File Processing,Trigger Function Compute to process files uploaded to OSS buckets.
+Alibaba Cloud,Resource Provisioning with ROS,Automate infrastructure deployment using Resource Orchestration Service (ROS) templates.
+Alibaba Cloud,RDS Backup Automation,Automate database backup scheduling for Relational Database Service (RDS) using scripts.
+Alibaba Cloud,Server Load Balancer (SLB) Health Checks,Automate health checks for SLB to ensure availability of backend services.
+Alibaba Cloud,Kubernetes Cluster Autoscaling,Automatically scale Kubernetes clusters using Alibaba Cloud Container Service for Kubernetes (ACK).
+Alibaba Cloud,CloudMonitor Alert Setup,Automate setting up alerts for resource metrics using Alibaba CloudMonitor.
+Alibaba Cloud,Key Rotation in KMS,Automate encryption key rotation in Key Management Service (KMS) for enhanced security.
+Alibaba Cloud,CI/CD Pipeline for Applications,Automate application deployment using Alibaba Cloud DevOps pipelines.
+Alibaba Cloud,Security Center Threat Response,Automate responses to threats detected by Alibaba Cloud Security Center using Function Compute.
+Alibaba Cloud,Event-Driven Automation with EventBridge,Trigger workflows when events occur using EventBridge and Function Compute.
+Alibaba Cloud,Auto-Tagging Resources,Automate tagging of Alibaba Cloud resources for cost tracking and management using Function Compute.
+Alibaba Cloud,Log Analysis with Log Service (SLS),Automate log analysis and visualization using Log Service for troubleshooting and monitoring.
+Alibaba Cloud,Cost Management Alerts,Set up budget alerts using Alibaba Cloud Cost Management to track resource spending.
+Alibaba Cloud,OSS Cross-Region Replication,Automate replication of OSS objects across regions for disaster recovery.
+Alibaba Cloud,Log Retention Policy Automation,Automate log retention settings for Log Service to control storage costs.
+Alibaba Cloud,ECS Instance Auto-Healing,Automatically replace unhealthy ECS instances using Auto Scaling and health checks.
+Alibaba Cloud,Compliance Checks with Config,Automate compliance checks using Alibaba Cloud Config and remediation rules.
+Alibaba Cloud,Scheduled Tasks with Function Compute,Automate execution of scheduled tasks using Function Compute and Cloud Scheduler.
+Alibaba Cloud,Elasticsearch Log Ingestion,Automate log ingestion into Elasticsearch using Alibaba Cloud DataWorks or Function Compute.
+Alibaba Cloud,OSS Access Monitoring,Monitor and alert on unauthorized access to OSS buckets using CloudMonitor.
+Alibaba Cloud,Infrastructure Drift Detection,Automate detection of infrastructure drift using Alibaba Cloud ROS or Terraform.
+Alibaba Cloud,Media Transcoding,Automate video transcoding using Alibaba Cloud MTS (Media Transcoding Service).
+Alibaba Cloud,Preemptible Instance Scaling,Automate scaling of preemptible ECS instances for cost savings.
+Alibaba Cloud,Monitoring Dashboard Updates,Automate updates to CloudMonitor dashboards for real-time visualization of resource metrics.
+Alibaba Cloud,OSS Object Versioning,Enable and manage versioning for OSS objects automatically through lifecycle policies.
+Alibaba Cloud,RDS Read Replica Management,Automate creation and management of read replicas for RDS databases.
+Alibaba Cloud,CDN Cache Invalidation,Automate cache invalidation for Alibaba Cloud CDN endpoints.
+Alibaba Cloud,Predictive Analytics with PAI,Use Alibaba Cloud PAI (Platform for AI) to automate predictive analytics workflows.
+Alibaba Cloud,OSS Data Tiering,Automate data movement between OSS storage classes based on access frequency.
+Alibaba Cloud,Custom Metric Alerts,Automate creation of alerts for custom metrics in CloudMonitor.
+Alibaba Cloud,Application Environment Updates,Automate updates to application environments using ROS templates or DevOps pipelines.
+Alibaba Cloud,Vulnerability Scanning,Automate vulnerability scanning for applications using Alibaba Cloud Security Center.
+Alibaba Cloud,Template Validation,Automate validation of ROS templates before deployment.
+Alibaba Cloud,OSS Policy Enforcement,Automate enforcement of access and lifecycle policies for OSS buckets.
+Alibaba Cloud,Database Backup Automation,Automate RDS backups using Alibaba Cloud Database Backup Service (DBS).
+Alibaba Cloud,Anomaly Detection,Automate anomaly detection using CloudMonitor and AI-based services.
+Alibaba Cloud,Log Parsing,Automate parsing and analysis of logs using Alibaba Log Service.
+Alibaba Cloud,OSS Encryption Enforcement,Automate enforcement of encryption for OSS buckets using KMS.
+Alibaba Cloud,Event Monitoring,Automate monitoring of Alibaba Cloud events using EventBridge and Log Service.
+Alibaba Cloud,Data Transformation,Automate data transformation workflows using DataWorks or Function Compute.
+Alibaba Cloud,Maintenance Window Automation,Automate scheduling of maintenance windows for RDS and ECS instances.
+Alibaba Cloud,Custom Metrics Creation,Automate creation of custom metrics for Alibaba CloudMonitoring.
+Alibaba Cloud,Public Access Blocking,Automate blocking of public access to OSS buckets for enhanced security.
+Alibaba Cloud,API Gateway Integration,Automate backend integrations for API Gateway using Function Compute.
+Alibaba Cloud,Template Deployment,Automate deployment of Alibaba Cloud resources using validated ROS templates.
+Alibaba Cloud,Metadata Extraction,Automate extraction of metadata from OSS objects for indexing or monitoring.
+Alibaba Cloud,Real-Time Notifications,Automate real-time notifications using EventBridge and SMS or email services.
+Alibaba Cloud,Log Insights Queries,Automate execution of queries in Log Service to gain insights from log data.
+Alibaba Cloud,Inventory Reports,Automate generation of inventory reports for Alibaba Cloud resources using API scripts.
+Alibaba Cloud,Data Aggregation,Automate data aggregation workflows using DataWorks and Function Compute.
+Alibaba Cloud,Deployment Rollbacks,Automate rollbacks for failed deployments using ROS or Terraform.
+Alibaba Cloud,Access Logs Analysis,Automate collection and analysis of access logs for OSS buckets and other resources.
+Alibaba Cloud,Event-Driven Workflows,Automate workflows triggered by specific events using EventBridge and Function Compute.
+Alibaba Cloud,Alarm-Based Scaling,Automate scaling of ECS instances based on alarms triggered in CloudMonitor.
+Alibaba Cloud,OSS Object Locking,Automate enforcement of object locking for OSS buckets.
+Alibaba Cloud,Data Validation,Automate data validation workflows using DataWorks or Function Compute.
+Alibaba Cloud,Resource Cleanup,Automate cleanup of unused resources such as ECS instances or OSS objects.
+Alibaba Cloud,Data Replication,Automate replication of data between OSS buckets in different regions.
+Alibaba Cloud,Data Enrichment,Automate data enrichment workflows using Function Compute and DataWorks.
+Alibaba Cloud,Alarm-Based Notifications,Automate notifications based on alarms triggered in CloudMonitor.
+Alibaba Cloud,OSS Object Tagging,Automate tagging of OSS objects to categorize and organize data.
+Alibaba Cloud,Data Cleansing,Automate data cleansing workflows using Alibaba Cloud DataWorks.
+Alibaba Cloud,Resource Creation,Automate creation of Alibaba Cloud resources using ROS or Terraform.
+Alibaba Cloud,OSS Object Archiving,Automate archiving of OSS objects to save on storage costs.
+Alibaba Cloud,Data Synchronization,Automate synchronization of data between OSS buckets or databases.
+Alibaba Cloud,Alarm-Based Actions,Automate actions such as scaling or notifications based on triggered CloudMonitor alarms.
+Alibaba Cloud,OSS Object Deletion,Automate deletion of objects in OSS buckets based on lifecycle rules.
+Alibaba Cloud,Data Integration,Automate integration of data from multiple sources using DataWorks.
+Alibaba Cloud,Resource Management,Automate management of Alibaba Cloud resources using CLI or SDKs.
+Alibaba Cloud,OSS Object Restoration,Automate restoration of deleted or archived OSS objects.
+Alibaba Cloud,Data Export,Automate data export from OSS or databases to external storage or processing pipelines.
+Alibaba Cloud,OSS Object Migration,Automate migration of objects between OSS buckets or regions.
+Alibaba Cloud,Data Import,Automate importing of data into OSS or databases from external sources.

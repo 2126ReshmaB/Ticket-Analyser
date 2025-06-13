@@ -1,0 +1,72 @@
+Category,Short Description,Description
+Wi-Fi Analyzer,Automated Channel Optimization,Automate the analysis and selection of the best Wi-Fi channel to minimize interference.
+Wi-Fi Analyzer,Signal Strength Heatmap Generation,Automatically generate heatmaps to visualize signal strength across different areas.
+Wi-Fi Analyzer,Bandwidth Usage Monitoring,Automate the monitoring of bandwidth usage across all connected devices.
+Wi-Fi Analyzer,Detection of Rogue Access Points,Automate the detection and alerting of unauthorized or rogue access points in the network.
+Wi-Fi Analyzer,Signal-to-Noise Ratio Analysis,Automate the calculation and reporting of signal-to-noise ratios for better network troubleshooting.
+Wi-Fi Analyzer,Automated Wi-Fi Speed Testing,Automate the execution of Wi-Fi speed tests and log the results for analysis.
+Wi-Fi Analyzer,Network Latency Monitoring,Automate the continuous monitoring of latency across the network.
+Wi-Fi Analyzer,Device Connection History Logging,Automatically log the connection history of devices to the Wi-Fi network for troubleshooting.
+Wi-Fi Analyzer,Multi-Band Frequency Analysis,Automate the analysis of both 2.4 GHz and 5 GHz frequency bands to optimize performance.
+Wi-Fi Analyzer,Interference Source Identification,"Automate the identification of interference sources, such as neighboring networks or electronic devices."
+Wi-Fi Analyzer,Automated QoS Monitoring,Automate the monitoring of Quality of Service (QoS) metrics to ensure optimal network performance.
+Wi-Fi Analyzer,Packet Loss Analysis,Automate the detection and reporting of packet loss in the network.
+Wi-Fi Analyzer,Wi-Fi Security Vulnerability Scanning,Automate the scanning of Wi-Fi networks for potential security vulnerabilities.
+Wi-Fi Analyzer,Automated AP Signal Range Testing,Automate the measurement of signal ranges for each access point.
+Wi-Fi Analyzer,Bandwidth Allocation Analysis,Automate the identification of bandwidth allocation issues among connected devices.
+Wi-Fi Analyzer,Automated Device Discovery,Automatically identify and list all devices connected to the network.
+Wi-Fi Analyzer,Real-Time Signal Strength Alerts,Automate alerts when signal strength drops below a predefined threshold.
+Wi-Fi Analyzer,802.11 Standard Compliance Checks,Automate the verification of compliance with 802.11 standards for access points.
+Wi-Fi Analyzer,Automated Jitter Analysis,Automate the analysis of jitter in network performance.
+Wi-Fi Analyzer,Detection of Signal Dead Zones,Automatically identify areas with no Wi-Fi signal coverage.
+Wi-Fi Analyzer,AP Channel Utilization Monitoring,Automate the monitoring of channel utilization levels for access points.
+Wi-Fi Analyzer,Wi-Fi Encryption Validation,"Automate the validation of encryption protocols (e.g., WPA2, WPA3) used by the network."
+Wi-Fi Analyzer,Automated Network Downtime Alerts,Automatically send alerts when network downtime is detected.
+Wi-Fi Analyzer,Real-Time Network Performance Monitoring,Automate the continuous monitoring of overall network performance metrics.
+Wi-Fi Analyzer,Automated IP Address Conflict Detection,Automate the detection and alerting of IP address conflicts within the network.
+Wi-Fi Analyzer,Channel Overlap Detection,Automate the detection of overlapping channels in multi-AP environments.
+Wi-Fi Analyzer,Automated Historical Data Analysis,Automate the analysis of historical network performance data for trends and insights.
+Wi-Fi Analyzer,Automated AP Load Balancing Validation,Automate the validation of load balancing across multiple access points.
+Wi-Fi Analyzer,Wi-Fi Coverage Area Reporting,Automatically generate reports on the coverage area of the Wi-Fi network.
+Wi-Fi Analyzer,Integration with Network Monitoring Tools,Automate the integration of Wi-Fi analytics with other network monitoring tools.
+Wi-Fi Analyzer,Wi-Fi Signal Drop Testing,Automate testing for signal drops in specific areas or under certain conditions.
+Wi-Fi Analyzer,Automated Network Traffic Analysis,Automate the analysis of network traffic patterns for optimization.
+Wi-Fi Analyzer,Real-Time Interference Alerts,Automatically send alerts when interference levels exceed acceptable limits.
+Wi-Fi Analyzer,Automated Device Bandwidth Allocation,Automate the allocation of bandwidth to devices based on usage patterns.
+Wi-Fi Analyzer,AP Power Level Adjustment,Automate the adjustment of power levels for access points to optimize coverage.
+Wi-Fi Analyzer,Wi-Fi Roaming Performance Testing,Automate the testing of device roaming performance between access points.
+Wi-Fi Analyzer,Automated Network Topology Mapping,Automatically create and update a visual map of the network topology.
+Wi-Fi Analyzer,Spectrum Analysis for Noise Sources,Automate the analysis of the RF spectrum to identify noise sources affecting Wi-Fi performance.
+Wi-Fi Analyzer,Wi-Fi Channel Capacity Forecasting,Automate the forecasting of channel capacity needs based on historical data.
+Wi-Fi Analyzer,Automated SLA Compliance Monitoring,Automate the monitoring of network performance to ensure compliance with Service Level Agreements (SLAs).
+Wi-Fi Analyzer,Automated Firmware Update Validation,Automate the validation of firmware updates on access points to ensure compatibility.
+Wi-Fi Analyzer,Detection of Unauthorized Devices,Automate the detection and alerting of unauthorized devices on the network.
+Wi-Fi Analyzer,Real-Time AP Health Monitoring,Automate the monitoring of access points’ health and performance metrics.
+Wi-Fi Analyzer,Automated Channel Reassignment,Automate the reassignment of channels to access points to minimize interference.
+Wi-Fi Analyzer,Wi-Fi Signal Strength Comparison,Automate the comparison of signal strengths between different APs or locations.
+Wi-Fi Analyzer,Automated Device Connection Analysis,Automate the analysis of connection stability and performance for individual devices.
+Wi-Fi Analyzer,Network Congestion Alerts,Automatically send alerts when congestion is detected on specific channels or access points.
+Wi-Fi Analyzer,Automated AP Placement Validation,Automate the validation of access point placement based on signal strength and interference.
+Wi-Fi Analyzer,AP Firmware Compatibility Checks,Automate checks to ensure all APs are running compatible firmware versions.
+Wi-Fi Analyzer,Automated Wi-Fi Signal Propagation Analysis,Automate the analysis of signal propagation across complex environments.
+Wi-Fi Analyzer,Wi-Fi Signal Heatmap Over Time,Automatically generate signal heatmaps showing changes over time.
+Wi-Fi Analyzer,Real-Time Bandwidth Utilization Alerts,Automate alerts when bandwidth utilization exceeds predefined thresholds.
+Wi-Fi Analyzer,Multi-AP Coordination Testing,Automate tests to ensure coordination between multiple access points in the same network.
+Wi-Fi Analyzer,AP Deployment Validation,Automate the validation of newly deployed access points against network design requirements.
+Wi-Fi Analyzer,Wi-Fi Signal Strength Alerts,Automatically send alerts when signal strength falls below a set threshold.
+Wi-Fi Analyzer,Automated Signal Interference Mapping,Automate the mapping of interference sources for better mitigation.
+Wi-Fi Analyzer,Wi-Fi Device Authentication Monitoring,Automate the monitoring of device authentication processes for security.
+Wi-Fi Analyzer,Automated Network Scalability Analysis,Automate the analysis of the network’s ability to handle additional devices or traffic.
+Wi-Fi Analyzer,Integration with Cloud Platforms,Automate the uploading and synchronization of network performance data to cloud platforms.
+Wi-Fi Analyzer,Automated Network Coverage Prediction,Automate predictions of network coverage for new locations or configurations.
+Wi-Fi Analyzer,Wi-Fi Signal Strength Consistency Testing,Automate tests to ensure consistent signal strength across time and locations.
+Wi-Fi Analyzer,Network Efficiency Analysis,"Automate the analysis of network efficiency metrics, such as throughput per device."
+Wi-Fi Analyzer,Automated Signal Strength Benchmarking,Automate the benchmarking of signal strength against industry standards.
+Wi-Fi Analyzer,Automated Network Device Inventory,Automatically maintain an inventory of all devices connected to the network.
+Wi-Fi Analyzer,Integration with Security Tools,Automate the export of Wi-Fi performance data to security tools for analysis.
+Wi-Fi Analyzer,Real-Time Device Connection Alerts,Send automated alerts when new devices connect to the network.
+Wi-Fi Analyzer,Wi-Fi Traffic Pattern Forecasting,Automate the forecasting of traffic patterns based on historical data.
+Wi-Fi Analyzer,Automated Network Vulnerability Scanning,Automate the scanning of Wi-Fi networks for vulnerabilities.
+Wi-Fi Analyzer,Real-Time Network Congestion Mapping,Automatically map congestion hotspots in real-time for troubleshooting.
+Wi-Fi Analyzer,Automated Signal Coverage Validation,Automate checks to validate that the signal coverage meets design requirements.
+Wi-Fi Analyzer,Real-Time Network Device Health Monitoring,Automate the health monitoring of

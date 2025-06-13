@@ -1,0 +1,84 @@
+Category,Short Description,Description
+Parallels Remote Application Server,Centralized Application Management,Manage and deliver applications from a centralized interface.
+Parallels Remote Application Server,Remote Desktop Access,Provide secure access to desktops from any location.
+Parallels Remote Application Server,Application Virtualization,Deliver virtualized applications without installing them locally.
+Parallels Remote Application Server,Multi-Device Compatibility,"Access applications and desktops from PCs, Macs, tablets, and smartphones."
+Parallels Remote Application Server,Multi-Cloud Support,Deploy applications and desktops across multiple cloud platforms.
+Parallels Remote Application Server,Secure Remote Workforce Enablement,Enable secure remote access for employees working from home.
+Parallels Remote Application Server,Load Balancing for Sessions,Optimize performance by distributing user sessions across servers.
+Parallels Remote Application Server,Role-Based Access Control,Assign access permissions based on user roles for enhanced security.
+Parallels Remote Application Server,Integration with Active Directory,Authenticate users with existing Active Directory credentials.
+Parallels Remote Application Server,BYOD Support,Enable employees to access applications securely on personal devices.
+Parallels Remote Application Server,Application Entitlement Management,Control which users or groups can access specific applications.
+Parallels Remote Application Server,Session Monitoring and Analytics,Track user sessions and analyze performance metrics in real time.
+Parallels Remote Application Server,Integration with Microsoft 365,Seamlessly deliver Microsoft 365 applications through the platform.
+Parallels Remote Application Server,Thin Client Optimization,Optimize performance for users accessing resources via thin clients.
+Parallels Remote Application Server,HTML5 Browser Access,Enable application and desktop access through any HTML5 browser.
+Parallels Remote Application Server,Secure Data Encryption,Encrypt data at rest and in transit to protect sensitive information.
+Parallels Remote Application Server,Disaster Recovery for Remote Apps,Ensure business continuity with disaster recovery solutions for applications.
+Parallels Remote Application Server,Real-Time Session Reconnection,Automatically reconnect users to their sessions after network interruptions.
+Parallels Remote Application Server,Application Usage Analytics,Track application usage to optimize licensing and performance.
+Parallels Remote Application Server,Automated Application Delivery,Deploy applications to multiple users with minimal manual intervention.
+Parallels Remote Application Server,Remote Printing Support,Allow users to print documents from remote applications to local printers.
+Parallels Remote Application Server,Multi-Monitor Support,Provide users with multi-monitor capabilities for enhanced productivity.
+Parallels Remote Application Server,Unified Workspace Access,"Deliver apps, desktops, and files through a single interface."
+Parallels Remote Application Server,Session Timeout Policies,Configure session timeouts to enhance security and resource management.
+Parallels Remote Application Server,Customizable End-User Portals,Build branded portals for improved user experience and easy access.
+Parallels Remote Application Server,Secure Clipboard Redirection,Control clipboard data transfers between remote applications and devices.
+Parallels Remote Application Server,Integration with Cloud Storage,Connect applications to cloud storage solutions like OneDrive or Google Drive.
+Parallels Remote Application Server,GPU-Accelerated Application Delivery,Deliver graphics-intensive applications with GPU support.
+Parallels Remote Application Server,Temporary Resource Scaling,Scale applications and desktops dynamically for peak workloads.
+Parallels Remote Application Server,Power Management for Idle Sessions,Conserve energy by managing idle sessions or desktops.
+Parallels Remote Application Server,Integration with Microsoft Teams,Optimize the performance of Microsoft Teams in virtual environments.
+Parallels Remote Application Server,Real-Time Collaboration Tools Support,Enable collaboration tools to run efficiently in remote environments.
+Parallels Remote Application Server,BYOD Security Enforcement,Enforce security policies for employees using personal devices.
+Parallels Remote Application Server,Application Isolation for Security,Isolate applications to prevent conflicts or potential breaches.
+Parallels Remote Application Server,Session-Based Load Balancing,Distribute user sessions across servers for optimal resource utilization.
+Parallels Remote Application Server,Hybrid Cloud Deployments,Combine on-premises and cloud infrastructure for flexible app delivery.
+Parallels Remote Application Server,Application Lifecycle Management,"Manage the provisioning, updates, and decommissioning of applications."
+Parallels Remote Application Server,Secure Gateway Access,Provide secure entry points for users accessing applications remotely.
+Parallels Remote Application Server,Multi-Factor Authentication Integration,Enhance security with multi-factor authentication for user logins.
+Parallels Remote Application Server,Integration with Identity Providers,"Support single sign-on via Okta, Azure AD, or other identity solutions."
+Parallels Remote Application Server,Temporary Desktop Provisioning,Quickly provision desktops for contractors or temporary employees.
+Parallels Remote Application Server,Real-Time Monitoring Dashboards,Use dashboards to track application and session health.
+Parallels Remote Application Server,Cross-Platform Application Access,"Deliver applications to users on Windows, macOS, iOS, Android, and Linux."
+Parallels Remote Application Server,Endpoint Security Compliance,Ensure endpoints meet security requirements before granting access.
+Parallels Remote Application Server,Integration with Virtual Desktops,Deliver applications alongside virtual desktops for a unified experience.
+Parallels Remote Application Server,Dynamic Resource Allocation,Allocate resources dynamically based on real-time user demands.
+Parallels Remote Application Server,Secure File Sharing,Enable secure file sharing within remote application environments.
+Parallels Remote Application Server,Desktop Pool Management,Organize desktops into pools for specific teams or departments.
+Parallels Remote Application Server,Automated Maintenance Scheduling,Schedule maintenance tasks during non-peak hours to minimize disruptions.
+Parallels Remote Application Server,Bandwidth Optimization,Optimize bandwidth usage for remote sessions across low-speed networks.
+Parallels Remote Application Server,Integration with Collaboration Platforms,Seamlessly integrate with tools like Slack or Zoom for enhanced teamwork.
+Parallels Remote Application Server,Real-Time Audio and Video Optimization,Optimize audio and video quality for communication platforms.
+Parallels Remote Application Server,Secure API Access,Automate application management using secure APIs.
+Parallels Remote Application Server,Temporary Licensing Support,Enable temporary licensing for seasonal or project-based workloads.
+Parallels Remote Application Server,GPU-Enhanced Workstations for CAD,Deliver virtual workstations optimized for CAD and 3D rendering applications.
+Parallels Remote Application Server,Automated User Provisioning,Automatically create user accounts for app and desktop access.
+Parallels Remote Application Server,Time-Zone Specific App Delivery,Deliver applications tailored to users in different time zones.
+Parallels Remote Application Server,Resource Usage Analytics,Monitor resource usage to optimize performance and reduce costs.
+Parallels Remote Application Server,Secure Collaboration for Remote Teams,Enable secure collaboration for distributed teams using remote applications.
+Parallels Remote Application Server,Licensing Compliance Tracking,Ensure compliance with software licensing requirements across applications.
+Parallels Remote Application Server,Secure Network Segmentation,Use network segmentation to secure application traffic.
+Parallels Remote Application Server,Integration with Virtualization Platforms,"Deploy apps on VMware, Hyper-V, or Nutanix virtualization platforms."
+Parallels Remote Application Server,Desktop Session Recording,Record user sessions for auditing and compliance purposes.
+Parallels Remote Application Server,GPU Workstations for Media Editing,Deliver workstations optimized for video editing and rendering.
+Parallels Remote Application Server,Integration with Azure Virtual Desktop,Extend remote application capabilities to Azure Virtual Desktops.
+Parallels Remote Application Server,Notification Alerts for Performance Issues,Receive alerts for performance issues affecting sessions or apps.
+Parallels Remote Application Server,Hybrid Identity Integration,Use hybrid identity solutions for seamless user authentication.
+Parallels Remote Application Server,Policy-Based Application Delivery,Configure policies to dynamically deliver applications to users.
+Parallels Remote Application Server,Real-Time Collaboration on Shared Apps,Allow users to collaborate securely on shared applications.
+Parallels Remote Application Server,Secure Data Backup for Applications,Back up application data to prevent data loss or corruption.
+Parallels Remote Application Server,Advanced Load Balancing Rules,Define custom rules for session and resource load balancing.
+Parallels Remote Application Server,Remote Application Cost Optimization,Reduce costs by optimizing application delivery and usage.
+Parallels Remote Application Server,Automated Application Updates,Push updates to applications without disrupting user sessions.
+Parallels Remote Application Server,Secure API Token Management,Manage API tokens securely for automated workflows.
+Parallels Remote Application Server,Advanced Endpoint Monitoring,Monitor endpoint devices for compliance and performance.
+Parallels Remote Application Server,Integration with On-Premises Infrastructure,Extend on-premises resources with remote app delivery.
+Parallels Remote Application Server,Desktop Image Version Control,Maintain and roll back versions of desktop images as needed.
+Parallels Remote Application Server,Secure Remote Contractor Access,"Provide contractors with secure, temporary access to applications."
+Parallels Remote Application Server,Context-Specific Access Policies,"Apply access policies based on user context, such as location or device."
+Parallels Remote Application Server,Temporary App Scaling,Scale app resources dynamically for short-term projects or events.
+Parallels Remote Application Server,AI-Based Session Optimization,Use AI to optimize resource allocation and session performance.
+Parallels Remote Application Server,Integration with AWS WorkSpaces,Deliver applications alongside AWS WorkSpaces for a hybrid solution.
+Parallels Remote Application Server,Integration with Google Workspace,Seamlessly integrate Google Workspace apps with

@@ -1,0 +1,69 @@
+Category,Short Description,Description
+Issue Tracker Spreadsheet,Track project bugs,"Use the spreadsheet to log and track bugs encountered during project development, including their status and resolution progress."
+Issue Tracker Spreadsheet,Assign issues to team members,Automate the assignment of issues to specific team members based on their expertise or workload.
+Issue Tracker Spreadsheet,Monitor issue resolution time,Track the time taken to resolve each issue and identify bottlenecks in the process.
+Issue Tracker Spreadsheet,Categorize issues by priority,"Automatically categorize issues into high, medium, and low priority for better task management."
+Issue Tracker Spreadsheet,Generate issue summary reports,"Create automated summary reports of all issues, including their status, priority, and assigned team members."
+Issue Tracker Spreadsheet,Track recurring issues,Identify and log recurring issues to analyze patterns and implement long-term solutions.
+Issue Tracker Spreadsheet,Log issue creation date,Automatically log the date and time when an issue is created for accurate tracking.
+Issue Tracker Spreadsheet,Track issue resolution status,"Use the spreadsheet to monitor whether issues are open, in progress, or resolved."
+Issue Tracker Spreadsheet,Create issue escalation workflows,Automate workflows to escalate unresolved issues to higher management after a set time period.
+Issue Tracker Spreadsheet,Track issues by project phase,"Categorize and track issues based on the project phase (e.g., planning, development, testing)."
+Issue Tracker Spreadsheet,Monitor team workload,Track the number of issues assigned to each team member to ensure balanced workloads.
+Issue Tracker Spreadsheet,Track feature requests,Log and track feature requests alongside bugs to manage development priorities.
+Issue Tracker Spreadsheet,Automate email notifications,Send automated email notifications to team members when new issues are assigned to them.
+Issue Tracker Spreadsheet,Track issue dependencies,Log dependencies between issues to ensure that related issues are resolved in the correct order.
+Issue Tracker Spreadsheet,Generate charts for issue analysis,"Create automated charts to visualize issue trends, such as the number of issues resolved over time."
+Issue Tracker Spreadsheet,Track issues by severity,"Categorize issues by severity (e.g., critical, major, minor) for better prioritization."
+Issue Tracker Spreadsheet,Log issue resolution steps,Document the steps taken to resolve each issue for future reference and learning.
+Issue Tracker Spreadsheet,Track issues by department,"Categorize issues based on the department responsible for resolving them (e.g., development, QA, support)."
+Issue Tracker Spreadsheet,Automate issue aging reports,Generate reports showing how long issues have been open to identify overdue tasks.
+Issue Tracker Spreadsheet,Track customer-reported issues,Log and track issues reported by customers to ensure timely resolution and improved customer satisfaction.
+Issue Tracker Spreadsheet,Monitor issue resolution costs,"Track the costs associated with resolving each issue, such as labor and resources."
+Issue Tracker Spreadsheet,Track issues by product version,Categorize issues based on the product version they affect to streamline debugging and patching.
+Issue Tracker Spreadsheet,Automate issue closure reminders,Send automated reminders to team members about unresolved issues nearing their deadlines.
+Issue Tracker Spreadsheet,Track issues by root cause,Log the root cause of each issue to identify recurring problems and implement preventive measures.
+Issue Tracker Spreadsheet,Track issues by assigned priority,Automatically sort issues by their assigned priority to focus on the most critical tasks first.
+Issue Tracker Spreadsheet,Monitor issue resolution trends,Analyze trends in issue resolution over time to measure team performance and efficiency.
+Issue Tracker Spreadsheet,Track issues by assigned team,"Categorize issues based on the team responsible for resolving them (e.g., frontend, backend, QA)."
+Issue Tracker Spreadsheet,Automate issue status updates,Automatically update issue statuses based on predefined conditions or inputs.
+Issue Tracker Spreadsheet,Track issues by due date,Log and monitor the due dates for resolving each issue to ensure timely completion.
+Issue Tracker Spreadsheet,Track issues by type,"Categorize issues into types such as bugs, enhancements, or documentation errors."
+Issue Tracker Spreadsheet,Track issues by priority and severity,Combine priority and severity to create a comprehensive issue categorization system.
+Issue Tracker Spreadsheet,Automate issue reassignment,Reassign unresolved issues to other team members if the original assignee is unavailable or overloaded.
+Issue Tracker Spreadsheet,Track issues by resolution method,"Log the method used to resolve each issue (e.g., code fix, configuration change) for future reference."
+Issue Tracker Spreadsheet,Monitor unresolved issues,Generate a list of unresolved issues to focus team efforts on pending tasks.
+Issue Tracker Spreadsheet,Track issues by project milestone,Categorize issues based on the project milestone they are associated with.
+Issue Tracker Spreadsheet,Automate issue reopening workflows,Automatically reopen issues if they are reported again after being marked as resolved.
+Issue Tracker Spreadsheet,Track issues by assigned priority level,Sort and filter issues based on their assigned priority level for better task management.
+Issue Tracker Spreadsheet,Track issues by team performance,Analyze the performance of each team based on the number of issues resolved.
+Issue Tracker Spreadsheet,Track issues by customer impact,Categorize issues based on their impact on customers to prioritize critical fixes.
+Issue Tracker Spreadsheet,Automate issue resolution documentation,"Automatically generate documentation for resolved issues, including steps taken and outcomes."
+Issue Tracker Spreadsheet,Track issues by testing phase,"Log issues encountered during different testing phases, such as unit testing, integration testing, or user acceptance testing."
+Issue Tracker Spreadsheet,Track issues by assigned deadline,Monitor deadlines for resolving issues to ensure timely completion.
+Issue Tracker Spreadsheet,Track issues by project complexity,Categorize issues based on the complexity of the project they are associated with.
+Issue Tracker Spreadsheet,Automate issue prioritization,Use predefined rules to automatically assign priority levels to new issues.
+Issue Tracker Spreadsheet,Track issues by team member workload,Monitor the workload of each team member based on the number of issues assigned to them.
+Issue Tracker Spreadsheet,Track issues by project timeline,Log and monitor issues based on the project timeline to ensure alignment with deadlines.
+Issue Tracker Spreadsheet,Automate issue escalation notifications,Send automated notifications to higher management when critical issues remain unresolved.
+Issue Tracker Spreadsheet,Track issues by resolution efficiency,Analyze the efficiency of issue resolution based on the time taken and resources used.
+Issue Tracker Spreadsheet,Track issues by project dependencies,Log dependencies between projects to ensure that related issues are resolved in the correct order.
+Issue Tracker Spreadsheet,Track issues by assigned team lead,Categorize issues based on the team lead responsible for overseeing their resolution.
+Issue Tracker Spreadsheet,Automate issue tracking dashboards,Create dynamic dashboards to visualize issue tracking data in real-time.
+Issue Tracker Spreadsheet,Track issues by project budget,Monitor the budget allocated for resolving issues and ensure cost efficiency.
+Issue Tracker Spreadsheet,Track issues by project scope,Log and monitor issues based on their alignment with the project scope.
+Issue Tracker Spreadsheet,Track issues by testing environment,"Categorize issues based on the testing environment where they were encountered (e.g., staging, production)."
+Issue Tracker Spreadsheet,Automate issue resolution KPIs,"Generate key performance indicators (KPIs) for issue resolution, such as average resolution time and success rate."
+Issue Tracker Spreadsheet,Track issues by assigned priority and severity,Combine priority and severity to create a comprehensive issue categorization system.
+Issue Tracker Spreadsheet,Track issues by project deliverables,Log and monitor issues based on the project deliverables they are associated with.
+Issue Tracker Spreadsheet,Automate issue tracking templates,Create reusable templates for tracking issues across multiple projects.
+Issue Tracker Spreadsheet,Track issues by project stakeholders,Categorize issues based on the stakeholders affected by them.
+Issue Tracker Spreadsheet,Track issues by project risks,Log and monitor issues that pose risks to the project's success.
+Issue Tracker Spreadsheet,Automate issue tracking workflows,Create automated workflows for tracking and resolving issues.
+Issue Tracker Spreadsheet,Track issues by project goals,Log and monitor issues based on their alignment with the project's goals.
+Issue Tracker Spreadsheet,Track issues by project constraints,"Categorize issues based on the constraints they are associated with (e.g., time, budget, resources)."
+Issue Tracker Spreadsheet,Automate issue tracking notifications,Send automated notifications to team members about new or updated issues.
+Issue Tracker Spreadsheet,Track issues by project dependencies,Log dependencies between projects to ensure that related issues are resolved in the correct order.
+Issue Tracker Spreadsheet,Track issues by assigned team,"Categorize issues based on the team responsible for resolving them (e.g., frontend, backend, QA)."
+Issue Tracker Spreadsheet,Automate issue tracking dashboards,Create dynamic dashboards to visualize issue tracking data in real-time.
+Issue Tracker Spreadsheet,Track issues by project budget,Monitor the budget allocated for resolving issues and ensure cost efficiency.

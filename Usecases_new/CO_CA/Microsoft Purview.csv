@@ -1,0 +1,71 @@
+Category,Short Description,Description
+Microsoft Purview,Automate data discovery,Automatically scan and classify data assets across hybrid environments for better visibility.
+Microsoft Purview,Schedule data classification scans,Automate periodic scans to classify sensitive or critical data based on predefined labels.
+Microsoft Purview,Generate data lineage reports,Automatically create detailed data lineage reports to understand data flow across systems.
+Microsoft Purview,Trigger alerts for sensitive data exposure,Detect and alert on sensitive data exposure across systems in real-time.
+Microsoft Purview,Automate compliance reporting,Generate compliance reports automatically to ensure adherence to regulations like GDPR or HIPAA.
+Microsoft Purview,Monitor data access permissions,Track and automate audits of access permissions for sensitive data.
+Microsoft Purview,Detect unauthorized data access,Identify and notify administrators of unauthorized or unusual access to critical data.
+Microsoft Purview,Automate data retention policy application,Automatically apply retention policies to specific data categories or classifications.
+Microsoft Purview,Track data policy violations,Detect and track violations of data governance policies automatically.
+Microsoft Purview,Automate sensitive data masking,Automatically mask sensitive data like PII (Personally Identifiable Information) during data exports or access.
+Microsoft Purview,Monitor data sharing across regions,Track and report cross-regional data sharing activities to ensure regulatory compliance.
+Microsoft Purview,Enforce data encryption policies,Automatically enforce encryption policies on sensitive data assets.
+Microsoft Purview,Automate metadata tagging,Automatically tag metadata for data assets based on their classification or type.
+Microsoft Purview,Validate data classification accuracy,Periodically validate the accuracy of data classifications and reclassify data if necessary.
+Microsoft Purview,Automate role-based access control,Automatically configure and enforce role-based access control policies for data assets.
+Microsoft Purview,Generate access audit logs,"Create scheduled access audit logs to track who accessed data, when, and for what purpose."
+Microsoft Purview,Detect stale data assets,Identify unused or stale data assets and flag them for archiving or deletion.
+Microsoft Purview,Automate data quality checks,"Run automated data quality checks to ensure data accuracy, consistency, and completeness."
+Microsoft Purview,Sync data policies with external systems,Automatically synchronize data policies with external data governance tools or services.
+Microsoft Purview,Monitor compliance with data sovereignty laws,Track and report compliance with data sovereignty regulations for different regions.
+Microsoft Purview,Automate data catalog updates,Automatically update the data catalog when new data assets are added or existing ones are modified.
+Microsoft Purview,Identify duplicate data assets,Detect and flag duplicate data assets for review and resolution.
+Microsoft Purview,Automate sensitive data discovery in cloud,Periodically scan cloud environments like Azure or AWS to find sensitive data.
+Microsoft Purview,Monitor data movement across environments,"Track and report data movement between on-premises, cloud, and hybrid environments."
+Microsoft Purview,Enforce data governance policies,Automatically enforce data governance policies across the organization.
+Microsoft Purview,Detect anomalous data access behavior,Use anomaly detection to flag unusual data access patterns for review.
+Microsoft Purview,Automate data lifecycle management,"Schedule data lifecycle actions like archiving, retention, or deletion based on policy rules."
+Microsoft Purview,Monitor data compliance for third-party vendors,Track and report data compliance for external vendors handling organizational data.
+Microsoft Purview,Automate sensitive file scanning,Scan shared drives or repositories for sensitive files automatically.
+Microsoft Purview,Apply sensitivity labels to emails,Automatically apply sensitivity labels to emails containing sensitive data.
+Microsoft Purview,Track regulatory changes impacting data policies,Monitor and notify administrators of regulatory updates that impact data governance policies.
+Microsoft Purview,Automate data governance workflows,"Set up workflows to automate the creation, approval, and enforcement of data governance policies."
+Microsoft Purview,Generate risk assessment reports,Periodically create risk assessment reports based on data sensitivity and access patterns.
+Microsoft Purview,Validate identity and access management policies,Ensure IAM (Identity and Access Management) policies are correctly configured and adhered to.
+Microsoft Purview,Automate data breach incident response,"Trigger automated workflows for data breach management, including notifications and mitigation steps."
+Microsoft Purview,Enforce file sharing restrictions,Automatically restrict sharing of sensitive files with unauthorized users.
+Microsoft Purview,Automate backup policy enforcement,Ensure backup policies are applied consistently to critical data assets.
+Microsoft Purview,Identify unstructured sensitive data,Detect sensitive data stored in unstructured formats like Word documents or PDFs.
+Microsoft Purview,Track data processing activities,Monitor and log all data processing activities for audit and compliance purposes.
+Microsoft Purview,Automate GDPR subject access request handling,Streamline the process of retrieving and delivering data for GDPR subject access requests.
+Microsoft Purview,Monitor data classification drift,Identify and alert administrators when data classifications change unexpectedly.
+Microsoft Purview,Automate email data loss prevention (DLP),Enforce DLP policies for emails containing sensitive or confidential data.
+Microsoft Purview,Generate audit readiness reports,Automatically compile reports to ensure readiness for external audits.
+Microsoft Purview,Monitor policy compliance for Microsoft 365,"Track and enforce compliance policies across Microsoft 365 applications like Teams, SharePoint, and Exchange."
+Microsoft Purview,Automate data export approval workflows,Implement automated workflows for approving or denying data export requests.
+Microsoft Purview,Detect sensitive data in public repositories,Scan and flag sensitive data accidentally exposed in public repositories like GitHub.
+Microsoft Purview,Automate access reviews,Schedule and automate periodic access reviews for critical data assets.
+Microsoft Purview,Monitor file downloads from sensitive locations,Track and report file downloads from sensitive locations to ensure compliance.
+Microsoft Purview,Enforce data residency requirements,Automatically ensure that data is stored in regions compliant with data residency laws.
+Microsoft Purview,Automate retention label assignment,Assign retention labels to data based on classification or metadata.
+Microsoft Purview,Detect misconfigured data repositories,Identify and alert administrators to misconfigurations in data repositories that could lead to security risks.
+Microsoft Purview,Monitor cross-border data transfers,Track and report data transferred across international borders to ensure compliance with global regulations.
+Microsoft Purview,Automate sensitive term detection,"Identify and flag sensitive terms or keywords in emails, documents, or chat messages."
+Microsoft Purview,Track data access frequency,Monitor the frequency of data access to identify underutilized or high-risk data assets.
+Microsoft Purview,Enforce secure data sharing practices,"Automatically enforce secure sharing practices, like requiring passwords for shared links."
+Microsoft Purview,Automate third-party risk assessments,Create workflows to assess and manage risks associated with third-party data handlers.
+Microsoft Purview,Monitor data collaboration activities,Track and analyze collaboration activities involving sensitive data in shared platforms.
+Microsoft Purview,Automate compliance certification processes,Streamline the process of generating and submitting compliance certifications.
+Microsoft Purview,Track missing metadata,Identify and flag data assets with incomplete or missing metadata for correction.
+Microsoft Purview,Enforce multi-factor authentication (MFA) policies,Ensure MFA is enabled and enforced for users accessing sensitive data.
+Microsoft Purview,Automate approval workflows for sensitive data,Implement workflows to require managerial approval before accessing sensitive data.
+Microsoft Purview,Monitor security policy adherence,Track and report adherence to security policies across the organization.
+Microsoft Purview,Generate data usage analytics,Automatically create analytics reports on how data is being accessed and utilized.
+Microsoft Purview,Automate data governance training,Schedule and track employee training on data governance policies and procedures.
+Microsoft Purview,Identify outdated data assets,Detect data assets that are no longer relevant and mark them for deletion or archiving.
+Microsoft Purview,Automate sensitive data labeling,Apply sensitivity labels to new or updated data assets automatically.
+Microsoft Purview,Monitor API integrations,Track and analyze API integrations to ensure secure and compliant data sharing.
+Microsoft Purview,Automate data discovery for mergers/acquisitions,Streamline the process of identifying and classifying data during mergers or acquisitions.
+Microsoft Purview,Enforce data access restrictions,Automatically restrict access to data based on user roles and permissions.
+Microsoft Purview,Track policy adherence over time,Generate trend reports to

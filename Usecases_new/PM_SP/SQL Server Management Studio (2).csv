@@ -1,0 +1,89 @@
+Category,Short Description,Description
+SQL Server Management Studio,Create New Databases,Create and configure new databases for applications or projects.
+SQL Server Management Studio,Manage Database Users,"Add, modify, or remove database users and their permissions."
+SQL Server Management Studio,Execute SQL Queries,"Run SQL queries to retrieve, update, or delete data from databases."
+SQL Server Management Studio,Backup Databases,Create backups of databases to ensure data recovery in case of failure.
+SQL Server Management Studio,Restore Databases,Restore databases from backup files to recover lost or corrupted data.
+SQL Server Management Studio,Monitor Database Performance,Analyze database performance metrics to identify bottlenecks.
+SQL Server Management Studio,Configure Database Security,Set up security policies and permissions to protect sensitive data.
+SQL Server Management Studio,Create Stored Procedures,Write and manage stored procedures to automate database operations.
+SQL Server Management Studio,Design Database Schemas,Create and modify database schemas to define table structures.
+SQL Server Management Studio,Manage Indexes,"Create, modify, or delete indexes to optimize query performance."
+SQL Server Management Studio,Generate Database Scripts,Generate SQL scripts for database objects like tables and views.
+SQL Server Management Studio,Schedule SQL Jobs,Automate repetitive tasks by scheduling SQL Server Agent jobs.
+SQL Server Management Studio,Import Data into Databases,Import data from external sources like CSV or Excel files.
+SQL Server Management Studio,Export Data from Databases,Export data to external formats for reporting or analysis.
+SQL Server Management Studio,Analyze Query Execution Plans,Review execution plans to optimize SQL query performance.
+SQL Server Management Studio,Create Database Views,Define views to simplify complex queries and improve readability.
+SQL Server Management Studio,Manage Database Connections,Configure and manage connections to multiple database servers.
+SQL Server Management Studio,Audit Database Activity,Track and log database activity for compliance and security purposes.
+SQL Server Management Studio,Configure Replication,Set up database replication to synchronize data across servers.
+SQL Server Management Studio,Manage Database Partitions,Create and manage partitions to improve query performance on large datasets.
+SQL Server Management Studio,Perform Data Migration,Migrate data between databases or servers during upgrades or transitions.
+SQL Server Management Studio,Create Triggers,Define triggers to automate actions based on database events.
+SQL Server Management Studio,Manage Database Roles,Assign roles to users to control access to database objects.
+SQL Server Management Studio,Configure Always On Availability Groups,Set up high availability for critical databases using Always On.
+SQL Server Management Studio,Monitor Server Health,"Check server health metrics like CPU, memory, and disk usage."
+SQL Server Management Studio,Perform Index Rebuilding,Rebuild fragmented indexes to improve database performance.
+SQL Server Management Studio,Configure Full-Text Search,Enable and manage full-text search for advanced querying capabilities.
+SQL Server Management Studio,Manage Linked Servers,Configure and manage linked servers for cross-server queries.
+SQL Server Management Studio,Create Temporary Tables,Use temporary tables to store intermediate results during query execution.
+SQL Server Management Studio,Perform Data Cleansing,Clean and standardize data within the database for consistency.
+SQL Server Management Studio,Configure Database Mirroring,Set up database mirroring for disaster recovery and high availability.
+SQL Server Management Studio,Manage Database Snapshots,Create and manage snapshots for point-in-time recovery.
+SQL Server Management Studio,Perform Data Encryption,Encrypt sensitive data to enhance database security.
+SQL Server Management Studio,Configure Log Shipping,Set up log shipping to maintain a secondary database for failover.
+SQL Server Management Studio,Manage TempDB Usage,Monitor and optimize TempDB usage to prevent performance issues.
+SQL Server Management Studio,Create Scalar Functions,Define scalar functions to encapsulate reusable logic in queries.
+SQL Server Management Studio,Create Table-Valued Functions,Write table-valued functions to return result sets from queries.
+SQL Server Management Studio,Manage Database Collations,Configure collations to ensure consistent sorting and comparison rules.
+SQL Server Management Studio,Perform Database Compression,Enable compression to reduce storage requirements for large tables.
+SQL Server Management Studio,Configure Database Alerts,Set up alerts to notify administrators of critical database events.
+SQL Server Management Studio,Manage Database Logs,Monitor and manage transaction logs to prevent storage issues.
+SQL Server Management Studio,Perform Data Archiving,Archive old data to improve database performance and reduce storage.
+SQL Server Management Studio,Configure Query Store,Enable Query Store to track query performance over time.
+SQL Server Management Studio,Perform Database Tuning,Use tools like Database Engine Tuning Advisor to optimize performance.
+SQL Server Management Studio,Manage Database Clusters,Configure and manage clustered SQL Server instances.
+SQL Server Management Studio,Create Foreign Key Constraints,Define foreign key constraints to enforce referential integrity.
+SQL Server Management Studio,Configure Server Roles,Assign server-level roles to manage administrative permissions.
+SQL Server Management Studio,Perform Bulk Data Operations,Use bulk insert or update operations to handle large datasets efficiently.
+SQL Server Management Studio,Configure Resource Governor,Manage resource allocation for workloads using Resource Governor.
+SQL Server Management Studio,Perform Database Shrinking,Shrink database files to reclaim unused storage space.
+SQL Server Management Studio,Configure Database Backups,Set up automated backup schedules for disaster recovery.
+SQL Server Management Studio,Manage Database Dependencies,Analyze and manage dependencies between database objects.
+SQL Server Management Studio,Perform Data Masking,Mask sensitive data for testing or development purposes.
+SQL Server Management Studio,Configure Server Audits,Set up server-level audits to track administrative actions.
+SQL Server Management Studio,Manage Database Encryption Keys,Create and manage encryption keys for secure data storage.
+SQL Server Management Studio,Perform Cross-Database Queries,Query data across multiple databases on the same server.
+SQL Server Management Studio,Configure Database Mail,Set up email notifications for database alerts and reports.
+SQL Server Management Studio,Manage Database Growth,Monitor and configure database growth settings to prevent issues.
+SQL Server Management Studio,Perform Data Validation,Validate data integrity using constraints and triggers.
+SQL Server Management Studio,Configure SQL Server Profiler,Use SQL Server Profiler to trace and analyze database activity.
+SQL Server Management Studio,Manage Database Backups Retention,Configure retention policies for backup files.
+SQL Server Management Studio,Perform Data Transformation,Transform data using SQL queries for reporting or analysis.
+SQL Server Management Studio,Configure Server Authentication Modes,Set up authentication modes like Windows or mixed mode.
+SQL Server Management Studio,Manage Database Deadlocks,Monitor and resolve deadlocks to ensure smooth database operations.
+SQL Server Management Studio,Configure Transparent Data Encryption,Enable TDE to encrypt database files at rest.
+SQL Server Management Studio,Perform Query Optimization,Rewrite and optimize queries to improve execution times.
+SQL Server Management Studio,Configure Database Replication,Set up replication to synchronize data across multiple servers.
+SQL Server Management Studio,Manage Database Statistics,Update and maintain statistics to improve query performance.
+SQL Server Management Studio,Perform Data Partitioning,Partition large tables to improve query performance and manageability.
+SQL Server Management Studio,Configure SQL Server Agent,Automate tasks using SQL Server Agent jobs and schedules.
+SQL Server Management Studio,Perform Data Export to Cloud,Export data to cloud storage for backup or analysis.
+SQL Server Management Studio,Configure High Availability Groups,Set up high availability groups for critical databases.
+SQL Server Management Studio,Manage Database Roles and Permissions,Assign and manage permissions for database roles.
+SQL Server Management Studio,Perform Data Integrity Checks,Use DBCC commands to check and repair database integrity.
+SQL Server Management Studio,Configure Linked Server Security,Secure linked server connections for cross-server queries.
+SQL Server Management Studio,Manage Database Filegroups,Create and manage filegroups to optimize storage performance.
+SQL Server Management Studio,Configure SQL Server Auditing,Set up auditing to track changes and access to sensitive data.
+SQL Server Management Studio,Perform Data Synchronization,Synchronize data between databases for consistency.
+SQL Server Management Studio,Configure SQL Server Logs,Manage and analyze SQL Server logs for troubleshooting.
+SQL Server Management Studio,Perform Data Recovery,Recover accidentally deleted or corrupted data.
+SQL Server Management Studio,Configure SQL Server Failover Clusters,Set up failover clusters for high availability.
+SQL Server Management Studio,Manage Database Encryption Certificates,Create and manage certificates for secure database communication.
+SQL Server Management Studio,Perform Query Execution Analysis,Analyze query execution to identify and resolve performance issues.
+SQL Server Management Studio,Configure SQL Server Integration Services,Set up SSIS packages for ETL processes.
+SQL Server Management Studio,Manage Database Replication Subscriptions,Monitor and manage replication subscriptions for data synchronization.
+SQL Server Management Studio,Configure SQL Server Reporting Services,Set up SSRS for generating and managing reports.
+SQL Server Management Studio,Perform Data Migration to Azure,Migrate on-premises databases to Azure SQL Database.
+SQL Server Management Studio,Configure SQL Server Data Tools,Use SSDT for database development and deployment.

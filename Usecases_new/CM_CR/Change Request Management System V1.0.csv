@@ -1,0 +1,52 @@
+Category,Short Description,Description
+Change Request Management System V1.0,Automated Change Request Submission,Automate the submission of change requests by integrating with external systems or forms.
+Change Request Management System V1.0,Auto-Assign Change Requests,Automatically assign change requests to the appropriate team or individual based on predefined rules.
+Change Request Management System V1.0,Change Request Prioritization,"Automate the prioritization of change requests based on urgency, impact, or other criteria."
+Change Request Management System V1.0,Approval Workflow Automation,"Automate the approval workflow for change requests, including multi-level approvals."
+Change Request Management System V1.0,Notification Automation,"Send automated notifications to stakeholders when a change request is submitted, approved, or rejected."
+Change Request Management System V1.0,SLA Monitoring for Change Requests,Automate SLA tracking for change requests to ensure timely resolution.
+Change Request Management System V1.0,Change Request Status Updates,Automatically update the status of change requests based on workflow progress.
+Change Request Management System V1.0,Change Request Escalation,Automate escalation of overdue change requests to higher management.
+Change Request Management System V1.0,Change Request Categorization,Automatically categorize change requests based on keywords or predefined rules.
+Change Request Management System V1.0,Change Request Dependency Mapping,Automate the identification and mapping of dependencies between change requests.
+Change Request Management System V1.0,Change Request Impact Analysis,Automate impact analysis for change requests by integrating with system data.
+Change Request Management System V1.0,Change Request Risk Assessment,Automate risk assessment for change requests based on predefined risk factors.
+Change Request Management System V1.0,Change Request Approval Reminders,Send automated reminders to approvers for pending change requests.
+Change Request Management System V1.0,Change Request Audit Trail,Automate the creation of an audit trail for all actions taken on a change request.
+Change Request Management System V1.0,Change Request Reporting,"Generate automated reports on change request metrics, such as status, priority, and resolution time."
+Change Request Management System V1.0,Integration with Ticketing Systems,Automate the creation of change requests from tickets in systems like Jira or ServiceNow.
+Change Request Management System V1.0,Change Request Template Automation,Automate the creation of change request templates for recurring types of changes.
+Change Request Management System V1.0,Change Request Validation,Automate validation checks for change requests to ensure all required fields are completed.
+Change Request Management System V1.0,Change Request Duplication Check,Automatically check for duplicate change requests to avoid redundancy.
+Change Request Management System V1.0,Change Request Closure Automation,Automate the closure of change requests once all tasks are completed and verified.
+Change Request Management System V1.0,Change Request History Tracking,Automate the tracking of historical changes made to a change request.
+Change Request Management System V1.0,Change Request Approval Delegation,Automate the delegation of approval tasks when the primary approver is unavailable.
+Change Request Management System V1.0,Change Request Rollback Automation,Automate rollback procedures for failed change requests.
+Change Request Management System V1.0,Change Request Testing Integration,Automate the integration of change requests with testing tools to ensure proper validation.
+Change Request Management System V1.0,Change Request Dependency Notifications,Send automated notifications when a dependent change request is resolved.
+Change Request Management System V1.0,Change Request Impacted Systems List,Automate the generation of a list of systems impacted by a change request.
+Change Request Management System V1.0,Change Request Approval Thresholds,Automate the application of approval thresholds based on the change request's priority or impact.
+Change Request Management System V1.0,Change Request Stakeholder Mapping,Automate the identification and mapping of stakeholders for a change request.
+Change Request Management System V1.0,Change Request Cost Estimation,Automate cost estimation for change requests based on predefined parameters.
+Change Request Management System V1.0,Change Request Resource Allocation,Automate resource allocation for change requests based on team availability.
+Change Request Management System V1.0,Change Request Workflow Customization,Automate the customization of workflows for different types of change requests.
+Change Request Management System V1.0,Change Request SLA Breach Alerts,Send automated alerts when a change request SLA is breached.
+Change Request Management System V1.0,Change Request Approval History,Automate the tracking and reporting of approval history for change requests.
+Change Request Management System V1.0,Change Request Integration with CI/CD,Automate the integration of change requests with CI/CD pipelines for seamless deployment.
+Change Request Management System V1.0,Change Request Rollout Scheduling,Automate the scheduling of change request rollouts based on predefined timelines.
+Change Request Management System V1.0,Change Request Conflict Detection,Automate the detection of conflicts between multiple change requests.
+Change Request Management System V1.0,Change Request Approval Workflow Testing,Automate the testing of approval workflows to ensure proper routing and notifications.
+Change Request Management System V1.0,Change Request SLA Compliance Reporting,Automate the generation of SLA compliance reports for change requests.
+Change Request Management System V1.0,Change Request Stakeholder Notifications,Automate notifications to stakeholders when a change request is updated or resolved.
+Change Request Management System V1.0,Change Request Rollout Validation,Automate validation checks before rolling out a change request.
+Change Request Management System V1.0,Change Request Integration with Monitoring Tools,Automate the integration of change requests with monitoring tools to track post-implementation performance.
+Change Request Management System V1.0,Change Request Approval Escalation,Automate the escalation of approval tasks when they are not completed within a specified timeframe.
+Change Request Management System V1.0,Change Request Dependency Resolution,Automate the resolution of dependencies between change requests.
+Change Request Management System V1.0,Change Request Risk Mitigation Plans,Automate the generation of risk mitigation plans for high-risk change requests.
+Change Request Management System V1.0,Change Request Integration with Asset Management,Automate the integration of change requests with asset management systems to track impacted assets.
+Change Request Management System V1.0,Change Request Audit Log Generation,Automate the generation of audit logs for all actions taken on a change request.
+Change Request Management System V1.0,Change Request Approval Workflow Analytics,Automate the analysis of approval workflows to identify bottlenecks and inefficiencies.
+Change Request Management System V1.0,Change Request Integration with Incident Management,Automate the creation of change requests from incidents in an incident management system.
+Change Request Management System V1.0,Change Request SLA Violation Reporting,Automate the reporting of SLA violations for change requests.
+Change Request Management System V1.0,Change Request Rollout Notifications,Automate notifications to stakeholders when a change request rollout is scheduled or completed.
+Change Request Management System V1.0,Change Request Approval Workflow Optimization,Automate the optimization of approval workflows based on historical data.

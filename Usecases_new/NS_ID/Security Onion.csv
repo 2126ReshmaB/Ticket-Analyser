@@ -1,0 +1,54 @@
+Category,Short Description,Description
+Security Onion,Rogue Device Detection,Monitor the network for unauthorized devices attempting to connect and send alerts when new devices are detected.
+Security Onion,DNS Query Monitoring,"Analyze DNS queries for suspicious domain lookups, including typosquatting or queries to known malicious domains."
+Security Onion,Detect Phishing Emails,"Analyze email traffic for suspicious attachments, links, or patterns indicative of phishing attempts."
+Security Onion,Detect Proxy Abuse,Monitor and detect unauthorized or suspicious use of proxy servers on the network.
+Security Onion,HTTP Flood Detection,Detect and alert on patterns of high-volume HTTP requests indicative of HTTP flood attacks or denial-of-service (DoS) attacks.
+Security Onion,Monitor Unusual File Extensions,"Monitor file extensions in network traffic, flagging unusual or unauthorized file types being transferred."
+Security Onion,Detect Unauthorized Software,Identify and report unauthorized software installations on endpoints using host-based monitoring tools like OSSEC.
+Security Onion,Detect Network Reconnaissance,"Detect scanning activities, such as port scans, ping sweeps, or OS fingerprinting, by analyzing Suricata alerts and Zeek logs."
+Security Onion,Unauthorized Protocol Detection,"Detect traffic using unexpected or unauthorized protocols, such as IRC or Telnet, which may indicate malicious activity."
+Security Onion,Detect Cross-Site Scripting (XSS),Monitor web traffic for patterns indicative of cross-site scripting (XSS) attacks targeting web applications.
+Security Onion,Detect SQL Injection Attempts,Analyze web server logs for SQL injection attempts by identifying suspicious query strings or payloads.
+Security Onion,Detect Insider Threats,"Monitor internal traffic for suspicious activity, such as large data transfers, unusual access times, or privilege escalation attempts."
+Security Onion,Detect DNS Over HTTPS (DoH) Traffic,Identify and analyze DNS queries tunneled over HTTPS that could be used to bypass traditional DNS monitoring.
+Security Onion,Monitor Command-Line Usage,Track command-line activity on endpoints for suspicious or unusual commands using host-based monitoring.
+Security Onion,Detect Lateral Movement,Correlate network traffic and endpoint activity to identify lateral movement attempts within the network.
+Security Onion,Detect Privilege Escalation,"Monitor logs for attempts to escalate privileges, such as suspicious use of sudo or service account access."
+Security Onion,Monitor Fileless Malware Activity,"Detect anomalous behavior indicative of fileless malware, such as memory usage anomalies or unusual PowerShell commands."
+Security Onion,Detect Unauthorized Cloud Access,Identify unauthorized access to cloud services by monitoring network traffic and account activity logs.
+Security Onion,Detect Ransomware Behavior,"Monitor for ransomware-related behaviors, such as file encryption activities, unusual file access patterns, or connections to known ransomware domains."
+Security Onion,Detect ARP Spoofing,Identify and alert on ARP spoofing attempts by monitoring for duplicate MAC addresses or unusual ARP traffic.
+Security Onion,Monitor Suspicious SMB Traffic,"Analyze SMB traffic for unauthorized file access, unusual file transfers, or exploitation attempts."
+Security Onion,Detect Unauthorized Data Transfers,Monitor large or suspicious file transfers to external IPs for potential data exfiltration.
+Security Onion,Detect Rogue Access Points,Monitor wireless traffic to detect unauthorized or rogue Wi-Fi access points within the network.
+Security Onion,Detect DNS Amplification Attacks,"Monitor DNS traffic for signs of amplification attacks, such as high-frequency queries with large response sizes."
+Security Onion,Detect ICMP Tunneling,Identify ICMP packets with unusual payloads or patterns indicative of tunneling or data exfiltration.
+Security Onion,Detect Watering Hole Attacks,Identify traffic to legitimate websites that have been compromised to serve malicious content.
+Security Onion,Detect Suspicious HTTP Headers,Analyze HTTP headers for suspicious or malformed values that may indicate malicious activity.
+Security Onion,Monitor TLS Handshakes,"Analyze TLS handshakes for anomalies, such as self-signed certificates, weak ciphers, or connections to suspicious servers."
+Security Onion,Detect C2 Beaconing Traffic,Monitor traffic patterns for periodic or unusual communication indicative of command-and-control (C2) activity.
+Security Onion,Monitor VPN Activity,"Track VPN connections to detect unauthorized or suspicious usage, such as unusual connection times or locations."
+Security Onion,Detect DNS Rebinding Attacks,Identify DNS responses that redirect internal devices to malicious or unauthorized external servers.
+Security Onion,Monitor Email Bombing Campaigns,"Detect high volumes of email traffic sent to single recipients, indicative of email bombing or denial-of-service campaigns."
+Security Onion,Detect Botnet Activity,"Correlate network logs to identify traffic patterns associated with botnet activity, such as communication with known C2 servers."
+Security Onion,Monitor Encrypted Traffic Anomalies,"Detect anomalies in encrypted traffic, such as packet size or timing irregularities, which may indicate malicious communication."
+Security Onion,Detect Credential Stuffing Attempts,"Monitor authentication logs for failed login attempts across multiple accounts, indicative of credential stuffing attacks."
+Security Onion,Detect Unauthorized Proxy Usage,Identify and alert on the use of unauthorized proxy servers to bypass network restrictions.
+Security Onion,Detect Suspicious File Downloads,"Monitor HTTP and FTP traffic for suspicious file downloads based on file type, size, or known malicious signatures."
+Security Onion,Monitor File Access Patterns,"Track file access patterns for unusual behavior, such as sudden access to large numbers of files or sensitive directories."
+Security Onion,Monitor SSH Brute Force Attempts,"Analyze SSH logs for repeated failed login attempts from the same source IP, indicative of brute force attacks."
+Security Onion,Detect Unusual Application Behavior,"Monitor application logs for unusual behavior, such as crashes, unauthorized configuration changes, or unexpected service startups."
+Security Onion,Detect Suspicious Domain Registrations,Monitor DNS traffic for queries to recently registered or suspicious domains.
+Security Onion,Monitor Software Updates,Track software updates across endpoints and alert on outdated or vulnerable software versions.
+Security Onion,Detect Traffic to Blacklisted IPs,Monitor outbound traffic for connections to IPs included in threat intelligence blacklists.
+Security Onion,Monitor Critical Infrastructure Traffic,"Ensure critical infrastructure devices, such as firewalls and routers, are not communicating with unauthorized systems."
+Security Onion,Detect Policy Violations,"Monitor network activity for violations of organizational security policies, such as unsanctioned file-sharing or streaming services."
+Security Onion,Detect Insider Data Theft,"Correlate logs to detect insider threats, such as unauthorized access to sensitive files or suspicious data transfers."
+Security Onion,Detect Suspicious Process Creation,"Analyze host logs for suspicious process creation patterns, such as launching PowerShell from a web browser."
+Security Onion,Monitor Unusual Login Times,Track user login times to detect unauthorized access during unusual hours.
+Security Onion,Detect Misconfigured Devices,Identify devices with insecure or misconfigured settings that could expose the network to attackers.
+Security Onion,Detect Unauthorized Script Execution,"Monitor endpoint activity for unauthorized or suspicious script execution, such as batch files or PowerShell scripts."
+Security Onion,Detect Rogue Servers,Identify unauthorized servers operating within the network by analyzing network traffic and asset inventory.
+Security Onion,Monitor IoT Device Vulnerabilities,"Track IoT device activity for common vulnerabilities, such as default credentials or unpatched firmware."
+Security Onion,Detect Command Injection Attacks,Analyze web traffic for patterns indicative of command injection attacks targeting web servers or applications.

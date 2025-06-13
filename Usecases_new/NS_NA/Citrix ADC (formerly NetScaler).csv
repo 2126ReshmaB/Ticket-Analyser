@@ -1,0 +1,55 @@
+Category,Short Description,Description
+Citrix ADC (formerly NetScaler),Automate load balancer creation,Automate the creation of load balancers to distribute traffic across multiple servers.
+Citrix ADC (formerly NetScaler),Automate SSL certificate installation,Automate the installation of SSL certificates to secure communication between clients and servers.
+Citrix ADC (formerly NetScaler),Automate SSL certificate renewal,Automate the renewal process for expiring SSL certificates to maintain secure connections.
+Citrix ADC (formerly NetScaler),Automate virtual server configuration,Automate the setup of virtual servers for application delivery and traffic management.
+Citrix ADC (formerly NetScaler),Automate health check configuration,Automate the configuration of health checks to monitor the status of backend servers.
+Citrix ADC (formerly NetScaler),Automate traffic policy creation,Automate the creation of traffic policies to control and optimize traffic flow.
+Citrix ADC (formerly NetScaler),Automate content switching rules,Automate the setup of content switching rules to route traffic based on specific criteria.
+Citrix ADC (formerly NetScaler),Automate global server load balancing (GSLB),Automate the configuration of GSLB to distribute traffic across geographically dispersed data centers.
+Citrix ADC (formerly NetScaler),Automate user authentication policies,Automate the setup of user authentication policies for secure access to applications.
+Citrix ADC (formerly NetScaler),Automate integration with Active Directory,Automate the integration of Citrix ADC with Active Directory for centralized user authentication.
+Citrix ADC (formerly NetScaler),Automate integration with LDAP,Automate the configuration of LDAP for user authentication and directory services.
+Citrix ADC (formerly NetScaler),Automate integration with RADIUS,Automate the setup of RADIUS servers for user authentication and accounting.
+Citrix ADC (formerly NetScaler),Automate API token management,Automate the creation and management of API tokens for administrative tasks.
+Citrix ADC (formerly NetScaler),Automate backup of configurations,Automate regular backups of Citrix ADC configurations to ensure recoverability.
+Citrix ADC (formerly NetScaler),Automate restore of configurations,Automate the restoration of Citrix ADC configurations in case of system failures.
+Citrix ADC (formerly NetScaler),Automate log collection,Automate the collection of logs from Citrix ADC for auditing and analysis.
+Citrix ADC (formerly NetScaler),Automate log rotation,Automate the rotation of logs to prevent storage issues and maintain performance.
+Citrix ADC (formerly NetScaler),Automate monitoring of server health,Automate the monitoring of backend server health to ensure high availability.
+Citrix ADC (formerly NetScaler),Automate alert notifications,"Automate the sending of alerts for system events, security incidents, or policy violations."
+Citrix ADC (formerly NetScaler),Automate integration with SIEM tools,Automate the integration of Citrix ADC logs with SIEM tools for centralized monitoring and threat detection.
+Citrix ADC (formerly NetScaler),Automate integration with cloud platforms,"Automate the deployment and configuration of Citrix ADC in cloud environments like AWS, Azure, and GCP."
+Citrix ADC (formerly NetScaler),Automate integration with Kubernetes,Automate the integration of Citrix ADC with Kubernetes for load balancing and traffic management in containerized environments.
+Citrix ADC (formerly NetScaler),Automate integration with Terraform,Automate the provisioning and management of Citrix ADC using Terraform scripts.
+Citrix ADC (formerly NetScaler),Automate integration with Ansible,Automate the configuration and management of Citrix ADC using Ansible playbooks.
+Citrix ADC (formerly NetScaler),Automate integration with CI/CD pipelines,Automate the deployment of Citrix ADC configurations as part of CI/CD pipelines for DevOps workflows.
+Citrix ADC (formerly NetScaler),Automate rate limiting policies,Automate the configuration of rate limiting policies to control traffic spikes.
+Citrix ADC (formerly NetScaler),Automate DDoS protection settings,Automate the setup of DDoS protection settings to safeguard applications from attacks.
+Citrix ADC (formerly NetScaler),Automate Web Application Firewall (WAF) rules,Automate the creation and management of WAF rules to protect applications from threats like SQL injection and XSS.
+Citrix ADC (formerly NetScaler),Automate responder policies,Automate the setup of responder policies to generate custom responses for specific traffic conditions.
+Citrix ADC (formerly NetScaler),Automate rewrite policies,Automate the configuration of rewrite policies to modify HTTP headers and body content.
+Citrix ADC (formerly NetScaler),Automate SSL offloading,Automate the configuration of SSL offloading to reduce the load on backend servers.
+Citrix ADC (formerly NetScaler),Automate forward secrecy settings,Automate the setup of forward secrecy to enhance the security of encrypted communications.
+Citrix ADC (formerly NetScaler),Automate integration with endpoint protection tools,Automate the integration of Citrix ADC with endpoint protection tools for enhanced security.
+Citrix ADC (formerly NetScaler),Automate DNS configuration,Automate the setup of DNS servers for Citrix ADC to ensure proper name resolution.
+Citrix ADC (formerly NetScaler),Automate IP whitelisting,Automate the addition of trusted IP addresses to the whitelist for secure access.
+Citrix ADC (formerly NetScaler),Automate IP blacklisting,Automate the blocking of malicious or unauthorized IP addresses.
+Citrix ADC (formerly NetScaler),Automate QoS (Quality of Service) policies,Automate the configuration of QoS policies to prioritize critical traffic.
+Citrix ADC (formerly NetScaler),Automate user session termination,Automate the termination of user sessions for security or policy violations.
+Citrix ADC (formerly NetScaler),Automate user activity monitoring,Automate the tracking of user activity logs for real-time monitoring and analysis.
+Citrix ADC (formerly NetScaler),Automate compliance reporting,Automate the generation of compliance reports for regulatory audits.
+Citrix ADC (formerly NetScaler),Automate server scaling,Automate the scaling of Citrix ADC instances to handle increased traffic demand.
+Citrix ADC (formerly NetScaler),Automate server failover,Automate the configuration of failover settings to ensure high availability.
+Citrix ADC (formerly NetScaler),Automate server patching,Automate the application of patches to Citrix ADC instances to keep them up to date.
+Citrix ADC (formerly NetScaler),Automate integration with backup systems,Automate the integration of Citrix ADC with backup systems for disaster recovery.
+Citrix ADC (formerly NetScaler),Automate user onboarding workflows,"Automate end-to-end workflows for onboarding new users, including training and credential distribution."
+Citrix ADC (formerly NetScaler),Automate VPN gateway deployment,Automate the deployment of Citrix ADC as a VPN gateway for secure remote access.
+Citrix ADC (formerly NetScaler),Automate VPN client configuration,Automate the setup of VPN client configurations for secure connectivity.
+Citrix ADC (formerly NetScaler),Automate VPN session monitoring,Automate the monitoring of VPN sessions for performance and security insights.
+Citrix ADC (formerly NetScaler),Automate VPN policy updates,Automate updates to VPN policies for changes in organizational security requirements.
+Citrix ADC (formerly NetScaler),Automate VPN usage analytics,Automate the generation of analytics reports for VPN usage trends and statistics.
+Citrix ADC (formerly NetScaler),Automate integration with Single Sign-On (SSO),Automate the setup of SSO for streamlined user authentication.
+Citrix ADC (formerly NetScaler),Automate integration with DevOps pipelines,Automate the integration of Citrix ADC into CI/CD pipelines for secure development workflows.
+Citrix ADC (formerly NetScaler),Automate user notifications for policy changes,Automate sending notifications to users about updates to access policies.
+Citrix ADC (formerly NetScaler),Automate server uptime reporting,Automate the generation of reports on Citrix ADC server uptime and availability.

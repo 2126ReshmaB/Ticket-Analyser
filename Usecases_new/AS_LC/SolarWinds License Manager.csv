@@ -1,0 +1,64 @@
+Category,Short Description,Description
+SolarWinds License Manager,Automate license activation,Automatically activate new SolarWinds licenses using API calls or scripts to streamline the process.
+SolarWinds License Manager,Automate license deactivation,Deactivate licenses from unused or retired systems automatically to free up resources.
+SolarWinds License Manager,Track license usage trends,Generate automated reports to track license usage trends over time for better planning.
+SolarWinds License Manager,Notify admins of license expiration,Send automated alerts to administrators when licenses are nearing their expiration dates.
+SolarWinds License Manager,Automate license renewal reminders,Automatically send reminders to renew licenses before they expire to avoid service interruptions.
+SolarWinds License Manager,Automate license compliance checks,Check license usage against compliance requirements automatically to ensure adherence to agreements.
+SolarWinds License Manager,Generate license usage reports,Automate the creation of detailed reports on license usage across all SolarWinds products.
+SolarWinds License Manager,Automate license reallocation,Reallocate licenses dynamically based on usage patterns and organizational needs.
+SolarWinds License Manager,Notify admins of unused licenses,Send automated notifications about licenses that are not being utilized effectively.
+SolarWinds License Manager,Automate license pooling,Create and manage shared license pools for specific teams or departments automatically.
+SolarWinds License Manager,Automate license inventory updates,Keep the license inventory up-to-date automatically by syncing with the SolarWinds platform.
+SolarWinds License Manager,Automate license key retrieval,Retrieve license keys automatically for deployment or troubleshooting purposes.
+SolarWinds License Manager,Automate license migration,Migrate licenses between servers or systems automatically during hardware upgrades or replacements.
+SolarWinds License Manager,Track license usage by product,Generate automated reports showing license usage for each SolarWinds product.
+SolarWinds License Manager,Automate license allocation for new deployments,Automatically allocate licenses to new SolarWinds deployments based on predefined rules.
+SolarWinds License Manager,Notify admins of license overuse,Send alerts when license usage exceeds the allocated limit to prevent compliance issues.
+SolarWinds License Manager,Automate license cost tracking,Track and report on the cost of licenses across departments or projects automatically.
+SolarWinds License Manager,Automate license compliance audits,Schedule and run automated compliance audits to ensure all licenses are being used correctly.
+SolarWinds License Manager,Automate license allocation for new users,Assign licenses to new users automatically based on their roles and responsibilities.
+SolarWinds License Manager,Automate license removal for terminated employees,Automatically revoke licenses from employees who have left the organization.
+SolarWinds License Manager,Automate license expiration tracking,Track license expiration dates and send reminders to relevant stakeholders automatically.
+SolarWinds License Manager,Automate license usage normalization,Normalize license usage data to align with SolarWinds reporting requirements.
+SolarWinds License Manager,Automate license allocation for contractors,Assign temporary licenses to contractors with predefined expiration dates automatically.
+SolarWinds License Manager,Automate license usage benchmarking,Compare license usage across teams or departments to identify optimization opportunities.
+SolarWinds License Manager,Automate license key distribution,Distribute license keys securely and automatically to authorized users or systems.
+SolarWinds License Manager,Automate license usage alerts,Send alerts when license usage approaches critical thresholds to prevent overuse.
+SolarWinds License Manager,Automate license allocation for seasonal employees,Assign licenses to seasonal employees automatically with expiration dates at the end of their contracts.
+SolarWinds License Manager,Automate license compliance gap analysis,Identify gaps in license compliance automatically by comparing usage against agreements.
+SolarWinds License Manager,Automate license allocation for new projects,Automatically allocate licenses to team members working on new projects.
+SolarWinds License Manager,Automate license usage by geographic location,Generate reports on license usage by region or office location automatically.
+SolarWinds License Manager,Automate license allocation for shared resources,Manage shared license pools and allocate them dynamically based on demand.
+SolarWinds License Manager,Automate license allocation for mergers and acquisitions,Reallocate licenses automatically after mergers or acquisitions based on the new organizational structure.
+SolarWinds License Manager,Automate license usage by department,Generate reports showing license usage by department for cost and compliance analysis.
+SolarWinds License Manager,Automate license allocation for virtual environments,Assign licenses to virtual machines or environments automatically based on usage patterns.
+SolarWinds License Manager,Automate license allocation for high availability setups,Automatically allocate licenses for high availability (HA) configurations to ensure redundancy.
+SolarWinds License Manager,Automate license allocation for additional polling engines,Assign licenses to additional polling engines automatically during scaling operations.
+SolarWinds License Manager,Automate license allocation for additional web servers,Allocate licenses to additional web servers automatically during scaling operations.
+SolarWinds License Manager,Automate license allocation for disaster recovery setups,Assign licenses to disaster recovery systems automatically to ensure business continuity.
+SolarWinds License Manager,Automate license allocation for test environments,Allocate licenses to test environments automatically based on predefined rules.
+SolarWinds License Manager,Automate license allocation for training environments,Assign licenses to training environments automatically for employee onboarding or skill development.
+SolarWinds License Manager,Automate license allocation for staging environments,Allocate licenses to staging environments automatically for pre-production testing.
+SolarWinds License Manager,Automate license allocation for development environments,Assign licenses to development environments automatically to support software development activities.
+SolarWinds License Manager,Automate license allocation for production environments,Allocate licenses to production environments automatically to ensure operational continuity.
+SolarWinds License Manager,Automate license allocation for backup systems,Assign licenses to backup systems automatically to ensure data protection.
+SolarWinds License Manager,Automate license allocation for monitoring systems,Allocate licenses to monitoring systems automatically to ensure comprehensive coverage.
+SolarWinds License Manager,Automate license allocation for security systems,Assign licenses to security systems automatically to enhance organizational security.
+SolarWinds License Manager,Automate license allocation for compliance systems,Allocate licenses to compliance systems automatically to ensure regulatory adherence.
+SolarWinds License Manager,Automate license allocation for analytics systems,Assign licenses to analytics systems automatically to support data-driven decision-making.
+SolarWinds License Manager,Automate license allocation for reporting systems,Allocate licenses to reporting systems automatically to ensure accurate and timely reporting.
+SolarWinds License Manager,Automate license allocation for integration systems,Assign licenses to integration systems automatically to ensure seamless data exchange.
+SolarWinds License Manager,Automate license allocation for automation systems,Allocate licenses to automation systems automatically to enhance operational efficiency.
+SolarWinds License Manager,Automate license allocation for orchestration systems,Assign licenses to orchestration systems automatically to streamline workflows.
+SolarWinds License Manager,Automate license allocation for collaboration systems,Allocate licenses to collaboration systems automatically to enhance team productivity.
+SolarWinds License Manager,Automate license allocation for communication systems,Assign licenses to communication systems automatically to ensure effective communication.
+SolarWinds License Manager,Automate license allocation for customer support systems,Allocate licenses to customer support systems automatically to enhance customer satisfaction.
+SolarWinds License Manager,Automate license allocation for sales systems,Assign licenses to sales systems automatically to support revenue generation activities.
+SolarWinds License Manager,Automate license allocation for marketing systems,Allocate licenses to marketing systems automatically to support promotional activities.
+SolarWinds License Manager,Automate license allocation for finance systems,Assign licenses to finance systems automatically to ensure accurate financial management.
+SolarWinds License Manager,Automate license allocation for HR systems,Allocate licenses to HR systems automatically to support employee management activities.
+SolarWinds License Manager,Automate license allocation for IT systems,Assign licenses to IT systems automatically to ensure operational continuity.
+SolarWinds License Manager,Automate license allocation for legal systems,Allocate licenses to legal systems automatically to ensure regulatory compliance.
+SolarWinds License Manager,Automate license allocation for procurement systems,Assign licenses to procurement systems automatically to streamline purchasing activities.
+SolarWinds License Manager,Automate license allocation,

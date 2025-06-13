@@ -1,0 +1,73 @@
+Category,Short Description,Description
+RescueTime,Automated Daily Activity Report,Generate and send daily productivity reports to users or team leads automatically.
+RescueTime,Weekly Productivity Trends,Create weekly summaries of productivity trends and email them to the user or manager.
+RescueTime,Integration with Slack,"Send productivity updates, focus alerts, or milestones to a Slack channel automatically."
+RescueTime,Integration with Google Calendar,Sync work sessions with Google Calendar to block focus time automatically.
+RescueTime,Notify When Focus Goals Are Reached,Send notifications to users when their daily or weekly focus goals are achieved.
+RescueTime,Integration with Zapier,"Automate workflows by connecting RescueTime with other apps like Trello, Toggl, or Google Sheets using Zapier."
+RescueTime,Unproductive Time Alerts,Notify users when unproductive time exceeds a predefined threshold.
+RescueTime,Focus Time Scheduling,Automatically schedule focus time blocks based on user activity patterns and goals.
+RescueTime,Time Spent on Applications Report,Automatically generate reports on the time spent using specific applications.
+RescueTime,Integration with Asana,Sync Asana tasks with RescueTime to track time spent on specific tasks automatically.
+RescueTime,Website Blocking During Focus Time,Automatically block predefined websites during scheduled focus sessions.
+RescueTime,Idle Time Notifications,Send alerts to users when idle time is detected during active work hours.
+RescueTime,Integration with Microsoft Teams,Notify Microsoft Teams channels about productivity milestones or focus time blocks.
+RescueTime,Integration with Trello,Sync time tracking data with Trello cards to track time spent on tasks.
+RescueTime,Daily Focus Goal Reminders,Send reminders to users to start focusing on their daily goals.
+RescueTime,Integration with Todoist,Automatically log time spent on Todoist tasks in RescueTime.
+RescueTime,Weekly Focus Time Goals,Automatically track and report progress on weekly focus time goals.
+RescueTime,Monthly Productivity Insights,Generate and share monthly insights on productivity trends and time allocation.
+RescueTime,Integration with Jira,Sync time spent on Jira issues with RescueTime for better project tracking.
+RescueTime,Real-Time Productivity Alerts,Notify users in real time if productivity drops below a certain level.
+RescueTime,Integration with Notion,Sync RescueTime data with Notion databases for better documentation and analysis.
+RescueTime,Break Time Notifications,Send automated reminders to take breaks after long periods of focused work.
+RescueTime,Integration with Toggl,Sync time tracking data between RescueTime and Toggl for accurate task reporting.
+RescueTime,Distraction Alerts,Notify users when they spend too much time on distracting websites or applications.
+RescueTime,Focus Session Summary,Automatically generate a summary after each focus session showing time spent productively.
+RescueTime,Integration with Airtable,Export RescueTime data to Airtable for advanced reporting and analysis.
+RescueTime,Weekly Focus Performance Comparisons,Compare weekly focus performance and send insights to users or managers.
+RescueTime,Integration with ClickUp,Sync tasks from ClickUp with RescueTime to track time spent on specific projects.
+RescueTime,Daily Focus Session Scheduling,Automatically schedule recurring focus sessions during the most productive hours of the day.
+RescueTime,Integration with Basecamp,Sync Basecamp tasks with RescueTime to track time spent on them automatically.
+RescueTime,Task-Based Time Tracking,Automatically categorize and log time spent on specific tasks.
+RescueTime,Real-Time Screen Time Alerts,Notify users when their screen time exceeds predefined limits during work hours.
+RescueTime,Integration with HubSpot,Track time spent on HubSpot tasks and sync it with RescueTime for better time management.
+RescueTime,Top Applications Used Weekly Reports,Generate weekly reports showing the top applications used and categorize their impact on productivity.
+RescueTime,Integration with Harvest,Sync RescueTime data with Harvest for invoicing and time tracking automation.
+RescueTime,Focus Goal Achievement Notifications,Notify managers or team leads when employees achieve their focus goals.
+RescueTime,Integration with Monday.com,Sync Monday.com task data with RescueTime to track time spent on projects.
+RescueTime,Monthly Focus Trends,Generate monthly reports comparing focus trends and productivity levels.
+RescueTime,Focus Time Leaderboards,Automatically create leaderboards showing the most focused employees or teams.
+RescueTime,Integration with FreshBooks,Sync RescueTime data with FreshBooks for accurate billing and invoicing.
+RescueTime,Integration with Salesforce,Track time spent on Salesforce tasks and sync it with RescueTime for better sales performance tracking.
+RescueTime,Notify When Goals Are Not Met,Send alerts to users or managers when focus or productivity goals are not achieved.
+RescueTime,Integration with Smartsheet,Sync Smartsheet data with RescueTime to track time spent on tasks and projects.
+RescueTime,Daily Time Allocation Summary,Automatically create a summary showing how time was allocated across different activities and projects.
+RescueTime,Integration with Xero,Sync RescueTime data with Xero for accurate billing and payroll management.
+RescueTime,Weekly Distraction Analysis,Generate reports analyzing time spent on distractions and send suggestions for improvement.
+RescueTime,Integration with PayPal,Automate freelancer payments based on tracked time in RescueTime.
+RescueTime,Integration with Wrike,Sync Wrike tasks and time tracking data with RescueTime for better project management.
+RescueTime,Real-Time Focus Time Tracking,Track focus sessions in real time and send alerts if productivity drops.
+RescueTime,Unproductive Website Blocking,Automatically block access to unproductive websites during work hours.
+RescueTime,High-Value Task Focus Alerts,Send notifications to users to prioritize time on high-value tasks.
+RescueTime,Integration with Microsoft Outlook,Sync focus sessions with Outlook Calendar to block time for productive work.
+RescueTime,Team Productivity Comparisons,Generate reports comparing productivity levels across teams or departments.
+RescueTime,Integration with Zoho CRM,Track time spent on Zoho CRM tasks and sync with RescueTime for better client management.
+RescueTime,Weekly Goal Achievement Analysis,Automatically analyze and report on weekly goal achievement rates.
+RescueTime,Integration with Todoist,Sync Todoist task completion data with RescueTime for better time tracking.
+RescueTime,Custom Productivity Alerts,Send custom alerts based on productivity thresholds defined by the user or manager.
+RescueTime,Monthly Task-Based Productivity Reports,Generate monthly reports showing productivity levels based on specific tasks or projects.
+RescueTime,Integration with Basecamp,Automatically track time spent on Basecamp projects and sync it with RescueTime.
+RescueTime,Daily Focus Metrics Comparison,Compare daily focus metrics with previous days to track improvement.
+RescueTime,Integration with Airtable,Export RescueTime activity data to Airtable for advanced reporting and visualization.
+RescueTime,Focus Goal Progress Dashboards,Automatically update dashboards showing progress toward daily or weekly focus goals.
+RescueTime,Integration with Harvest,Sync time tracking data with Harvest for invoicing and reporting automation.
+RescueTime,Integration with Jira,Automatically track time spent on Jira tickets and sync with RescueTime for reporting.
+RescueTime,Weekly Team Focus Reports,Generate weekly reports on team focus time and send them to team leads.
+RescueTime,Integration with HubSpot,Sync time spent on HubSpot deals or tasks with RescueTime for better sales tracking.
+RescueTime,Real-Time Progress Alerts,Notify users when they are close to achieving their daily focus goals.
+RescueTime,Weekly Focus Session Summaries,Summarize weekly focus sessions and send insights to users or managers.
+RescueTime,Integration with Trello,Automatically track time spent on Trello tasks and sync it with RescueTime.
+RescueTime,Monthly Productivity Leaderboards,Create leaderboards highlighting the most productive employees or teams each month.
+RescueTime,Integration with Toggl,Sync Toggl time tracking data with RescueTime to ensure consistency in reporting.
+RescueTime,Task Prioritization Alerts,Notify users to focus on high

@@ -1,0 +1,79 @@
+Category,Short Description,Description
+AWS Firewall Manager,Centralized Policy Deployment,"Automate the deployment of security policies across multiple AWS accounts, ensuring consistent security posture organization-wide."
+AWS Firewall Manager,WAF Rule Automation,Script the creation and management of AWS WAF rules to protect web applications consistently across accounts.
+AWS Firewall Manager,Shield Advanced Protection Setup,"Automate the configuration of AWS Shield Advanced protections for resources, ensuring robust DDoS protection."
+AWS Firewall Manager,Security Group Compliance Check,Script periodic checks of security group configurations against compliance requirements and automatically remediate non-compliant rules.
+AWS Firewall Manager,Multi-Region Policy Deployment,Automate the deployment of security policies across different AWS regions while respecting region-specific requirements.
+AWS Firewall Manager,Third-Party Firewall Integration,Script the deployment and configuration of third-party firewalls from AWS Marketplace across multiple accounts.
+AWS Firewall Manager,Compliance Report Generation,"Automate the generation of compliance reports for security policies across the organization, ensuring adherence to standards."
+AWS Firewall Manager,Resource Tag-Based Policy Application,Script the automatic application of security policies based on resource tags across multiple accounts.
+AWS Firewall Manager,DNS Firewall Rule Management,Automate the deployment and updates of DNS Firewall rules to block malicious domains across VPCs.
+AWS Firewall Manager,Network Firewall Policy Deployment,Script the deployment of Network Firewall policies across multiple VPCs in different accounts.
+AWS Firewall Manager,Policy Scope Management,Automate the management of policy scopes based on organizational units and account structures.
+AWS Firewall Manager,Security Hub Integration,Script the integration between Firewall Manager and Security Hub for centralized security monitoring and alerts.
+AWS Firewall Manager,Automated Policy Updates,Create scripts to automatically update security policies based on new threat intelligence and vulnerabilities.
+AWS Firewall Manager,Resource Compliance Monitoring,"Automate continuous monitoring of resources for compliance with security policies, ensuring ongoing adherence."
+AWS Firewall Manager,Cross-Account Rule Propagation,Script the propagation of firewall rules across multiple AWS accounts within the organization for consistency.
+AWS Firewall Manager,Policy Version Control,"Automate version control for security policies, including rollback capabilities for quick recovery from errors."
+AWS Firewall Manager,Automated Remediation Workflows,"Script automated remediation actions for non-compliant resources, reducing manual intervention."
+AWS Firewall Manager,Event-Driven Policy Updates,Create event-driven automation for policy updates based on security events or alerts.
+AWS Firewall Manager,Resource Protection Verification,Automate verification of protected resources across accounts and regions to ensure compliance with policies.
+AWS Firewall Manager,Policy Audit Trail Management,"Script the creation and maintenance of audit trails for policy changes, enhancing accountability."
+AWS Firewall Manager,Health Check Integration,Automate the integration of Route 53 health checks with Shield Advanced protections for proactive monitoring.
+AWS Firewall Manager,Policy Template Management,"Script the management of policy templates for different security requirements, simplifying policy creation."
+AWS Firewall Manager,Account Onboarding Automation,"Automate the process of onboarding new accounts to existing security policies, ensuring immediate compliance."
+AWS Firewall Manager,Policy Exception Management,Script the management of policy exceptions and approvals workflow to streamline operations.
+AWS Firewall Manager,Resource Tag Compliance,Automate checking and enforcing resource tagging requirements for security policies to maintain organization.
+AWS Firewall Manager,Cross-Region Replication,Script the replication of security policies across multiple AWS regions for consistency.
+AWS Firewall Manager,Policy Backup Management,Automate regular backups of security policy configurations to prevent data loss.
+AWS Firewall Manager,Notification Management,Script the setup and management of SNS notifications for policy-related events and changes.
+AWS Firewall Manager,Resource Group Management,Automate the creation and management of resource groups for policy application based on organizational needs.
+AWS Firewall Manager,Policy Testing Automation,Script the testing of security policies in a staging environment before deployment to production.
+AWS Firewall Manager,Compliance Dashboard Generation,Automate the creation of compliance dashboards using policy data for easy visualization of security posture.
+AWS Firewall Manager,Policy Dependency Management,Script the management of dependencies between different security policies to avoid conflicts.
+AWS Firewall Manager,Resource Inventory Management,Automate the maintenance of a protected resource inventory across accounts for better visibility.
+AWS Firewall Manager,Policy Schedule Management,Script the scheduling of policy updates and maintenance windows to minimize disruption.
+AWS Firewall Manager,Config Rule Integration,Automate the integration with AWS Config rules for compliance checking and remediation.
+AWS Firewall Manager,Policy Migration Automation,Script the migration of policies between different AWS Organizations for streamlined management.
+AWS Firewall Manager,Resource Clean-up Automation,Automate the cleanup of orphaned or deprecated security resources to maintain a tidy environment.
+AWS Firewall Manager,Policy Documentation Generation,Script the generation of policy documentation and change logs for compliance and auditing purposes.
+AWS Firewall Manager,Compliance Report Distribution,Automate the distribution of compliance reports to stakeholders for transparency.
+AWS Firewall Manager,Policy Performance Monitoring,Script the monitoring of policy performance and its impact on resources to optimize configurations.
+AWS Firewall Manager,Resource Access Pattern Analysis,Automate analysis of resource access patterns to inform policy optimization and adjustments.
+AWS Firewall Manager,Policy Conflict Resolution,Script the detection and resolution of conflicts between different policies to ensure smooth operations.
+AWS Firewall Manager,Emergency Response Automation,"Automate emergency response procedures for security incidents, ensuring rapid action."
+AWS Firewall Manager,Policy Effectiveness Reporting,Script the generation of reports on policy effectiveness and coverage to identify gaps.
+AWS Firewall Manager,Resource Classification Automation,Automate the classification of resources for policy application based on risk levels.
+AWS Firewall Manager,Policy Cost Analysis,Script the analysis of cost implications for security policies to optimize spending.
+AWS Firewall Manager,Compliance Framework Mapping,Automate mapping of policies to compliance framework requirements for easier audits.
+AWS Firewall Manager,Policy Impact Assessment,Script the assessment of policy changes on existing resources to predict potential issues.
+AWS Firewall Manager,Resource Lifecycle Management,"Automate the management of resource protection throughout their lifecycle, from creation to deletion."
+AWS Firewall Manager,Policy Approval Workflow,Script the approval workflow for policy changes and updates to streamline governance.
+AWS Firewall Manager,Automated Security Assessments,Automate security assessments of resources against defined policies to identify vulnerabilities.
+AWS Firewall Manager,Policy Change Notifications,Script notifications for stakeholders when significant policy changes occur.
+AWS Firewall Manager,Automated Threat Intelligence Updates,Automate the integration of threat intelligence feeds into WAF rules for real-time protection.
+AWS Firewall Manager,Policy Compliance Alerts,Script alerts for non-compliance with security policies to prompt immediate action.
+AWS Firewall Manager,Automated Security Policy Reviews,Automate periodic reviews of security policies to ensure they remain relevant and effective.
+AWS Firewall Manager,Resource Usage Analytics,Script the analysis of resource usage to inform policy adjustments and optimizations.
+AWS Firewall Manager,Policy Change History Tracking,Automate the tracking of changes made to policies over time for auditing purposes.
+AWS Firewall Manager,Automated Incident Response Playbooks,Script the creation of incident response playbooks that can be triggered by specific alerts.
+AWS Firewall Manager,Policy Impact Simulation,Automate simulations of policy changes to assess their potential impact before implementation.
+AWS Firewall Manager,Automated Security Training,Script the delivery of security training materials based on policy changes to relevant teams.
+AWS Firewall Manager,Policy Review Scheduling,Automate the scheduling of regular policy reviews to ensure ongoing compliance and effectiveness.
+AWS Firewall Manager,Automated Resource Tagging,Script the automatic tagging of resources based on their security policies for better management.
+AWS Firewall Manager,Policy Change Approval Automation,Automate the approval process for policy changes to streamline governance and compliance.
+AWS Firewall Manager,Automated Security Posture Assessment,Script assessments of the overall security posture of AWS accounts against defined benchmarks.
+AWS Firewall Manager,Policy Integration with CI/CD Pipelines,Automate the integration of security policies into CI/CD pipelines for continuous compliance.
+AWS Firewall Manager,Automated Security Policy Testing,Script automated tests of security policies to ensure they function as intended before deployment.
+AWS Firewall Manager,Policy Change Impact Analysis,Automate the analysis of how proposed policy changes will affect existing configurations.
+AWS Firewall Manager,Automated Security Incident Logging,Script the logging of security incidents related to policy violations for future analysis.
+AWS Firewall Manager,Policy Compliance Benchmarking,Automate benchmarking of policies against industry standards for compliance.
+AWS Firewall Manager,Automated Security Policy Rollbacks,Script the rollback of security policies to previous versions in case of issues.
+AWS Firewall Manager,Policy Change Communication,Automate communication of policy changes to all relevant stakeholders to ensure awareness.
+AWS Firewall Manager,Automated Security Policy Optimization,Script the optimization of security policies based on usage data and threat intelligence.
+AWS Firewall Manager,Policy Change Risk Assessment,Automate the assessment of risks associated with proposed policy changes before implementation.
+AWS Firewall Manager,Automated Security Policy Audits,Script regular audits of security policies to ensure compliance with internal and external standards.
+AWS Firewall Manager,Policy Change Documentation Automation,Automate the documentation of changes made to security policies for compliance purposes.
+AWS Firewall Manager,Automated Security Policy Enforcement,Script the enforcement of security policies across all accounts to ensure compliance.
+AWS Firewall Manager,Policy Change Notification Management,Automate the management of notifications related to policy changes for better tracking.
+AWS Firewall Manager,Automated Security Policy Reporting,Script the generation of

@@ -1,0 +1,62 @@
+Category,Short Description,Description
+Palo Alto Networks GlobalProtect,Automate user onboarding,"Automate the creation and setup of new users in GlobalProtect, including generating VPN credentials."
+Palo Alto Networks GlobalProtect,Automate user offboarding,Automate the removal of users who leave the organization to revoke their VPN access.
+Palo Alto Networks GlobalProtect,Automate certificate-based authentication setup,Automate the configuration of certificate-based authentication for enhanced security.
+Palo Alto Networks GlobalProtect,Automate multi-factor authentication (MFA) setup,Automate the integration and setup of MFA for GlobalProtect users.
+Palo Alto Networks GlobalProtect,Automate VPN client deployment,Automate the distribution of the GlobalProtect client application to user devices.
+Palo Alto Networks GlobalProtect,Automate client configuration file generation,Automate the generation of VPN configuration files specific to user roles or groups.
+Palo Alto Networks GlobalProtect,Automate log collection,Automate the collection of GlobalProtect logs for security audits and troubleshooting.
+Palo Alto Networks GlobalProtect,Automate log rotation,Automate the rotation of logs to prevent storage issues and maintain performance.
+Palo Alto Networks GlobalProtect,Automate user group assignment,Automate assigning users to specific groups with defined VPN policies.
+Palo Alto Networks GlobalProtect,Automate IP whitelisting,Automate the addition of trusted IP addresses to the whitelist for secure access.
+Palo Alto Networks GlobalProtect,Automate IP blacklisting,Automate the blocking of malicious or unauthorized IP addresses.
+Palo Alto Networks GlobalProtect,Automate split-tunneling configuration,Automate the setup of split-tunneling policies to route only specific traffic through the VPN.
+Palo Alto Networks GlobalProtect,Automate full-tunneling configuration,Automate the setup of full-tunneling policies to route all traffic through the VPN.
+Palo Alto Networks GlobalProtect,Automate VPN gateway deployment,Automate the deployment of GlobalProtect gateways in cloud or on-prem environments.
+Palo Alto Networks GlobalProtect,Automate VPN gateway failover,Automate failover configurations to ensure high availability of VPN gateways.
+Palo Alto Networks GlobalProtect,Automate DNS configuration,Automate the configuration of DNS servers for VPN clients.
+Palo Alto Networks GlobalProtect,Automate bandwidth monitoring,Automate monitoring of bandwidth usage for users or groups connected to the VPN.
+Palo Alto Networks GlobalProtect,Automate user activity monitoring,Automate tracking of user activity and connection status for real-time insights.
+Palo Alto Networks GlobalProtect,Automate geo-restriction policies,Automate the enforcement of geo-restrictions for VPN access based on user locations.
+Palo Alto Networks GlobalProtect,Automate user inactivity timeout,Automate the configuration of inactivity timeouts to disconnect idle users.
+Palo Alto Networks GlobalProtect,Automate session termination,Automate the termination of VPN sessions for specific users or groups.
+Palo Alto Networks GlobalProtect,Automate compliance reporting,Automate the generation of compliance reports for regulatory audits.
+Palo Alto Networks GlobalProtect,Automate log forwarding,Automate the forwarding of GlobalProtect logs to SIEM tools for enhanced monitoring.
+Palo Alto Networks GlobalProtect,Automate integration with Active Directory,Automate the integration of GlobalProtect with Active Directory for centralized user authentication.
+Palo Alto Networks GlobalProtect,Automate integration with RADIUS,Automate the configuration of RADIUS servers for user authentication.
+Palo Alto Networks GlobalProtect,Automate integration with LDAP,Automate the integration of LDAP for user authentication and group management.
+Palo Alto Networks GlobalProtect,Automate user password reset,Automate the process of resetting passwords for VPN users.
+Palo Alto Networks GlobalProtect,Automate certificate renewal,Automate the renewal of server and client certificates for secure communication.
+Palo Alto Networks GlobalProtect,Automate VPN client upgrades,Automate the distribution and installation of updated GlobalProtect client software.
+Palo Alto Networks GlobalProtect,Automate server patching,Automate the application of patches to GlobalProtect gateways and portals.
+Palo Alto Networks GlobalProtect,Automate VPN user onboarding notifications,Automate sending notifications to new users with VPN credentials and setup instructions.
+Palo Alto Networks GlobalProtect,Automate user access reviews,Automate periodic reviews of user access permissions and VPN usage.
+Palo Alto Networks GlobalProtect,Automate API token management,Automate the creation and management of API tokens for administrative tasks.
+Palo Alto Networks GlobalProtect,Automate firewall rule updates,Automate the configuration of firewall rules to allow or block specific VPN traffic.
+Palo Alto Networks GlobalProtect,Automate session timeout policies,Automate the enforcement of session timeout policies for connected users.
+Palo Alto Networks GlobalProtect,Automate QoS (Quality of Service) settings,Automate configuration of QoS policies to prioritize specific traffic over the VPN.
+Palo Alto Networks GlobalProtect,Automate user connection limits,Automate the enforcement of connection limits for individual users or groups.
+Palo Alto Networks GlobalProtect,Automate integration with MFA providers,Automate the integration of GlobalProtect with MFA solutions like Duo or Okta.
+Palo Alto Networks GlobalProtect,Automate user session analytics,Automate the collection and analysis of session data for insights into VPN usage patterns.
+Palo Alto Networks GlobalProtect,Automate kill switch configuration,Automate the setup of a kill switch to block internet access if the VPN connection drops.
+Palo Alto Networks GlobalProtect,Automate DNS leak prevention,Automate the configuration of DNS leak prevention for enhanced privacy.
+Palo Alto Networks GlobalProtect,Automate client-side policy enforcement,Automate the enforcement of endpoint security policies for VPN-connected devices.
+Palo Alto Networks GlobalProtect,Automate integration with endpoint protection tools,Automate the integration of GlobalProtect with endpoint protection tools like Cortex XDR.
+Palo Alto Networks GlobalProtect,Automate integration with SIEM tools,Automate the integration of GlobalProtect logs with SIEM platforms for security monitoring.
+Palo Alto Networks GlobalProtect,Automate user device profiling,Automate the profiling of user devices connecting to the VPN for improved security.
+Palo Alto Networks GlobalProtect,Automate network traffic analysis,Automate the analysis of network traffic for identifying anomalies or threats.
+Palo Alto Networks GlobalProtect,Automate policy rollback,Automate the rollback of VPN policies in case of misconfigurations.
+Palo Alto Networks GlobalProtect,Automate VPN client uninstall,Automate the removal of GlobalProtect client software from user devices.
+Palo Alto Networks GlobalProtect,Automate VPN client troubleshooting,Automate the diagnosis and resolution of common VPN client issues.
+Palo Alto Networks GlobalProtect,Automate integration with Single Sign-On (SSO),Automate the setup of SSO for streamlined user authentication.
+Palo Alto Networks GlobalProtect,Automate user notifications for policy changes,Automate sending notifications to users about updates to VPN access policies.
+Palo Alto Networks GlobalProtect,Automate server resource allocation,Automate the allocation of server resources based on VPN demand.
+Palo Alto Networks GlobalProtect,Automate server scaling,Automate the scaling of GlobalProtect gateways to handle increased user demand.
+Palo Alto Networks GlobalProtect,Automate user bandwidth limits,Automate the enforcement of bandwidth limits for individual users or groups.
+Palo Alto Networks GlobalProtect,Automate integration with cloud services,Automate the integration of GlobalProtect with cloud platforms like AWS or Azure.
+Palo Alto Networks GlobalProtect,Automate guest user access policies,Automate the setup of policies for temporary guest users requiring VPN access.
+Palo Alto Networks GlobalProtect,Automate compliance alerts,Automate sending alerts for non-compliance with VPN policies.
+Palo Alto Networks GlobalProtect,Automate integration with DevOps pipelines,Automate the integration of GlobalProtect into CI/CD pipelines for secure development workflows.
+Palo Alto Networks GlobalProtect,Automate VPN usage analytics,Automate the generation of analytics reports for VPN usage trends.
+Palo Alto Networks GlobalProtect,Automate VPN license monitoring,Automate the monitoring of GlobalProtect license usage and renewal reminders.
+Palo Alto Networks GlobalProtect,Automate integration with backup systems,Automate the integration of GlobalProtect with backup systems for disaster recovery.

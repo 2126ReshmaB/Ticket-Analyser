@@ -1,0 +1,75 @@
+Category,Short Description,Description
+Firewall Builder,Automate rule creation,"Automate the creation of firewall rules by scripting the addition of source, destination, and service objects into policies."
+Firewall Builder,Batch import rules,Use scripts to batch import firewall rules from a CSV or JSON file into Firewall Builder.
+Firewall Builder,Automate NAT rule creation,Automate the creation of NAT rules by scripting the addition of NAT objects and policies.
+Firewall Builder,Rule duplication,Automate the duplication of existing rules for similar configurations.
+Firewall Builder,Rule cleanup,Automate the removal of unused or redundant rules to optimize the firewall configuration.
+Firewall Builder,Rule grouping,"Script the grouping of related rules into logical categories (e.g., internal, external)."
+Firewall Builder,Rule coloring,Automate the assignment of colors to rules for better visual organization.
+Firewall Builder,Policy compilation,"Automate the compilation of policies into firewall-specific scripts (e.g., iptables)."
+Firewall Builder,Policy deployment,Automate the deployment of compiled policies to target firewalls.
+Firewall Builder,Backup firewall configurations,Script the backup of firewall configurations to a secure location.
+Firewall Builder,Restore firewall configurations,Automate the restoration of firewall configurations from backups.
+Firewall Builder,Schedule rule updates,Automate the scheduling of rule updates at specific times.
+Firewall Builder,Generate rule reports,Script the generation of reports summarizing firewall rules and policies.
+Firewall Builder,Audit rule changes,Automate the tracking and logging of rule changes for auditing purposes.
+Firewall Builder,Validate rule syntax,Script the validation of rule syntax before deployment.
+Firewall Builder,Test rule effectiveness,Automate the testing of rules to ensure they are functioning as intended.
+Firewall Builder,Manage multiple firewalls,Use scripts to manage rules and policies across multiple firewalls simultaneously.
+Firewall Builder,Export rules to CSV,Automate the export of firewall rules to a CSV file for analysis.
+Firewall Builder,Import rules from CSV,Script the import of rules from a CSV file into Firewall Builder.
+Firewall Builder,Automate object creation,"Automate the creation of objects like hosts, networks, and services."
+Firewall Builder,Bulk delete objects,Script the bulk deletion of unused or obsolete objects.
+Firewall Builder,Clone firewall configurations,Automate the cloning of configurations from one firewall to another.
+Firewall Builder,Manage routing rules,Script the creation and management of static routing rules.
+Firewall Builder,Automate interface assignments,Automate the assignment of interfaces to rules and policies.
+Firewall Builder,Generate NAT reports,Script the generation of reports summarizing NAT rules and policies.
+Firewall Builder,Automate branch creation,Automate the creation of branches in policies for specific traffic flows.
+Firewall Builder,Schedule policy compilation,Automate the compilation of policies at scheduled intervals.
+Firewall Builder,Monitor rule usage,Script the monitoring of rule usage to identify underutilized or unused rules.
+Firewall Builder,Automate rule prioritization,Automate the reordering of rules based on priority or traffic patterns.
+Firewall Builder,Generate compliance reports,Script the generation of compliance reports for regulatory requirements.
+Firewall Builder,Automate rule comments,Automate the addition of comments to rules for better documentation.
+Firewall Builder,Find and replace objects,Script the find-and-replace functionality for objects in rules.
+Firewall Builder,Automate rule disabling,Automate the temporary disabling of rules for testing or troubleshooting.
+Firewall Builder,Automate rule enabling,Automate the re-enabling of previously disabled rules.
+Firewall Builder,Manage rule dependencies,Script the identification and management of rule dependencies.
+Firewall Builder,Automate rule migration,Automate the migration of rules from one firewall platform to another.
+Firewall Builder,Generate object usage reports,Script the generation of reports showing where objects are used in rules.
+Firewall Builder,Automate rule tagging,Automate the tagging of rules for better categorization and searchability.
+Firewall Builder,Schedule rule audits,Automate the scheduling of periodic rule audits.
+Firewall Builder,Automate rule testing,Script the testing of rules against simulated traffic patterns.
+Firewall Builder,Manage rule versions,Automate the versioning of rules for rollback purposes.
+Firewall Builder,Automate rule rollback,Script the rollback of rules to a previous version.
+Firewall Builder,Generate traffic flow diagrams,Automate the creation of diagrams showing traffic flows based on rules.
+Firewall Builder,Automate rule optimization,Script the optimization of rules to improve performance.
+Firewall Builder,Automate rule conflict detection,Automate the detection of conflicting rules in policies.
+Firewall Builder,Automate rule conflict resolution,Script the resolution of conflicting rules.
+Firewall Builder,Automate rule simulation,Automate the simulation of rule behavior under different traffic scenarios.
+Firewall Builder,Automate rule export to XML,Script the export of rules to an XML file for integration with other tools.
+Firewall Builder,Automate rule import from XML,Automate the import of rules from an XML file into Firewall Builder.
+Firewall Builder,Automate rule duplication detection,Script the detection of duplicate rules in policies.
+Firewall Builder,Automate rule cleanup suggestions,Automate the generation of suggestions for cleaning up rules.
+Firewall Builder,Automate rule dependency analysis,Script the analysis of rule dependencies to identify potential issues.
+Firewall Builder,Automate rule impact analysis,Automate the analysis of the impact of rule changes on traffic flows.
+Firewall Builder,Automate rule simulation reports,Script the generation of reports summarizing rule simulation results.
+Firewall Builder,Automate rule export to JSON,Automate the export of rules to a JSON file for integration with other tools.
+Firewall Builder,Automate rule import from JSON,Automate the import of rules from a JSON file into Firewall Builder.
+Firewall Builder,Automate rule scheduling,Script the scheduling of rules to activate or deactivate at specific times.
+Firewall Builder,Automate rule logging,Automate the configuration of logging for specific rules.
+Firewall Builder,Automate rule alerting,Script the configuration of alerts for specific rule violations.
+Firewall Builder,Automate rule export to YAML,Automate the export of rules to a YAML file for integration with other tools.
+Firewall Builder,Automate rule import from YAML,Automate the import of rules from a YAML file into Firewall Builder.
+Firewall Builder,Automate rule metadata management,Script the management of metadata associated with rules.
+Firewall Builder,Automate rule lifecycle management,"Automate the entire lifecycle of rules, from creation to deletion."
+Firewall Builder,Automate rule dependency visualization,Script the visualization of rule dependencies in a graphical format.
+Firewall Builder,Automate rule export to Excel,Automate the export of rules to an Excel file for analysis.
+Firewall Builder,Automate rule import from Excel,Automate the import of rules from an Excel file into Firewall Builder.
+Firewall Builder,Automate rule export to PDF,Script the export of rules to a PDF file for documentation purposes.
+Firewall Builder,Automate rule import from PDF,Automate the extraction of rules from a PDF file into Firewall Builder.
+Firewall Builder,Automate rule export to HTML,Automate the export of rules to an HTML file for web-based documentation.
+Firewall Builder,Automate rule import from HTML,Automate the extraction of rules from an HTML file into Firewall Builder.
+Firewall Builder,Automate rule export to Markdown,Script the export of rules to a Markdown file for documentation purposes.
+Firewall Builder,Automate rule import from Markdown,Automate the extraction of rules from a Markdown file into Firewall Builder.
+Firewall Builder,Automate rule export to SQL,Automate the export of rules to an SQL database for analysis.
+Firewall Builder,Automate rule import from SQL,Automate the import of rules from an SQL database into Firewall Builder.

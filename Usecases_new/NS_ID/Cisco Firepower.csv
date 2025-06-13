@@ -1,0 +1,89 @@
+Category,Short Description,Description
+Cisco Firepower,Automate Policy Deployment,Create scripts to automatically deploy security policies across multiple Firepower devices to ensure consistent policy enforcement.
+Cisco Firepower,Monitor Malware Detection,Automate the monitoring and reporting of malware detections across the network using Advanced Malware Protection (AMP) integration.
+Cisco Firepower,Threat Intelligence Updates,Automatically update threat intelligence feeds from Cisco Talos and apply new security policies based on emerging threats.
+Cisco Firepower,Security Policy Compliance Check,Create automated checks to verify security policies comply with organizational standards and regulations.
+Cisco Firepower,URL Filtering Updates,Automate the update of URL filtering categories and rules based on new threat intelligence.
+Cisco Firepower,Application Control Policy,Automatically update application control policies based on new application signatures and organizational requirements.
+Cisco Firepower,SSL/TLS Inspection Rules,Create automated rules for SSL/TLS traffic inspection based on certificate validity and encryption strength.
+Cisco Firepower,Device Health Monitoring,"Monitor and report on device health metrics, automatically generating alerts for issues requiring attention."
+Cisco Firepower,Configuration Backup,Automatically backup Firepower device configurations on a scheduled basis for disaster recovery purposes.
+Cisco Firepower,Policy Audit Logging,Create automated logs and reports of all policy changes for audit and compliance purposes.
+Cisco Firepower,Network Discovery Updates,Automate the discovery and categorization of new network assets and update security policies accordingly.
+Cisco Firepower,Threat Response Automation,Create automated response actions for specific types of detected threats based on severity levels.
+Cisco Firepower,User Access Control Updates,Automatically update user access control policies based on changes in Active Directory groups.
+Cisco Firepower,Malicious IP Blocking,Automatically block IP addresses identified as malicious through threat intelligence feeds.
+Cisco Firepower,Application Usage Reporting,Generate automated reports on application usage patterns and policy violations.
+Cisco Firepower,Security Event Correlation,Automate the correlation of security events across multiple Firepower devices to identify attack patterns.
+Cisco Firepower,Policy Conflict Detection,Automatically detect and report policy conflicts before deployment.
+Cisco Firepower,Compliance Reporting,"Generate automated compliance reports for various regulatory standards (PCI DSS, HIPAA, etc.)."
+Cisco Firepower,Network Segmentation Verification,Automatically verify network segmentation policies are properly enforced.
+Cisco Firepower,Intrusion Policy Updates,Update intrusion prevention policies based on new vulnerability discoveries.
+Cisco Firepower,Device Configuration Audit,Automatically audit device configurations against security baselines.
+Cisco Firepower,Access Policy Optimization,Analyze access policy usage and automatically recommend optimizations.
+Cisco Firepower,Security Intelligence Integration,Automate the integration of third-party security intelligence feeds.
+Cisco Firepower,Log Analysis Automation,Create automated analysis of security logs to identify patterns and anomalies.
+Cisco Firepower,Policy Template Deployment,Automate the deployment of standardized policy templates to new devices.
+Cisco Firepower,Network Map Updates,Automatically update network maps based on discovered changes in network topology.
+Cisco Firepower,Vulnerability Correlation,Correlate detected vulnerabilities with existing security policies and recommend updates.
+Cisco Firepower,Certificate Management,Automate SSL/TLS certificate monitoring and renewal processes.
+Cisco Firepower,User Activity Monitoring,Create automated reports on user activity and policy violations.
+Cisco Firepower,Backup Verification,Automatically verify the integrity of configuration backups.
+Cisco Firepower,Policy Version Control,Implement automated version control for security policies.
+Cisco Firepower,Device Registration,Automate the registration and initial configuration of new Firepower devices.
+Cisco Firepower,High Availability Monitoring,Monitor and report on high availability status and failover events.
+Cisco Firepower,Traffic Analysis,Automate analysis of traffic patterns to identify potential security issues.
+Cisco Firepower,Policy Documentation,Automatically generate and update policy documentation.
+Cisco Firepower,System Performance Monitoring,Create automated monitoring and alerting for system performance metrics.
+Cisco Firepower,Access Rule Cleanup,Automatically identify and remove unused or redundant access rules.
+Cisco Firepower,Security Zone Updates,Automate the update of security zones based on network changes.
+Cisco Firepower,Policy Migration,Automate the migration of policies between different Firepower versions.
+Cisco Firepower,Threat Detection Tuning,Automatically tune threat detection settings based on false positive analysis.
+Cisco Firepower,Network Object Updates,Automate the update of network objects based on infrastructure changes.
+Cisco Firepower,Policy Deployment Verification,Automatically verify successful policy deployment across all devices.
+Cisco Firepower,License Management,Automate license monitoring and renewal processes.
+Cisco Firepower,Backup Scheduling,Create automated schedules for configuration backups.
+Cisco Firepower,Policy Impact Analysis,Automatically analyze the impact of policy changes before deployment.
+Cisco Firepower,Security Baseline Compliance,Monitor and report on compliance with security baselines.
+Cisco Firepower,Event Response Automation,Create automated responses to specific security events.
+Cisco Firepower,Policy Rollback Automation,Automate the rollback of policy changes when issues are detected.
+Cisco Firepower,Device Inventory Management,Automatically maintain an updated inventory of all Firepower devices.
+Cisco Firepower,Integration with SIEM,Automate the integration and data sharing with SIEM systems.
+Cisco Firepower,Automated Threat Hunting,Use scripts to automate threat hunting processes based on detected anomalies.
+Cisco Firepower,User Behavior Analytics,Automate the analysis of user behavior to detect potential insider threats.
+Cisco Firepower,Network Traffic Shaping,Automatically adjust traffic shaping policies based on real-time network conditions.
+Cisco Firepower,Automated Incident Reporting,Generate automated incident reports for security events detected by Firepower.
+Cisco Firepower,Policy Change Notifications,Automatically notify administrators of any changes made to security policies.
+Cisco Firepower,Integration with Endpoint Security,Automate the integration of Firepower with endpoint security solutions for enhanced protection.
+Cisco Firepower,Automated Threat Containment,Automatically isolate compromised devices from the network based on detected threats.
+Cisco Firepower,Traffic Anomaly Detection,Use machine learning to automatically detect and alert on traffic anomalies.
+Cisco Firepower,Automated Compliance Checks,Schedule automated compliance checks against regulatory standards.
+Cisco Firepower,Automated Security Training,Trigger automated security awareness training for users based on detected incidents.
+Cisco Firepower,Automated Network Forensics,Automate the collection of forensic data for security incidents.
+Cisco Firepower,Automated Policy Testing,Create scripts to automatically test the effectiveness of security policies before deployment.
+Cisco Firepower,Automated Threat Intelligence Sharing,Share threat intelligence automatically with other security tools and platforms.
+Cisco Firepower,Automated Network Performance Monitoring,Monitor network performance metrics and alert on degradation or anomalies.
+Cisco Firepower,Automated Security Patch Management,Automate the deployment of security patches to Firepower devices.
+Cisco Firepower,Automated Incident Response Playbooks,Implement automated incident response playbooks for common security incidents.
+Cisco Firepower,Automated User Access Reviews,Schedule automated reviews of user access rights and permissions.
+Cisco Firepower,Automated Log Retention Management,Manage log retention policies automatically based on compliance requirements.
+Cisco Firepower,Automated Network Policy Enforcement,Automatically enforce network policies based on real-time traffic analysis.
+Cisco Firepower,Automated Threat Analysis,Use scripts to automate the analysis of detected threats and recommend actions.
+Cisco Firepower,Automated Security Posture Assessment,Regularly assess the security posture of the network and generate reports.
+Cisco Firepower,Automated Device Configuration Management,Manage device configurations automatically to ensure compliance with security standards.
+Cisco Firepower,Automated Security Incident Escalation,Automatically escalate security incidents based on predefined criteria.
+Cisco Firepower,Automated Network Access Control,Implement automated network access control measures based on user roles and device types.
+Cisco Firepower,Automated Security Policy Testing,Test security policies automatically to ensure they are functioning as intended.
+Cisco Firepower,Automated Threat Landscape Monitoring,Continuously monitor the threat landscape and adjust security policies accordingly.
+Cisco Firepower,Automated Security Awareness Notifications,Notify users automatically about security awareness topics based on current threats.
+Cisco Firepower,Automated Risk Assessment,Regularly assess risks associated with network assets and generate reports.
+Cisco Firepower,Automated Incident Response Drills,Schedule and automate incident response drills to test preparedness.
+Cisco Firepower,Automated Security Configuration Hardening,Automatically apply security hardening configurations to devices based on best practices.
+Cisco Firepower,Automated Network Traffic Logging,Automatically log network traffic for compliance and forensic analysis.
+Cisco Firepower,Automated Security Policy Review,Schedule regular reviews of security policies to ensure they remain effective.
+Cisco Firepower,Automated Threat Detection Reporting,Generate automated reports on detected threats and response actions taken.
+Cisco Firepower,Automated Network Access Logging,Log all network access attempts automatically for auditing purposes.
+Cisco Firepower,Automated Security Incident Documentation,Document security incidents automatically for future reference and analysis.
+Cisco Firepower,Automated Network Device Lifecycle Management,"Manage the lifecycle of network devices automatically, from deployment to decommissioning."
+Cisco Firepower,Automated Security Policy Versioning,Maintain version control of security policies automatically to track changes over time.
+Cisco Firepower,Automated Security Incident Analysis,Analyze security

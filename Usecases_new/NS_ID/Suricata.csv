@@ -1,0 +1,59 @@
+Category,Short Description,Description
+Suricata,Detect Port Scans,Automate the identification of port scanning activities by monitoring traffic patterns for rapid sequential connections to multiple ports.
+Suricata,Block Malicious IPs,Automatically block connections from IP addresses flagged as malicious by integrating Suricata with real-time threat intel feeds.
+Suricata,Alert on SQL Injection Attempts,Monitor HTTP payloads to detect SQL injection attempts by identifying suspicious SQL commands embedded in HTTP requests.
+Suricata,Detect Brute Force Login Attempts,"Identify multiple failed login attempts targeting services such as SSH, RDP, or FTP as potential brute force attacks."
+Suricata,Identify Phishing Attacks,Detect traffic to phishing domains by integrating Suricata with regularly updated phishing domain blocklists.
+Suricata,Monitor DNS Tunneling,Recognize suspicious DNS query patterns that may indicate data exfiltration through DNS tunneling techniques.
+Suricata,Detect Malware Downloads,Inspect HTTP and HTTPS traffic for known malware signatures and send alerts when malicious files are downloaded.
+Suricata,Block Suspicious User Agents,Detect and block HTTP requests with suspicious or unauthorized user-agent strings that may indicate bot or malware activity.
+Suricata,Monitor Data Exfiltration,"Detect large outbound data transfers to unauthorized external servers, which may indicate data exfiltration."
+Suricata,Identify Ransomware Traffic,"Identify traffic patterns associated with ransomware operations, such as communication with known ransomware domains or IPs."
+Suricata,Block Tor Exit Node Traffic,Prevent traffic originating from Tor exit nodes by dynamically updating Suricata blocklists with known Tor IP addresses.
+Suricata,Detect DDoS Attacks,Monitor for high volumes of traffic targeting specific hosts or services that may indicate distributed denial-of-service (DDoS) attacks.
+Suricata,Detect ARP Spoofing Attempts,Identify ARP spoofing or poisoning attacks by detecting duplicate MAC addresses or unusual ARP traffic.
+Suricata,Detect Botnet Command & Control,Identify communication between internal hosts and botnet command-and-control servers by analyzing DNS queries and HTTP traffic.
+Suricata,Identify Outdated Protocol Usage,"Automatically flag and block traffic using deprecated protocols such as SMBv1, SSLv2, or Telnet to enhance security."
+Suricata,Detect Cross-Site Scripting (XSS),"Monitor HTTP traffic for patterns indicative of cross-site scripting (XSS) attacks, such as malicious JavaScript in request parameters."
+Suricata,Prevent Crypto Mining Activity,Detect and block network traffic to known cryptocurrency mining pools to prevent unauthorized resource usage.
+Suricata,Detect DNS Amplification Attacks,Identify DNS amplification attack attempts by monitoring high-frequency DNS queries with oversized responses.
+Suricata,Monitor IoT Device Behavior,Inspect traffic to and from IoT devices for unusual patterns that may indicate compromise or unauthorized activity.
+Suricata,Detect SMB Exploitation Attempts,"Monitor SMB traffic for patterns indicating exploitation attempts, such as EternalBlue or other known SMB vulnerabilities."
+Suricata,Monitor Bandwidth Usage,Track bandwidth consumption by individual IP addresses to identify devices hogging resources or participating in anomalous activities.
+Suricata,Detect Unauthorized VPN Usage,Identify traffic patterns associated with unauthorized VPNs that may be used to bypass security policies.
+Suricata,Detect Email Spoofing,"Monitor SMTP headers to detect spoofing attempts, such as forged ""From"" addresses used in phishing campaigns."
+Suricata,Monitor Remote Desktop Protocol (RDP),Monitor RDP traffic for unauthorized access attempts or brute force attacks targeting RDP services.
+Suricata,Alert on Malicious Attachments,Detect and flag email attachments containing malicious payloads by scanning for known file signatures.
+Suricata,Detect Unauthorized Application Usage,Monitor and block traffic from unauthorized applications such as gaming or file-sharing services.
+Suricata,Identify Rogue DHCP Servers,Detect unauthorized DHCP servers on the network that may be distributing malicious configurations.
+Suricata,Detect HTTP Flood Attacks,Monitor for HTTP flood attacks by identifying excessive HTTP request volumes from individual IPs in a short period.
+Suricata,Detect Suspicious DNS Queries,Flag DNS queries for suspicious or non-existent domains often used in malware campaigns or C2 communication.
+Suricata,Detect Fileless Malware,"Identify traffic patterns indicative of fileless malware, such as unusual PowerShell or WMI activity over the network."
+Suricata,Block Geo-Specific Traffic,Dynamically block traffic originating from specific geographic locations by integrating with IP geolocation databases.
+Suricata,Monitor for Network Reconnaissance,"Detect network reconnaissance activities, such as ping sweeps or OS fingerprinting attempts."
+Suricata,Block P2P File-Sharing Traffic,"Automatically block peer-to-peer (P2P) traffic, such as BitTorrent, to enforce organizational policies."
+Suricata,Detect Privilege Escalation Attempts,"Monitor for indications of privilege escalation, such as suspicious use of administrative SMB shares or LDAP queries."
+Suricata,Detect ICMP Flood Attacks,Identify ICMP flood attacks by monitoring high volumes of ICMP packets from a single source.
+Suricata,Block Unencrypted Traffic,"Identify and block HTTP traffic carrying sensitive information, enforcing encryption-only policies."
+Suricata,Detect Rogue Access Points,Identify traffic originating from unauthorized wireless access points that may be used for man-in-the-middle attacks.
+Suricata,Monitor Encrypted Traffic Patterns,"Identify anomalies in encrypted traffic, such as unusual packet sizes or timing that may indicate malicious activity."
+Suricata,Detect DNS Cache Poisoning,Detect unauthorized modifications to DNS responses that may indicate DNS cache poisoning attempts.
+Suricata,Monitor FTP Traffic for Anomalies,"Detect unusual FTP traffic patterns, such as unauthorized file uploads or connections to suspicious servers."
+Suricata,Detect Rogue Devices on the Network,Identify unauthorized devices connecting to the network by monitoring ARP or DHCP traffic.
+Suricata,Alert on Unusual HTTP Methods,"Flag HTTP requests using unusual or dangerous methods, such as PUT, DELETE, or TRACE."
+Suricata,Detect Watering Hole Attacks,Monitor traffic to legitimate websites that may have been compromised and are serving malicious content.
+Suricata,Monitor VoIP Traffic for Abuse,"Analyze VoIP traffic for signs of abuse, such as toll fraud or unauthorized call patterns."
+Suricata,Block Known Malicious Certificates,Block HTTPS traffic using revoked or flagged SSL/TLS certificates associated with malicious activity.
+Suricata,Detect Worm Propagation,"Identify traffic patterns indicative of worm propagation, such as rapid scanning or exploitation attempts across IP ranges."
+Suricata,Monitor Network Time Protocol (NTP),Detect abuse of the NTP service for reflection or amplification attacks targeting other networks.
+Suricata,Detect Suspicious SMB Traffic,"Monitor SMB traffic for unauthorized file access, file transfers, or exploitation attempts."
+Suricata,Detect Insider Threats,"Monitor internal network traffic for indications of insider threats, such as data exfiltration or unauthorized access attempts."
+Suricata,Block IP Spoofing Attempts,Identify and block traffic with spoofed IP addresses that do not match legitimate network assignments.
+Suricata,Detect C2 Communication Patterns,Identify periodic beaconing traffic indicative of command-and-control (C2) communication from compromised devices.
+Suricata,Block Unauthorized Proxy Usage,Identify and block traffic to unauthorized proxy servers used to bypass network restrictions.
+Suricata,Alert on Unusual DNS TTL Values,Flag DNS responses with unusually short or long TTL values that may indicate malicious activity.
+Suricata,Detect Email Bombing Campaigns,"Monitor SMTP traffic for a high volume of emails sent to a single recipient, indicating email bombing attempts."
+Suricata,Block Malicious Domains,Dynamically block traffic to malicious domains by integrating with real-time threat intelligence feeds.
+Suricata,Identify Suspicious TLS Handshakes,"Detect unusual TLS handshake parameters that deviate from normal protocol behavior, which may indicate malicious activity."
+Suricata,Detect Beaconing in Encrypted Traffic,Identify periodic encrypted traffic that may indicate communication with botnet command-and-control (C2) servers.
+Suricata,Prevent Social Engineering Attacks,Flag

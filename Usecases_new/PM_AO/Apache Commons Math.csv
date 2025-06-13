@@ -1,0 +1,88 @@
+Category,Short Description,Description
+Apache Commons Math,Linear Regression Analysis,Perform linear regression to model relationships between variables.
+Apache Commons Math,Nonlinear Curve Fitting,Fit nonlinear curves to data for predictive modeling.
+Apache Commons Math,Matrix Operations,"Perform matrix operations like multiplication, inversion, and decomposition."
+Apache Commons Math,Solving Linear Equations,Solve systems of linear equations efficiently.
+Apache Commons Math,Statistical Data Analysis,"Compute descriptive statistics like mean, variance, and standard deviation."
+Apache Commons Math,Optimization Problems,Solve optimization problems using linear or nonlinear techniques.
+Apache Commons Math,Root-Finding for Equations,Find roots of equations using numerical methods.
+Apache Commons Math,Random Number Generation,Generate random numbers for simulations or probabilistic models.
+Apache Commons Math,Probability Distributions,Model data using probability distributions like normal or Poisson.
+Apache Commons Math,Hypothesis Testing,Perform hypothesis tests such as t-tests and chi-square tests.
+Apache Commons Math,Monte Carlo Simulations,Run Monte Carlo simulations for risk or uncertainty analysis.
+Apache Commons Math,Genetic Algorithm Optimization,Solve optimization problems using genetic algorithms.
+Apache Commons Math,Fourier Transform Computation,Perform Fourier transforms to analyze frequency components in signals.
+Apache Commons Math,Principal Component Analysis,Reduce dimensionality of data using PCA techniques.
+Apache Commons Math,Clustering Algorithms,Implement clustering methods like k-means for data segmentation.
+Apache Commons Math,Numerical Integration,Solve definite integrals using numerical methods.
+Apache Commons Math,Time Series Analysis,Analyze and forecast time series data trends.
+Apache Commons Math,Eigenvalue Computation,Calculate eigenvalues and eigenvectors of matrices.
+Apache Commons Math,Signal Processing,Analyze and filter signals for noise reduction or feature extraction.
+Apache Commons Math,Logistic Regression,Perform binary classification using logistic regression.
+Apache Commons Math,Convolution Operations,Perform convolution for signal and image processing tasks.
+Apache Commons Math,Bayesian Inference,Perform Bayesian analysis for probabilistic reasoning.
+Apache Commons Math,Quadratic Optimization,Solve quadratic programming problems for portfolio optimization.
+Apache Commons Math,Data Interpolation,Interpolate missing data points using polynomial or spline methods.
+Apache Commons Math,Kalman Filtering,Implement Kalman filters for state estimation in dynamic systems.
+Apache Commons Math,Multivariate Statistics,Perform multivariate statistical analysis on complex datasets.
+Apache Commons Math,Regression Diagnostics,Evaluate regression models using residual analysis.
+Apache Commons Math,Simulating Random Walks,Simulate random walks for stock price modeling or particle diffusion.
+Apache Commons Math,Neural Network Training,Optimize neural network weights using gradient-based methods.
+Apache Commons Math,Binomial Distribution Modeling,Model probabilities using a binomial distribution.
+Apache Commons Math,Matrix Factorization,Perform LU or QR decomposition for solving linear systems.
+Apache Commons Math,Parameter Estimation,Estimate parameters for statistical models using maximum likelihood.
+Apache Commons Math,Chi-Square Goodness-of-Fit Tests,Test how well data fits a given distribution.
+Apache Commons Math,Sparse Matrix Operations,Perform efficient operations on sparse matrices.
+Apache Commons Math,Robust Regression,Fit regression models resistant to outliers.
+Apache Commons Math,Confidence Interval Calculation,Calculate confidence intervals for statistical results.
+Apache Commons Math,Numerical Differentiation,Compute derivatives using numerical methods.
+Apache Commons Math,ANOVA Analysis,Perform analysis of variance (ANOVA) to compare group means.
+Apache Commons Math,Polynomial Fitting,Fit polynomial equations to datasets for predictive modeling.
+Apache Commons Math,Stochastic Process Modeling,Simulate stochastic processes like Brownian motion.
+Apache Commons Math,Markov Chain Analysis,Analyze Markov chains for probabilistic modeling.
+Apache Commons Math,Risk Assessment Simulations,Model financial or operational risks using simulations.
+Apache Commons Math,Multivariate Regression,Fit models with multiple independent variables.
+Apache Commons Math,Signal Filtering,Apply filters like low-pass or high-pass to signals.
+Apache Commons Math,Gradient Descent Optimization,Solve optimization problems using gradient descent techniques.
+Apache Commons Math,Statistical Inference,Perform inference to draw conclusions from sample data.
+Apache Commons Math,Poisson Distribution Modeling,Model event occurrences with Poisson distribution.
+Apache Commons Math,Heatmap Data Visualization,Generate heatmaps for statistical or spatial data.
+Apache Commons Math,Random Sampling,Sample data randomly from distributions or datasets.
+Apache Commons Math,Linear Programming,Solve linear programming problems with constraints.
+Apache Commons Math,Simulated Annealing,Solve optimization problems using simulated annealing algorithms.
+Apache Commons Math,Data Normalization,Normalize data for machine learning or statistical analysis.
+Apache Commons Math,Bootstrap Resampling,Perform statistical resampling using bootstrap methods.
+Apache Commons Math,Cumulative Distribution Functions,Compute CDFs for probability distributions.
+Apache Commons Math,Outlier Detection,Identify and remove outliers from datasets.
+Apache Commons Math,Survival Analysis,Analyze time-to-event data using survival analysis techniques.
+Apache Commons Math,Bayesian Decision Analysis,Perform decision-making under uncertainty using Bayesian methods.
+Apache Commons Math,Missing Data Imputation,Fill in missing values using statistical imputation.
+Apache Commons Math,Clustering Validation,Evaluate clustering results using metrics like silhouette scores.
+Apache Commons Math,Confidence Region Estimation,Estimate confidence regions for multivariate models.
+Apache Commons Math,Decision Tree Optimization,Optimize decision tree splits for classification tasks.
+Apache Commons Math,Multiclass Classification,Solve classification problems with multiple classes.
+Apache Commons Math,Pareto Optimization,Solve multi-objective optimization problems with Pareto efficiency.
+Apache Commons Math,Data Smoothing,Smooth noisy data using moving averages or splines.
+Apache Commons Math,Hypothesis Test Power Analysis,Determine the power of statistical hypothesis tests.
+Apache Commons Math,Optimization with Constraints,Solve constrained optimization problems effectively.
+Apache Commons Math,Genetic Algorithm Simulation,Solve complex problems using genetic algorithm simulations.
+Apache Commons Math,Ranking Algorithms,Rank items or entities using scoring algorithms.
+Apache Commons Math,Kernel Density Estimation,Estimate probability density functions using kernel methods.
+Apache Commons Math,Multicriteria Decision Analysis,Solve decision problems with multiple criteria.
+Apache Commons Math,Sparse Vector Operations,Perform efficient operations on sparse vectors.
+Apache Commons Math,Monte Carlo Integration,Compute integrals using Monte Carlo sampling methods.
+Apache Commons Math,Principal Component Regression,Combine PCA and regression for dimensionality reduction.
+Apache Commons Math,Spectral Analysis,Analyze signals in the frequency domain.
+Apache Commons Math,Convex Optimization,Solve convex optimization problems with constraints.
+Apache Commons Math,Elastic Net Regression,Fit models using a mix of L1 and L2 penalties.
+Apache Commons Math,Semi-Supervised Learning,Incorporate unlabeled data into predictive modeling.
+Apache Commons Math,Robust Statistical Analysis,Perform statistical analyses that are robust to outliers.
+Apache Commons Math,Nonlinear Equation Solving,Solve complex nonlinear equations numerically.
+Apache Commons Math,Dynamic Programming,Solve optimization problems using dynamic programming techniques.
+Apache Commons Math,Markov Decision Processes,Model and solve problems involving sequential decisions.
+Apache Commons Math,Inverse Problem Solving,Solve inverse problems using optimization techniques.
+Apache Commons Math,Cross Validation,Evaluate model performance using cross-validation.
+Apache Commons Math,Statistical Resampling,Resample data to estimate variability or model performance.
+Apache Commons Math,Decision Boundary Estimation,Identify decision boundaries for classification problems.
+Apache Commons Math,System of Nonlinear Equations,Solve systems of nonlinear equations with iterative methods.
+Apache Commons Math,Quantile Regression,Perform regression to predict conditional quantiles of data.

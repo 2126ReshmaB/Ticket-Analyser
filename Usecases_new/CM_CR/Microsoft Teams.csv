@@ -1,0 +1,51 @@
+Category,Short Description,Description
+Microsoft Teams,Auto-Create Teams for New Projects,"Automatically create a new Microsoft Team when a new project is initiated, with predefined channels and settings."
+Microsoft Teams,Auto-Add Members to Teams,"Automatically add team members to a specific Team based on their department, role, or project involvement."
+Microsoft Teams,Auto-Archive Inactive Teams,Automatically archive Teams that have been inactive for a specified period to keep the environment clean.
+Microsoft Teams,Notify on New Channel Creation,Send automated notifications to admins or stakeholders when a new channel is created in a Team.
+Microsoft Teams,Auto-Create Channels for Teams,"Automatically create specific channels in a Team when it is created, such as ""General,"" ""Announcements,"" or ""Tasks."""
+Microsoft Teams,Notify on Team Member Addition,Send notifications to the Team when a new member is added.
+Microsoft Teams,Auto-Schedule Meetings,"Automatically schedule recurring meetings in Teams for daily standups, weekly syncs, or monthly reviews."
+Microsoft Teams,Notify on File Uploads,Send automated notifications to a channel when new files are uploaded to the Team's document library.
+Microsoft Teams,Notify on Mention in Conversations,Send automated notifications to a user when they are mentioned in a chat or channel message.
+Microsoft Teams,Notify on Task Assignment,Automatically notify a user in Teams when a task is assigned to them in tools like Planner or Microsoft To-Do.
+Microsoft Teams,Auto-Post Announcements,Automatically post announcements in a specific channel when a new event or update occurs.
+Microsoft Teams,Auto-Create Planner Tasks,Automatically create Planner tasks from Teams messages or channel posts.
+Microsoft Teams,Notify on Calendar Events,Send notifications to a Teams channel when a new event is added to a shared calendar.
+Microsoft Teams,Auto-Notify on Meeting Changes,Send updates to Team members when a scheduled Teams meeting is rescheduled or canceled.
+Microsoft Teams,Auto-Notify on Document Changes,Notify a channel when documents in the Team's SharePoint library are updated.
+Microsoft Teams,Auto-Create Teams for Departments,Automatically create a Team for each department and assign members based on their roles.
+Microsoft Teams,Auto-Add Guests to Teams,Automatically add external guests to a Team when they are invited to a project or discussion.
+Microsoft Teams,Auto-Create Meeting Notes,Automatically generate meeting notes in a OneNote or Word document linked to the Team after a meeting ends.
+Microsoft Teams,Notify on Form Responses,Send notifications to a Team channel when a Microsoft Form is submitted.
+Microsoft Teams,Auto-Notify on Planner Updates,"Notify Teams channels when a Planner task's status changes, such as ""In Progress"" or ""Completed."""
+Microsoft Teams,Notify on SharePoint File Changes,"Automatically notify Teams channels when files are added, updated, or deleted in the associated SharePoint library."
+Microsoft Teams,Auto-Sync Team Members with Azure AD,Automatically sync Team membership with Azure Active Directory groups to ensure alignment with organizational roles.
+Microsoft Teams,Auto-Create Channel Tabs for Tools,"Automatically create tabs in Teams channels for tools like Planner, OneNote, or Power BI dashboards."
+Microsoft Teams,Notify on GitHub Pull Requests,Send notifications to a Teams channel when a pull request is created or merged in GitHub.
+Microsoft Teams,Notify on ServiceNow Ticket Updates,Automatically notify Teams channels when ServiceNow tickets are updated or resolved.
+Microsoft Teams,Auto-Create Teams for New Hires,"Automatically create Teams for onboarding new employees, including predefined channels and resources."
+Microsoft Teams,Notify on Yammer Posts,Send notifications to Teams channels when a new post is created in a specific Yammer group.
+Microsoft Teams,Notify on Power BI Report Updates,Automatically notify Teams channels when a Power BI report is updated or shared.
+Microsoft Teams,Notify on Email to Shared Mailbox,Automatically post a notification in a Teams channel when an email is sent to a shared mailbox.
+Microsoft Teams,Notify on Tasks Due Soon,Send reminders to Teams channels or users when a task's due date is approaching.
+Microsoft Teams,Auto-Create Teams for Events,"Automatically create a new Team for organizing events, including channels for planning, logistics, and communication."
+Microsoft Teams,Notify on Jira Issue Updates,"Send notifications to Teams channels when a Jira issue is updated, resolved, or closed."
+Microsoft Teams,Auto-Notify on Azure DevOps Changes,"Automatically post updates in Teams channels when Azure DevOps work items are created, updated, or completed."
+Microsoft Teams,Notify on New LinkedIn Posts,Send notifications to Teams channels when new content is posted on the organization's LinkedIn page.
+Microsoft Teams,Auto-Notify on Expense Approvals,Notify Teams channels or users when expense reports are approved or rejected.
+Microsoft Teams,Auto-Create Teams for Product Launches,"Automatically create a new Team for product launches, including channels for marketing, sales, and customer support."
+Microsoft Teams,Auto-Notify on CRM Updates,Send notifications to Teams channels when customer records are updated in a CRM tool like Salesforce or Dynamics 365.
+Microsoft Teams,Notify on Survey Completion,Automatically notify Teams channels when surveys are completed by employees or customers.
+Microsoft Teams,Auto-Create Teams for Projects,"Automatically create a new Team for each project, including channels for tasks, discussions, and files."
+Microsoft Teams,Notify on Microsoft To-Do Updates,Send notifications to Teams channels when tasks in Microsoft To-Do are updated or marked as completed.
+Microsoft Teams,Auto-Notify on Helpdesk Tickets,Notify Teams channels when new helpdesk tickets are created or resolved in tools like Zendesk or Freshdesk.
+Microsoft Teams,Notify on Workflow Errors,Automatically notify admins in Teams when a workflow or automation fails.
+Microsoft Teams,Auto-Notify on SLA Breaches,Notify Teams channels when a service-level agreement (SLA) is breached in ITSM tools.
+Microsoft Teams,Auto-Create Teams for Campaigns,"Automatically create a new Team for marketing campaigns, including channels for content creation, analytics, and reporting."
+Microsoft Teams,Notify on Calendar Invitations,Send notifications to Teams channels when a new calendar invitation is created or updated.
+Microsoft Teams,Auto-Notify on Document Approvals,Notify Teams channels when documents are approved or rejected in SharePoint or OneDrive workflows.
+Microsoft Teams,Auto-Create Teams for Training,"Automatically create Teams for training sessions, including channels for materials, discussions, and feedback."
+Microsoft Teams,Notify on Support Ticket Assignment,Notify a Teams channel when support tickets are assigned to specific agents or teams.
+Microsoft Teams,Auto-Create Teams for Committees,"Automatically create Teams for committees, including channels for meeting agendas, minutes, and collaboration."
+Microsoft Teams,Notify on Trello Board Changes,"Send notifications to Teams channels when changes are made to a Trello board, such as new cards or updates."

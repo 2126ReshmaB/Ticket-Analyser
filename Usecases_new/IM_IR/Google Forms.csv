@@ -1,0 +1,53 @@
+Category,Short Description,Description
+Google Forms,Auto-Generate Forms,Automatically create Google Forms from a predefined template or spreadsheet data.
+Google Forms,Auto-Populate Form Fields,"Automatically populate dropdowns, checkboxes, or multiple-choice options in a form from a database or spreadsheet."
+Google Forms,Auto-Send Form Links,Automatically send Google Form links to a list of participants via email.
+Google Forms,Auto-Close Forms,Automatically close a form after reaching a specific number of responses or a defined deadline.
+Google Forms,Auto-Send Confirmation Emails,Automatically send confirmation emails to respondents after they submit a response.
+Google Forms,Auto-Notify on New Responses,Send automated notifications to form owners when a new response is received.
+Google Forms,Auto-Create Response Spreadsheet,Automatically create a linked Google Sheets file to store form responses.
+Google Forms,Auto-Export Responses,Automatically export form responses to a CSV file for analysis or reporting.
+Google Forms,Auto-Filter Responses,"Automatically filter responses based on specific criteria (e.g., location, age, or score)."
+Google Forms,Auto-Assign Tasks in Google Sheets,Automatically assign tasks in a linked Google Sheets file based on form responses.
+Google Forms,Auto-Generate Reports,Automatically generate summary reports from form responses and email them to stakeholders.
+Google Forms,Auto-Notify Respondents,Automatically notify respondents of their submission status or additional follow-up actions.
+Google Forms,Auto-Schedule Form Reminders,Automatically schedule reminder emails to participants who haven’t completed the form.
+Google Forms,Auto-Sort Responses,Automatically sort responses in the linked Google Sheets file based on specific columns.
+Google Forms,Auto-Analyze Data,"Automatically analyze form responses using built-in scripts or external APIs, such as Google Analytics."
+Google Forms,Auto-Create Charts,Automatically generate charts or graphs in Google Sheets based on form responses.
+Google Forms,Auto-Validate Responses,"Automatically validate responses for specific criteria (e.g., email format, phone number)."
+Google Forms,Auto-Tag Responses,Automatically tag responses with custom labels based on their content or score.
+Google Forms,Auto-Redirect Respondents,Automatically redirect respondents to a specific URL or follow-up form after submission.
+Google Forms,Auto-Pre-Fill Forms,Automatically pre-fill form fields with data from a spreadsheet or database for specific users.
+Google Forms,Auto-Categorize Responses,Automatically categorize responses into groups based on predefined criteria.
+Google Forms,Auto-Send Thank You Emails,Automatically send personalized thank-you emails to respondents after they submit the form.
+Google Forms,Auto-Send Follow-Up Forms,Automatically send follow-up forms based on responses to the initial form.
+Google Forms,Auto-Generate Certificates,Automatically generate and email certificates of participation or achievement based on form responses.
+Google Forms,Auto-Update Dropdown Options,Automatically update dropdown options in a form based on changes in a linked Google Sheet.
+Google Forms,Auto-Assign Scores,Automatically calculate scores for quiz responses and display them to respondents.
+Google Forms,Auto-Notify Admins of Errors,Automatically notify admins if an error occurs in the form submission process or linked scripts.
+Google Forms,Auto-Send Custom Email Notifications,Automatically send custom email notifications based on specific responses or conditions.
+Google Forms,Auto-Generate Event Invites,Automatically create Google Calendar invites based on form submission details.
+Google Forms,Auto-Create Google Drive Folders,Automatically create a Google Drive folder for each respondent and share it with them.
+Google Forms,Auto-Update CRM Systems,"Automatically update CRM systems (e.g., Salesforce, HubSpot) with form response data."
+Google Forms,Auto-Track Attendance,Automatically track attendance for events or meetings based on form submissions.
+Google Forms,Auto-Trigger Workflows,"Automatically trigger workflows in tools like Zapier, Make (formerly Integromat), or Power Automate based on form responses."
+Google Forms,Auto-Generate Unique IDs,Automatically generate unique IDs for each form submission and store them in the linked spreadsheet.
+Google Forms,Auto-Generate Feedback Summaries,Automatically summarize feedback from form responses into a concise report.
+Google Forms,Auto-Create Approval Workflows,Automatically route form responses through an approval process based on specific criteria.
+Google Forms,Auto-Sort Quiz Results,Automatically sort quiz results by score or respondent name in the linked spreadsheet.
+Google Forms,Auto-Convert Responses to PDF,Automatically convert form responses into a PDF document and email it to the respondent or admin.
+Google Forms,Auto-Generate Invoice Numbers,Automatically generate unique invoice numbers for form submissions related to payments or orders.
+Google Forms,Auto-Flag Duplicate Submissions,Automatically identify and flag duplicate form submissions based on email or other unique identifiers.
+Google Forms,Auto-Filter Spam Responses,Automatically filter and flag responses that appear to be spam or invalid.
+Google Forms,Auto-Create Tasks in Asana,Automatically create tasks in Asana based on form responses for project management.
+Google Forms,Auto-Create Trello Cards,"Automatically create Trello cards from form responses, including attachments or due dates."
+Google Forms,Auto-Sync with Google Contacts,Automatically update Google Contacts with information collected from form submissions.
+Google Forms,Auto-Generate Survey Results,Automatically compile and analyze survey results to generate charts and insights.
+Google Forms,Auto-Notify Supervisors,Automatically notify supervisors or team leads if a critical issue is reported via the form.
+Google Forms,Auto-Forward Responses to Slack,Automatically forward form responses to a specific Slack channel for quick team updates.
+Google Forms,Auto-Create Ticket in Helpdesk,"Automatically create tickets in helpdesk systems (e.g., Zendesk, Freshdesk) based on form submissions."
+Google Forms,Auto-Assign Respondent Numbers,Automatically assign respondent numbers to submissions for easier tracking.
+Google Forms,Auto-Translate Responses,Automatically translate form responses into a specific language using Google Translate API.
+Google Forms,Auto-Send SMS Notifications,Automatically send SMS notifications to respondents or admins based on specific form responses.
+Google Forms,Auto-Generate Attendance Certificates,Automatically generate attendance certificates for events based on form submissions.

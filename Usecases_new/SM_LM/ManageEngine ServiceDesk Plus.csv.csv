@@ -1,0 +1,65 @@
+Category,Short Description,Description
+ManageEngine ServiceDesk Plus,Auto Ticket Creation from Emails,Automate the creation of tickets from incoming customer emails by parsing the subject and body content.
+ManageEngine ServiceDesk Plus,Automatic Ticket Assignment,"Automate ticket assignment to the correct technician or team based on predefined rules, such as category or priority."
+ManageEngine ServiceDesk Plus,SLA Monitoring and Alerts,Automate SLA compliance tracking and send alerts when deadlines are close to being breached.
+ManageEngine ServiceDesk Plus,Ticket Escalation,Automate the escalation of tickets to higher support levels when SLA thresholds are breached.
+ManageEngine ServiceDesk Plus,Auto-Categorization of Tickets,Automate categorization of tickets based on keywords in ticket descriptions or predefined rules.
+ManageEngine ServiceDesk Plus,Priority Assignment,Automatically assign ticket priorities based on impact and urgency defined in the ticket details.
+ManageEngine ServiceDesk Plus,Status Change Notifications,Automate notifications to customers and technicians when the status of a ticket changes.
+ManageEngine ServiceDesk Plus,Auto-Closing Resolved Tickets,"Automatically close tickets after a defined period of inactivity following resolution, with a notification to the customer."
+ManageEngine ServiceDesk Plus,Recurring Task Scheduling,Automate scheduling and creation of recurring maintenance or IT tasks.
+ManageEngine ServiceDesk Plus,Knowledge Base Article Creation,Automate generating knowledge base articles from resolved tickets for future reference.
+ManageEngine ServiceDesk Plus,Knowledge Base Review Alerts,Automate reminders for reviewing and updating outdated knowledge base articles.
+ManageEngine ServiceDesk Plus,Change Request Workflow,"Automate workflows for creating, reviewing, and approving change requests."
+ManageEngine ServiceDesk Plus,Approval Notifications,Automate notifications to approvers for pending service requests or change requests.
+ManageEngine ServiceDesk Plus,Scheduled Maintenance Notifications,Automate sending notifications to customers and technicians about upcoming scheduled maintenance.
+ManageEngine ServiceDesk Plus,Asset Discovery,Automate discovery of IT assets on the network and update the asset inventory accordingly.
+ManageEngine ServiceDesk Plus,Asset Lifecycle Management,"Automate tracking of IT assets throughout their lifecycle, from procurement to decommissioning."
+ManageEngine ServiceDesk Plus,Software License Tracking,Automate tracking software license usage and sending alerts for renewal deadlines.
+ManageEngine ServiceDesk Plus,Hardware Warranty Management,Automate tracking hardware warranties and sending notifications before their expiration.
+ManageEngine ServiceDesk Plus,User Onboarding Workflow,"Automate the onboarding process, including account creation, access provisioning, and hardware allocation for new employees."
+ManageEngine ServiceDesk Plus,User Offboarding Workflow,"Automate the offboarding process by disabling accounts, reclaiming assets, and revoking access."
+ManageEngine ServiceDesk Plus,Password Reset Automation,Automate password reset requests through self-service portals or workflows.
+ManageEngine ServiceDesk Plus,Vendor Management Updates,"Automate vendor record updates, such as contact information or contract details."
+ManageEngine ServiceDesk Plus,Contract Expiry Reminders,Automate reminders for contracts nearing expiration to ensure timely renewals.
+ManageEngine ServiceDesk Plus,Incident Trend Analysis,Automate generating reports to analyze incident trends and identify recurring issues.
+ManageEngine ServiceDesk Plus,Root Cause Analysis,Automate the generation of root cause analysis reports for recurring or major incidents.
+ManageEngine ServiceDesk Plus,Duplicate Ticket Detection,Automate identifying and merging duplicate tickets to reduce redundancy.
+ManageEngine ServiceDesk Plus,Event Correlation,Automate grouping related events into a single ticket to streamline resolution.
+ManageEngine ServiceDesk Plus,Integration with Monitoring Tools,Automate ticket creation in response to alerts from monitoring tools like Nagios or SolarWinds.
+ManageEngine ServiceDesk Plus,Integration with Active Directory,Automate syncing user accounts and permissions with Active Directory for accurate user management.
+ManageEngine ServiceDesk Plus,Integration with Email Systems,Automate parsing email content to create or update tickets in the system.
+ManageEngine ServiceDesk Plus,Integration with Slack or Teams,Automate notifications and ticket updates to collaboration tools like Slack or Microsoft Teams.
+ManageEngine ServiceDesk Plus,Recurring Report Generation,Automate generating and delivering recurring reports such as SLA compliance or ticket backlog reports.
+ManageEngine ServiceDesk Plus,SLA Breach Prediction,Automate predicting SLA breaches based on ticket activity trends and notifying agents for preventive actions.
+ManageEngine ServiceDesk Plus,Custom SLA Rules,Automate the application of custom SLA rules based on customer groups or ticket categories.
+ManageEngine ServiceDesk Plus,Feedback Collection,Automate sending customer feedback surveys after ticket resolution or service delivery.
+ManageEngine ServiceDesk Plus,Knowledge Base Usage Analytics,Automate generating analytics reports on knowledge base usage to identify content gaps.
+ManageEngine ServiceDesk Plus,Proactive Incident Detection,Automate ticket creation based on patterns of service degradation or repeated incidents.
+ManageEngine ServiceDesk Plus,Outage Notifications,Automate sending outage notifications to customers and stakeholders during planned or unplanned downtime.
+ManageEngine ServiceDesk Plus,Agent Performance Dashboards,Automate updating dashboards to track agent performance metrics such as resolution time and customer satisfaction.
+ManageEngine ServiceDesk Plus,Customer Segmentation,"Automate ticket prioritization and SLA assignment based on customer segmentation (e.g., VIP customers)."
+ManageEngine ServiceDesk Plus,Dynamic Ticket Routing,"Automate routing tickets to the best-suited agent or team based on criteria such as location, skillset, or workload."
+ManageEngine ServiceDesk Plus,Multi-Language Notifications,Automate sending notifications in multiple languages based on customer preferences.
+ManageEngine ServiceDesk Plus,Dynamic Form Fields,Automate displaying or hiding form fields based on ticket details or user input.
+ManageEngine ServiceDesk Plus,Preventive Maintenance,Automate generating tickets for preventive maintenance tasks based on schedules or asset performance data.
+ManageEngine ServiceDesk Plus,Ticket Aging Alerts,Automate alerts for agents regarding tickets that have been unresolved for a specified period.
+ManageEngine ServiceDesk Plus,Ticket Dependency Tracking,Automate tracking dependencies between tickets to improve resolution efficiency.
+ManageEngine ServiceDesk Plus,Asset Audit Scheduling,Automate scheduling regular audits of IT assets and generating reports.
+ManageEngine ServiceDesk Plus,Gantt Chart Updates,Automate updating Gantt charts for tracking project or ticket resolution progress.
+ManageEngine ServiceDesk Plus,Knowledge Base Gap Analysis,Automate identifying gaps in the knowledge base by analyzing failed searches or unresolved tickets.
+ManageEngine ServiceDesk Plus,SLA Compliance Dashboards,Automate updating real-time dashboards to monitor SLA compliance metrics.
+ManageEngine ServiceDesk Plus,Patch Management,Automate tracking and deploying patches to systems and creating related tickets for failed updates.
+ManageEngine ServiceDesk Plus,Vulnerability Management,Automate ticket creation for vulnerabilities detected during scans or assessments.
+ManageEngine ServiceDesk Plus,Role-Based Access Control Updates,Automate updating user roles and permissions based on organizational changes.
+ManageEngine ServiceDesk Plus,Customer Retention Metrics,Automate tracking and reporting customer retention rates based on ticket satisfaction scores.
+ManageEngine ServiceDesk Plus,Chat Transcript Archival,Automate saving chat transcripts into tickets for future reference or audits.
+ManageEngine ServiceDesk Plus,Real-Time Ticket Prioritization,Automate prioritizing tickets dynamically based on customer impact or urgency.
+ManageEngine ServiceDesk Plus,Incident Volume Analytics,Automate generating reports on incident volume trends to optimize staffing and resources.
+ManageEngine ServiceDesk Plus,SLA Violation Root Cause Analysis,Automate creating root cause analysis reports for SLA violations to identify process inefficiencies.
+ManageEngine ServiceDesk Plus,Customer Onboarding Automation,"Automate workflows for onboarding new customers, including ticket creation and task tracking."
+ManageEngine ServiceDesk Plus,Multi-Channel Ticket Creation,"Automate ticket creation from multiple channels such as email, chat, phone, and social media."
+ManageEngine ServiceDesk Plus,Real-Time Service Health Monitoring,Automate monitoring service health and creating tickets for performance degradation.
+ManageEngine ServiceDesk Plus,Service Catalog Updates,"Automate adding, updating, or retiring services in the service catalog."
+ManageEngine ServiceDesk Plus,CMDB Updates,Automate updates to the Configuration Management Database (CMDB) when changes to assets are detected.
+ManageEngine ServiceDesk Plus,Dependency Mapping,Automate mapping dependencies between Configuration Items (CIs) in the CM

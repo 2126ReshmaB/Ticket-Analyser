@@ -1,1 +1,36 @@
-Document,Category,predicted_label
+Category,Description,Short_Description,predicted_label
+ITO,Coffee machine not dispensing properly.,Coffee machine issue,Non-ITO
+ITO,Employee grievance submitted via email.,Grievance ticket,Non-ITO
+ITO,Alarm triggered accidentally in Block D.,False alarm report,Non-ITO
+ITO,New employee orientation kit not provided.,Orientation kit issue,Non-ITO
+ITO,Milk supply not sufficient for tea time.,Milk shortage,Non-ITO
+ITO,Pending reimbursement from last financial year.,Old reimbursement issue,Non-ITO
+ITO,Water bottles not available in training room.,Water bottle request,Non-ITO
+ITO,Training projector not functional.,Projector issue,Non-ITO
+ITO,Insufficient packing material for files.,Packing supply issue,Non-ITO
+ITO,Log and resolve recurring issues by managing problem resolution workflows in Jira Service Management.,Manage problem resolution processes,Non-ITO
+ITO,Log and track facilities-related requests such as maintenance or room bookings in Jira Service Management.,Use Jira Service Management for facilities requests,Non-ITO
+ITO,View complete histories of customer interactions and issues in Jira Service Management for better support.,Track customer issue histories,Non-ITO
+ITO,Log and resolve IT service requests efficiently using Jira Service Management’s request management features.,Handle IT service requests,Non-ITO
+ITO,"Filter tickets by priority, department, or type for faster handling using Jira Service Management.",Enable ticket sentiment analysis,Non-ITO
+ITO,Collaborate across departments to resolve tickets efficiently using Jira Service Management.,Handle refund requests,Non-ITO
+ITO,Provide customers access to self-service portals for resolving common issues using Zoho Desk.,Monitor SLA compliance,Non-ITO
+ITO,Log and manage HR-related requests such as leave approvals or payroll inquiries with Zoho Desk.,Provide real-time incident tracking,Non-ITO
+ITO,Log and resolve recurring issues by managing problem resolution workflows in Zoho Desk.,Monitor IT service performance,Non-ITO
+ITO,Log and track facilities-related requests such as maintenance or room bookings in Zoho Desk.,Create custom IT dashboards,Non-ITO
+ITO,View complete histories of customer interactions and issues in Zoho Desk for better support.,Handle IT change approval processes,Non-ITO
+ITO,Log and resolve IT service requests efficiently using Zoho Desk’s request management features.,Enable automated outage communications,Non-ITO
+ITO,"Filter tickets by priority, department, or type for faster handling using Zoho Desk.",Enable ticket sentiment analysis,Non-ITO
+ITO,Collaborate across departments to resolve tickets efficiently using Zoho Desk.,Handle refund requests,Non-ITO
+ITO,Provide support for global teams by managing region-specific requests in Zoho Desk.,Track data center maintenance tasks,Non-ITO
+ITO,Set up tiered escalation workflows to handle complex issues in Zoho Desk.,Plan service improvement initiatives,Non-ITO
+ITO,Monitor resolution times and other KPIs to improve service efficiency using Zoho Desk.,Provide tiered support workflows,Non-ITO
+ITO,Allow multiple agents to collaborate on resolving complex tickets in Zoho Desk.,Track ticket resolution KPIs,Non-ITO
+ITO,Quickly escalate critical incidents to senior teams using Zoho Desk workflows.,Use Zoho Desk for vendor management,Non-ITO
+ITO,Log and resolve employee HR cases efficiently with Zoho Desk workflows.,Monitor cloud infrastructure health,Non-ITO
+ITO,Support multiple brands or departments with centralized ticketing in Zoho Desk.,Manage contract renewals,Non-ITO
+ITO,Handle customer queries in multiple languages using Zoho Desk’s multilingual capabilities.,Track customer satisfaction trends,Non-ITO
+ITO,Connect Zoho Desk to payment gateways to manage billing-related customer queries.,Automate ticket follow-ups,Non-ITO
+ITO,Combine duplicate tickets into a single thread for streamlined resolution in Zoho Desk.,Handle subscription management queries,Non-ITO
+ITO,Prepare for seasonal increases in ticket volume by automating workflows in Zoho Desk.,Track ticket sentiment analysis,Non-ITO
+ITO,Prioritize and escalate tickets from high-value customers using Zoho Desk workflows.,Handle seasonal ticket surges,Non-ITO

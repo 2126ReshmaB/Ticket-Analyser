@@ -1,0 +1,75 @@
+Category,Short Description,Description
+UserVoice,Auto-create support tickets,Automatically create a support ticket when feedback or a bug is submitted in UserVoice.
+UserVoice,Sync feedback to CRM,Push UserVoice feedback into CRM tools like Salesforce or HubSpot to update customer records.
+UserVoice,Auto-assign feedback to teams,Automatically assign feedback to the relevant team or department based on tags or keywords.
+UserVoice,Send acknowledgement emails,Automatically send a thank-you email to users after they submit feedback.
+UserVoice,Tag feedback based on content,Automatically categorize feedback with relevant tags based on keywords or sentiment.
+UserVoice,Notify teams in Slack,Send automatic notifications to specific Slack channels when feedback is submitted.
+UserVoice,Prioritize feature requests,Automatically prioritize feature requests based on the number of votes or customer importance.
+UserVoice,Generate weekly feedback reports,Create automated weekly reports summarizing feedback trends and share them with stakeholders.
+UserVoice,Auto-update product roadmap,Automatically update the product roadmap in tools like Trello or Jira based on approved feedback.
+UserVoice,Close feedback after resolution,Automatically mark feedback as resolved once the related issue or feature is completed.
+UserVoice,Integrate with Jira for bug tracking,Sync UserVoice feedback with Jira to create or update bug tickets automatically.
+UserVoice,Auto-respond to duplicate feedback,Identify duplicate feedback and send an automated response acknowledging the existing entry.
+UserVoice,Aggregate similar ideas,Automatically group similar feedback or feature requests into a single idea.
+UserVoice,Conduct sentiment analysis,Use scripts to analyze the sentiment of feedback submissions and generate insights.
+UserVoice,Notify users on status updates,"Automatically notify users when their feedback status changes (e.g., planned, in progress, or completed)."
+UserVoice,Export feedback to Excel,Export feedback data to Excel for offline analysis and reporting.
+UserVoice,Auto-create roadmap visuals,Generate visual roadmap charts from approved feedback and feature requests.
+UserVoice,Integrate with Google Sheets,Sync feedback to Google Sheets for real-time collaboration and tracking.
+UserVoice,Auto-send NPS surveys,Trigger automated Net Promoter Score (NPS) surveys after feedback submission.
+UserVoice,Track user engagement,Automatically track user engagement based on submitted feedback and suggestions.
+UserVoice,Auto-close stale feedback,Automatically close feedback submissions that have been inactive for a specified period.
+UserVoice,Integrate with Trello,Push feedback into Trello as cards for better project tracking and prioritization.
+UserVoice,Auto-link feedback to knowledge base,Link feedback submissions to relevant knowledge base articles automatically.
+UserVoice,Generate customer satisfaction reports,Automatically generate CSAT reports based on customer feedback trends.
+UserVoice,Notify product managers,Send automated notifications to product managers for high-priority feedback.
+UserVoice,Auto-create GitHub issues,Automatically create GitHub issues from bug reports submitted in UserVoice.
+UserVoice,Integrate with Zendesk,Sync feedback or bug reports with Zendesk to create support tickets.
+UserVoice,Auto-translate feedback,Translate feedback submissions into a preferred language using Google Translate API.
+UserVoice,Auto-tag high-priority feedback,Automatically tag feedback with high priority based on keywords or customer impact.
+UserVoice,Assign feedback based on region,Route feedback submissions to specific teams based on the user's geographic location.
+UserVoice,Auto-update customer profiles,Automatically update customer profiles in UserVoice based on submitted feedback.
+UserVoice,Track duplicate feedback entries,Identify and track duplicate feedback to avoid redundancy.
+UserVoice,Auto-generate feature request forms,Create feature request forms dynamically based on customer input.
+UserVoice,Integrate with Microsoft Teams,Send automated notifications to Microsoft Teams channels when new feedback is submitted.
+UserVoice,Auto-send escalations,Escalate high-impact feedback to senior management automatically.
+UserVoice,Generate quarterly feedback summaries,Create automated quarterly reports summarizing feedback trends and priorities.
+UserVoice,Notify users when feedback is implemented,Send an automated notification to users when their feedback has been implemented.
+UserVoice,Export feedback to CSV,Automatically export feedback submissions to CSV files for offline processing.
+UserVoice,Auto-create customer success tasks,Generate tasks for customer success teams based on feedback submissions.
+UserVoice,Auto-update bug status,Update the status of bug-related feedback automatically when marked as resolved in tracking tools.
+UserVoice,Conduct keyword analysis,Automatically analyze keywords in feedback to identify common themes or patterns.
+UserVoice,Auto-respond to feedback,Send personalized auto-responses based on the type of feedback submitted.
+UserVoice,Sync with Notion,Automatically create Notion pages for feedback submissions for better documentation.
+UserVoice,Track user satisfaction over time,Generate automated charts tracking user satisfaction trends based on feedback history.
+UserVoice,Auto-import feedback to Confluence,Import feedback into Confluence for team collaboration and documentation.
+UserVoice,Integrate with Intercom,Sync feedback with Intercom to enhance customer communication and follow-up.
+UserVoice,Auto-prioritize bug reports,Automatically prioritize bug reports based on their severity and frequency.
+UserVoice,Create personalized thank-you pages,Dynamically generate personalized thank-you pages based on feedback submissions.
+UserVoice,Generate heatmaps of feedback trends,Create heatmaps showing geographic or demographic trends in feedback submissions.
+UserVoice,Auto-sort feedback by category,Automatically organize feedback submissions into predefined categories.
+UserVoice,Generate progress updates for users,Send automated progress updates to users tracking the status of their feedback.
+UserVoice,Monitor high-impact customers,Identify and track feedback from high-value customers automatically.
+UserVoice,Auto-redirect duplicate submissions,Redirect users to the original feedback entry if they submit a duplicate.
+UserVoice,Auto-label feedback,Use AI to automatically label feedback with relevant tags for easy categorization.
+UserVoice,Send reminders for follow-ups,Automatically send reminders to internal teams for unresolved feedback.
+UserVoice,Integrate with Power BI,Sync UserVoice data with Power BI for advanced analytics and data visualization.
+UserVoice,Auto-assign customer advocates,Assign specific customer advocates to high-priority feedback submissions.
+UserVoice,Auto-update customer personas,Update customer personas automatically based on feedback trends and demographics.
+UserVoice,Auto-create Asana tasks,Push feedback as tasks into Asana for workflow management.
+UserVoice,Generate feedback sentiment charts,Automatically create sentiment analysis charts from feedback data.
+UserVoice,Auto-send surveys after feedback,Trigger follow-up surveys automatically after feedback submission for deeper insights.
+UserVoice,Track feature request votes,Monitor and report on the number of votes for specific feature requests.
+UserVoice,Sync with Dropbox,Automatically save feedback data in Dropbox for secure storage and archiving.
+UserVoice,Auto-create customer insights reports,Generate reports summarizing customer insights based on feedback trends.
+UserVoice,Integrate with Zapier workflows,Trigger multi-step workflows in Zapier based on new feedback submissions.
+UserVoice,Auto-update knowledge base,Update or create knowledge base articles automatically based on feedback input.
+UserVoice,Monitor unresolved feedback,Automatically track and report on unresolved feedback submissions.
+UserVoice,Create quarterly NPS reports,Automatically generate NPS (Net Promoter Score) reports based on user feedback.
+UserVoice,Auto-share feedback on social platforms,Share approved public feedback on social media channels automatically.
+UserVoice,Auto-create customer success playbooks,Use feedback submissions to generate playbooks for customer success teams.
+UserVoice,Generate feedback word clouds,Create word clouds from feedback submissions to visualize common themes.
+UserVoice,Notify stakeholders about urgent feedback,Send notifications to relevant stakeholders for priority feedback.
+UserVoice,Auto-assign feature requests to developers,Assign feature requests to development teams based on tags or categories.
+UserVoice,,

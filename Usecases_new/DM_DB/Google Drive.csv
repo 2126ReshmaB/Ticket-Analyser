@@ -1,0 +1,72 @@
+Category,Short Description,Description
+Google Drive,Scheduled File Backups,Automate regular backups of local files to Google Drive.
+Google Drive,File Synchronization,Automate synchronization of files across devices using Google Drive.
+Google Drive,Automatic File Upload,Automate the upload of files from a specific folder to Google Drive.
+Google Drive,File Sharing with Expiry,Automate the creation of shareable links with expiration dates for secure file sharing.
+Google Drive,Folder Structure Creation,Automate the creation of predefined folder structures for better organization.
+Google Drive,File Versioning Cleanup,Automate the cleanup of old file versions to save storage space.
+Google Drive,Metadata Tagging,Automate the tagging of files with metadata for better searchability.
+Google Drive,File Access Permissions,Automate setting file/folder access permissions for users and groups.
+Google Drive,File Download Automation,Automate downloading of specific files or folders from Google Drive to a local directory.
+Google Drive,Old File Deletion,Automate the deletion of files older than a specific date to save storage.
+Google Drive,File Recovery,Automate recovery of deleted files from Google Drive trash.
+Google Drive,File Encryption Before Upload,Automate encryption of files before uploading them to Google Drive for security.
+Google Drive,File Decryption After Download,Automate decryption of files after downloading them from Google Drive.
+Google Drive,File Compression Before Upload,Automate compression of files before uploading to save storage space.
+Google Drive,File Extraction After Download,Automate extraction of compressed files after downloading from Google Drive.
+Google Drive,Organize Files by Date,"Automate the organization of files into date-based folders (e.g., creation or modification dates)."
+Google Drive,Organize Files by Type,"Automate the organization of files into folders based on file types (e.g., images, videos, documents)."
+Google Drive,Organize Files by Size,"Automate the organization of files into folders based on file size (e.g., small, medium, large)."
+Google Drive,Organize Files by Tags,Automate the organization of files into folders based on metadata tags.
+Google Drive,Organize Files by Owner,Automate the organization of files into folders based on the file owner.
+Google Drive,Organize Files by Project,Automate folder creation and organization of files based on project names.
+Google Drive,Organize Files by Department,Automate folder creation and segregation of files based on department names or codes.
+Google Drive,Organize Files by Client,Automate the organization of files into client-specific folders.
+Google Drive,Organize Files by Priority,"Automate the organization of files into folders based on priority levels (e.g., high, medium, low)."
+Google Drive,Organize Files by Status,"Automate the organization of files by their status (e.g., draft, final, archived)."
+Google Drive,Organize Files by Category,"Automate the organization of files into folders based on categories like personal, work, or shared."
+Google Drive,Organize Files by Location,"Automate the organization of files into folders based on geographic location (e.g., country, city)."
+Google Drive,Organize Files by Language,"Automate the organization of files into folders based on their language (e.g., English, Spanish, French)."
+Google Drive,Organize Files by Resolution,"Automate organization of image or video files into folders based on resolution (e.g., 720p, 1080p)."
+Google Drive,Organize Files by Duration,"Automate organization of audio/video files into folders based on duration (e.g., short, medium, long)."
+Google Drive,Organize Files by Sensitivity,"Automate organization of files into folders based on their sensitivity (e.g., public, confidential)."
+Google Drive,Organize Files by Compliance,"Automate organization of files into folders based on compliance requirements (e.g., GDPR, HIPAA)."
+Google Drive,Organize Files by Retention,Automate organization of files into folders based on retention periods.
+Google Drive,Organize Files by Keywords,Automate organization of files into folders based on keywords or tags.
+Google Drive,Organize Files by Purpose,"Automate organization of files into folders based on purpose (e.g., research, development, marketing)."
+Google Drive,Organize Files by Audience,"Automate organization of files into folders based on the target audience (e.g., internal, external)."
+Google Drive,Organize Files by Compliance,Automate segregation of files into folders based on compliance requirements and regulations.
+Google Drive,Automated Image Backups,Automate periodic uploads of images from local directories or cameras to Google Drive.
+Google Drive,Automated Video Backups,Automate uploads of video files to Google Drive for long-term storage.
+Google Drive,Automated Document Backups,"Automate backups of documents to Google Drive on a daily, weekly, or monthly schedule."
+Google Drive,PDF Files Upload and Categorization,Automate uploads of PDF documents and categorize them into specific folders.
+Google Drive,Shared Drive Management,Automate the creation and management of Shared Drives for teams or projects.
+Google Drive,Automated File Sharing,Automate sharing of specific files or folders with pre-defined users or groups.
+Google Drive,File Access Revocation,Automate the revocation of access for files shared with specific users after a certain period.
+Google Drive,File Sharing Report Generation,Automate the generation of reports for files shared externally.
+Google Drive,Folder Access Permissions,Automate setting folder access permissions for individuals or groups.
+Google Drive,Large File Upload Automation,Automate the upload of large files by splitting them into smaller chunks.
+Google Drive,File Duplication Check,Automate detection and removal of duplicate files in Google Drive.
+Google Drive,File Retention Management,Automate file retention policies to delete files after a specified period.
+Google Drive,File Ownership Transfer,Automate transferring ownership of files to another user when necessary.
+Google Drive,File Usage Reporting,Automate the generation of reports on file usage and access patterns.
+Google Drive,File Activity Monitoring,"Automate monitoring of file activities like edits, sharing, or downloads."
+Google Drive,File Migration Between Accounts,Automate migration of files from one Google Drive account to another.
+Google Drive,Backup of Google Workspace Data,"Automate backups of Google Workspace (Docs, Sheets, Slides) files."
+Google Drive,Team Collaboration Reports,Automate the generation of reports on team collaboration activities in shared drives.
+Google Drive,Scheduled File Cleanup,Automate the deletion of unnecessary files to save storage space.
+Google Drive,Folder Size Reports,Automate the generation of reports on folder sizes to identify space usage.
+Google Drive,File Type Usage Reports,Automate the generation of reports on file types stored in Google Drive.
+Google Drive,File Access History Logs,Automate the collection and analysis of file access history logs.
+Google Drive,File Backup to External Storage,Automate backups from Google Drive to external storage solutions like AWS S3 or Dropbox.
+Google Drive,Document Approval Workflow,Automate workflows for document approval using Google Apps Script.
+Google Drive,Automated Shared Drive Cleanup,Automate cleanup of unused or redundant files in Shared Drives.
+Google Drive,Automated File Rename,Automate renaming of files in bulk using specific naming conventions.
+Google Drive,File Export to Local Storage,Automate the export of Google Drive files to local storage for offline access.
+Google Drive,File Import with Metadata,Automate importing of files to Google Drive with predefined metadata tags.
+Google Drive,Google Form Responses Backup,Automate backups of Google Form response sheets to specific folders.
+Google Drive,Automated Watermarking,Automate adding watermarks to uploaded images or documents.
+Google Drive,File Expiry Notifications,Automate notifications for files nearing expiry or deletion dates.
+Google Drive,Automatic File Merge,Automate merging of multiple documents into one file.
+Google Drive,Google Slides Backup,Automate the backup of presentations to specific folders in Google Drive.
+Google Drive,,

@@ -1,0 +1,89 @@
+Category,Short Description,Description
+Microsoft Power Automate,Automated Email Notifications,Automatically send email notifications based on specific triggers.
+Microsoft Power Automate,Data Sync Between Excel Files,Sync data between multiple Excel files across different locations.
+Microsoft Power Automate,Approval Workflow Automation,Automate approval processes for documents or requests.
+Microsoft Power Automate,Social Media Post Scheduling,Schedule and publish posts to social media platforms.
+Microsoft Power Automate,Form Submission Notifications,Notify team members when a form is submitted.
+Microsoft Power Automate,File Backup to OneDrive,Automatically back up files to OneDrive when they are uploaded.
+Microsoft Power Automate,Calendar Event Creation,Create calendar events automatically based on email content.
+Microsoft Power Automate,Customer Feedback Collection,Automate the collection and storage of customer feedback.
+Microsoft Power Automate,Employee Onboarding Workflow,Streamline employee onboarding with automated workflows.
+Microsoft Power Automate,Task Assignment in Microsoft Planner,Automatically assign tasks in Microsoft Planner based on triggers.
+Microsoft Power Automate,Data Integration Between Applications,Connect and sync data between different business applications.
+Microsoft Power Automate,Document Approval Notifications,Notify stakeholders when a document is approved or rejected.
+Microsoft Power Automate,Invoice Processing Automation,Automate the processing of invoices and data entry into systems.
+Microsoft Power Automate,CRM Data Sync,Sync customer data from CRM systems to other platforms.
+Microsoft Power Automate,Automated Weekly Reports,Generate and email weekly reports automatically.
+Microsoft Power Automate,Employee Leave Request Workflow,Automate the submission and approval of employee leave requests.
+Microsoft Power Automate,Help Desk Ticket Notifications,Notify support teams when a new help desk ticket is created.
+Microsoft Power Automate,File Upload Alert System,Notify users when files are uploaded to a shared folder.
+Microsoft Power Automate,Social Media Mentions Alerts,Notify teams of brand mentions on social media platforms.
+Microsoft Power Automate,Integration with Microsoft Teams,Send alerts to Teams channels based on specific triggers.
+Microsoft Power Automate,Customer Support Automation,Automate responses to common customer support queries.
+Microsoft Power Automate,Integration with SharePoint Lists,Automate updates and notifications for SharePoint lists.
+Microsoft Power Automate,Automated Data Export to CSV,Export data to a CSV file and save it to cloud storage.
+Microsoft Power Automate,Birthday Notifications for Employees,Send birthday notifications to team members automatically.
+Microsoft Power Automate,Integration with Power BI,Automate data refreshes and alerts in Power BI dashboards.
+Microsoft Power Automate,Sales Pipeline Automation,Automatically update sales pipeline data in CRM systems.
+Microsoft Power Automate,Document Translation Automation,Automatically translate documents using Microsoft Translator.
+Microsoft Power Automate,Email Attachment Archiving,Save email attachments to a specific folder automatically.
+Microsoft Power Automate,Task Reminder Notifications,Send reminders for pending tasks via email or Teams.
+Microsoft Power Automate,Event Registration Data Tracking,Automate the tracking of event registration data in Excel.
+Microsoft Power Automate,Data Collection from Google Forms,Sync Google Forms responses to Excel or SharePoint.
+Microsoft Power Automate,Integration with Dynamics 365,Automate workflows between Dynamics 365 and other platforms.
+Microsoft Power Automate,Weekly Meeting Agenda Distribution,Send weekly meeting agendas to attendees automatically.
+Microsoft Power Automate,New Hire Checklist Automation,Automate the creation of a checklist for onboarding new employees.
+Microsoft Power Automate,Inventory Management Notifications,Notify teams when inventory levels fall below a threshold.
+Microsoft Power Automate,Integration with Dropbox,Automate file transfers and updates between OneDrive and Dropbox.
+Microsoft Power Automate,Customer Survey Data Analysis,Automate the collection and analysis of survey responses.
+Microsoft Power Automate,Document Expiry Reminder System,Send reminders for expiring documents or contracts.
+Microsoft Power Automate,Automated Follow-Up Emails,"Send follow-up emails after specific events, like form submissions."
+Microsoft Power Automate,News Alert Notifications,Notify teams of breaking news or relevant updates automatically.
+Microsoft Power Automate,Automated Meeting Scheduling,Schedule meetings based on form submissions or trigger conditions.
+Microsoft Power Automate,Vendor Onboarding Workflow,"Automate the vendor onboarding process, including document collection."
+Microsoft Power Automate,Expense Approval Workflow,Streamline expense submission and approval processes.
+Microsoft Power Automate,Real-Time Weather Alerts,Send alerts about weather conditions to relevant teams or individuals.
+Microsoft Power Automate,Automated Feedback Requests,Automatically trigger feedback requests after customer interactions.
+Microsoft Power Automate,Chatbot Integration Workflow,Automate chatbot responses using external data sources.
+Microsoft Power Automate,Integration with Trello Boards,Automate task creation and updates in Trello boards.
+Microsoft Power Automate,Project Status Notifications,Notify stakeholders about project status updates automatically.
+Microsoft Power Automate,Automated Employee Recognition,Send recognition to employees for achievements or milestones.
+Microsoft Power Automate,File Conversion Automation,"Automate file format conversions, such as Excel to PDF."
+Microsoft Power Automate,Integration with SAP Systems,Sync data between SAP systems and other business applications.
+Microsoft Power Automate,Data Validation in SharePoint,Automatically validate data entered into SharePoint lists.
+Microsoft Power Automate,IT System Maintenance Alerts,Notify teams of upcoming IT system maintenance or outages.
+Microsoft Power Automate,Automated Webinar Invitations,Send webinar invitations to registered participants automatically.
+Microsoft Power Automate,Integration with GitHub,Automate notifications for GitHub pull requests or issues.
+Microsoft Power Automate,Email Campaign Data Reporting,Automate the generation of reports for email marketing campaigns.
+Microsoft Power Automate,Customer Loyalty Program Automation,Notify customers of loyalty rewards or points updates.
+Microsoft Power Automate,Integration with Zendesk,Automate ticket creation and updates between Zendesk and other platforms.
+Microsoft Power Automate,Data Backup Automation,Schedule and automate regular data backups to cloud storage.
+Microsoft Power Automate,Job Application Tracking,Automate the tracking and filtering of job applications.
+Microsoft Power Automate,Integration with Adobe Sign,Automate document signature collection using Adobe Sign.
+Microsoft Power Automate,Lead Scoring Automation,Automatically assign scores to leads based on their behavior.
+Microsoft Power Automate,Incident Reporting Workflow,Automate the submission and escalation of incident reports.
+Microsoft Power Automate,Automated Invoice Generation,Generate and send invoices automatically based on input data.
+Microsoft Power Automate,Document Sharing Notifications,Notify collaborators when a document is shared or updated.
+Microsoft Power Automate,Integration with Google Calendar,Sync events and reminders between Google and Outlook calendars.
+Microsoft Power Automate,Employee Exit Workflow,Automate tasks related to employee offboarding processes.
+Microsoft Power Automate,Automated Payment Reminders,Send reminders for upcoming or overdue payments automatically.
+Microsoft Power Automate,Integration with Airtable,Automate data sync between Airtable and other business systems.
+Microsoft Power Automate,Automated Policy Updates,Notify employees about updates to company policies.
+Microsoft Power Automate,Integration with Constant Contact,Automate email list updates for marketing campaigns.
+Microsoft Power Automate,Real-Time Customer Order Alerts,Notify sales or logistics teams when new orders are placed.
+Microsoft Power Automate,Automated Task Escalation,Escalate overdue tasks to supervisors automatically.
+Microsoft Power Automate,Integration with Mailchimp,Sync subscriber data between Mailchimp and CRM systems.
+Microsoft Power Automate,Customer Churn Prediction Workflow,Automate workflows to identify and act on customer churn risks.
+Microsoft Power Automate,Integration with Freshdesk,Automate ticket creation and updates in Freshdesk workflows.
+Microsoft Power Automate,Automated KPI Dashboards,Generate and update KPI dashboards automatically.
+Microsoft Power Automate,Resource Scheduling for Projects,Automate resource scheduling and allocation for projects.
+Microsoft Power Automate,Integration with ServiceNow,Automate IT service management workflows using ServiceNow integration.
+Microsoft Power Automate,Automated Contract Renewals,Notify teams about expiring contracts and automate renewal workflows.
+Microsoft Power Automate,Integration with Zoom,Automate meeting creation and notifications for Zoom users.
+Microsoft Power Automate,Employee Survey Distribution,Automate the distribution and collection of employee surveys.
+Microsoft Power Automate,Integration with QuickBooks,Automate the transfer of financial data into QuickBooks.
+Microsoft Power Automate,Automated Workflow Documentation,Automatically document workflows and send updates to stakeholders.
+Microsoft Power Automate,Integration with Power Apps,Enhance Power Apps functionality with automated workflows.
+Microsoft Power Automate,Integration with Tableau,Automate data updates and refreshes for Tableau dashboards.
+Microsoft Power Automate,Alert System for KPI Thresholds,Notify stakeholders when KPIs exceed or fall below defined thresholds.
+Microsoft Power Automate,Automated Survey Response Analysis,Analyze survey responses and generate reports automatically.

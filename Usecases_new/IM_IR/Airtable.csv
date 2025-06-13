@@ -1,0 +1,50 @@
+Category,Short Description,Description
+Airtable,Auto-Create Records,Automatically create new records in Airtable when data is submitted via forms or external tools like Google Forms or Typeform.
+Airtable,Auto-Update Records,"Automatically update existing records when linked data in other systems (e.g., CRM, ERP) changes."
+Airtable,Auto-Send Notifications,Send automated notifications via email or Slack when a new record is added or updated.
+Airtable,Auto-Assign Tasks,"Automatically assign tasks to team members based on specific criteria in a record, such as project type or priority."
+Airtable,Auto-Generate Reports,Automatically generate reports from Airtable data and email them to stakeholders on a recurring schedule.
+Airtable,Auto-Tag Records,Automatically tag records with labels or categories based on predefined rules or keywords.
+Airtable,Auto-Create Calendar Events,Automatically create calendar events in Google Calendar or Outlook based on Airtable records.
+Airtable,Auto-Archive Records,"Automatically archive records that meet specific conditions, such as completed tasks or outdated entries."
+Airtable,Auto-Filter Data,Automatically filter records based on specific criteria and create filtered views for easy access.
+Airtable,Auto-Generate Invoices,Automatically generate invoices from Airtable records and send them to clients via email.
+Airtable,Auto-Update Status,Automatically update the status of records based on changes in linked fields or external triggers.
+Airtable,Auto-Create Linked Records,Automatically create linked records in related tables when a new record is added.
+Airtable,Auto-Notify on Deadlines,Send automated reminders to team members when deadlines are approaching.
+Airtable,Auto-Track Project Progress,Automatically calculate and update project progress percentages based on task completion.
+Airtable,Auto-Generate Dashboards,Automatically create dashboards with charts and KPIs based on Airtable data.
+Airtable,Auto-Import Data,"Automatically import data from external sources, such as CSV files, APIs, or other databases."
+Airtable,Auto-Export Data,"Automatically export Airtable data to external systems or formats, such as CSV or Excel."
+Airtable,Auto-Create Forms,Automatically generate forms for data collection based on Airtable table structures.
+Airtable,Auto-Validate Data,Automatically validate data in records to ensure accuracy and consistency.
+Airtable,Auto-Generate Unique IDs,Automatically generate unique IDs for records using custom scripts or formulas.
+Airtable,Auto-Update CRM Records,Automatically sync Airtable data with CRM systems like Salesforce or HubSpot.
+Airtable,Auto-Create Social Media Posts,Automatically create and schedule social media posts based on Airtable content calendars.
+Airtable,Auto-Track Inventory,Automatically update inventory levels based on sales or stock data.
+Airtable,Auto-Notify on Low Stock,Send automated alerts when inventory levels fall below a certain threshold.
+Airtable,Auto-Generate Purchase Orders,Automatically generate purchase orders based on inventory data and supplier information.
+Airtable,Auto-Create Meeting Agendas,Automatically create meeting agendas from Airtable records and share them with participants.
+Airtable,Auto-Assign Leads,Automatically assign leads to sales representatives based on predefined criteria.
+Airtable,Auto-Score Leads,Automatically calculate lead scores based on engagement metrics or other data points.
+Airtable,Auto-Generate Contracts,Automatically generate contracts or agreements using Airtable data and templates.
+Airtable,Auto-Track Expenses,Automatically track and categorize expenses based on Airtable records.
+Airtable,Auto-Generate Expense Reports,Automatically generate expense reports and email them to finance teams.
+Airtable,Auto-Create Gantt Charts,Automatically generate Gantt charts from project data in Airtable.
+Airtable,Auto-Notify on Overdue Tasks,Send automated reminders for overdue tasks to assigned team members.
+Airtable,Auto-Create Client Profiles,Automatically create client profiles in Airtable when new client data is added.
+Airtable,Auto-Generate Feedback Summaries,Automatically summarize feedback from surveys or forms into Airtable records.
+Airtable,Auto-Create Approval Workflows,Automatically route records through approval workflows based on specific conditions.
+Airtable,Auto-Track SLA Compliance,Automatically monitor and track SLA compliance for tasks or projects.
+Airtable,Auto-Generate Certificates,Automatically generate and email certificates of completion or participation.
+Airtable,Auto-Create Email Campaigns,Automatically create email campaigns in tools like Mailchimp based on Airtable data.
+Airtable,Auto-Notify on Budget Overruns,Send automated alerts when project budgets exceed predefined limits.
+Airtable,Auto-Generate Meeting Notes,Automatically generate meeting notes from Airtable records and share them with attendees.
+Airtable,Auto-Create Job Applications,Automatically create job application records in Airtable from online forms.
+Airtable,Auto-Track Employee Attendance,Automatically track employee attendance and generate reports.
+Airtable,Auto-Generate Payroll Reports,Automatically calculate and generate payroll reports based on employee data.
+Airtable,Auto-Create Training Schedules,Automatically create training schedules for employees based on their roles and availability.
+Airtable,Auto-Notify on Policy Updates,Send automated notifications to employees when company policies are updated.
+Airtable,Auto-Track Compliance Tasks,Automatically track compliance-related tasks and send reminders for deadlines.
+Airtable,Auto-Generate Event Schedules,Automatically create and update event schedules based on Airtable data.
+Airtable,Auto-Track Volunteer Hours,Automatically track and calculate volunteer hours for nonprofit organizations.

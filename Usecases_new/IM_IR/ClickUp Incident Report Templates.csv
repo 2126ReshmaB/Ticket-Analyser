@@ -1,0 +1,48 @@
+Category,Short Description,Description
+ClickUp Incident Report Templates,Auto-Create Incident Reports,Automatically create an incident report when a new incident is logged via a form or task creation.
+ClickUp Incident Report Templates,Auto-Assign Incident Owners,Automatically assign an incident owner based on the type or severity of the incident.
+ClickUp Incident Report Templates,Auto-Set Incident Priority,"Automatically set the priority of an incident (e.g., High, Medium, Low) based on predefined criteria."
+ClickUp Incident Report Templates,Auto-Notify Stakeholders,Send automated notifications to stakeholders when a new incident report is created.
+ClickUp Incident Report Templates,Auto-Update Incident Status,"Automatically update the status of an incident (e.g., ""In Progress,"" ""Resolved"") based on task completion or updates."
+ClickUp Incident Report Templates,Auto-Generate Incident Summary,Automatically generate a summary of the incident report using ClickUp AI or custom fields.
+ClickUp Incident Report Templates,Auto-Link Related Incidents,"Automatically link related incident reports based on tags, keywords, or affected systems."
+ClickUp Incident Report Templates,Auto-Create Subtasks for Investigation,Automatically create subtasks for investigation steps when an incident report is logged.
+ClickUp Incident Report Templates,Auto-Notify on SLA Breaches,Send automated alerts when an incident resolution exceeds the SLA deadline.
+ClickUp Incident Report Templates,Auto-Archive Resolved Incidents,Automatically archive resolved incident reports after a specified period.
+ClickUp Incident Report Templates,Auto-Generate Post-Incident Reviews,Automatically create tasks for post-incident reviews when an incident is resolved.
+ClickUp Incident Report Templates,Auto-Assign Reviewers,Automatically assign reviewers to incident reports based on their expertise or department.
+ClickUp Incident Report Templates,Auto-Track Incident Metrics,Automatically calculate and update metrics like Mean Time to Resolve (MTTR) and incident frequency.
+ClickUp Incident Report Templates,Auto-Notify on Incident Updates,"Notify stakeholders when key fields in an incident report (e.g., status, priority) are updated."
+ClickUp Incident Report Templates,Auto-Create Incident Templates,Automatically apply a predefined template to new incident reports based on the incident type.
+ClickUp Incident Report Templates,Auto-Generate Incident Reports,Automatically generate detailed incident reports for stakeholders using ClickUp Docs or custom fields.
+ClickUp Incident Report Templates,Auto-Notify on Incident Escalation,Send notifications when an incident is escalated to a higher priority or management level.
+ClickUp Incident Report Templates,Auto-Create Communication Logs,Automatically log all communications related to an incident in the report.
+ClickUp Incident Report Templates,Auto-Update Risk Scores,Automatically calculate and update risk scores for incidents based on impact and likelihood.
+ClickUp Incident Report Templates,Auto-Create Follow-Up Tasks,Automatically create follow-up tasks for unresolved incidents or recurring issues.
+ClickUp Incident Report Templates,Auto-Notify on Dependency Resolution,Notify incident owners when a dependent task or incident is resolved.
+ClickUp Incident Report Templates,Auto-Generate Incident Trends,Automatically analyze and generate reports on incident trends over time.
+ClickUp Incident Report Templates,Auto-Link to Knowledge Base,Automatically link relevant knowledge base articles to incident reports based on keywords or tags.
+ClickUp Incident Report Templates,Auto-Notify on Incident Comments,Notify team members when comments are added to an incident report.
+ClickUp Incident Report Templates,Auto-Create Incident Tags,"Automatically tag incidents based on their type, severity, or affected systems."
+ClickUp Incident Report Templates,Auto-Notify on Incident Resolution,Notify stakeholders when an incident is resolved and provide a summary of the resolution.
+ClickUp Incident Report Templates,Auto-Generate Lessons Learned,"Automatically create a ""Lessons Learned"" document for major incidents."
+ClickUp Incident Report Templates,Auto-Track Incident Costs,Automatically track and calculate costs associated with incident resolution.
+ClickUp Incident Report Templates,Auto-Create Incident Escalation Tasks,Automatically create escalation tasks for incidents that remain unresolved beyond a certain timeframe.
+ClickUp Incident Report Templates,Auto-Notify on Incident Dependencies,Notify stakeholders when an incident is dependent on another task or incident.
+ClickUp Incident Report Templates,Auto-Create Incident Checklists,Automatically generate checklists for incident investigation and resolution steps.
+ClickUp Incident Report Templates,Auto-Update Incident Deadlines,Automatically adjust incident deadlines based on changes to project timelines or dependencies.
+ClickUp Incident Report Templates,Auto-Notify on Incident Trends,Send periodic notifications about incident trends and patterns to relevant teams.
+ClickUp Incident Report Templates,Auto-Create Incident Dashboards,Automatically generate dashboards to visualize incident data and metrics.
+ClickUp Incident Report Templates,Auto-Notify on Incident Reopen,Notify stakeholders when a resolved incident is reopened.
+ClickUp Incident Report Templates,Auto-Create Incident Forms,"Automatically generate incident report forms for specific use cases (e.g., IT, HR, Safety)."
+ClickUp Incident Report Templates,Auto-Notify on Incident Approval,Notify approvers when an incident report requires their review or approval.
+ClickUp Incident Report Templates,Auto-Create Incident Workflows,Automatically apply workflows to incident reports based on their type or severity.
+ClickUp Incident Report Templates,Auto-Notify on Incident Delays,Send alerts when incident resolution is delayed beyond the expected timeframe.
+ClickUp Incident Report Templates,Auto-Generate Incident Heatmaps,Automatically create heatmaps to visualize incident frequency and severity across departments or locations.
+ClickUp Incident Report Templates,Auto-Create Incident Escalation Paths,Automatically define escalation paths for incidents based on their priority or impact.
+ClickUp Incident Report Templates,Auto-Notify on Incident Assignments,Notify team members when they are assigned to an incident report.
+ClickUp Incident Report Templates,Auto-Create Incident Templates for Teams,Automatically generate team-specific incident report templates for different departments.
+ClickUp Incident Report Templates,Auto-Track Incident Response Times,Automatically calculate and track response times for incidents to ensure SLA compliance.
+ClickUp Incident Report Templates,Auto-Notify on Incident Trends,Send automated reports on recurring incident trends to management.
+ClickUp Incident Report Templates,Auto-Create Incident Tags for Severity,"Automatically tag incidents with severity levels (e.g., Critical, High, Medium, Low)."
+ClickUp Incident Report Templates,Auto-Notify on Incident Task Completion,Notify stakeholders when tasks related to an incident report are completed.

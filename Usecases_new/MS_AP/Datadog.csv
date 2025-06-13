@@ -1,0 +1,72 @@
+Category,Short Description,Description
+Datadog,Automate Dashboard Creation,"Use scripts to create dashboards programmatically for monitoring specific services or applications, reducing manual effort."
+Datadog,Alert Configuration Automation,Automate the creation of alerts for specific metrics or logs to ensure timely notifications for critical issues.
+Datadog,Log Parsing Automation,"Use scripts to parse logs and extract meaningful data for analysis, reducing manual log inspection."
+Datadog,Metric Tagging Automation,"Automatically tag metrics with relevant metadata (e.g., environment, region) to improve filtering and analysis."
+Datadog,Monitor Cleanup,Automate the removal of unused or outdated monitors to keep the environment clean and organized.
+Datadog,Incident Management Integration,Use scripts to integrate Datadog alerts with incident management tools like PagerDuty or Slack for streamlined communication.
+Datadog,Automated Log Archival,Automate the archival of logs to cloud storage for long-term retention and compliance.
+Datadog,Synthetic Test Creation,Use scripts to create synthetic tests for monitoring application uptime and performance.
+Datadog,Automated Anomaly Detection,Automate the setup of anomaly detection monitors to identify unusual patterns in metrics.
+Datadog,Service Dependency Mapping,"Use scripts to map service dependencies automatically, providing better visibility into application architecture."
+Datadog,Automated Report Generation,Generate and send performance or usage reports automatically to stakeholders.
+Datadog,Log Enrichment,Automate the addition of custom metadata to logs for better context during troubleshooting.
+Datadog,Monitor Status Reporting,"Use scripts to generate reports on the status of all monitors, highlighting any issues."
+Datadog,Automated Metric Cleanup,Remove unused or irrelevant metrics automatically to optimize storage and performance.
+Datadog,Integration Deployment Automation,"Automate the deployment of integrations with third-party tools like AWS, Azure, or Kubernetes."
+Datadog,Automated Tagging for Hosts,Use scripts to tag hosts dynamically based on their roles or environments.
+Datadog,Log Retention Policy Enforcement,Automate the enforcement of log retention policies to comply with organizational or regulatory requirements.
+Datadog,Custom Metric Submission,Use scripts to submit custom metrics to Datadog for monitoring non-standard data points.
+Datadog,Automated Alert Tuning,Adjust alert thresholds dynamically based on historical data to reduce false positives.
+Datadog,Synthetic Test Maintenance,Automate the update or removal of synthetic tests as application endpoints change.
+Datadog,Automated Dashboard Sharing,Share dashboards with specific teams or stakeholders automatically via email or collaboration tools.
+Datadog,Monitor Dependency Analysis,Use scripts to analyze dependencies between monitors and identify potential cascading failures.
+Datadog,Automated API Key Rotation,Rotate API keys periodically using scripts to enhance security.
+Datadog,Log-Based Alert Automation,Create alerts based on specific log patterns or keywords automatically.
+Datadog,Automated Host Monitoring,Use scripts to monitor the health and performance of hosts dynamically as they are added or removed.
+Datadog,Cloud Cost Monitoring,Automate the tracking of cloud resource costs using Datadog metrics and alerts.
+Datadog,Automated SLA Monitoring,Use scripts to monitor and report on SLA compliance for services or applications.
+Datadog,Automated Integration Testing,Test integrations with other tools automatically to ensure they are functioning correctly.
+Datadog,Automated Log Filtering,Filter out irrelevant logs automatically to reduce noise and focus on critical data.
+Datadog,Automated Metric Correlation,Correlate metrics from different sources automatically to identify root causes of issues.
+Datadog,Automated Alert Escalation,Use scripts to escalate unresolved alerts to higher-level teams or managers.
+Datadog,Automated Log Forwarding,Forward logs to external systems like Elasticsearch or Splunk automatically.
+Datadog,Automated Service Health Checks,Use scripts to perform periodic health checks on services and report the results to Datadog.
+Datadog,Automated Log Sampling,Sample logs automatically to reduce storage costs while retaining critical data.
+Datadog,Automated Metric Forecasting,Use scripts to forecast future metric trends based on historical data.
+Datadog,Automated Alert Suppression,Suppress alerts automatically during maintenance windows or known outages.
+Datadog,Automated Dashboard Updates,Update dashboards automatically as new metrics or services are added.
+Datadog,Automated Log Anonymization,Anonymize sensitive data in logs automatically to comply with privacy regulations.
+Datadog,Automated Metric Aggregation,Aggregate metrics from multiple sources automatically for a unified view.
+Datadog,Automated Alert Grouping,Group related alerts automatically to reduce noise and improve incident response.
+Datadog,Automated Log Correlation,Correlate logs from different sources automatically to identify patterns or issues.
+Datadog,Automated Host Inventory Management,Maintain an up-to-date inventory of hosts automatically using Datadog APIs.
+Datadog,Automated Log Compression,Compress logs automatically to save storage space while retaining access to critical data.
+Datadog,Automated Metric Normalization,Normalize metrics automatically to ensure consistency across different data sources.
+Datadog,Automated Alert Prioritization,Prioritize alerts automatically based on severity or impact.
+Datadog,Automated Log Indexing,Index logs automatically to improve search and analysis performance.
+Datadog,Automated Metric Threshold Adjustment,Adjust metric thresholds dynamically based on historical trends or seasonality.
+Datadog,Automated Alert Routing,Route alerts automatically to the appropriate teams or individuals based on predefined rules.
+Datadog,Automated Log Backup,Backup logs automatically to ensure data availability and compliance.
+Datadog,Automated Metric Comparison,Compare metrics from different time periods automatically to identify trends or anomalies.
+Datadog,Automated Alert Resolution,Resolve alerts automatically based on predefined conditions or scripts.
+Datadog,Automated Log Analysis,"Analyze logs automatically to identify patterns, anomalies, or issues."
+Datadog,Automated Metric Visualization,Create visualizations for metrics automatically to improve data interpretation.
+Datadog,Automated Alert Notification,"Notify stakeholders automatically about critical alerts via email, SMS, or collaboration tools."
+Datadog,Automated Log Monitoring,Monitor logs automatically for specific patterns or keywords.
+Datadog,Automated Metric Export,Export metrics to external systems automatically for further analysis or reporting.
+Datadog,Automated Alert Acknowledgment,Acknowledge alerts automatically based on predefined conditions or scripts.
+Datadog,Automated Log Querying,Query logs automatically to extract specific data or insights.
+Datadog,Automated Metric Import,Import metrics from external systems automatically for monitoring in Datadog.
+Datadog,Automated Alert De-duplication,De-duplicate alerts automatically to reduce noise and improve incident response.
+Datadog,Automated Log Tagging,Tag logs automatically with relevant metadata for better filtering and analysis.
+Datadog,Automated Metric Filtering,Filter metrics automatically to focus on critical data points.
+Datadog,Automated Alert Escalation Policy,Implement escalation policies automatically to ensure timely resolution of critical issues.
+Datadog,Automated Log Retention Policy,Enforce log retention policies automatically to comply with organizational or regulatory requirements.
+Datadog,Automated Metric Alerting,Create alerts for specific metrics automatically to ensure timely notifications.
+Datadog,Automated Log Parsing,Parse logs automatically to extract meaningful data for analysis.
+Datadog,Automated Metric Tagging,Tag metrics automatically with relevant metadata for better filtering and analysis.
+Datadog,Automated Alert Suppression Policy,Suppress alerts automatically during maintenance windows or known outages.
+Datadog,Automated Log Forwarding Policy,Forward logs to external systems automatically based on predefined rules.
+Datadog,Automated Metric Aggregation Policy,Aggregate metrics from multiple sources automatically for a unified view.
+Datadog,Automated Alert Grouping Policy,Group related alerts automatically to reduce noise and improve incident response.

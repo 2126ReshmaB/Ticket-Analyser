@@ -1,0 +1,76 @@
+Category,Short Description,Description
+NetSpot,Automated Wi-Fi Heatmap Generation,Automatically create visual Wi-Fi heatmaps to show signal strength across a specific area.
+NetSpot,Signal Strength Monitoring,Automate the monitoring of Wi-Fi signal strength in real-time for all detected networks.
+NetSpot,Access Point Detection,Automate the discovery of all active access points in the vicinity.
+NetSpot,Wi-Fi Network Mapping,Automatically map network coverage across a physical location.
+NetSpot,Multi-Floor Wi-Fi Analysis,Automate the analysis of Wi-Fi performance across multiple floors in a building.
+NetSpot,Channel Congestion Analysis,Automate the detection of congested Wi-Fi channels to recommend better configurations.
+NetSpot,Automated Dead Zone Identification,Automatically identify areas with little or no Wi-Fi signal to address coverage gaps.
+NetSpot,Signal-to-Noise Ratio Analysis,Automate the analysis of signal-to-noise ratios to optimize network performance.
+NetSpot,Real-Time Interference Detection,Automatically detect interference sources affecting Wi-Fi performance.
+NetSpot,RF Spectrum Analysis,Automate RF spectrum analysis to identify noise and interference in specific frequency ranges.
+NetSpot,Wi-Fi Speed Testing,Automate download and upload speed tests for connected networks.
+NetSpot,Wi-Fi Security Analysis,"Automate the analysis of security protocols (e.g., WPA2, WPA3) used by nearby networks."
+NetSpot,AP Signal Strength Validation,Automate checking the signal strength of access points against design expectations.
+NetSpot,Channel Width Validation,Automatically validate channel width settings for better network performance.
+NetSpot,Device-Specific Signal Analysis,Automate the analysis of network performance for specific devices.
+NetSpot,Wi-Fi Signal Heatmap Updates,Automatically update heatmaps with real-time signal strength data.
+NetSpot,Wi-Fi Coverage Area Reporting,Automate the generation of reports detailing coverage areas for selected networks.
+NetSpot,Historical Wi-Fi Performance Logging,Automate the logging of Wi-Fi performance over time for trend analysis.
+NetSpot,Automated Bandwidth Analysis,Automate the analysis of bandwidth usage across all connected devices.
+NetSpot,Real-Time Signal Drop Alerts,Automatically trigger alerts when signal strength drops below a predefined threshold.
+NetSpot,Hidden Network Detection,Automate the detection of hidden Wi-Fi networks in the area.
+NetSpot,AP Placement Optimization,Automate recommendations for optimal access point placement based on signal strength and coverage.
+NetSpot,Wi-Fi Speed Test History,Automate the collection and analysis of speed test results over time.
+NetSpot,Network Congestion Alerts,Automatically generate alerts when network congestion is detected.
+NetSpot,Multi-SSID Analysis,"Automate the analysis of multiple SSIDs for signal strength, security, and interference."
+NetSpot,Wi-Fi Roaming Analysis,Automate the analysis of device roaming between access points to ensure seamless connectivity.
+NetSpot,AP Load Monitoring,Automate the monitoring of access point load to identify bottlenecks.
+NetSpot,Wi-Fi Network Health Reporting,Automatically generate health reports for selected networks.
+NetSpot,Channel Reassignment Recommendations,Automatically recommend new channel configurations to reduce interference.
+NetSpot,Wi-Fi Dead Zone Mapping,Automate the mapping of dead zones to visualize areas with no connectivity.
+NetSpot,Network Speed Degradation Detection,Automatically detect and log instances of network speed degradation.
+NetSpot,Automated Wi-Fi Security Alerts,Automatically generate alerts for detected networks with weak security protocols.
+NetSpot,Wi-Fi Device Connection Logging,Automate the logging of device connections to specific networks.
+NetSpot,Wi-Fi Signal Stability Monitoring,Automate the monitoring of signal stability over time for selected networks.
+NetSpot,Multi-Band Network Analysis,Automate the analysis of both 2.4 GHz and 5 GHz frequency bands for performance optimization.
+NetSpot,Automated AP Configuration Validation,"Automate the validation of access point settings, such as channel and power levels."
+NetSpot,Wi-Fi Encryption Validation,Automate the validation of encryption protocols for all detected networks.
+NetSpot,Real-Time SNR Alerts,Automatically trigger alerts when the signal-to-noise ratio drops below a specific value.
+NetSpot,Rogue Access Point Detection,Automate the detection of unauthorized or rogue access points in the vicinity.
+NetSpot,Wi-Fi Traffic Analysis,Automate the analysis of traffic patterns for better bandwidth management.
+NetSpot,Automated Coverage Prediction,Automatically predict Wi-Fi coverage based on the number and placement of access points.
+NetSpot,AP Firmware Check,Automate checking the firmware versions of detected access points.
+NetSpot,Wi-Fi Network Prioritization,Automate the prioritization of networks based on criteria such as signal strength and security.
+NetSpot,Automated AP Power Level Adjustment,Automate recommendations for adjusting access point power levels to optimize coverage.
+NetSpot,Real-Time Network Load Monitoring,Automatically monitor the load on access points to ensure optimal performance.
+NetSpot,Automated Wi-Fi Audit,"Automate auditing of Wi-Fi networks for security, performance, and compliance."
+NetSpot,Wi-Fi Latency Testing,Automate latency tests for selected networks to evaluate responsiveness.
+NetSpot,ISP Performance Validation,Automate tests to validate ISP-provided speeds against actual network performance.
+NetSpot,Wi-Fi Device Inventory Management,Automate the tracking of devices connected to a specific network.
+NetSpot,Automated Signal Propagation Analysis,Automate analysis of signal propagation to identify weak spots in coverage.
+NetSpot,Automated Multi-Network Comparison,Automate the comparison of performance metrics for multiple Wi-Fi networks.
+NetSpot,Automatic Channel Overlap Detection,Detect overlapping Wi-Fi channels to improve network performance.
+NetSpot,Wi-Fi Network Troubleshooting,"Automate troubleshooting workflows for common Wi-Fi issues, such as weak signals or interference."
+NetSpot,Real-Time AP Health Monitoring,Automate the monitoring of access point health and performance indicators.
+NetSpot,Wi-Fi Signal Benchmarking,Automate benchmarking of signal strength against industry standards.
+NetSpot,Automated Network Scalability Analysis,Automate analysis to determine if the network can handle additional devices and traffic.
+NetSpot,Integration with Cloud Tools,Automate the export of NetSpot data to cloud platforms for analysis and storage.
+NetSpot,Automated Guest Network Analysis,Automate the analysis of guest networks to ensure security and performance.
+NetSpot,Wi-Fi Authentication Type Analysis,Automate the detection of authentication types used by nearby Wi-Fi networks.
+NetSpot,Network Downtime Detection,Automatically detect and log instances of network downtime.
+NetSpot,Wi-Fi Speed Test Alerts,Automatically trigger alerts if speed tests fall below a predefined threshold.
+NetSpot,Wi-Fi Load Balancing Validation,Automate validation of load balancing across multiple access points.
+NetSpot,Wi-Fi Network Expansion Planning,Automate planning for network expansion by analyzing coverage and capacity requirements.
+NetSpot,Wi-Fi Device Connection Stability Analysis,Automate analysis of connection stability for devices on the network.
+NetSpot,Automated AP Naming Convention Checks,Automate validation of access point naming conventions for consistency.
+NetSpot,Wi-Fi Network Efficiency Analysis,"Automate analysis of network efficiency metrics, such as throughput per device."
+NetSpot,Automated Backup of Heatmaps,Automatically back up Wi-Fi heatmaps to prevent data loss.
+NetSpot,Wi-Fi Signal Strength History,Automate the maintenance of historical logs for signal strength data.
+NetSpot,Automated Multi-Floor Heatmapping,Automatically generate heatmaps for multiple floors in a building.
+NetSpot,Real-Time Wi-Fi Performance Alerts,Automatically generate alerts for issues such as low throughput or high latency.
+NetSpot,Automated Hidden SSID Scanning,Automatically scan for hidden SSIDs in the area.
+NetSpot,ISP SLA Compliance Verification,Automate the verification of ISP compliance with Service Level Agreements (SLAs).
+NetSpot,Wi-Fi Device Signal Strength Comparison,Automate comparison of signal strength for multiple devices connected to the same network.
+NetSpot,Video Streaming Test Automation,Automate testing to ensure network performance meets video streaming requirements.
+NetSpot,Automated Wi-Fi Performance Visualization,

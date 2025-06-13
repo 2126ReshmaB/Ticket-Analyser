@@ -1,0 +1,83 @@
+Category,Short Description,Description
+Visual Studio Code,Auto Project Setup,Automate the creation of new projects with pre-defined templates and configurations.
+Visual Studio Code,Workspace Backup,Automate regular backups of your workspace settings and files.
+Visual Studio Code,Git Operations,"Automate Git tasks like staging, committing, and pushing code."
+Visual Studio Code,Code Formatting,Automate code formatting based on preconfigured style settings.
+Visual Studio Code,Linter Integration,Automate running linters like ESLint or Prettier on code files.
+Visual Studio Code,Extension Management,"Automate the installation, update, and removal of extensions."
+Visual Studio Code,Debug Configuration Setup,Automate the creation of debugging configurations for specific languages.
+Visual Studio Code,Snippet Management,Automate the creation and sharing of reusable code snippets.
+Visual Studio Code,Environment Setup,"Automate setting up workspace environments, like Python virtual environments or Node.js."
+Visual Studio Code,Auto-Compilation,Automate the compilation of code files after changes are made.
+Visual Studio Code,Search and Replace,Automate bulk search and replace across multiple files in a project.
+Visual Studio Code,Build Automation,"Automate the build process for JavaScript, Python, or other projects."
+Visual Studio Code,Unit Test Execution,Automate running unit tests and generating reports.
+Visual Studio Code,Markdown Preview Generation,Automate generating live previews of Markdown files.
+Visual Studio Code,Workspace Synchronization,Automate syncing workspace settings across multiple devices.
+Visual Studio Code,Code Cleanup,"Automate cleaning up unused imports, redundant code, and unnecessary files."
+Visual Studio Code,API Documentation Generation,Automate generating API documentation from code comments.
+Visual Studio Code,Git Branch Management,"Automate switching, creating, and deleting Git branches."
+Visual Studio Code,Code Coverage Analysis,Automate generating code coverage reports after test execution.
+Visual Studio Code,Dependency Updates,Automate checking and updating dependencies in package managers like npm or pip.
+Visual Studio Code,Project Template Creation,Automate the creation of reusable project templates.
+Visual Studio Code,File Encoding Conversion,Automate converting the encoding of files for cross-platform compatibility.
+Visual Studio Code,Log Analysis,Automate analyzing and summarizing application log files.
+Visual Studio Code,Docker Integration,Automate building and running Docker containers from VS Code.
+Visual Studio Code,Kubernetes Deployment,Automate deploying applications to Kubernetes directly from VS Code.
+Visual Studio Code,Performance Testing,Automate running performance tests and generating reports.
+Visual Studio Code,CI/CD Pipeline Integration,Automate generating CI/CD configurations for platforms like GitHub Actions.
+Visual Studio Code,Automated Refactoring,Automate common refactoring tasks such as renaming variables or methods.
+Visual Studio Code,Code Snippet Insertion,Automate inserting frequently used code snippets in projects.
+Visual Studio Code,Workspace Cleanup,Automate cleaning up temporary or unused files in the workspace.
+Visual Studio Code,Hotkey Management,Automate exporting and importing custom hotkey configurations.
+Visual Studio Code,Multi-Language Project Setup,Automate configuring workspaces that use multiple programming languages.
+Visual Studio Code,Test Data Generation,Automate generating test data for unit and integration tests.
+Visual Studio Code,Debugger Launch,Automate launching the debugger for specific configurations.
+Visual Studio Code,Code Quality Checks,Automate running static code analysis tools for quality checks.
+Visual Studio Code,HTML/CSS Minification,"Automate minifying HTML, CSS, and JavaScript files."
+Visual Studio Code,Code Comments Update,"Automate updating or adding comments to classes, methods, and variables."
+Visual Studio Code,Pre-Commit Hooks,Automate running pre-commit hooks like linting or tests before a commit.
+Visual Studio Code,Version Control History,Automate generating a summary of version control changes.
+Visual Studio Code,Testing Framework Integration,Automate integrating testing frameworks like Jest or Mocha into the project.
+Visual Studio Code,Remote Development Setup,Automate setting up remote development environments.
+Visual Studio Code,Multi-Root Workspace Setup,Automate the configuration of multi-root workspaces for managing multiple projects.
+Visual Studio Code,Theme Switching Automation,Automate switching between themes based on time of day.
+Visual Studio Code,File Watcher Setup,Automate setting up file watchers for tasks like transpiling or linting.
+Visual Studio Code,Error Marker Cleanup,Automate clearing resolved error and warning markers.
+Visual Studio Code,Auto Folder Organization,Automate organizing project files into predefined folder structures.
+Visual Studio Code,Code Styling Rules,Automate applying project-specific code styling rules.
+Visual Studio Code,JavaScript Bundling,Automate bundling JavaScript files using tools like Webpack or Rollup.
+Visual Studio Code,Resource Monitoring,"Automate monitoring resource usage during development, like memory and CPU."
+Visual Studio Code,Language Pack Installation,Automate downloading and setting up language packs for localization.
+Visual Studio Code,Auto-Generate README File,Automate generating README files with project details and instructions.
+Visual Studio Code,Code Complexity Analysis,Automate analyzing code complexity and maintainability.
+Visual Studio Code,API Testing,Automate testing APIs with tools like Postman or REST clients.
+Visual Studio Code,Git Conflict Resolution,Automate resolving Git merge conflicts for common patterns.
+Visual Studio Code,Serverless Deployment,Automate deploying serverless applications to cloud providers.
+Visual Studio Code,Auto-Generate License Files,Automate generating license files for open-source projects.
+Visual Studio Code,Code Duplication Detection,Automate detecting and refactoring duplicate code.
+Visual Studio Code,TypeScript Compilation,Automate compiling TypeScript files to JavaScript.
+Visual Studio Code,Environment Variable Management,Automate managing and injecting environment variables into projects.
+Visual Studio Code,Build Notifications,Automate sending notifications for build success or failure.
+Visual Studio Code,YAML Validation,Automate validating YAML files against schemas.
+Visual Studio Code,Dependency Graph Generation,Automate generating dependency graphs for complex projects.
+Visual Studio Code,Auto-Generate Tests,Automate generating test cases for functions and classes.
+Visual Studio Code,Open Source Contribution Setup,Automate setting up projects for open-source contributions.
+Visual Studio Code,Auto-Generate API Clients,Automate generating API client code from OpenAPI specifications.
+Visual Studio Code,Security Vulnerability Scanning,Automate scanning dependencies for security vulnerabilities.
+Visual Studio Code,Auto-Tagging in Git,Automate tagging Git repositories based on version numbers.
+Visual Studio Code,Code Migration,Automate migrating code to newer frameworks or language versions.
+Visual Studio Code,Log File Compression,Automate compressing old log files to save disk space.
+Visual Studio Code,Auto-Generate Changelogs,Automate creating changelogs from commit messages.
+Visual Studio Code,Integration with CI Tools,Automate configuring CI tools like Jenkins or Travis CI.
+Visual Studio Code,ESLint Config Generation,Automate generating ESLint configuration files for JavaScript projects.
+Visual Studio Code,Version Bump Automation,Automate incrementing the project version in package.json.
+Visual Studio Code,Code Ownership Assignment,Automate assigning code ownership for files or directories.
+Visual Studio Code,Auto-Generate SQL Scripts,Automate generating SQL scripts from database schemas.
+Visual Studio Code,GitHub Issue Templates,Automate generating GitHub issue templates for repositories.
+Visual Studio Code,Auto-Generate Swagger Docs,Automate generating Swagger documentation for APIs.
+Visual Studio Code,Real-Time Collaboration Setup,Automate setting up collaboration tools like Live Share.
+Visual Studio Code,Project Health Check,"Automate generating reports on project health, such as test coverage and linting status."
+Visual Studio Code,Auto-Generate Config Files,Automate creating configuration files for popular tools like Webpack or Babel.
+Visual Studio Code,Syntax Highlighting Setup,Automate configuring syntax highlighting for custom file types.
+Visual Studio Code,Auto-Generate Mock Data,Automate generating mock data for frontend or API testing.

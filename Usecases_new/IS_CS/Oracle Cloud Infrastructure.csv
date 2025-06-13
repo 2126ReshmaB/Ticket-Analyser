@@ -1,0 +1,76 @@
+Category,Short Description,Description
+Oracle Cloud Infrastructure,Auto-Scaling Compute Instances,Automatically scale compute instances based on CPU or memory usage using OCI Autoscaling policies.
+Oracle Cloud Infrastructure,Object Storage Lifecycle Management,Automate data archiving and deletion in Object Storage using lifecycle policies.
+Oracle Cloud Infrastructure,Cloud Shell Script Execution,Automate execution of scripts directly from OCI Cloud Shell for resource management.
+Oracle Cloud Infrastructure,Database Backup Scheduling,Schedule automated backups for Oracle Databases using OCI Backup policies.
+Oracle Cloud Infrastructure,Virtual Cloud Network (VCN) Setup,"Automate the creation of VCNs, subnets, and security rules using Terraform or OCI CLI."
+Oracle Cloud Infrastructure,Load Balancer Health Checks,Automate health checks for Load Balancers to ensure application availability.
+Oracle Cloud Infrastructure,Kubernetes Cluster Autoscaling,Automatically scale Kubernetes clusters using OCI Container Engine for Kubernetes (OKE).
+Oracle Cloud Infrastructure,Monitoring Alert Notifications,Set up automated alerts for resource usage using OCI Monitoring and integrate with email or Slack.
+Oracle Cloud Infrastructure,Key Rotation in Vault,Automate the rotation of encryption keys stored in OCI Vault using CLI or SDKs.
+Oracle Cloud Infrastructure,Application Deployment with Resource Manager,Automate application deployment using OCI Resource Manager and Terraform templates.
+Oracle Cloud Infrastructure,Security Threat Response,Automate responses to security threats detected by OCI Cloud Guard using predefined remediation actions.
+Oracle Cloud Infrastructure,Event-Driven Workflows,Trigger workflows when events occur in OCI services using OCI Events and Functions.
+Oracle Cloud Infrastructure,Auto-Tagging Resources,Use OCI Functions to automatically tag resources for cost tracking and management.
+Oracle Cloud Infrastructure,Log Analysis with Logging Analytics,Automate log analysis using OCI Logging Analytics for monitoring and troubleshooting.
+Oracle Cloud Infrastructure,Cost Management Budget Alerts,Set up automated budget alerts using OCI Cost Management to track spending.
+Oracle Cloud Infrastructure,Object Storage Cross-Region Replication,Automate replication of Object Storage data across regions for disaster recovery.
+Oracle Cloud Infrastructure,Log Retention Policies,Automate log retention settings for OCI Logging.
+Oracle Cloud Infrastructure,Auto-Healing Compute Instances,Automatically restart unhealthy compute instances using OCI Monitoring and Autoscaling.
+Oracle Cloud Infrastructure,Compliance Checks with Cloud Guard,Automate compliance checks using OCI Cloud Guard and remediation tasks.
+Oracle Cloud Infrastructure,Scheduled Tasks with Functions,Schedule tasks using OCI Functions to trigger workflows at specific times.
+Oracle Cloud Infrastructure,Elasticsearch Log Ingestion,Automate log ingestion into Elasticsearch for analysis using OCI Functions.
+Oracle Cloud Infrastructure,Object Storage Access Monitoring,Monitor and alert on unauthorized access to Object Storage buckets.
+Oracle Cloud Infrastructure,Infrastructure Drift Detection,Automate detection of infrastructure drift using OCI Resource Manager and Terraform.
+Oracle Cloud Infrastructure,Media Transcoding with Functions,Automate video transcoding using OCI Functions and Media Services.
+Oracle Cloud Infrastructure,Preemptible Instance Scaling,Automate scaling of preemptible instances for cost savings.
+Oracle Cloud Infrastructure,Monitoring Dashboard Updates,Automate updates to OCI Monitoring dashboards for real-time monitoring.
+Oracle Cloud Infrastructure,Object Storage Versioning,Enable and manage versioning for Object Storage objects automatically.
+Oracle Cloud Infrastructure,Database Read Replica Management,Automate creation and management of read replicas for Oracle Databases.
+Oracle Cloud Infrastructure,CDN Cache Invalidation,Automate cache invalidation for OCI Content Delivery Network (CDN) endpoints.
+Oracle Cloud Infrastructure,Predictive Analytics with Data Science,Use OCI Data Science to automate predictive analytics workflows using machine learning models.
+Oracle Cloud Infrastructure,Data Lifecycle Management,Automate data movement between Object Storage tiers based on access patterns.
+Oracle Cloud Infrastructure,Custom Metric Alerts,Automate creation of alerts for custom metrics in OCI Monitoring.
+Oracle Cloud Infrastructure,Application Environment Updates,Automate updates to application environments using OCI Resource Manager pipelines.
+Oracle Cloud Infrastructure,Security Scans with Functions,Automate security scans using OCI Functions and third-party tools.
+Oracle Cloud Infrastructure,Template Validation,Automate validation of Terraform templates in OCI Resource Manager before deployment.
+Oracle Cloud Infrastructure,Object Storage Policy Enforcement,Automate enforcement of Object Storage policies for compliance.
+Oracle Cloud Infrastructure,Database Backup Automation,Automate backups for Oracle Databases using OCI Backup policies.
+Oracle Cloud Infrastructure,Anomaly Detection,Automate anomaly detection using OCI Monitoring and AI models.
+Oracle Cloud Infrastructure,Log Parsing with Functions,Automate parsing and analysis of logs using OCI Functions.
+Oracle Cloud Infrastructure,Object Storage Encryption Enforcement,Automate enforcement of encryption for Object Storage buckets.
+Oracle Cloud Infrastructure,Event Monitoring,Automate monitoring of OCI Events for security and operational insights.
+Oracle Cloud Infrastructure,Data Transformation,Automate data transformation workflows using OCI Data Integration and Functions.
+Oracle Cloud Infrastructure,Maintenance Window Automation,Automate scheduling of maintenance windows for Oracle Databases.
+Oracle Cloud Infrastructure,Custom Metrics Creation,Automate creation of custom metrics for OCI Monitoring.
+Oracle Cloud Infrastructure,Public Access Blocking,Automate blocking of public access to Object Storage buckets.
+Oracle Cloud Infrastructure,API Gateway Integration,Automate backend logic for OCI API Gateway using OCI Functions.
+Oracle Cloud Infrastructure,Template Deployment,Automate deployment of resources using validated Terraform templates in OCI Resource Manager.
+Oracle Cloud Infrastructure,Metadata Extraction,Automate extraction of metadata from Object Storage objects.
+Oracle Cloud Infrastructure,Real-Time Notifications,Automate real-time notifications using OCI Functions and Notifications.
+Oracle Cloud Infrastructure,Log Insights Queries,Automate execution of queries in OCI Logging Analytics for insights.
+Oracle Cloud Infrastructure,Inventory Reports,Automate generation of inventory reports for OCI resources.
+Oracle Cloud Infrastructure,Data Aggregation,Automate data aggregation workflows using OCI Data Integration and Functions.
+Oracle Cloud Infrastructure,Deployment Rollbacks,Automate rollbacks for failed deployments using OCI Resource Manager.
+Oracle Cloud Infrastructure,Access Logs Analysis,Automate collection and analysis of access logs for OCI resources.
+Oracle Cloud Infrastructure,Event-Driven Workflows,Automate workflows triggered by specific events using OCI Events and Functions.
+Oracle Cloud Infrastructure,Alarm-Based Scaling,Automate scaling of resources based on OCI Monitoring alarms.
+Oracle Cloud Infrastructure,Object Locking,Automate enforcement of object locking for Object Storage buckets.
+Oracle Cloud Infrastructure,Data Validation,Automate data validation workflows using OCI Functions.
+Oracle Cloud Infrastructure,Resource Deletion,Automate deletion of unused or obsolete OCI resources.
+Oracle Cloud Infrastructure,Data Replication,Automate replication of data between Object Storage buckets.
+Oracle Cloud Infrastructure,Data Enrichment,Automate data enrichment workflows using OCI Data Integration and Functions.
+Oracle Cloud Infrastructure,Alarm-Based Notifications,Automate notifications based on OCI Monitoring alarms.
+Oracle Cloud Infrastructure,Object Tagging,Automate tagging of objects in Object Storage buckets for better organization.
+Oracle Cloud Infrastructure,Data Cleansing,Automate data cleansing workflows using OCI Data Integration and Functions.
+Oracle Cloud Infrastructure,Resource Creation,Automate creation of OCI resources using OCI Resource Manager.
+Oracle Cloud Infrastructure,Object Archiving,Automate archiving of objects in Object Storage buckets.
+Oracle Cloud Infrastructure,Data Synchronization,Automate data synchronization workflows using OCI Data Integration.
+Oracle Cloud Infrastructure,Alarm-Based Actions,Automate actions based on OCI Monitoring alarms.
+Oracle Cloud Infrastructure,Object Deletion,Automate deletion of objects in Object Storage buckets.
+Oracle Cloud Infrastructure,Data Integration,Automate data integration workflows using OCI Data Integration and Functions.
+Oracle Cloud Infrastructure,Resource Management,Automate management of OCI resources using OCI CLI and APIs.
+Oracle Cloud Infrastructure,Object Restoration,Automate restoration of objects in Object Storage buckets.
+Oracle Cloud Infrastructure,Data Export,Automate data export workflows using OCI Data Integration and Functions.
+Oracle Cloud Infrastructure,Object Migration,Automate migration of objects between Object Storage buckets.
+Oracle Cloud Infrastructure,Data Import,Automate data import workflows using OCI Data Integration and Functions.

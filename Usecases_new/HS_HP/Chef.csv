@@ -1,0 +1,69 @@
+Category,Short Description,Description
+Chef,Install software packages,Automate the installation of software packages across multiple nodes using Chef resources like `package`.
+Chef,Configure web servers,"Automate the deployment and configuration of web servers like Apache, Nginx, or IIS with necessary settings."
+Chef,Manage system users,"Automate the creation, deletion, and management of system users and groups with specific roles and permissions."
+Chef,Enforce file permissions,Automate the enforcement of file and directory permissions for security and compliance purposes.
+Chef,Deploy database servers,"Automate the deployment and configuration of database servers such as MySQL, PostgreSQL, or MongoDB, including user and schema creation."
+Chef,Configure SSH keys,Automate the generation and deployment of SSH keys across servers for secure passwordless authentication.
+Chef,Manage cron jobs,"Automate the creation, modification, and deletion of scheduled tasks using Chef resources like `cron`."
+Chef,Enforce configuration consistency,Automate the enforcement of consistent configurations across multiple nodes using Chef cookbooks.
+Chef,Configure firewalls,Automate the setup and management of firewall rules using Chef resources or external modules.
+Chef,Automate system updates,Automate the process of updating operating systems and installing the latest security patches across nodes.
+Chef,Provision virtual machines,"Automate the provisioning of virtual machines in cloud environments like AWS, Azure, or VMware using Chef recipes."
+Chef,Configure DNS records,Automate the setup and management of DNS records using Chef recipes and APIs for DNS providers.
+Chef,Manage SSL certificates,"Automate the deployment, renewal, and validation of SSL/TLS certificates for secure communication."
+Chef,Deploy containerized applications,Automate the deployment of containerized applications using tools like Docker and Kubernetes with Chef cookbooks.
+Chef,Configure NTP servers,Automate the setup of NTP or Chrony for time synchronization across servers.
+Chef,Set up environment variables,Automate the configuration of environment variables for applications or system-wide usage.
+Chef,Automate load balancer configuration,"Automate the deployment and configuration of load balancers like HAProxy, including backend server setup."
+Chef,Standardize server configurations,"Automate the enforcement of standard server configurations such as hostname, timezone, and locale settings."
+Chef,Manage application deployments,Automate the deployment of application code and configurations to multiple environments using Chef recipes.
+Chef,Automate health checks,"Automate server or application health checks by deploying monitoring tools like Nagios, Zabbix, or custom scripts."
+Chef,Configure centralized logging,"Automate the setup of centralized logging systems like ELK (Elasticsearch, Logstash, Kibana) for log aggregation and analysis."
+Chef,Deploy monitoring agents,"Automate the installation and configuration of monitoring agents like Datadog, Prometheus, or New Relic using Chef."
+Chef,Automate backup processes,"Automate the configuration of backup tools and periodic backups for databases, files, and configurations."
+Chef,Automate patch management,Automate the application of security patches and updates for operating systems and applications.
+Chef,Automate resource tagging,Automate the tagging of cloud resources for better cost tracking and organization.
+Chef,Configure load testing tools,Automate the setup of load testing tools like JMeter or Locust for performance testing of applications.
+Chef,Configure application dependencies,Automate the installation and management of application dependencies using Chef cookbooks.
+Chef,Set up CI/CD pipelines,"Automate the integration of Chef with CI/CD pipelines like Jenkins, GitLab, or GitHub Actions for continuous delivery workflows."
+Chef,Automate compliance checks,Automate compliance checks for security standards like CIS benchmarks or internal organizational policies using Chef InSpec.
+Chef,Configure reverse proxies,Automate the deployment of reverse proxies like Nginx or Apache for routing and load balancing.
+Chef,Automate Kubernetes cluster setup,"Automate the setup and configuration of Kubernetes clusters, including node management and resource limits."
+Chef,Enforce password policies,Automate the enforcement of password complexity and expiration policies across systems.
+Chef,Automate disk partitioning,"Automate the creation, deletion, and resizing of disk partitions and file systems using Chef."
+Chef,Configure RAID storage,Automate the setup and management of RAID configurations for storage redundancy and performance.
+Chef,Deploy caching servers,Automate the deployment of caching servers like Redis or Memcached for application performance improvement.
+Chef,Configure proxy servers,Automate the setup of forward or reverse proxy servers for secure internet access or routing.
+Chef,Automate rollback processes,Automate the rollback of application or configuration changes in case of failures.
+Chef,Configure auto-scaling policies,Automate the setup of auto-scaling policies in cloud environments for dynamic resource allocation.
+Chef,Manage application secrets,Automate the management of application secrets and API keys using tools like HashiCorp Vault.
+Chef,Automate disaster recovery testing,Automate the simulation of disaster recovery scenarios to validate failover processes and recovery plans.
+Chef,Configure SSO for applications,Automate the integration of Single Sign-On (SSO) for enterprise applications for centralized authentication.
+Chef,Configure multi-factor authentication,Automate the setup of multi-factor authentication (MFA) for added security on critical systems.
+Chef,Automate compliance reporting,"Automate the generation of compliance reports for audits, including system configurations and security policies."
+Chef,Automate network ACLs,Automate the configuration of network access control lists (ACLs) to restrict or allow traffic based on rules.
+Chef,Automate environment provisioning,"Automate the provisioning of development, staging, and production environments with predefined configurations."
+Chef,Automate log analysis,Automate the analysis of logs to detect anomalies or generate insights using tools like Splunk or Graylog.
+Chef,Configure CI/CD testing environments,Automate the creation of testing environments for CI/CD pipelines with required dependencies and configurations.
+Chef,Automate container orchestration,Automate the orchestration of containerized workloads using tools like Kubernetes or Docker Swarm with Chef.
+Chef,Configure CDN settings,Automate the configuration of Content Delivery Network (CDN) services for faster content delivery.
+Chef,Automate ephemeral environments,Automate the creation and tear-down of ephemeral environments for testing and development.
+Chef,Configure VPN access,Automate the deployment and configuration of VPN servers for secure remote access to systems.
+Chef,Automate log rotation,Automate the configuration of log rotation policies to manage disk space effectively.
+Chef,Deploy high-availability clusters,Automate the setup of high-availability clusters for critical applications.
+Chef,Configure application monitoring,Automate the deployment of application monitoring tools like AppDynamics or New Relic.
+Chef,Automate API gateway setup,Automate the setup of API gateways for managing and routing API traffic.
+Chef,Manage ephemeral storage,Automate the management of ephemeral storage for cloud-based workloads.
+Chef,Automate testing for APIs,Automate API testing using tools like Postman or REST-assured integrated with Chef.
+Chef,Configure centralized authentication,Automate the integration of systems with centralized authentication services like LDAP or Active Directory.
+Chef,Automate service discovery,Automate the deployment of service discovery tools like Consul or etcd for dynamic service registration and discovery.
+Chef,Configure microservices environments,Automate the deployment of microservices with dependencies and environment-specific configurations.
+Chef,Manage cloud cost optimization,Automate the identification and management of unused cloud resources to reduce operational costs.
+Chef,Automate certificate authority setup,Automate the setup and management of certificate authorities for internal certificate issuance.
+Chef,Configure web application firewalls,Automate the deployment of web application firewalls (WAF) for protecting applications from attacks.
+Chef,Automate application scaling,Automate the scaling of applications horizontally or vertically based on resource usage and traffic demands.
+Chef,Configure VPN client access,Automate the configuration of VPN client access for secure connections to enterprise networks.
+Chef,Automate database migrations,Automate the migration of databases between environments or during updates using Chef recipes.
+Chef,Configure hybrid cloud environments,Automate the deployment and management of hybrid cloud setups for workload distribution.
+Chef,,

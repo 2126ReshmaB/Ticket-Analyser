@@ -1,0 +1,77 @@
+Category,Short Description,Description
+Security Incident Management System,Automated Threat Detection,Automatically analyze incoming logs and alerts to identify potential security threats.
+Security Incident Management System,Phishing Email Detection,"Detect and flag potential phishing emails based on suspicious links, attachments, or sender details."
+Security Incident Management System,Malware Hash Matching,Compare file hashes against known malware databases to identify infected files.
+Security Incident Management System,Incident Ticket Creation,Automatically create incident tickets in the ITSM system when a security event is detected.
+Security Incident Management System,Intrusion Detection,Monitor network traffic for unusual patterns indicative of intrusions.
+Security Incident Management System,Unauthorized Access Alerts,Generate alerts if unauthorized access attempts are detected on sensitive systems.
+Security Incident Management System,Log Correlation,Correlate logs from multiple sources to identify patterns associated with security incidents.
+Security Incident Management System,Privilege Escalation Monitoring,Detect and alert on unauthorized privilege escalation attempts.
+Security Incident Management System,Vulnerability Scanning,Schedule and automate periodic vulnerability scans across systems.
+Security Incident Management System,Endpoint Anomaly Detection,"Monitor endpoint devices for unusual activity, such as unauthorized software installations."
+Security Incident Management System,Automated Firewall Rule Updates,Update firewall rules automatically when new threats are identified.
+Security Incident Management System,Brute Force Attack Detection,Identify and mitigate brute force login attempts.
+Security Incident Management System,Password Spray Detection,Detect password spraying attacks and block the offending IP addresses.
+Security Incident Management System,Geo-Location Based Alerts,Trigger alerts for access attempts from suspicious geographic locations.
+Security Incident Management System,Ransomware Behavior Detection,Monitor file access patterns to identify ransomware activities.
+Security Incident Management System,Automated Account Lockout,Lock accounts immediately after multiple failed login attempts.
+Security Incident Management System,Suspicious Process Monitoring,Identify and terminate suspicious processes running on systems.
+Security Incident Management System,Cloud Configuration Misconfiguration Scanning,Detect and alert on misconfigurations in cloud environments.
+Security Incident Management System,Data Exfiltration Detection,Monitor for unusual data transfers that may indicate data exfiltration.
+Security Incident Management System,Automated Patch Deployment,Deploy critical patches automatically to vulnerable systems.
+Security Incident Management System,Compliance Audit Reporting,Generate compliance audit reports automatically based on collected log data.
+Security Incident Management System,Unauthorized USB Device Detection,Detect and block unauthorized USB devices connected to systems.
+Security Incident Management System,Automated IP Blacklisting,Add malicious IP addresses to blocklists automatically when detected.
+Security Incident Management System,Suspicious File Upload Detection,Identify and quarantine suspicious files uploaded to web applications.
+Security Incident Management System,DNS Anomaly Detection,"Monitor DNS queries for anomalies, such as queries to known malicious domains."
+Security Incident Management System,Insider Threat Detection,Identify suspicious activities by users that could indicate insider threats.
+Security Incident Management System,Automated Email Blocklist Updates,Add domains and email addresses associated with phishing campaigns to blocklists automatically.
+Security Incident Management System,API Abuse Detection,Monitor for unauthorized or anomalous API usage patterns.
+Security Incident Management System,Automated Incident Escalation,Escalate critical incidents to senior analysts automatically.
+Security Incident Management System,Suspicious Network Traffic Analysis,Analyze network traffic for unusual patterns indicating potential attacks.
+Security Incident Management System,Endpoint Isolation,Automatically isolate infected endpoints from the network to prevent further spread.
+Security Incident Management System,Automated Threat Intelligence Feed Integration,Integrate and update threat intelligence feeds automatically for real-time threat detection.
+Security Incident Management System,Automated Forensic Data Collection,Collect forensic data from affected systems automatically after an incident is detected.
+Security Incident Management System,SIEM Alert Tuning,Use machine learning to adjust SIEM alert thresholds automatically to reduce false positives.
+Security Incident Management System,File Integrity Monitoring,Monitor critical files for unauthorized changes and alert when anomalies are detected.
+Security Incident Management System,Automated Log Parsing,Parse and analyze log files from multiple sources to identify security incidents.
+Security Incident Management System,Threat Hunting Automation,Automate threat hunting based on pre-defined indicators of compromise (IOCs).
+Security Incident Management System,Automated Risk Scoring,Assign risk scores to detected incidents based on severity and context.
+Security Incident Management System,Suspicious Domain Registration Monitoring,Monitor for newly registered domains that could be used in phishing or other attacks.
+Security Incident Management System,Automated Data Loss Prevention (DLP) Alerts,Trigger DLP alerts for unauthorized attempts to transfer sensitive data.
+Security Incident Management System,Privileged Account Monitoring,Monitor privileged accounts for unusual or unauthorized activity.
+Security Incident Management System,Automated Backup Validation,Validate backups automatically to ensure recoverability after incidents like ransomware attacks.
+Security Incident Management System,Honeypot Deployment,"Deploy and monitor honeypots to attract, detect, and analyze attackers."
+Security Incident Management System,Session Hijacking Detection,Detect session hijacking attempts and terminate suspicious sessions.
+Security Incident Management System,Automated Threat Remediation,Automate response actions like blocking IPs or quarantining files based on threat severity.
+Security Incident Management System,Third-Party Vendor Risk Monitoring,Monitor third-party vendors for security risks and compliance issues.
+Security Incident Management System,Unauthorized Application Detection,Identify and block unauthorized applications running in the environment.
+Security Incident Management System,Shadow IT Detection,"Detect and report instances of shadow IT, such as unsanctioned cloud service usage."
+Security Incident Management System,Suspicious Login Monitoring,"Monitor for logins from unusual devices, locations, or at odd times."
+Security Incident Management System,Automated Threat Severity Classification,Classify the severity of detected threats automatically based on pre-set criteria.
+Security Incident Management System,IoT Device Anomaly Detection,Monitor IoT devices for unusual activity or connections.
+Security Incident Management System,Threat Playbook Execution,Automate predefined playbooks for common incident response activities.
+Security Incident Management System,Automated Incident Closure,Automatically close resolved incidents and update documentation.
+Security Incident Management System,Compliance Policy Enforcement,Enforce compliance policies automatically by monitoring and remediating violations.
+Security Incident Management System,Keylogger Detection,Monitor for keylogging activities on endpoints and isolate affected systems.
+Security Incident Management System,Automated Phishing Simulation,Conduct automated phishing attack simulations to train employees.
+Security Incident Management System,Password Expiry Monitoring,Monitor and notify users about upcoming password expirations.
+Security Incident Management System,Automated Certificate Renewal,Automatically renew expiring SSL/TLS certificates to prevent service disruptions.
+Security Incident Management System,Network Segmentation Policy Enforcement,Enforce network segmentation policies automatically based on detected security incidents.
+Security Incident Management System,Anomalous File Download Detection,Detect and block unauthorized or suspicious file downloads by users.
+Security Incident Management System,Automated Incident Communication,Send automated emails or notifications to stakeholders when an incident is detected.
+Security Incident Management System,Social Engineering Attack Alerts,Detect potential social engineering attacks based on email or chat patterns.
+Security Incident Management System,Automated Compliance Gap Analysis,Identify compliance gaps automatically by comparing system configurations against regulatory requirements.
+Security Incident Management System,Automated Threat Actor Profiling,Profile threat actors based on detected behavior and tactics.
+Security Incident Management System,Security Awareness Training Tracking,Track and report on employee participation in security awareness training.
+Security Incident Management System,Botnet Activity Detection,Monitor for signs of botnet activity within the organization’s network.
+Security Incident Management System,Automated Incident Timeline Creation,Generate a detailed timeline of events for each security incident automatically.
+Security Incident Management System,Suspicious Outbound Connection Alerts,Detect and alert on unusual outbound connections to external servers.
+Security Incident Management System,Automated Incident Documentation,"Document incident details, response actions, and resolution steps automatically."
+Security Incident Management System,Credential Stuffing Detection,Detect and block credential stuffing attacks in real time.
+Security Incident Management System,Automated Security Policy Updates,Update security policies automatically based on detected incidents and new threats.
+Security Incident Management System,Automated Backup Scheduling,Schedule and manage backups automatically to ensure business continuity.
+Security Incident Management System,Advanced Persistent Threat (APT) Detection,"Monitor for long-term, persistent attacks targeting specific systems."
+Security Incident Management System,Automated Incident SLA Tracking,Track and report on SLAs for incident response automatically.
+Security Incident Management System,Configuration Drift Detection,Detect and remediate unauthorized changes to system configurations.
+Security Incident Management System,Automated Threat IOC Sharing,Share detected indicators

@@ -1,0 +1,71 @@
+Category,Short Description,Description
+Jamf Pro,Enroll Devices into Jamf Pro,Automate the enrollment of macOS and iOS devices into Jamf Pro for management.
+Jamf Pro,Deploy Software Updates,Automate the deployment of macOS and iOS updates to ensure that devices stay up to date.
+Jamf Pro,Install Applications,"Deploy applications like Zoom, Microsoft Office, or Slack to managed devices automatically."
+Jamf Pro,Remove Unused Applications,Automate the removal of unnecessary or unauthorized applications from devices.
+Jamf Pro,Enforce Password Policies,Automate the enforcement of password complexity and expiration policies on managed devices.
+Jamf Pro,Deploy Configuration Profiles,Automate the deployment of configuration profiles to standardize settings across all managed devices.
+Jamf Pro,Monitor Device Compliance,Automatically monitor device compliance with organizational security policies.
+Jamf Pro,Manage User Accounts,"Automate the creation, deletion, and management of user accounts on macOS devices."
+Jamf Pro,Deploy Security Patches,Automate the deployment of security patches for macOS and third-party applications.
+Jamf Pro,Restrict USB Device Access,Automatically disable or restrict access to USB devices to prevent unauthorized data transfer.
+Jamf Pro,Configure Wi-Fi Settings,"Automate the deployment of Wi-Fi profiles, including SSID and authentication settings."
+Jamf Pro,Enforce FileVault Encryption,Automate the configuration and enforcement of FileVault disk encryption on macOS devices.
+Jamf Pro,Set Browser Homepages,"Automatically configure the default homepage for Safari, Chrome, or Firefox browsers."
+Jamf Pro,Deploy Printer Configurations,Automate the deployment of printer settings and drivers to macOS devices.
+Jamf Pro,Manage Software Licenses,Automate the tracking and management of software licenses installed on managed devices.
+Jamf Pro,Reset Local Administrator Passwords,Automatically reset the local administrator password on macOS devices for security purposes.
+Jamf Pro,Configure Time Zone Settings,Automate the configuration of time zone settings on managed devices based on location.
+Jamf Pro,Schedule Software Updates,Automate the scheduling of macOS and app updates during non-business hours to minimize user disruption.
+Jamf Pro,Deploy Dock Configurations,Automate the customization of the macOS Dock layout for users in specific roles or departments.
+Jamf Pro,Install Developer Tools,"Deploy development tools like Xcode, Git, or Homebrew to developer machines."
+Jamf Pro,Block Unauthorized Applications,Automatically block applications that are not approved by the organization.
+Jamf Pro,Configure VPN Settings,Automate the deployment of VPN client configurations for secure remote access.
+Jamf Pro,Deploy Custom Scripts,Automate the execution of custom scripts to perform specific tasks on managed devices.
+Jamf Pro,Enforce App Store Restrictions,Automatically restrict access to the App Store to prevent unauthorized app installations.
+Jamf Pro,Monitor Disk Space Usage,Automate the monitoring of disk space usage on macOS devices and send alerts when thresholds are exceeded.
+Jamf Pro,Deploy Wallpaper Settings,Automatically deploy corporate branding as desktop wallpapers to macOS devices.
+Jamf Pro,Configure Remote Desktop Access,Automate the configuration of remote desktop settings to allow IT to assist users.
+Jamf Pro,Deploy Email Configurations,Automate the deployment of email settings for corporate email accounts on macOS and iOS devices.
+Jamf Pro,Track Device Inventory,Automatically collect and report on hardware and software inventory for all managed devices.
+Jamf Pro,Configure Safari Extensions,Automate the deployment of Safari browser extensions for productivity or security.
+Jamf Pro,Monitor Battery Health,Automate the monitoring of battery health on macOS and iOS devices for proactive maintenance.
+Jamf Pro,Configure Firewall Rules,Automate the deployment of firewall settings to macOS devices to enhance security.
+Jamf Pro,Deploy Accessibility Settings,Automatically deploy accessibility configurations for users with special needs.
+Jamf Pro,Restrict Camera Access,Automate restrictions on camera access based on organizational policies.
+Jamf Pro,Configure Data Loss Prevention (DLP),Automate the deployment of DLP settings to prevent unauthorized data sharing.
+Jamf Pro,Deploy Collaboration Tools,"Automate the deployment of collaboration tools like Microsoft Teams, Zoom, or Slack."
+Jamf Pro,Restrict Screen Recording,Automatically block or restrict screen recording features on macOS devices for security.
+Jamf Pro,Configure Auto-Lock Settings,Enforce auto-lock and screen timeout policies to secure devices after inactivity.
+Jamf Pro,Deploy FileVault Recovery Keys,Automatically back up and manage FileVault recovery keys securely in Jamf Pro.
+Jamf Pro,Configure Shared iPads,Automate the setup of shared iPads with unique user profiles for each user.
+Jamf Pro,Disable Siri,Automate the disabling of Siri on macOS and iOS devices for privacy or compliance reasons.
+Jamf Pro,Configure Bluetooth Settings,Automatically restrict or manage Bluetooth connections on managed devices.
+Jamf Pro,Push Notifications to Users,Automate the sending of custom notifications to end-users through Jamf Pro.
+Jamf Pro,Monitor Application Usage,Automatically track and report on application usage to ensure compliance with licensing policies.
+Jamf Pro,Configure Network Shares,Automate the mapping of network shares for macOS users.
+Jamf Pro,Deploy Language Packs,Automatically deploy and configure language packs for multilingual users.
+Jamf Pro,Configure iOS App Restrictions,Automatically deploy app restrictions on iOS devices to prevent unapproved app installations.
+Jamf Pro,Automate Lost Mode for iOS Devices,Enable Lost Mode on iOS devices to locate or secure them remotely.
+Jamf Pro,Wipe Lost or Stolen Devices,Automate the remote wiping of lost or stolen devices to protect sensitive data.
+Jamf Pro,Deploy Backup Solutions,Automate the installation and configuration of backup solutions on macOS devices.
+Jamf Pro,Configure Automatic Software Updates,Enable and enforce automatic updates for macOS and iOS devices.
+Jamf Pro,Deploy Certificate Configurations,Automate the deployment of digital certificates for secure communication and authentication.
+Jamf Pro,Monitor Compliance with Security Baselines,Automatically track compliance with organizational security standards and take remediation actions.
+Jamf Pro,Restrict AirDrop Use,Automatically restrict or disable AirDrop on macOS and iOS devices.
+Jamf Pro,Deploy Custom Fonts,Automate the distribution of company-approved fonts to macOS devices.
+Jamf Pro,Configure Parental Controls,Automate the deployment of parental control settings for educational institutions.
+Jamf Pro,Configure Proxy Settings,Automatically deploy proxy configurations to macOS and iOS devices.
+Jamf Pro,Deploy Classroom Management Tools,Automate the deployment of tools like Jamf School or Apple Classroom for teachers.
+Jamf Pro,Configure Time Machine Backup,Automate the setup of Time Machine backup configurations for macOS users.
+Jamf Pro,Deploy Anti-Malware Software,Automate the deployment of anti-malware applications to protect macOS devices.
+Jamf Pro,Restrict iCloud Access,Automatically restrict access to iCloud services on managed devices.
+Jamf Pro,Track Warranty Information,Automatically collect and report on warranty status for all managed devices.
+Jamf Pro,Enforce Screen Sharing Restrictions,Automatically enforce restrictions on screen sharing for privacy reasons.
+Jamf Pro,Deploy Anti-Phishing Tools,Automate the deployment of anti-phishing browser plugins or tools.
+Jamf Pro,Configure Single Sign-On (SSO),Automate the deployment of SSO configurations for macOS and iOS devices.
+Jamf Pro,Configure Content Filters,Automatically deploy content filtering profiles to restrict access to inappropriate or non-compliant websites.
+Jamf Pro,Restrict Game Center Access,Automatically restrict access to Game Center on iOS devices.
+Jamf Pro,Monitor Device Storage Utilization,Automate the monitoring of storage usage on macOS and iOS devices and send alerts for low storage.
+Jamf Pro,Deploy Employee Onboarding Packages,"Automate the deployment of apps, configurations, and settings for new employees."
+Jamf Pro,Configure,

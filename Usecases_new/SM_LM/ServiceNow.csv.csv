@@ -1,0 +1,76 @@
+Category,Short Description,Description
+ServiceNow,Incident Creation Automation,Automate the creation of incidents based on incoming email requests or monitoring tool alerts.
+ServiceNow,Incident Assignment Rules,Automate the assignment of incidents to appropriate teams or individuals based on predefined criteria.
+ServiceNow,SLA Breach Alerts,Automate notifications to stakeholders when an SLA is about to breach.
+ServiceNow,Priority Auto-Adjustment,Automate the adjustment of incident priority based on impact and urgency.
+ServiceNow,Incident Closure Verification,Automate verification that all required fields and resolution notes are completed before closing incidents.
+ServiceNow,Incident Escalation,Automate the escalation of incidents to higher-level support tiers if resolution deadlines are missed.
+ServiceNow,Problem Management Automation,Automate the creation of problem records for recurring incidents.
+ServiceNow,Change Request Creation,Automate the creation of change requests triggered by incidents or planned maintenance.
+ServiceNow,Change Approval Workflow,Automate change request approval workflows with notifications to approvers and reminders.
+ServiceNow,CAB Meeting Scheduling,Automate the scheduling of Change Advisory Board (CAB) meetings and sending calendar invites.
+ServiceNow,Knowledge Article Creation,Automate generating knowledge base articles from resolved incidents or problems.
+ServiceNow,Knowledge Article Expiry Review,Automate notifications for knowledge articles nearing review or expiration dates.
+ServiceNow,Request Fulfillment,"Automate the fulfillment of standard service requests, such as granting access to systems."
+ServiceNow,Catalog Item Creation,Automate the creation of new catalog items with predefined attributes.
+ServiceNow,User Onboarding Workflow,"Automate the onboarding process for new employees, including account creation, access provisioning, and hardware allocation."
+ServiceNow,User Offboarding Workflow,"Automate the offboarding process for employees, such as disabling accounts and reclaiming assets."
+ServiceNow,Access Request Approvals,Automate approval workflows for user access requests to applications or systems.
+ServiceNow,Password Reset Automation,Automate password reset requests through self-service or triggered workflows.
+ServiceNow,Asset Management Updates,"Automate the updating of asset records when items are provisioned, returned, or decommissioned."
+ServiceNow,CMDB Data Import,Automate the import of Configuration Management Database (CMDB) data from external sources.
+ServiceNow,CMDB Data Reconciliation,Automate the reconciliation of duplicate CMDB records to ensure data accuracy.
+ServiceNow,CMDB Audit Reports,Automate the generation of CMDB audit reports to identify inconsistencies.
+ServiceNow,Service Level Agreement (SLA) Monitoring,"Automate SLA tracking and reporting for incidents, changes, and requests."
+ServiceNow,Scheduled Maintenance Notifications,Automate sending notifications to stakeholders about upcoming scheduled maintenance windows.
+ServiceNow,Service Catalog Maintenance,Automate the updating and versioning of service catalog items.
+ServiceNow,Workflow Approvals,Automate the approval process for workflows involving multiple stakeholders.
+ServiceNow,Event Correlation,Automate the correlation of multiple events into a single incident to reduce ticket volume.
+ServiceNow,Real-Time Monitoring Integration,Automate the integration of monitoring tools like Nagios or Zabbix to create incidents in real-time.
+ServiceNow,Patch Management,Automate patch requests and approvals for servers and applications.
+ServiceNow,Software License Tracking,Automate tracking and reporting on software license usage and compliance.
+ServiceNow,License Renewal Reminders,Automate reminders for upcoming software license renewals.
+ServiceNow,Hardware Inventory Updates,Automate updates to hardware inventory records when assets are added or removed.
+ServiceNow,Cost Allocation Reports,Automate the generation of cost reports for IT services and assets.
+ServiceNow,Vendor Management Updates,"Automate vendor record updates, such as contact information or contract details."
+ServiceNow,Contract Expiry Notifications,Automate notifications for contracts nearing expiration.
+ServiceNow,Service Desk Ticket Prioritization,Automate prioritization of service desk tickets based on keywords or predefined rules.
+ServiceNow,Shift Handover Reports,Automate the creation of shift handover reports for service desk teams.
+ServiceNow,Performance Analytics Dashboards,Automate the creation of dashboards to track KPIs and other performance metrics.
+ServiceNow,Incident Trend Analysis,Automate the identification of incident trends to address recurring issues.
+ServiceNow,Root Cause Analysis Reporting,Automate the generation of root cause analysis reports for major incidents.
+ServiceNow,Outage Notifications,Automate notifications to all affected users during a service outage.
+ServiceNow,Major Incident Management,"Automate the workflow for managing major incidents, including escalations and communications."
+ServiceNow,Service Health Monitoring,Automate monitoring of service health and generating alerts when thresholds are breached.
+ServiceNow,User Satisfaction Surveys,Automate sending user satisfaction surveys after incident resolution or request fulfillment.
+ServiceNow,Feedback Collection,Automate the collection and analysis of feedback from users about IT services.
+ServiceNow,Self-Service Portal Updates,"Automate the updating of self-service portal content, such as FAQs and announcements."
+ServiceNow,Chatbot Integration,Automate chatbot responses to FAQs and simple service requests using ServiceNow Virtual Agent.
+ServiceNow,Email Parsing for Ticket Creation,Automate parsing incoming emails to create incidents or service requests.
+ServiceNow,Knowledge Search Analytics,Automate analyzing knowledge base search terms to identify gaps in content.
+ServiceNow,Auto-Resolution of Repeat Incidents,Automate resolution of repetitive incidents using predefined scripts or workflows.
+ServiceNow,Dynamic Approval Groups,Automate the assignment of approval tasks to dynamic groups based on incident context.
+ServiceNow,Risk Assessment Automation,Automate risk assessments for changes or incidents using predefined criteria.
+ServiceNow,Compliance Reporting,Automate the generation of compliance reports for audits and regulatory requirements.
+ServiceNow,Vulnerability Management Integration,Automate the creation of incidents or changes from vulnerability scans.
+ServiceNow,Release Management Workflow Automation,"Automate release workflows, including task creation and approvals."
+ServiceNow,Multi-Factor Authentication Tracking,Automate tracking and reporting on multi-factor authentication adoption.
+ServiceNow,Password Policy Compliance,Automate enforcement of password policies and reporting on compliance.
+ServiceNow,Role-Based Access Reports,Automate the generation of access reports based on user roles and permissions.
+ServiceNow,Application Performance Monitoring Integration,Automate the creation of incidents based on application performance metrics from monitoring tools.
+ServiceNow,Service Mapping,Automate the mapping of IT services to underlying infrastructure components.
+ServiceNow,Service Portfolio Updates,Automate the updating of service portfolio records with new or retired services.
+ServiceNow,Event Notification Customization,Automate customization of alert notifications based on recipient preferences.
+ServiceNow,User Access Reviews,Automate periodic user access reviews to ensure compliance with security policies.
+ServiceNow,Workflow Error Reporting,Automate the reporting of errors in workflows with detailed logs and resolution steps.
+ServiceNow,Incident Aging Reports,Automate reports on aging incidents to identify bottlenecks in resolution.
+ServiceNow,CI Relationship Updates,Automate updates to relationships between configuration items (CIs) in the CMDB.
+ServiceNow,Multi-Language Notifications,Automate sending notifications in multiple languages based on user preferences.
+ServiceNow,Holiday Schedule Updates,Automate updating holiday schedules across workflows and notifications.
+ServiceNow,Escalation Matrix Updates,Automate updating escalation matrices in workflows.
+ServiceNow,Audit Log Analysis,Automate analyzing audit logs for security incidents or unusual activity.
+ServiceNow,Training Record Management,Automate tracking and updating employee training records.
+ServiceNow,License Allocation Automation,Automate the allocation of software licenses to users based on requests.
+ServiceNow,Asset Lifecycle Management,"Automate asset lifecycle workflows, from procurement to decommissioning."
+ServiceNow,Dynamic Reporting,Automate the creation of dynamic reports based on real-time data.
+ServiceNow,API Integration for Third-Party Tools,Autom

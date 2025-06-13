@@ -1,0 +1,88 @@
+Category,Short Description,Description
+Microsoft Azure Virtual Desktop,Centralized Desktop Management,Manage virtual desktops from a centralized Azure portal.
+Microsoft Azure Virtual Desktop,Application Virtualization,Deliver applications without requiring local installations on end-user devices.
+Microsoft Azure Virtual Desktop,Remote Desktop Access,Provide secure remote access to virtual desktops from any location.
+Microsoft Azure Virtual Desktop,Multi-Device Support,"Enable virtual desktop access from PCs, Macs, tablets, and smartphones."
+Microsoft Azure Virtual Desktop,Persistent Desktop Sessions,Maintain personalized user settings and data across multiple sessions.
+Microsoft Azure Virtual Desktop,Non-Persistent Desktop Sessions,Deploy temporary desktop sessions for task-based or shared environments.
+Microsoft Azure Virtual Desktop,Integration with Microsoft 365,Seamlessly integrate with Microsoft 365 apps for enhanced productivity.
+Microsoft Azure Virtual Desktop,Role-Based Access Control,Assign access levels based on user roles to enforce security policies.
+Microsoft Azure Virtual Desktop,GPU-Accelerated Desktops,Support resource-intensive applications with GPU acceleration.
+Microsoft Azure Virtual Desktop,Multi-Session Windows 10/11 Support,Provide multiple users access to Windows 10/11 virtual desktops.
+Microsoft Azure Virtual Desktop,Hybrid Cloud Deployment,Integrate on-premises infrastructure with cloud-based virtual desktops.
+Microsoft Azure Virtual Desktop,Secure End-User Computing,Protect virtual desktop environments with Azure's built-in security features.
+Microsoft Azure Virtual Desktop,Integration with Active Directory,Authenticate users using Azure Active Directory or hybrid AD environments.
+Microsoft Azure Virtual Desktop,BYOD Compatibility,Allow users to securely access desktops using their personal devices.
+Microsoft Azure Virtual Desktop,Dynamic Resource Scaling,Scale virtual desktop resources up or down based on real-time demand.
+Microsoft Azure Virtual Desktop,Session Monitoring and Analytics,Monitor session performance and user activity to optimize resources.
+Microsoft Azure Virtual Desktop,Application Group Management,Group and assign applications to specific user groups.
+Microsoft Azure Virtual Desktop,Unified Workspace Access,"Provide access to desktops, apps, and files in a single interface."
+Microsoft Azure Virtual Desktop,Disaster Recovery for Desktops,Implement disaster recovery plans to ensure business continuity.
+Microsoft Azure Virtual Desktop,Secure File Sharing,Enable secure file sharing and collaboration within virtual desktops.
+Microsoft Azure Virtual Desktop,Endpoint Security Compliance,Ensure endpoint devices meet compliance policies before granting access.
+Microsoft Azure Virtual Desktop,Integration with Azure Backup,Back up virtual desktop data using Azure Backup to prevent data loss.
+Microsoft Azure Virtual Desktop,High Availability for Desktops,Ensure high availability of desktops with Azure’s global infrastructure.
+Microsoft Azure Virtual Desktop,Session Auto-Reconnection,Automatically reconnect users to their sessions after network interruptions.
+Microsoft Azure Virtual Desktop,API-Based Automation,Automate desktop provisioning and management tasks using Azure APIs.
+Microsoft Azure Virtual Desktop,Load Balancing for Sessions,Distribute user sessions across virtual machines for optimal performance.
+Microsoft Azure Virtual Desktop,Secure Desktop Gateway Access,Provide secure access to virtual desktops using Azure Virtual Desktop gateways.
+Microsoft Azure Virtual Desktop,Real-Time Audio and Video Optimization,Optimize audio and video performance for Teams and Zoom in virtual desktops.
+Microsoft Azure Virtual Desktop,Multi-Monitor Support,Allow users to connect multiple monitors for productivity in virtual desktops.
+Microsoft Azure Virtual Desktop,Thin Client Integration,Provide virtual desktop access using lightweight thin-client devices.
+Microsoft Azure Virtual Desktop,Remote Printing Support,Enable users to print documents from virtual desktops to local printers.
+Microsoft Azure Virtual Desktop,Application Entitlement Management,Control which users or groups can access specific applications.
+Microsoft Azure Virtual Desktop,Firewall Integration,Enhance security by integrating with Azure Firewall for traffic monitoring.
+Microsoft Azure Virtual Desktop,Secure Clipboard Redirection,Restrict or secure clipboard transfers between virtual desktops and devices.
+Microsoft Azure Virtual Desktop,Resource Usage Analytics,Generate insights into resource usage to optimize performance and costs.
+Microsoft Azure Virtual Desktop,Secure Data Encryption,Encrypt data at rest and in transit to protect sensitive information.
+Microsoft Azure Virtual Desktop,Windows Server Remote Desktop Services,Deploy virtual desktops using Windows Server for multi-session scenarios.
+Microsoft Azure Virtual Desktop,Scheduled Maintenance Windows,Schedule maintenance tasks for virtual desktops during non-peak hours.
+Microsoft Azure Virtual Desktop,Bandwidth Optimization,Use Azure’s global network to optimize bandwidth for remote users.
+Microsoft Azure Virtual Desktop,Integration with Azure DevOps,Provide developers with secure virtual environments for coding and testing.
+Microsoft Azure Virtual Desktop,Persistent Application Settings,Retain application preferences across user sessions.
+Microsoft Azure Virtual Desktop,Centralized License Management,Manage Microsoft licensing across virtual desktop environments.
+Microsoft Azure Virtual Desktop,User Activity Logging,Track user activity within virtual desktops for auditing purposes.
+Microsoft Azure Virtual Desktop,Integration with Azure Security Center,Enhance security with vulnerability assessments and continuous monitoring.
+Microsoft Azure Virtual Desktop,Power Management for Virtual Desktops,Reduce energy consumption by managing idle virtual desktops.
+Microsoft Azure Virtual Desktop,Context-Aware Policies,"Apply policies based on user location, device type, or network connection."
+Microsoft Azure Virtual Desktop,Remote User Collaboration,Enable remote teams to collaborate securely using shared virtual desktops.
+Microsoft Azure Virtual Desktop,Application Layering,Deliver applications dynamically to desktops without modifying base images.
+Microsoft Azure Virtual Desktop,Secure API Access,Control API access to virtual desktop environments with token-based authentication.
+Microsoft Azure Virtual Desktop,Desktop Image Management,"Create, update, and manage desktop images for consistent deployments."
+Microsoft Azure Virtual Desktop,Real-Time Monitoring Dashboards,Use Azure Monitor to track virtual desktop health and performance.
+Microsoft Azure Virtual Desktop,Integration with Azure Files,Provide seamless file access with Azure Files in virtual environments.
+Microsoft Azure Virtual Desktop,Temporary Desktop Provisioning,Quickly deploy desktops for temporary or contract workers.
+Microsoft Azure Virtual Desktop,Multi-Region Desktop Deployment,Deploy virtual desktops across multiple Azure regions for global teams.
+Microsoft Azure Virtual Desktop,Auto-Scaling Host Pools,Automatically scale host pools based on user demand and resource usage.
+Microsoft Azure Virtual Desktop,Secure Application Isolation,Isolate applications to prevent conflicts or data breaches.
+Microsoft Azure Virtual Desktop,GPU-Optimized Workstations,"Deliver high-performance virtual desktops for CAD, 3D rendering, and simulations."
+Microsoft Azure Virtual Desktop,Integration with Azure Key Vault,Securely manage credentials and encryption keys for virtual desktops.
+Microsoft Azure Virtual Desktop,Intelligent Session Load Distribution,Use AI to balance user sessions across virtual machines.
+Microsoft Azure Virtual Desktop,Integration with Azure Active Directory,Enable single sign-on for seamless authentication.
+Microsoft Azure Virtual Desktop,Temporary Resource Scaling,Scale desktops up or down during seasonal workload peaks.
+Microsoft Azure Virtual Desktop,Real-Time Collaboration Tools Support,Run tools like Teams and Slack smoothly within virtual desktops.
+Microsoft Azure Virtual Desktop,Web-Based Desktop Access,Provide access to virtual desktops through any HTML5-compatible browser.
+Microsoft Azure Virtual Desktop,Multi-Factor Authentication Support,Enable MFA to secure virtual desktop logins.
+Microsoft Azure Virtual Desktop,Secure Remote Workforce Enablement,"Provide remote employees with secure, enterprise-grade virtual desktops."
+Microsoft Azure Virtual Desktop,Integration with Azure Policy,Enforce compliance policies across virtual desktop environments.
+Microsoft Azure Virtual Desktop,Virtual Desktop Cost Optimization,Reduce operational costs by optimizing resource allocation.
+Microsoft Azure Virtual Desktop,Application Usage Analytics,Track application usage to improve resource planning and performance.
+Microsoft Azure Virtual Desktop,Hybrid Identity Management,Use hybrid identity solutions for seamless user authentication.
+Microsoft Azure Virtual Desktop,Integration with Azure Sentinel,Detect and respond to threats with Azure Sentinel in virtual environments.
+Microsoft Azure Virtual Desktop,Automated User Provisioning,Automatically create user accounts for virtual desktop access.
+Microsoft Azure Virtual Desktop,Contextual Application Delivery,"Deliver applications based on user roles, location, or devices."
+Microsoft Azure Virtual Desktop,BYOD Security Enforcement,Enforce security policies for employees using personal devices.
+Microsoft Azure Virtual Desktop,Secure External Contractor Access,Provide contractors with secure access to virtual desktops.
+Microsoft Azure Virtual Desktop,Desktop Backup and Restore,Back up desktop environments to Azure Recovery Services for easy restoration.
+Microsoft Azure Virtual Desktop,Desktop Pool Management,Manage groups of desktops for different teams or departments.
+Microsoft Azure Virtual Desktop,Flexible Application Scaling,Scale applications dynamically to meet user demands.
+Microsoft Azure Virtual Desktop,Integration with Azure Logic Apps,Automate workflows for virtual desktop environments.
+Microsoft Azure Virtual Desktop,AI-Based Virtual Desktop Optimization,Use AI to optimize virtual desktop performance and resource allocation.
+Microsoft Azure Virtual Desktop,Secure Network Configuration,Use Azure networking tools to segment and secure desktop environments.
+Microsoft Azure Virtual Desktop,Desktop Performance Alerts,Receive real-time alerts for performance issues across virtual desktops.
+Microsoft Azure Virtual Desktop,Time-Zone-Specific Desktop Provisioning,Deploy desktops tailored to users in different time zones.
+Microsoft Azure Virtual Desktop,Resource Quota Management,Monitor and enforce resource quotas for virtual desktop environments.
+Microsoft Azure Virtual Desktop,Integration with Azure Virtual Network,Connect virtual desktops to secure Azure Virtual Networks.
+Microsoft Azure Virtual Desktop,Desktop Image Versioning,Maintain version history for desktop images to roll back changes if needed.
+Microsoft Azure Virtual Desktop,Licensing Compliance Tracking,Ensure compliance with Microsoft licensing requirements for virtual desktops.
+Microsoft Azure Virtual Desktop,Centralized Application Monitoring,Track application performance across all virtual desktop environments.

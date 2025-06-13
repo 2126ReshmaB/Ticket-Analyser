@@ -1,0 +1,69 @@
+Category,Short Description,Description
+Frill,Auto-create feature requests,Automatically create feature requests in Frill from customer feedback submitted via forms or emails.
+Frill,Notify team of new ideas,Send automated notifications to team members when a new idea is submitted in Frill.
+Frill,Sync Frill ideas with Jira,Automatically create Jira tickets for new ideas submitted in Frill to streamline development workflows.
+Frill,Aggregate similar ideas,Automatically group similar ideas submitted in Frill to avoid duplication and streamline prioritization.
+Frill,Auto-prioritize ideas,Use a script to prioritize ideas based on the number of votes or tags.
+Frill,Send thank-you emails to contributors,Automatically send personalized thank-you emails to users who submit new ideas.
+Frill,Auto-tag ideas,Dynamically assign tags to new ideas based on keywords or content in the submission.
+Frill,Export ideas to Google Sheets,Automatically export ideas and feedback from Frill to Google Sheets for external analysis.
+Frill,Sync feedback with CRM,Push feedback and ideas from Frill into CRM tools like Salesforce or HubSpot to enhance customer profiles.
+Frill,Auto-update idea status,"Automatically change the status of ideas (e.g., ""planned,"" ""in progress"") based on updates in development tools like Trello or Jira."
+Frill,Notify users about idea updates,Send automated notifications to users when the status of their submitted idea changes.
+Frill,Create Slack notifications,Automatically notify specific Slack channels whenever a new idea or update is added to Frill.
+Frill,Generate weekly idea reports,"Automatically generate and email weekly reports summarizing new ideas, feedback, and votes."
+Frill,Auto-close stale ideas,Automatically close ideas that haven’t had any activity for a specific period of time.
+Frill,Integrate with Trello,Push approved ideas from Frill into Trello as cards for team collaboration.
+Frill,Monitor high-voted ideas,Track ideas with the highest number of votes and trigger alerts for product managers to review.
+Frill,Auto-respond to duplicate ideas,"Automatically send a response to users when they submit duplicate ideas, linking them to the original idea."
+Frill,Conduct sentiment analysis,Use scripts to analyze sentiment in feedback and ideas to better understand user needs.
+Frill,Sync with Notion,Automatically create pages in Notion for ideas and feedback submitted in Frill.
+Frill,Export feedback to CSV,Export feedback and ideas to a CSV file for offline processing and analysis.
+Frill,Auto-create product roadmap visuals,Use scripts to generate product roadmap visuals based on the status of ideas in Frill.
+Frill,Notify product team of high-priority items,Automatically notify the product team when high-priority ideas are submitted or updated.
+Frill,Auto-translate ideas,Use translation APIs to automatically translate ideas or feedback into multiple languages.
+Frill,Integrate with Power BI,Push Frill data into Power BI to create advanced analytics dashboards.
+Frill,Auto-assign ideas to teams,Automatically assign new ideas to specific teams or individuals based on tags or categories.
+Frill,Track duplicate submissions,Automatically identify and track duplicate submissions to maintain a clean idea backlog.
+Frill,Auto-share updates on social media,Automatically post idea updates or product changes to social media platforms like Twitter or LinkedIn.
+Frill,Sync with Intercom,Integrate Frill with Intercom to collect and sync user feedback directly into Frill.
+Frill,Auto-send NPS surveys,Trigger NPS surveys automatically after a user submits an idea or feedback.
+Frill,Auto-prioritize bug reports,Automatically prioritize bug reports submitted in Frill based on the number of votes or impact.
+Frill,Integrate with ClickUp,Push ideas into ClickUp as tasks for better workflow integration.
+Frill,Notify stakeholders of roadmap changes,Automatically notify stakeholders when the product roadmap is updated based on idea statuses in Frill.
+Frill,Export roadmap to Excel,Automatically export the product roadmap from Frill to an Excel sheet for offline sharing.
+Frill,Monitor customer engagement,Automatically track customer engagement with ideas submitted in Frill and generate reports.
+Frill,Auto-create GitHub issues,Automatically create GitHub issues from bug reports or feature requests submitted in Frill.
+Frill,Auto-group ideas by region,Automatically group ideas or feedback based on the geographic location of users.
+Frill,Create custom thank-you pages,Dynamically generate personalized thank-you pages for users after submitting ideas.
+Frill,Notify users of implemented features,Automatically notify users when a feature they requested has been implemented.
+Frill,Auto-filter spam submissions,Use scripts to filter and flag spam ideas or feedback submissions for review.
+Frill,Auto-update Confluence pages,Sync Frill updates to Confluence pages for centralized documentation.
+Frill,Track idea progress,Automatically generate progress reports for submitted ideas and share them with contributors.
+Frill,Auto-assign feedback to customer advocates,Assign specific feedback to customer advocacy teams based on user importance or priority.
+Frill,Generate heatmaps of idea submissions,Create heatmaps showing the geographic distribution of idea submissions.
+Frill,Auto-sort ideas by category,Automatically organize ideas into predefined categories for easier management.
+Frill,Auto-update Zendesk tickets,"Sync Frill feedback with Zendesk, updating tickets as ideas progress."
+Frill,Auto-create Asana tasks,Push ideas or feedback into Asana as tasks to improve team collaboration.
+Frill,Generate quarterly feedback summaries,Automatically generate quarterly reports summarizing trends in feedback and ideas.
+Frill,Integrate with Airtable,Sync Frill idea and feedback data with Airtable for advanced tracking and categorization.
+Frill,Auto-respond to feedback,Send automated responses to users based on the type of feedback they submit.
+Frill,Monitor unresolved ideas,Automatically track unresolved ideas and generate weekly reports for the product team.
+Frill,Auto-create customer success tasks,Generate tasks for customer success teams based on feedback submitted in Frill.
+Frill,Auto-tag high-priority feedback,Automatically tag feedback as high-priority based on customer impact or frequency.
+Frill,Update customer personas,Use feedback to automatically update customer personas and profiles in Frill.
+Frill,Auto-link similar ideas,Automatically link similar ideas to provide users with better context and avoid redundancy.
+Frill,Auto-create milestone updates,Automatically create milestone updates in project management tools based on idea progress.
+Frill,Auto-export feedback to JSON,Export feedback data to JSON format for integration with external systems.
+Frill,Auto-create surveys,Automatically generate follow-up surveys for users based on submitted feedback.
+Frill,Notify users about voting trends,Send notifications to users about trends in voting activity for their submitted ideas.
+Frill,Auto-update Mailchimp lists,Sync user data from Frill with Mailchimp to update mailing lists automatically.
+Frill,Generate idea word clouds,Create word clouds from idea titles and descriptions to visualize trends in submissions.
+Frill,Auto-create reports in Tableau,Push idea and feedback data into Tableau for advanced visualization and analysis.
+Frill,Auto-track voting activity,Automatically track and report on voting activity trends in Frill.
+Frill,Auto-update feature adoption metrics,Track and update feature adoption metrics based on user engagement in Frill.
+Frill,Auto-prioritize customer ideas,Automatically prioritize ideas submitted by high-value customers.
+Frill,Integrate with Microsoft Teams,Send notifications to Microsoft Teams channels for new ideas or updates in Frill.
+Frill,Generate monthly roadmap summaries,Automatically create and share monthly summaries of the product roadmap with stakeholders.
+Frill,Auto-sync with Dropbox,Save Frill idea and feedback data automatically into Dropbox for archival purposes.
+Frill,Auto-track idea implementation timelines,Monitor timelines for implementing ideas and generate automated

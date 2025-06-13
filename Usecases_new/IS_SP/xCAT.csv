@@ -1,0 +1,73 @@
+Category,Short Description,Description
+xCAT,Bare-metal provisioning,Automate the provisioning of bare-metal servers with operating systems and initial configurations.
+xCAT,Diskful provisioning,Deploy operating systems on servers with local disk storage using xCAT's diskful provisioning method.
+xCAT,Diskless provisioning,Automate the provisioning of diskless nodes that boot and operate entirely from the network.
+xCAT,Stateless provisioning,Configure and provision stateless nodes that use shared resources for their operating systems.
+xCAT,OS image management,"Automate the creation, management, and deployment of operating system images for cluster nodes."
+xCAT,Network boot setup,Configure PXE boot environments for network-based OS installations.
+xCAT,Hierarchical cluster management,"Manage large-scale clusters with hierarchical management, including service nodes for scalability."
+xCAT,Node discovery,Automate the discovery of new nodes in the cluster using xCAT's hardware detection capabilities.
+xCAT,Remote power management,"Control the power state of nodes (on, off, reboot) remotely using xCAT's `rpower` command."
+xCAT,Remote console access,Access node consoles remotely using xCAT's `rcons` feature for troubleshooting and management.
+xCAT,Firmware updates,Automate firmware updates for nodes using xCAT's `rflash` command.
+xCAT,Hardware inventory,Retrieve detailed hardware inventory information from nodes using xCAT's `rinv` command.
+xCAT,Hardware monitoring,Monitor hardware vitals such as temperature and fan speed using xCAT's `rvitals` command.
+xCAT,Event log management,Access and manage hardware event logs using xCAT's `reventlog` command.
+xCAT,Service processor configuration,Configure service processors remotely using xCAT's `rspconfig` command.
+xCAT,DHCP server configuration,Automate the setup and management of DHCP servers for IP address allocation.
+xCAT,DNS server configuration,Configure DNS servers to register and resolve hostnames for cluster nodes.
+xCAT,VLAN configuration,Automate the setup of VLANs for network segmentation and traffic isolation.
+xCAT,Network bonding setup,Configure network interface bonding for redundancy and increased bandwidth.
+xCAT,InfiniBand network setup,Automate the configuration of InfiniBand networks for high-speed interconnects in HPC environments.
+xCAT,GPU resource management,"Manage GPU resources in nodes, including driver installation and configuration."
+xCAT,Storage provisioning,"Automate the provisioning of storage resources, including RAID configurations and shared storage."
+xCAT,Cluster scaling,Add or remove nodes from the cluster dynamically to scale resources as needed.
+xCAT,Multi-architecture support,"Manage clusters with mixed hardware architectures, such as x86\_64 and Power."
+xCAT,Multi-OS support,"Provision and manage nodes running different operating systems, such as Red Hat, Ubuntu, and CentOS."
+xCAT,Role-based access control,Implement role-based access control to manage user permissions for xCAT operations.
+xCAT,RESTful API integration,Use xCAT's RESTful API to integrate with other tools and automate workflows programmatically.
+xCAT,Configuration management integration,"Integrate xCAT with tools like Ansible, Puppet, or Chef for configuration management."
+xCAT,Monitoring tool integration,Integrate xCAT with monitoring tools like Nagios or Prometheus for real-time cluster monitoring.
+xCAT,Compliance enforcement,Automate compliance checks and enforce security policies across the cluster.
+xCAT,Kernel parameter customization,Customize kernel parameters during OS provisioning for performance tuning.
+xCAT,BIOS configuration,Automate BIOS settings configuration for nodes using xCAT's hardware management features.
+xCAT,UEFI boot support,Configure and support UEFI-based provisioning for modern hardware.
+xCAT,Secure boot integration,Automate the setup of Secure Boot for enhanced system security during provisioning.
+xCAT,High availability setup,"Automate the configuration of high availability clusters, including failover mechanisms."
+xCAT,Load balancer provisioning,Provision and configure load balancers for traffic distribution across nodes.
+xCAT,Centralized logging setup,Automate the deployment of centralized logging systems like ELK Stack for cluster logs.
+xCAT,Time synchronization,Configure NTP or Chrony for time synchronization across all cluster nodes.
+xCAT,SSH key deployment,Automate the deployment of SSH keys to nodes for secure access.
+xCAT,Certificate management,"Automate SSL/TLS certificate creation, deployment, and renewal for secure communication."
+xCAT,Software package installation,Install and manage software packages on nodes during provisioning.
+xCAT,Security hardening,Automate OS security hardening using predefined scripts during provisioning.
+xCAT,Backup automation,Automate the backup of critical data and configurations in the cluster.
+xCAT,Disaster recovery setup,Configure disaster recovery environments for business continuity.
+xCAT,Multi-cloud integration,Manage hybrid or multi-cloud environments using xCAT's provisioning and management capabilities.
+xCAT,DevOps pipeline integration,Integrate xCAT with CI/CD pipelines for automated infrastructure provisioning.
+xCAT,Application server provisioning,Automate the setup of application servers with required dependencies and configurations.
+xCAT,Database server provisioning,"Provision database servers with pre-configured settings for MySQL, PostgreSQL, or MongoDB."
+xCAT,Web server provisioning,"Automate the deployment of web servers like Apache, Nginx, or Tomcat."
+xCAT,Monitoring agent deployment,Deploy monitoring agents like Zabbix or Datadog during node provisioning.
+xCAT,RAID configuration automation,Automate RAID setup during provisioning for improved storage performance or redundancy.
+xCAT,Host tagging,Use tags to categorize and manage nodes for better organization and reporting.
+xCAT,Resource usage reporting,Generate reports for resource usage across the cluster using xCAT's reporting tools.
+xCAT,Compliance reporting,Generate compliance reports to ensure nodes meet organizational policies and standards.
+xCAT,Snapshot management,Automate the creation and management of VM snapshots for backups and rollbacks.
+xCAT,Network topology visualization,Generate network topology diagrams for managed nodes and networks.
+xCAT,IPv6 provisioning support,Automate the provisioning of nodes with IPv6 configurations.
+xCAT,Proxy server configuration,Configure proxy servers during node provisioning for secure and filtered internet access.
+xCAT,Multi-tenant provisioning,Manage provisioning for multiple tenants or organizations using xCAT profiles.
+xCAT,API-driven provisioning,Automate provisioning workflows using xCAT’s REST API.
+xCAT,Edge computing provisioning,Automate edge computing environment setups for low-latency workloads.
+xCAT,IoT device provisioning,Automate the provisioning of IoT devices with Linux-based operating systems.
+xCAT,System health check automation,Perform health checks on provisioned systems to ensure proper configuration.
+xCAT,Host decommissioning,Automate the decommissioning of outdated or unused systems.
+xCAT,Host re-provisioning,Re-provision existing nodes with updated configurations or operating systems.
+xCAT,Host status notifications,"Send automated alerts for host status changes, such as failures or configuration drift."
+xCAT,Multi-region infrastructure management,Manage infrastructure across multiple geographical regions from a single xCAT instance.
+xCAT,Compliance policy enforcement,Automate the enforcement of compliance policies using xCAT’s configuration management tools.
+xCAT,Logging policy enforcement,Enforce logging policies for all nodes by managing log configurations.
+xCAT,Resource cleanup automation,Automate the cleanup of unused or orphaned resources to optimize costs.
+xCAT,Multi-environment management,"Manage multiple environments (e.g., dev, staging, production) and their associated configurations through xCAT."
+xCAT,Host lifecycle tracking,"Track the complete lifecycle of nodes, from provisioning to retirement."

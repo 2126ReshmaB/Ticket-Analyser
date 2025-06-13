@@ -1,0 +1,50 @@
+Category,Short Description,Description
+AlienVault OSSIM,Monitor Network Performance,Track network performance metrics and alert on significant drops in performance or service availability.
+AlienVault OSSIM,Detect Rogue Applications,Monitor application logs for unauthorized or rogue applications running on endpoints and alert administrators.
+AlienVault OSSIM,Monitor API Access,Track and analyze API access logs for unauthorized access or abuse of services.
+AlienVault OSSIM,Audit Configuration Changes,Monitor configuration changes across systems and devices for unauthorized modifications.
+AlienVault OSSIM,Detect Suspicious Login Patterns,"Analyze authentication logs for unusual login patterns, such as logins from multiple locations in a short time."
+AlienVault OSSIM,Monitor File Access Patterns,Track file access patterns to detect potential data exfiltration attempts or unauthorized access to sensitive files.
+AlienVault OSSIM,Detect Vulnerable Software,Monitor installed software versions against known vulnerabilities and alert when vulnerable software is detected.
+AlienVault OSSIM,Automate Security Incident Response,"Develop scripts to automate response actions based on alerts, such as isolating affected systems or blocking IPs."
+AlienVault OSSIM,Monitor Endpoint Antivirus Logs,Analyze antivirus logs for signs of malware detection and alert on significant threats.
+AlienVault OSSIM,Detect Credential Dumping Attempts,Monitor logs for attempts to access or dump credentials from memory or local storage.
+AlienVault OSSIM,Monitor Proxy Logs,Analyze proxy logs for signs of data leakage or unauthorized access attempts.
+AlienVault OSSIM,Detect Network Configuration Violations,Monitor network devices for configuration changes that violate established security policies.
+AlienVault OSSIM,Monitor for Unusual System Calls,Track system call logs for unusual or suspicious activity that may indicate exploitation attempts.
+AlienVault OSSIM,Detect Data Interception,Monitor network traffic for signs of data interception or man-in-the-middle attacks.
+AlienVault OSSIM,Automate Incident Reporting,Create automated reports for security incidents based on collected log data and alerts.
+AlienVault OSSIM,Monitor Access to Sensitive Data,Track access to sensitive data repositories and alert on unauthorized access attempts.
+AlienVault OSSIM,Detect Unusual Traffic Patterns,"Analyze traffic patterns for anomalies, such as spikes in traffic or unusual connection attempts."
+AlienVault OSSIM,Monitor User Behavior,Analyze user behavior patterns to detect anomalies that may indicate compromised accounts or insider threats.
+AlienVault OSSIM,Detect Anomalous Login Locations,Alert on user logins from geographic locations that do not match expected behavior.
+AlienVault OSSIM,Monitor Network Bandwidth Usage,Track network bandwidth usage by IP address and alert on excessive usage that may indicate a DDoS attack or data exfiltration.
+AlienVault OSSIM,Detect Unauthorized Changes to Security Policies,Monitor changes to security policies and alert on any unauthorized modifications.
+AlienVault OSSIM,Monitor Web Application Logs,Analyze web application logs for signs of exploitation or unauthorized access attempts.
+AlienVault OSSIM,Detect Credential Theft Attempts,Monitor logs for access to credential stores or attempts to retrieve passwords.
+AlienVault OSSIM,Track System Patch Levels,Monitor and report on system patch levels to ensure systems are kept up-to-date with security patches.
+AlienVault OSSIM,Monitor Network Interface Changes,Detect changes to network interface configurations and alert on unauthorized modifications.
+AlienVault OSSIM,Automate Log Archiving,Create scripts to automatically archive and manage log data based on retention policies.
+AlienVault OSSIM,Monitor for Insider Trading,Track financial transactions and communications for signs of insider trading or market manipulation.
+AlienVault OSSIM,Detect Unauthorized Data Sharing,Monitor file shares for unauthorized sharing of sensitive data between users.
+AlienVault OSSIM,Monitor Third-Party Service Access,Track access to third-party services and APIs to ensure compliance with security policies.
+AlienVault OSSIM,Automate User Account Reviews,Schedule regular reviews of user accounts and permissions to ensure compliance with least privilege principles.
+AlienVault OSSIM,Detect Misconfigured Firewall Rules,Monitor firewall logs for signs of misconfigured rules or unauthorized changes that may expose the network to threats.
+AlienVault OSSIM,Monitor System Resource Utilization,Track system resource utilization metrics to detect potential resource exhaustion or malicious activity.
+AlienVault OSSIM,Detect Anomalous Database Queries,Monitor database logs for unusual query patterns that may indicate exploitation attempts or unauthorized access.
+AlienVault OSSIM,Monitor for Unauthorized Software Changes,Track software installation and removal events to detect unauthorized changes to system configurations.
+AlienVault OSSIM,Detect High-Risk User Behavior,"Monitor high-risk user behavior, such as accessing sensitive data during unusual hours or from unusual locations."
+AlienVault OSSIM,Monitor for Unauthorized Changes to ACLs,Track changes to Access Control Lists (ACLs) and alert on unauthorized modifications.
+AlienVault OSSIM,Detect Unusual Network Protocol Usage,"Monitor for unexpected network protocols being used within the organization, indicating potential misuse."
+AlienVault OSSIM,Automatically Update Detection Rules,Schedule regular updates to detection rules based on the latest threat intelligence and vulnerability advisories.
+AlienVault OSSIM,Monitor for Signs of Data Tampering,Track changes to data files and alert on unauthorized modifications that may indicate tampering.
+AlienVault OSSIM,Detect Unusual Service Behavior,"Monitor service logs for unusual behavior, such as restarts, failures, or unexpected downtime, that may indicate compromise."
+AlienVault OSSIM,Monitor for Suspicious API Calls,Analyze API access logs for unusual patterns or unauthorized access attempts.
+AlienVault OSSIM,Monitor System Backup Integrity,Track backup operations for failures or anomalies and alert when backups are not completed successfully.
+AlienVault OSSIM,Detect Suspicious Client-Server Communication,Analyze communication between clients and servers for unusual or unauthorized activity.
+AlienVault OSSIM,Monitor for Reverse Shell Activity,Detect signs of reverse shell traffic attempting to connect back to external servers and alert security teams.
+AlienVault OSSIM,Automate Incident Playbooks,Create automated playbooks for common incident response scenarios to streamline the investigation and response process.
+AlienVault OSSIM,Monitor for Phishing URLs,Track web traffic for access to known phishing URLs and alert on user interactions with such sites.
+AlienVault OSSIM,Detect Unusual File Permissions,Monitor file permission changes for sensitive files and alert on unauthorized modifications.
+AlienVault OSSIM,Monitor for Suspicious Registry Changes,Track changes to system registry keys on Windows systems for unauthorized modifications that may indicate compromise.
+AlienVault OSSIM,Monitor External USB Device Connections,Track USB device connections to endpoints and alert on unauthorized devices being connected.

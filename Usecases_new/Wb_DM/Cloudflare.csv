@@ -1,0 +1,91 @@
+Category,Short Description,Description
+Cloudflare,DNS Management,Manage DNS records for your domains securely and efficiently.
+Cloudflare,DDoS Attack Mitigation,Protect websites from distributed denial-of-service (DDoS) attacks.
+Cloudflare,Content Delivery Network (CDN),Use the CDN to speed up content delivery across the globe.
+Cloudflare,SSL/TLS Certificate Management,Enable SSL/TLS to encrypt traffic and secure data transmission.
+Cloudflare,Web Application Firewall (WAF),Protect applications from malicious traffic using the WAF.
+Cloudflare,IP Address Blocking,Block specific IPs to prevent unwanted access to your website.
+Cloudflare,Page Rules Setup,Configure page rules to optimize performance or apply specific settings.
+Cloudflare,Load Balancing,Distribute traffic across multiple servers to ensure high availability.
+Cloudflare,Caching Configuration,Cache website content to improve speed and reduce server load.
+Cloudflare,Rate Limiting,Limit the number of requests from specific IPs to prevent abuse.
+Cloudflare,Bot Management,Detect and mitigate harmful bot traffic while allowing helpful bots.
+Cloudflare,Analytics Dashboard,"View detailed analytics for traffic, threats, and performance improvements."
+Cloudflare,DNSSEC Configuration,Protect domains from DNS spoofing by enabling DNSSEC.
+Cloudflare,Domain Registrar Integration,Register or transfer domains with Cloudflare Registrar for enhanced security.
+Cloudflare,Free SSL Certificates,Issue free SSL certificates for encrypted connections.
+Cloudflare,Firewall Rules Customization,Create custom firewall rules to allow or block specific requests.
+Cloudflare,Origin Server Protection,Hide your origin server’s IP address to prevent direct attacks.
+Cloudflare,HTTP/3 Protocol Support,Enable HTTP/3 to improve website loading speed and latency.
+Cloudflare,Image Optimization,Automatically compress and optimize images for faster loading.
+Cloudflare,Mobile Optimization,Improve website performance for mobile users with tailored optimizations.
+Cloudflare,Access Control via IP Whitelisting,Allow only certain IPs to access specific parts of your website.
+Cloudflare,Zero Trust Security,Secure internal applications with a zero-trust network security model.
+Cloudflare,Argo Smart Routing,Optimize routing paths to reduce latency and improve website performance.
+Cloudflare,Always Online Backup,Serve cached versions of your site if the origin server goes offline.
+Cloudflare,Cache Purging,Instantly clear cached content from Cloudflare’s network when updates are made.
+Cloudflare,CNAME Flattening,Simplify DNS configuration for root domains with CNAME flattening.
+Cloudflare,Automatic HTTPS Rewrites,Automatically rewrite HTTP links to HTTPS to improve security.
+Cloudflare,Custom Error Pages,Create branded error pages to improve user experience during outages.
+Cloudflare,API Gateway Protection,Secure and monitor API endpoints from malicious attacks.
+Cloudflare,Workers for Serverless Computing,Run JavaScript code on Cloudflare’s edge network with Workers.
+Cloudflare,Bandwidth Usage Monitoring,Monitor bandwidth usage to identify potential overages or abuse.
+Cloudflare,Email Address Obfuscation,Protect email addresses on websites from spam bots.
+Cloudflare,Hotlink Protection,Prevent other websites from linking directly to your images or files.
+Cloudflare,WebSockets Support,Enable WebSockets for real-time communication applications.
+Cloudflare,Threat Intelligence Feeds,Use threat intelligence feeds to block known malicious IPs.
+Cloudflare,Captcha Challenge for Threats,Present captchas to visitors flagged as potential threats.
+Cloudflare,Device Type Targeting,"Serve different content based on device type (e.g., mobile, desktop)."
+Cloudflare,Multi-Site Management,Manage multiple domains and configurations from a single dashboard.
+Cloudflare,Stream Video Hosting,Host and deliver video content with built-in encoding and delivery optimizations.
+Cloudflare,IP Geolocation Filtering,Block or allow traffic based on geographic location.
+Cloudflare,Secure DNS Queries with 1.1.1.1,Use Cloudflare’s DNS resolver to secure and speed up your DNS queries.
+Cloudflare,Firewall Event Logging,Log firewall events to track and analyze security incidents.
+Cloudflare,Multi-Factor Authentication (MFA),Secure your Cloudflare account with additional authentication layers.
+Cloudflare,Redirect Rules,Configure 301 or 302 redirects directly in the Cloudflare dashboard.
+Cloudflare,Zone-Level Analytics,View traffic and threat data for individual zones or domains.
+Cloudflare,Enterprise Plan Features,Access advanced features like dedicated IPs and prioritized support.
+Cloudflare,Cache Analytics,Analyze cache performance to identify further optimization opportunities.
+Cloudflare,IPv6 Compatibility,Enable IPv6 to ensure compatibility with modern internet standards.
+Cloudflare,Dynamic Content Acceleration,Speed up the delivery of dynamic content with advanced routing.
+Cloudflare,Domain Transfer Lock,Lock domains to prevent unauthorized registrar transfers.
+Cloudflare,Brute Force Attack Protection,Block repeated login attempts to prevent brute force attacks.
+Cloudflare,Cloudflare Tunnel for Secure Access,"Create secure, encrypted tunnels to your origin server."
+Cloudflare,Origin Shield for Caching,Use an additional cache layer to reduce origin server load.
+Cloudflare,Managed Rulesets,Deploy pre-configured WAF rulesets for faster protection.
+Cloudflare,Automatic Cache Level Detection,Automatically adjust cache levels based on website needs.
+Cloudflare,Rate Limit Analytics,View analytics for rate-limited traffic to identify abusive patterns.
+Cloudflare,Worker KV Storage,Use key-value storage for serverless applications with Workers.
+Cloudflare,JavaScript Minification,Minify JavaScript files to reduce file size and improve load times.
+Cloudflare,CSS and HTML Minification,Automatically compress CSS and HTML files for faster page loads.
+Cloudflare,Browser Insights,Monitor browser performance metrics like load time and page rendering.
+Cloudflare,Zone Transfer for DNS,Transfer DNS zones securely between Cloudflare and other providers.
+Cloudflare,API Access Control,Control access to APIs with token-based authentication.
+Cloudflare,Image Resizing,Resize images on the fly to optimize performance.
+Cloudflare,Mobile Redirect Rules,Redirect mobile users to optimized mobile-friendly pages.
+Cloudflare,Firewall IP Reputation Scoring,Score and block IPs based on their reputation.
+Cloudflare,Custom Cache Keys,Use custom cache keys to define caching rules for specific requests.
+Cloudflare,Enhanced Logging with Logpush,Push logs to external storage for detailed analysis.
+Cloudflare,Bot Score Analytics,Analyze bot traffic to distinguish between good and bad bots.
+Cloudflare,Content Compression with Brotli,Compress content using Brotli for faster delivery.
+Cloudflare,Security Posture Dashboard,Monitor the overall security posture of your domains.
+Cloudflare,Threat Response Automation,Automate responses to threats with analytics-driven triggers.
+Cloudflare,Worker Cron Triggers,Schedule serverless tasks using cron triggers in Workers.
+Cloudflare,Page Performance Monitoring,Monitor and optimize page performance across devices and regions.
+Cloudflare,Advanced Network Routing Policies,Set advanced routing policies for traffic distribution.
+Cloudflare,Edge Certificates Management,Manage SSL certificates deployed to Cloudflare’s edge servers.
+Cloudflare,Abuse Report Handling,Monitor and respond to abuse reports for your domains.
+Cloudflare,Domain Renewal Management,Manage domain renewals to prevent expirations.
+Cloudflare,Access Gateway for Applications,Securely manage access to internal applications via Cloudflare.
+Cloudflare,Secure Origin Pulls,Encrypt traffic between Cloudflare and your origin server.
+Cloudflare,HTTP Header Control,Add or modify HTTP headers for better security and performance.
+Cloudflare,Bandwidth Alliance Discounts,Reduce bandwidth costs by using Cloudflare’s partner networks.
+Cloudflare,Traffic Splitting for A/B Testing,Use traffic splitting to test different website versions.
+Cloudflare,Origin Error Analytics,Analyze origin errors like 502 or 504 to improve server reliability.
+Cloudflare,Real User Monitoring (RUM),Gather insights from real user experiences to optimize performance.
+Cloudflare,Cloudflare Access Logs,View detailed access logs for all requests handled by Cloudflare.
+Cloudflare,Worker Durable Objects,Use durable objects for state management in serverless applications.
+Cloudflare,Cache API for Developers,Programmatically control caching behavior with the Cache API.
+Cloudflare,Dedicated SSL Certificates,Purchase dedicated SSL certificates for branded encryption.
+Cloudflare,Web Traffic Encryption,Encrypt all web traffic using HTTPS for added security.
+Cloudflare,Threat Blocking by ASN,Block traffic originating from specific autonomous system numbers (ASNs).

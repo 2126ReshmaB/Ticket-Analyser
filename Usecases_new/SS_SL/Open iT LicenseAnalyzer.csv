@@ -1,0 +1,57 @@
+Category,Short Description,Description
+Open iT LicenseAnalyzer,Automate license usage tracking,Use a script to track license usage across the organization and generate usage reports for optimization and compliance purposes.
+Open iT LicenseAnalyzer,Automate license utilization reports,Automatically generate utilization reports to identify underutilized licenses and optimize allocations.
+Open iT LicenseAnalyzer,Automate license usage by department,Create a script to track license usage by department and allocate costs accordingly.
+Open iT LicenseAnalyzer,Automate peak usage reporting,Automate the generation of reports showing peak license usage to plan future procurement.
+Open iT LicenseAnalyzer,Automate inactive license detection,Identify licenses that have been inactive for a specified period and flag them for review or reclamation.
+Open iT LicenseAnalyzer,Automate user-based license tracking,Track individual user license consumption to pinpoint overuse or underuse of licenses.
+Open iT LicenseAnalyzer,Automate license expiration monitoring,Monitor license expiration dates and send alerts when licenses are nearing expiration.
+Open iT LicenseAnalyzer,Automate vendor-specific license analysis,Generate vendor-specific reports to analyze license usage and compliance with vendor agreements.
+Open iT LicenseAnalyzer,Automate license cost allocation,Allocate license costs to different teams or projects based on their usage patterns.
+Open iT LicenseAnalyzer,Automate license compliance checks,Check for non-compliance with license agreements and generate compliance reports automatically.
+Open iT LicenseAnalyzer,Automate license utilization trend analysis,Analyze license utilization trends over time to identify patterns and optimize future purchasing.
+Open iT LicenseAnalyzer,Automate alerting for over-usage,Set up alerts to notify administrators when license usage exceeds predefined thresholds or available capacity.
+Open iT LicenseAnalyzer,Automate license pooling,Pool unused licenses for reallocation to users or departments with higher demand.
+Open iT LicenseAnalyzer,Automate software usage tracking,Track software usage alongside license usage to ensure that both are optimized.
+Open iT LicenseAnalyzer,Automate idle session detection,Identify idle sessions consuming licenses and notify administrators or terminate the sessions automatically.
+Open iT LicenseAnalyzer,Automate chargeback reporting,Generate chargeback reports based on license usage for internal cost allocation.
+Open iT LicenseAnalyzer,Automate license borrowing analysis,Track borrowed licenses and ensure they are returned on time to avoid compliance risks.
+Open iT LicenseAnalyzer,Automate license capacity planning,Analyze current license usage to forecast future license needs and avoid over- or under-procurement.
+Open iT LicenseAnalyzer,Automate unutilized license reclamation,Identify licenses that are consistently underutilized and reclaim them for redistribution.
+Open iT LicenseAnalyzer,Automate license utilization benchmarking,Benchmark license utilization against industry standards or internal KPIs to assess performance.
+Open iT LicenseAnalyzer,Automate usage-based license optimization,"Suggest and implement license optimization strategies based on usage analysis, such as downgrading unused licenses."
+Open iT LicenseAnalyzer,Automate license renewal planning,"Track renewal dates and usage patterns to recommend whether to renew, reduce, or cancel licenses."
+Open iT LicenseAnalyzer,Automate license server performance monitoring,Monitor license server performance and generate alerts for downtime or issues that affect license allocations.
+Open iT LicenseAnalyzer,Automate multi-vendor license tracking,Track and reconcile license usage across multiple vendors in a single dashboard.
+Open iT LicenseAnalyzer,Automate license usage forecasting,Forecast future license needs based on historical usage trends and growth projections.
+Open iT LicenseAnalyzer,Automate license allocation by project,Allocate licenses to specific projects and monitor usage to ensure efficient resource utilization.
+Open iT LicenseAnalyzer,Automate software compliance audits,Prepare automated audit reports to demonstrate compliance with software license agreements.
+Open iT LicenseAnalyzer,Automate idle license recovery,Recover idle licenses and make them available for other users or projects.
+Open iT LicenseAnalyzer,Automate license overuse alerts,Set up alerts to warn administrators when licenses are overutilized or nearing capacity limits.
+Open iT LicenseAnalyzer,Automate license server failover monitoring,Monitor failover systems to ensure uninterrupted license availability in case of server failures.
+Open iT LicenseAnalyzer,Automate usage-based chargeback adjustments,Adjust chargeback allocations based on updated license usage data.
+Open iT LicenseAnalyzer,Automate concurrent license tracking,Monitor concurrent license usage to ensure compliance with licensing agreements and avoid overuse.
+Open iT LicenseAnalyzer,Automate SaaS license usage tracking,Track SaaS subscription usage and generate usage reports for cost optimization.
+Open iT LicenseAnalyzer,Automate real-time license monitoring,Monitor license usage in real-time and generate alerts for unusual activity or overutilization.
+Open iT LicenseAnalyzer,Automate software cost reduction analysis,"Analyze license usage data to identify opportunities for cost reductions, such as license downgrades."
+Open iT LicenseAnalyzer,Automate license compliance exception handling,Identify and resolve compliance exceptions by reallocating licenses or purchasing additional ones.
+Open iT LicenseAnalyzer,Automate license usage by geography,Track and analyze license usage across different geographic regions.
+Open iT LicenseAnalyzer,Automate inactive license user detection,Identify users who have not utilized their allocated licenses for a certain period and flag them for review.
+Open iT LicenseAnalyzer,Automate reporting for IT governance,Generate detailed reports on license usage and compliance for IT governance purposes.
+Open iT LicenseAnalyzer,Automate license cost variance analysis,Compare expected license costs with actual usage costs to identify variances and optimize spending.
+Open iT LicenseAnalyzer,Automate software retirement tracking,Track retired software and ensure its licenses are deactivated or reallocated.
+Open iT LicenseAnalyzer,Automate vendor-specific license reconciliation,Reconcile license usage data with vendor-specific agreements to ensure compliance.
+Open iT LicenseAnalyzer,Automate license usage heatmaps,Generate heatmaps to visualize peak and idle license usage periods for better resource management.
+Open iT LicenseAnalyzer,Automate hybrid cloud license tracking,Track license usage across hybrid cloud environments and ensure compliance with licensing terms.
+Open iT LicenseAnalyzer,Automate usage-based budgeting,Use license usage data to create more accurate IT budgets for future procurement.
+Open iT LicenseAnalyzer,Automate software license inventory updates,Reconcile and update the license inventory database with current usage and allocation data.
+Open iT LicenseAnalyzer,Automate over-provisioned license detection,Detect over-provisioned licenses and recommend actions to reduce costs.
+Open iT LicenseAnalyzer,Automate license compliance risk assessment,Calculate compliance risks based on license usage data and recommend mitigation strategies.
+Open iT LicenseAnalyzer,Automate license reservation management,Manage reserved licenses for specific users or projects to ensure availability when needed.
+Open iT LicenseAnalyzer,Automate license cost recovery for shared resources,Recover license costs for shared resources by charging back to individual users or departments.
+Open iT LicenseAnalyzer,Automate user behavior analysis,Analyze user behavior to identify patterns of license misuse or inefficiencies.
+Open iT LicenseAnalyzer,Automate license borrowing limits,Enforce borrowing limits for licenses to avoid overuse or misuse.
+Open iT LicenseAnalyzer,Automate license expiration forecasting,Predict license expiration trends to proactively manage renewals and avoid disruptions.
+Open iT LicenseAnalyzer,Automate capacity planning for license servers,Analyze license server capacity to plan for expansions or optimizations.
+Open iT LicenseAnalyzer,Automate license request workflows,Streamline the process of requesting new licenses by automating workflows based on predefined rules.
+Open iT LicenseAnalyzer,Automate license usage optimization strategies,"Suggest optimization strategies, such as consolidating licenses or switching vendors, based on usage data."

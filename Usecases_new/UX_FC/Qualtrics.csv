@@ -1,0 +1,70 @@
+Category,Short Description,Description
+Qualtrics,Auto-send survey invitations,Automatically distribute survey invitations to a predefined list of participants via email.
+Qualtrics,Schedule survey reminders,Send automated reminders to participants who have not completed the survey after a defined time period.
+Qualtrics,Export responses to Google Sheets,Automatically export survey responses to a Google Sheet for real-time collaboration and analysis.
+Qualtrics,Create personalized email invites,Generate personalized email invitations for survey participants using dynamic fields.
+Qualtrics,Auto-close surveys,Automatically close a survey after reaching a specific number of responses or on a specific date.
+Qualtrics,Sync responses with Salesforce,Push survey responses into Salesforce to update customer profiles and track feedback.
+Qualtrics,Generate custom reports,Automatically generate and share PDF reports based on survey results.
+Qualtrics,Send thank-you emails,Automatically send personalized thank-you emails to participants after survey completion.
+Qualtrics,Integrate with Slack,Send Slack notifications to specific channels when new survey responses are received.
+Qualtrics,Auto-translate surveys,Automatically translate survey questions and responses into multiple languages using translation APIs.
+Qualtrics,Sync survey results with Tableau,Send survey results to Tableau for real-time data visualization and advanced analytics.
+Qualtrics,Trigger follow-up surveys,Automatically trigger follow-up surveys based on responses to specific questions.
+Qualtrics,Auto-tag responses,Use scripts to automatically tag survey responses based on keywords or sentiment.
+Qualtrics,Calculate Net Promoter Score (NPS),Automatically calculate NPS from survey responses and generate a report.
+Qualtrics,Schedule recurring surveys,"Automatically schedule recurring surveys, such as weekly or monthly employee satisfaction surveys."
+Qualtrics,Integrate with Trello,"Create Trello cards automatically based on specific survey responses, such as feature requests."
+Qualtrics,Export responses to Excel,Automatically export survey data to Excel for offline analysis.
+Qualtrics,Auto-close incomplete responses,Close incomplete survey responses after a specified period of inactivity.
+Qualtrics,Send SMS survey invitations,Automatically send survey invitations via SMS using integrated messaging services.
+Qualtrics,Sync with Microsoft Teams,Post notifications in Microsoft Teams channels when new survey results are received.
+Qualtrics,Create dynamic dashboards,Generate real-time dashboards in Qualtrics based on response data and predefined criteria.
+Qualtrics,Auto-update CRM records,"Automatically update CRM records (e.g., HubSpot, Salesforce) with survey responses."
+Qualtrics,Monitor response rates,Automatically track and alert stakeholders about response rates for active surveys.
+Qualtrics,Auto-create support tickets,Generate support tickets in tools like Zendesk or Freshdesk based on survey feedback.
+Qualtrics,Generate sentiment analysis reports,Use AI to analyze the sentiment of open-ended responses and generate sentiment reports automatically.
+Qualtrics,Export survey results to Power BI,Push survey data to Power BI for advanced reporting and visualization.
+Qualtrics,Auto-send escalation alerts,Automatically escalate negative feedback or low satisfaction scores to relevant teams.
+Qualtrics,Integrate with Notion,Automatically create pages in Notion to document and organize survey insights.
+Qualtrics,Track incomplete responses,Monitor incomplete responses and send reminders to participants to complete their surveys.
+Qualtrics,Auto-generate survey links,Dynamically generate unique survey links for participants based on predefined criteria.
+Qualtrics,Integrate with Google Calendar,"Automatically create calendar events based on survey responses, such as meeting requests."
+Qualtrics,Conduct A/B testing,Automate A/B testing of survey versions to identify which version performs better.
+Qualtrics,Generate word clouds from open responses,Automatically generate word clouds from open-text survey responses to visualize common themes.
+Qualtrics,Track survey dropout points,Analyze where participants drop out of surveys and generate reports to improve survey design.
+Qualtrics,Auto-create tasks in Asana,Automatically create tasks in Asana based on survey responses or feedback.
+Qualtrics,Auto-send reminders to admins,Send automated reminders to survey administrators about upcoming deadlines or low response rates.
+Qualtrics,Sync with Dropbox,Automatically save survey responses or generated reports to Dropbox for secure storage.
+Qualtrics,Auto-create GitHub issues,Automatically create GitHub issues for bug reports collected through surveys.
+Qualtrics,Integrate with Zapier,Trigger custom workflows in Zapier based on survey submissions.
+Qualtrics,Auto-sort responses by category,Automatically categorize responses into predefined categories based on survey content.
+Qualtrics,Generate automated progress reports,Automatically create progress reports for ongoing surveys and share them with stakeholders.
+Qualtrics,Send push notifications to mobile apps,Trigger push notifications to mobile apps when specific survey responses are received.
+Qualtrics,Auto-prioritize survey feedback,Automatically prioritize feedback submissions based on impact or frequency of mention.
+Qualtrics,Schedule recurring exports,"Automate the export of survey data to specific destinations (e.g., databases, cloud storage) at regular intervals."
+Qualtrics,Auto-create knowledge base articles,Use survey feedback to generate or update knowledge base articles automatically.
+Qualtrics,Auto-assign feedback to teams,"Route feedback to relevant teams (e.g., support, marketing) based on survey content."
+Qualtrics,Integrate with Zendesk,Automatically create Zendesk tickets from survey responses related to customer issues.
+Qualtrics,Auto-send follow-up content,"Send personalized follow-up content (e.g., guides, tutorials) based on survey responses."
+Qualtrics,Sync with Airtable,Push survey results into Airtable for advanced categorization and tracking.
+Qualtrics,Auto-track satisfaction trends,Create automated reports to monitor satisfaction trends over time.
+Qualtrics,Auto-generate QR codes,Generate QR codes for surveys dynamically and distribute them for quick access.
+Qualtrics,Auto-update SharePoint lists,Automatically sync survey data with SharePoint lists for team collaboration.
+Qualtrics,Notify managers of critical responses,Automatically notify managers when critical responses or low satisfaction scores are received.
+Qualtrics,Auto-translate open-text responses,Automatically translate open-ended survey responses into a preferred language.
+Qualtrics,Track survey engagement metrics,Monitor engagement metrics like time spent on surveys and completion rates automatically.
+Qualtrics,Auto-create customer segmentation reports,"Generate segmentation reports automatically based on survey responses (e.g., demographics, behavior)."
+Qualtrics,Send reminders for expiring surveys,Notify survey administrators when surveys are close to their expiration dates.
+Qualtrics,Auto-create invoices,Generate invoices automatically based on survey responses in payment-related surveys.
+Qualtrics,Conduct keyword analysis,Analyze open-text survey responses to identify commonly used keywords or phrases.
+Qualtrics,Sync with Monday.com,Create tasks or update project boards in Monday.com based on survey responses.
+Qualtrics,Auto-calculate survey incentives,"Automatically calculate and send incentives (e.g., gift cards) to participants after completing surveys."
+Qualtrics,Integrate with Microsoft Power Automate,Trigger workflows in Microsoft Power Automate based on survey submission data.
+Qualtrics,Send dynamic thank-you pages,Create personalized thank-you pages for participants based on their responses.
+Qualtrics,Monitor survey quotas,Automatically track and report when survey quotas are close to being filled.
+Qualtrics,Auto-update email preferences,Update participant email preferences automatically based on survey responses.
+Qualtrics,Automate survey versioning,Automatically create and track different versions of a survey for testing purposes.
+Qualtrics,Auto-sync survey metadata,"Sync metadata like timestamps, geolocations, and user agents to external databases."
+Qualtrics,Generate pivot tables from responses,Automatically create pivot tables in Excel or Google Sheets based on survey data.
+Qualtrics,Track,

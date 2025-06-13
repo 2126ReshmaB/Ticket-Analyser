@@ -1,0 +1,74 @@
+Category,Short Description,Description
+Red Hat Kickstart,Automated OS installation,Automate the installation of Red Hat Enterprise Linux (RHEL) systems using predefined Kickstart files.
+Red Hat Kickstart,Disk partitioning automation,Define and automate custom disk partitioning schemes during installation.
+Red Hat Kickstart,LVM setup,Automate the creation of Logical Volume Manager (LVM) partitions for flexible storage management.
+Red Hat Kickstart,RAID configuration,Automate the setup of RAID arrays for improved storage performance and redundancy.
+Red Hat Kickstart,Network configuration,"Configure network settings such as static IP, DNS, and gateway during installation."
+Red Hat Kickstart,Package selection,Automate the installation of specific software packages or groups during the OS installation.
+Red Hat Kickstart,Minimal installation,Automate the installation of a minimal RHEL system with only essential packages.
+Red Hat Kickstart,GUI installation,Automate the installation of RHEL with a graphical user interface (GUI).
+Red Hat Kickstart,Text-based installation,Automate text-based installations for systems without graphical capabilities.
+Red Hat Kickstart,Automated user creation,Predefine user accounts and passwords to be created during installation.
+Red Hat Kickstart,Root password automation,Automate the configuration of the root password during installation.
+Red Hat Kickstart,Timezone configuration,Automate the setup of the system timezone during installation.
+Red Hat Kickstart,Language and keyboard settings,Predefine language and keyboard layout settings for the installation process.
+Red Hat Kickstart,SELinux configuration,"Automate the configuration of SELinux policies (enforcing, permissive, or disabled)."
+Red Hat Kickstart,Firewall configuration,Automate the setup of firewall rules during installation.
+Red Hat Kickstart,Automated software updates,Configure systems to automatically apply software updates after installation.
+Red Hat Kickstart,Post-installation scripts,Execute custom scripts after installation to configure additional settings or install software.
+Red Hat Kickstart,Pre-installation scripts,Run scripts before the installation process begins to prepare the system.
+Red Hat Kickstart,Kickstart file validation,Automate the validation of Kickstart files using the `ksvalidator` tool.
+Red Hat Kickstart,PXE boot integration,Automate network-based installations using PXE boot and Kickstart files.
+Red Hat Kickstart,ISO customization,Create custom ISO images with embedded Kickstart files for automated installations.
+Red Hat Kickstart,Virtual machine provisioning,Automate the installation of virtual machines using Kickstart files.
+Red Hat Kickstart,Cloud instance provisioning,Automate the provisioning of cloud instances with predefined configurations.
+Red Hat Kickstart,Multi-environment setup,"Automate installations for different environments, such as development, staging, and production."
+Red Hat Kickstart,Automated hostname assignment,Predefine hostnames for systems during installation.
+Red Hat Kickstart,Automated disk encryption,Configure encrypted partitions during installation for enhanced security.
+Red Hat Kickstart,Automated swap partition setup,Automate the creation of swap partitions during installation.
+Red Hat Kickstart,Automated NTP configuration,Configure NTP servers for time synchronization during installation.
+Red Hat Kickstart,Automated repository configuration,Configure custom YUM or DNF repositories during installation.
+Red Hat Kickstart,Automated SSH key deployment,Deploy SSH keys to systems during installation for secure access.
+Red Hat Kickstart,Automated disk cleanup,Automate the cleanup of existing partitions before installation.
+Red Hat Kickstart,Automated dual-boot setup,Configure systems for dual-boot with other operating systems.
+Red Hat Kickstart,Automated secure boot setup,Enable and configure secure boot during installation.
+Red Hat Kickstart,Automated UEFI setup,Configure UEFI settings during installation for modern hardware.
+Red Hat Kickstart,Automated kernel parameter tuning,Predefine kernel parameters for performance optimization during installation.
+Red Hat Kickstart,Automated system logging setup,Configure system logging settings during installation.
+Red Hat Kickstart,Automated RAID 10 setup,Automate the creation of RAID 10 arrays for high performance and redundancy.
+Red Hat Kickstart,Automated RAID 5 setup,Automate the creation of RAID 5 arrays for balanced performance and redundancy.
+Red Hat Kickstart,Automated RAID 1 setup,Automate the creation of RAID 1 arrays for data mirroring.
+Red Hat Kickstart,Automated RAID 0 setup,Automate the creation of RAID 0 arrays for high performance without redundancy.
+Red Hat Kickstart,Automated disk resizing,Configure disk resizing during installation for flexible storage management.
+Red Hat Kickstart,Automated system monitoring setup,Install and configure monitoring agents during installation.
+Red Hat Kickstart,Automated centralized logging setup,Configure centralized logging systems like ELK Stack during installation.
+Red Hat Kickstart,Automated compliance checks,Automate compliance checks during installation to meet organizational policies.
+Red Hat Kickstart,Automated backup configuration,Configure backup settings during installation for critical data protection.
+Red Hat Kickstart,Automated high availability setup,Configure high availability clusters during installation.
+Red Hat Kickstart,Automated load balancer setup,Configure load balancers during installation for traffic distribution.
+Red Hat Kickstart,Automated database server setup,Install and configure database servers like MySQL or PostgreSQL during installation.
+Red Hat Kickstart,Automated web server setup,Install and configure web servers like Apache or Nginx during installation.
+Red Hat Kickstart,Automated application server setup,Install and configure application servers during installation.
+Red Hat Kickstart,Automated storage server setup,Configure storage servers like NFS or iSCSI during installation.
+Red Hat Kickstart,Automated DevOps tool setup,Install DevOps tools like Jenkins or Docker during installation.
+Red Hat Kickstart,Automated Kubernetes node setup,Configure Kubernetes nodes during installation for container orchestration.
+Red Hat Kickstart,Automated OpenStack node setup,Configure OpenStack nodes during installation for cloud infrastructure.
+Red Hat Kickstart,Automated virtualization host setup,Configure virtualization hosts like KVM or VMware during installation.
+Red Hat Kickstart,Automated GPU driver installation,Install GPU drivers during installation for high-performance computing.
+Red Hat Kickstart,Automated InfiniBand setup,Configure InfiniBand networks during installation for high-speed interconnects.
+Red Hat Kickstart,Automated VLAN setup,Configure VLANs during installation for network segmentation.
+Red Hat Kickstart,Automated proxy server setup,Configure proxy servers during installation for secure internet access.
+Red Hat Kickstart,Automated IPv6 setup,Configure IPv6 settings during installation for modern networking.
+Red Hat Kickstart,Automated firewall exception setup,Configure firewall exceptions during installation for specific applications.
+Red Hat Kickstart,Automated SELinux exception setup,Configure SELinux exceptions during installation for specific applications.
+Red Hat Kickstart,Automated system health check setup,Configure health check tools during installation for proactive monitoring.
+Red Hat Kickstart,Automated system rollback setup,Configure rollback capabilities during installation for system recovery.
+Red Hat Kickstart,Automated system snapshot setup,Configure snapshot tools during installation for backup and recovery.
+Red Hat Kickstart,Automated system tagging,Assign tags to systems during installation for better organization.
+Red Hat Kickstart,Automated system inventory tracking,Configure inventory tracking tools during installation for asset management.
+Red Hat Kickstart,Automated system performance tuning,Configure performance tuning tools during installation for optimized operation.
+Red Hat Kickstart,Automated system security scanning,Configure security scanning tools during installation for vulnerability detection.
+Red Hat Kickstart,Automated system hardening,Apply system hardening policies during installation for enhanced security.
+Red Hat Kickstart,Automated system decommissioning,Automate the decommissioning of systems using Kickstart files.
+Red Hat Kickstart,Automated system reinstallation,Automate the reinstallation of systems for troubleshooting or upgrades.
+Red Hat Kickstart,Automated system cloning,

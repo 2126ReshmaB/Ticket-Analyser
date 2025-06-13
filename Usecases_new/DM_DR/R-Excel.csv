@@ -1,0 +1,65 @@
+Category,Short Description,Description
+R-Excel,Repair corrupted Excel files,Automate the repair of corrupted Excel files to restore their data and structure.
+R-Excel,Recover Excel files after system crash,Automate recovery of Excel files damaged during a system crash.
+R-Excel,Fix unreadable Excel content,"Automate the repair of Excel files that display ""Unreadable Content"" errors when opened."
+R-Excel,Repair Excel files with broken links,Automate fixing of broken hyperlinks or external references in damaged Excel files.
+R-Excel,Recover formulas in corrupted Excel sheets,Automate the recovery of lost or corrupted formulas in Excel sheets.
+R-Excel,Restore cell formatting in damaged Excel files,"Automate the recovery of cell formatting such as fonts, colors, and borders from damaged Excel files."
+R-Excel,Recover embedded charts in Excel,Automate the extraction and recovery of embedded charts from corrupted Excel workbooks.
+R-Excel,Repair corrupted pivot tables,Automate the repair of corrupted pivot tables in Excel workbooks.
+R-Excel,Recover missing data in Excel sheets,Automate the recovery of missing or blank cell data in Excel files.
+R-Excel,Fix corrupted protection settings in Excel files,Automate recovery of corrupted worksheet and workbook protection settings.
+R-Excel,Extract data from damaged Excel files,Automate the extraction of data from damaged or corrupted Excel files.
+R-Excel,Repair shared Excel workbooks,Automate the recovery of shared Excel workbooks that were damaged during multi-user collaboration.
+R-Excel,Recover Excel files with conditional formatting,Automate the restoration of conditional formatting rules in corrupted Excel sheets.
+R-Excel,Restore Excel files after accidental deletion,Automate the recovery of Excel files that were accidentally deleted.
+R-Excel,Recover Excel macros from corrupted files,Automate the recovery of VBA macros in Excel files that have been corrupted.
+R-Excel,Fix corrupted metadata in Excel files,"Automate the repair of metadata such as author, title, and comments in damaged Excel files."
+R-Excel,Recover Excel files after power outage,Automate the recovery of Excel files that were lost or damaged due to a power outage.
+R-Excel,Repair Excel files with broken external references,Automate the recovery of Excel files with external links or references that are corrupted.
+R-Excel,Restore tables in corrupted Excel files,Automate the recovery of tables in damaged Excel sheets.
+R-Excel,Fix corrupted drop-down lists in Excel,Automate the recovery of corrupted drop-down lists in Excel files.
+R-Excel,Repair Excel files with corrupted freeze panes,Automate the fixing of freeze panes that are corrupted in Excel workbooks.
+R-Excel,Recover hidden rows and columns in Excel files,Automate the restoration of hidden rows and columns in damaged Excel files.
+R-Excel,Repair corrupted headers and footers,Automate the recovery of corrupted headers and footers in Excel files.
+R-Excel,Restore Excel charts with broken data references,Automate the recovery of charts with broken or missing data references in Excel workbooks.
+R-Excel,Recover previous versions of Excel files,Automate the recovery of previous versions of Excel files that have been corrupted.
+R-Excel,Repair corrupted Excel files on USB drives,Automate the recovery of Excel files stored on USB drives that are corrupted or inaccessible.
+R-Excel,Recover Excel files from SD cards,Automate the recovery of Excel files stored on SD or microSD cards that are damaged or missing.
+R-Excel,Recover Excel files from logical drives,Automate the recovery of Excel files stored on logical drives that are inaccessible or corrupted.
+R-Excel,Recover Excel files from network drives,Automate the recovery of Excel files stored on network drives that are corrupted or lost.
+R-Excel,Repair Excel files with corrupted page layout,Automate the repair of corrupted page layout configurations in Excel files.
+R-Excel,Restore print settings in Excel files,Automate the recovery of corrupted print settings in Excel workbooks.
+R-Excel,Recover Excel files with damaged workbook structures,Automate the repair of Excel files with corrupted workbook structures.
+R-Excel,Restore auto-filter functionality in Excel,Automate the recovery of broken auto-filter functionality in Excel files.
+R-Excel,Fix corrupted data validation rules in Excel files,Automate the recovery of corrupted data validation rules in damaged Excel worksheets.
+R-Excel,Recover Excel files after interrupted save operations,Automate the recovery of Excel files that were corrupted during interrupted save processes.
+R-Excel,Repair corrupted split panes in Excel,Automate the fixing of corrupted split panes in Excel workbooks.
+R-Excel,Restore hyperlinks in Excel files,Automate the recovery of corrupted or broken hyperlinks in Excel files.
+R-Excel,Recover Excel files with corrupted cell ranges,Automate the restoration of corrupted or inaccessible cell ranges in Excel files.
+R-Excel,Repair Excel files with corrupted workbook protection,Automate the recovery of corrupted workbook protection configurations in Excel files.
+R-Excel,Recover corrupted Excel themes,Automate the recovery of damaged themes and styles in Excel workbooks.
+R-Excel,Repair corrupted merged cells in Excel,Automate the fixing of corrupted merged cells in damaged Excel sheets.
+R-Excel,Recover corrupted sheet names in Excel,Automate the restoration of corrupted or missing sheet names in Excel files.
+R-Excel,Recover Excel files from failed updates,Automate the recovery of Excel files lost or damaged due to failed software updates.
+R-Excel,Recover Excel files from encrypted drives,Automate the recovery of Excel files stored on encrypted drives after decryption.
+R-Excel,Repair corrupted Excel file headers,Automate the fixing of corrupted file headers in Excel files.
+R-Excel,Recover shared formulas in Excel sheets,Automate the recovery of shared formulas in Excel sheets that are corrupted.
+R-Excel,Recover Excel files from old hard drives,Automate the recovery of Excel files stored on old or malfunctioning hard drives.
+R-Excel,Recover Excel files from Quick Formatted drives,Automate the recovery of Excel files lost during a Quick Format operation.
+R-Excel,Repair Excel files stored in hidden folders,Automate the restoration of Excel files stored in hidden or inaccessible folders.
+R-Excel,Recover Excel files from RAID arrays,Automate the recovery of Excel files stored on failed or degraded RAID arrays.
+R-Excel,Recover Excel files from cloud backups,Automate the recovery of Excel files stored in cloud storage platforms or backups.
+R-Excel,Recover Excel files from virtual disks,"Automate the recovery of Excel files stored in virtual disk images, such as VHD or VMDK files."
+R-Excel,Recover Excel files from deleted partitions,Automate the recovery of Excel files stored on partitions that have been deleted.
+R-Excel,Recover Excel files from smartphones,Automate the recovery of Excel files stored on smartphones or external smartphone storage devices.
+R-Excel,Recover Excel files from fragmented drives,Automate the restoration of Excel files stored on fragmented drives.
+R-Excel,Recover Excel files from bad sectors,Automate the recovery of Excel files stored on damaged hard drives with bad sectors.
+R-Excel,Recover Excel files from dual-boot systems,Automate the recovery of Excel files lost during dual-boot OS setups.
+R-Excel,Repair corrupted Excel charts,Automate the recovery of chart data and formatting in corrupted Excel files.
+R-Excel,Recover Excel files from email attachments,Automate the recovery of Excel files lost or deleted from email attachments.
+R-Excel,Repair corrupted Excel templates,Automate the fixing of damaged Excel template files (.xltx or .xltm).
+R-Excel,Recover Excel files with corrupted data tables,Automate the recovery of corrupted data tables in Excel sheets.
+R-Excel,Recover Excel files from NAS devices,Automate the recovery of Excel files stored on Network Attached Storage (NAS) devices.
+R-Excel,Repair Excel files with lost hyperlinks,Automate the recovery of lost or broken hyperlinks in Excel charts and sheets.
+R,,

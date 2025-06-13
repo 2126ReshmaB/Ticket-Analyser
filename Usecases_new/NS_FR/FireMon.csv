@@ -1,0 +1,73 @@
+Category,Short Description,Description
+FireMon,Automate Policy Review,Automate the periodic review of firewall and network security policies to ensure they meet compliance and best practices.
+FireMon,Rule Cleanup Automation,"Automate the identification and removal of redundant, unused, or shadowed firewall rules."
+FireMon,Policy Compliance Reporting,"Automate the generation of compliance reports for frameworks like PCI DSS, HIPAA, or NIST."
+FireMon,Rule Usage Analysis,Script the analysis of rule usage to identify rules that are unused or underutilized.
+FireMon,Firewall Rule Optimization,Automate the optimization of firewall rules to improve performance and reduce latency.
+FireMon,Policy Change Tracking,"Script the tracking of policy changes, including who made the changes and what was modified, for audit and accountability."
+FireMon,Risk Assessment Automation,Automate the assessment of security policies for potential risks and vulnerabilities.
+FireMon,Device Inventory Management,"Automate the creation and maintenance of an inventory of all managed devices, including firewalls and routers."
+FireMon,Real-Time Policy Monitoring,Script the monitoring of policies in real-time to detect changes or violations.
+FireMon,Policy Deployment Automation,Automate the deployment of policy changes across multiple devices and platforms.
+FireMon,Rule Shadowing Detection,Automate the detection of shadowed rules that are hidden by more permissive rules above them.
+FireMon,Rule Redundancy Detection,Script the identification of redundant rules that can be consolidated or removed.
+FireMon,Access Rule Validation,Automate the validation of access rules to ensure they follow least-privilege principles.
+FireMon,Rule Documentation Management,"Script the creation and management of documentation for firewall rules, including rule descriptions and business justifications."
+FireMon,Compliance Audit Automation,Automate audits to check if security policies align with compliance requirements.
+FireMon,Rule Expiry Automation,Script the automatic expiration and notification of temporary or time-bound rules.
+FireMon,Network Diagram Generation,Automate the generation of network topology diagrams based on current configurations.
+FireMon,Policy Simulation,Script the simulation of policy changes to analyze their potential impact before deployment.
+FireMon,Rule Lifecycle Management,"Automate the entire lifecycle of firewall rules, from creation to decommissioning."
+FireMon,Risk Scoring,Script the calculation of risk scores for firewall rules and policies based on traffic patterns and vulnerabilities.
+FireMon,Firewall Health Check,Automate periodic health checks of firewalls to ensure they are functioning optimally.
+FireMon,Alerting for Non-Compliant Rules,Script alerts for rules or policies that violate compliance or organizational standards.
+FireMon,Policy Conflict Resolution,Automate the detection and resolution of conflicts between different firewall rules or policies.
+FireMon,Configuration Backup,Script the automatic backup of firewall configurations for disaster recovery.
+FireMon,Rule Change Workflow,"Automate workflows for reviewing, approving, and implementing rule changes."
+FireMon,Orphaned Object Detection,Automate the detection of unused or orphaned objects in firewall configurations.
+FireMon,Rule Prioritization,Script the reordering of rules based on priority or frequency of usage.
+FireMon,Rule Impact Analysis,Automate the analysis of how a proposed rule will impact traffic flow and security posture.
+FireMon,Automated Compliance Map,Script the mapping of firewall rules to specific compliance frameworks or standards.
+FireMon,Role-Based Access Management,Automate the configuration of role-based access control to manage user permissions.
+FireMon,Security Rule Duplication Detection,Automate the detection of duplicate security rules across firewalls.
+FireMon,Network Access Path Analysis,Script the analysis of network access paths to identify potential security risks.
+FireMon,Change Notification Alerts,Automate notifications for changes to firewall policies or configurations.
+FireMon,Threat Surface Analysis,Script the analysis of the organization’s threat surface based on firewall configurations.
+FireMon,Automated Policy Cleanup Suggestions,Automate suggestions for cleaning up policies to reduce complexity and improve efficiency.
+FireMon,Rule Change Approval Workflow,"Script the workflow for approving rule changes, including manager and peer approvals."
+FireMon,Policy Export to CSV,Automate the export of firewall policies to a CSV file for external analysis or reporting.
+FireMon,Policy Import from CSV,Script the import of rules or policies from a CSV file into FireMon.
+FireMon,Configuration Drift Detection,Automate the detection of configuration drift between devices and intended configurations.
+FireMon,Rule Age Analysis,Script the analysis of rule age to identify outdated or legacy rules.
+FireMon,Risk Dashboard Automation,Automate the creation of dashboards that visualize risks and vulnerabilities in real-time.
+FireMon,Firewall Rule Testing,Script the testing of firewall rules to validate functionality and effectiveness.
+FireMon,Change Impact Simulation,Automate the simulation of configuration changes to predict their impact on network traffic.
+FireMon,Automated API Integration,Script the integration of FireMon with other tools and platforms using FireMon’s APIs.
+FireMon,Rule Documentation Export,Automate the export of rule documentation for audit and compliance purposes.
+FireMon,Automated Rule Cloning,Script the cloning of existing rules to simplify the creation of similar policies.
+FireMon,Dynamic Policy Updates,Automate the adjustment of policies based on real-time traffic patterns and threat intelligence.
+FireMon,Policy Deviation Reporting,Script the reporting of any deviations between the current firewall configuration and predefined policies.
+FireMon,Temporary Rule Monitoring,Automate the monitoring of temporary rules and notify when they are nearing expiration.
+FireMon,Multi-Vendor Policy Management,Script the centralized management of policies across firewalls from different vendors.
+FireMon,Rule Justification Management,Automate the enforcement of rule justification requirements for all new rules.
+FireMon,Traffic Flow Visualization,Script the visualization of traffic flows based on firewall rules.
+FireMon,Rule Decommissioning Workflow,Automate the decommissioning process for obsolete or unused rules.
+FireMon,Policy Reconciliation,Script the reconciliation of policies between different firewalls to ensure consistency.
+FireMon,Automated Rule Approval Notifications,Script notifications to stakeholders when rules are approved or rejected.
+FireMon,Compliance Gap Analysis,Automate the identification of gaps between current policies and compliance requirements.
+FireMon,Rule Expiry Notification,Script notifications for administrators when rules are about to expire.
+FireMon,Rule Simulation Analysis,Automate the simulation of rule behavior under different traffic conditions.
+FireMon,Historical Policy Analysis,Script the analysis of historical policy changes to identify trends or recurring issues.
+FireMon,API-Based Rule Updates,Automate rule updates and modifications using FireMon’s API.
+FireMon,Risk Trend Analysis,Script the analysis of risk trends over time to identify patterns and improvements.
+FireMon,Firewall Rule Tagging,Automate the tagging of rules for better organization and searchability.
+FireMon,Automated Rule Grouping,Script the grouping of similar rules to simplify policy management.
+FireMon,Policy Distribution Workflow,Automate the workflow for distributing updated policies to multiple firewalls.
+FireMon,Real-Time Compliance Alerts,Script real-time alerts for non-compliant configurations or changes.
+FireMon,Network Access Review Automation,Automate the review of network access permissions to ensure they follow least-privilege principles.
+FireMon,Configuration Baseline Enforcement,Script the enforcement of a predefined configuration baseline across all devices.
+FireMon,Centralized Policy Reporting,Automate the aggregation and reporting of policies across all managed firewalls.
+FireMon,Threat Feed Integration,Automate the integration of external threat feeds into FireMon for enhanced threat detection.
+FireMon,Rule Removal Suggestions,Script the generation of suggestions for rule removal based on usage and risk analysis.
+FireMon,Automated Rule Aging Report,Automate the creation of reports that show the age of rules and their last usage.
+FireMon,,

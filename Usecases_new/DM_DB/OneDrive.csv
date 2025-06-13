@@ -1,0 +1,61 @@
+Category,Short Description,Description
+OneDrive,Scheduled File Backups,Automate regular backups of files to OneDrive from local or network drives.
+OneDrive,File Synchronization Across Devices,Automate synchronization of files across multiple devices to ensure the latest version is always available.
+OneDrive,Automatic File Upload,Automate the upload of files from a specific folder to OneDrive.
+OneDrive,File Sharing with Expiry,Automate the creation of shareable links with expiration dates for secure file sharing.
+OneDrive,Folder Structure Creation,Automate the creation of predefined folder structures for organizing files.
+OneDrive,File Versioning Management,Automate the cleanup of old file versions to save storage space while retaining recent changes.
+OneDrive,File Metadata Tagging,Automate the tagging of files with metadata for better organization and searchability.
+OneDrive,File Access Permissions,Automate the assignment of access permissions to files and folders for specific users or groups.
+OneDrive,File Download Automation,Automate the download of specific files or folders from OneDrive to a local directory.
+OneDrive,File Deletion Automation,Automate the deletion of files older than a specified date to maintain storage hygiene.
+OneDrive,File Recovery Automation,Automate the recovery of deleted files from the OneDrive recycle bin.
+OneDrive,File Encryption Before Upload,Automate the encryption of files before uploading them to OneDrive for enhanced security.
+OneDrive,File Decryption After Download,Automate the decryption of files after downloading them from OneDrive.
+OneDrive,File Compression Before Upload,Automate the compression of files before uploading them to OneDrive to save storage space.
+OneDrive,File Extraction After Download,Automate the extraction of compressed files after downloading them from OneDrive.
+OneDrive,File Organization by Date,Automate the organization of files into folders based on their creation or modification date.
+OneDrive,File Organization by Type,"Automate the organization of files into folders based on their file type (e.g., documents, images, videos)."
+OneDrive,File Organization by Size,"Automate the organization of files into folders based on their size (e.g., small, medium, large)."
+OneDrive,File Organization by Tags,Automate the organization of files into folders based on their metadata tags.
+OneDrive,File Organization by Owner,Automate the organization of files into folders based on their owner or creator.
+OneDrive,File Organization by Project,Automate the organization of files into folders based on project names or IDs.
+OneDrive,File Organization by Department,Automate the organization of files into folders based on department names or codes.
+OneDrive,File Organization by Client,Automate the organization of files into folders based on client names or IDs.
+OneDrive,File Organization by Priority,"Automate the organization of files into folders based on their priority level (e.g., high, medium, low)."
+OneDrive,File Organization by Status,"Automate the organization of files into folders based on their status (e.g., draft, final, archived)."
+OneDrive,File Organization by Category,"Automate the organization of files into folders based on their category (e.g., personal, work, shared)."
+OneDrive,File Organization by Location,"Automate the organization of files into folders based on their geographic location (e.g., country, city)."
+OneDrive,File Organization by Language,"Automate the organization of files into folders based on their language (e.g., English, Spanish, French)."
+OneDrive,File Organization by Format,"Automate the organization of files into folders based on their format (e.g., PDF, DOCX, XLSX)."
+OneDrive,File Organization by Resolution,"Automate the organization of image or video files into folders based on their resolution (e.g., 720p, 1080p, 4K)."
+OneDrive,File Organization by Duration,"Automate the organization of audio or video files into folders based on their duration (e.g., short, medium, long)."
+OneDrive,File Organization by Frequency,"Automate the organization of files into folders based on their access frequency (e.g., frequently accessed, rarely accessed)."
+OneDrive,File Organization by Activity,"Automate the organization of files into folders based on their activity level (e.g., active, inactive)."
+OneDrive,File Organization by Sensitivity,"Automate the organization of files into folders based on their sensitivity level (e.g., public, confidential, secret)."
+OneDrive,File Organization by Compliance,"Automate the organization of files into folders based on their compliance requirements (e.g., GDPR, HIPAA)."
+OneDrive,File Organization by Retention,"Automate the organization of files into folders based on their retention period (e.g., short-term, long-term)."
+OneDrive,File Organization by Expiry,"Automate the organization of files into folders based on their expiry date (e.g., expired, expiring soon, valid)."
+OneDrive,File Organization by Keywords,Automate the organization of files into folders based on their keywords or tags.
+OneDrive,File Organization by Content,"Automate the organization of files into folders based on their content type (e.g., text, image, video)."
+OneDrive,File Organization by Context,"Automate the organization of files into folders based on their context or usage (e.g., personal, professional, educational)."
+OneDrive,File Organization by Purpose,"Automate the organization of files into folders based on their purpose or goal (e.g., research, development, marketing)."
+OneDrive,File Organization by Audience,"Automate the organization of files into folders based on their target audience (e.g., internal, external, public)."
+OneDrive,File Organization by Relevance,"Automate the organization of files into folders based on their relevance or importance (e.g., critical, optional, irrelevant)."
+OneDrive,File Organization by Impact,"Automate the organization of files into folders based on their impact or influence (e.g., high, medium, low)."
+OneDrive,File Organization by Risk,"Automate the organization of files into folders based on their risk level (e.g., low, medium, high)."
+OneDrive,File Organization by Opportunity,"Automate the organization of files into folders based on their opportunity level (e.g., low, medium, high)."
+OneDrive,File Organization by Challenge,"Automate the organization of files into folders based on their challenge level (e.g., easy, moderate, difficult)."
+OneDrive,File Organization by Solution,"Automate the organization of files into folders based on their solution type (e.g., technical, managerial, operational)."
+OneDrive,File Organization by Strategy,"Automate the organization of files into folders based on their strategy type (e.g., short-term, long-term, contingency)."
+OneDrive,File Organization by Plan,"Automate the organization of files into folders based on their plan type (e.g., action, contingency, strategic)."
+OneDrive,File Organization by Goal,"Automate the organization of files into folders based on their goal type (e.g., personal, professional, organizational)."
+OneDrive,File Organization by Objective,"Automate the organization of files into folders based on their objective type (e.g., specific, measurable, achievable)."
+OneDrive,File Organization by Milestone,"Automate the organization of files into folders based on their milestone type (e.g., initial, intermediate, final)."
+OneDrive,File Organization by Task,"Automate the organization of files into folders based on their task type (e.g., simple, complex, critical)."
+OneDrive,File Organization by Activity,"Automate the organization of files into folders based on their activity type (e.g., routine, special, emergency)."
+OneDrive,File Organization by Event,"Automate the organization of files into folders based on their event type (e.g., planned, unplanned, recurring)."
+OneDrive,File Organization by Incident,"Automate the organization of files into folders based on their incident type (e.g., minor, major, critical)."
+OneDrive,File Organization by Problem,"Automate the organization of files into folders based on their problem type (e.g., technical, managerial, operational)."
+OneDrive,File Organization by Solution,"Automate the organization of files into folders based on their solution type (e.g., technical, managerial, operational)."
+OneDrive,,

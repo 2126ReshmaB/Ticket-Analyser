@@ -1,0 +1,69 @@
+Category,Short Description,Description
+Zoho Creator,Auto-assign tasks to team members,"Automatically assign tasks to team members based on their roles, workload, or expertise using Zoho Creator workflows."
+Zoho Creator,Notify on record creation,Send notifications to relevant team members when a new record is created in an application.
+Zoho Creator,Auto-create invoices,"Automatically generate invoices based on data entered in a custom app, such as order or payment details."
+Zoho Creator,Notify on overdue tasks,Send automated reminders to task owners when tasks are overdue or approaching deadlines.
+Zoho Creator,Auto-generate reports,"Automatically generate weekly, monthly, or custom reports and email them to stakeholders."
+Zoho Creator,Sync data with Zoho CRM,"Automatically sync data between Zoho Creator and Zoho CRM, such as leads, contacts, or deals."
+Zoho Creator,Auto-send email notifications,Automatically send email notifications when a specific event or action occurs in the application.
+Zoho Creator,Auto-update records,Automatically update records in Zoho Creator based on changes to related data or fields.
+Zoho Creator,Notify on form submissions,Send notifications to admins or team members when a form is submitted in Zoho Creator.
+Zoho Creator,Auto-create tasks in Zoho Projects,Automatically create tasks in Zoho Projects when a new record is added to Zoho Creator.
+Zoho Creator,Auto-generate quotes,Generate quotes automatically based on customer data and product details entered in the application.
+Zoho Creator,Sync data with Google Sheets,Automatically sync data from Zoho Creator to Google Sheets for better reporting and analysis.
+Zoho Creator,Notify on record updates,"Send notifications when records are updated in the application, such as status changes."
+Zoho Creator,Auto-create reminders,"Automatically create reminders for specific actions, such as follow-ups or meetings, based on data entered in Zoho Creator."
+Zoho Creator,Auto-create purchase orders,Automatically generate purchase orders when inventory levels drop below a certain threshold.
+Zoho Creator,Integrate with Zoho Invoice,Sync Zoho Creator data with Zoho Invoice to automate billing and payments.
+Zoho Creator,Auto-approve workflows,Automatically approve or reject workflows based on predefined conditions or rules.
+Zoho Creator,Notify on new leads,Send notifications to the sales team when a new lead is captured in Zoho Creator.
+Zoho Creator,Auto-create customer profiles,Automatically create customer profiles based on form submissions or imported data.
+Zoho Creator,Sync with Zoho Books,Automatically sync financial data between Zoho Creator and Zoho Books for accounting purposes.
+Zoho Creator,Notify on project delays,Send alerts when a project is delayed or milestones are overdue in Zoho Creator.
+Zoho Creator,Auto-assign tickets,Automatically assign support tickets to team members based on their skills or availability.
+Zoho Creator,Auto-create recurring tasks,Automatically generate recurring tasks for activities like weekly reports or monthly billing cycles.
+Zoho Creator,Auto-generate contracts,Automatically create contracts based on customer data and predefined templates.
+Zoho Creator,Notify on SLA breaches,Send alerts when SLA (Service Level Agreement) deadlines are breached for specific cases.
+Zoho Creator,Auto-update inventory,Automatically update inventory levels based on sales or purchase orders.
+Zoho Creator,Sync with Zoho Desk,Automatically create tickets in Zoho Desk when data is submitted in Zoho Creator.
+Zoho Creator,Auto-create meeting agendas,Automatically generate meeting agendas based on the data entered in Zoho Creator.
+Zoho Creator,Notify on high-priority cases,Send alerts to stakeholders when high-priority cases or issues are created.
+Zoho Creator,Auto-create delivery schedules,Automatically generate delivery schedules based on customer orders and locations.
+Zoho Creator,Auto-generate performance reports,Automatically generate performance reports for employees or projects based on data entered.
+Zoho Creator,Integrate with Zoho Analytics,Sync Zoho Creator data with Zoho Analytics for better visualization and reporting.
+Zoho Creator,Notify on changes to records,Send notifications when specific fields or records are updated in Zoho Creator.
+Zoho Creator,Auto-create work orders,Automatically generate work orders based on service requests or equipment maintenance schedules.
+Zoho Creator,Sync with Zoho Campaigns,Automatically sync customer data with Zoho Campaigns to create targeted marketing campaigns.
+Zoho Creator,Auto-calculate taxes,Automatically calculate taxes for invoices or orders based on customer location.
+Zoho Creator,Notify on form errors,"Send alerts when errors occur during form submissions, such as missing required fields."
+Zoho Creator,Auto-create onboarding workflows,Automatically generate onboarding workflows for new employees or clients.
+Zoho Creator,Auto-generate shipping labels,Automatically create shipping labels based on order and customer data.
+Zoho Creator,Notify on duplicate entries,Send alerts when duplicate entries are detected in a database.
+Zoho Creator,Auto-create customer feedback forms,Automatically generate feedback forms and send them to customers after service completion.
+Zoho Creator,Sync with Dropbox,Automatically upload files from Zoho Creator to Dropbox for better file management.
+Zoho Creator,Notify on task completion,Send notifications to stakeholders when tasks are marked as complete in Zoho Creator.
+Zoho Creator,Auto-create tickets in Zoho CRM,Automatically create tickets in Zoho CRM when specific events occur in Zoho Creator.
+Zoho Creator,Auto-create compliance reports,Automatically generate compliance reports based on regulatory requirements.
+Zoho Creator,Notify on data import,Send alerts when a bulk data import is completed or encounters errors.
+Zoho Creator,Auto-create recurring invoices,Automatically generate recurring invoices for subscription-based services.
+Zoho Creator,Sync with Microsoft Teams,"Automatically send updates to Microsoft Teams when records are added, updated, or deleted in Zoho Creator."
+Zoho Creator,Auto-create timesheets,Automatically generate timesheets for employees based on their logged hours.
+Zoho Creator,Notify on payment failures,Send alerts when a payment transaction fails or is declined.
+Zoho Creator,Auto-create project plans,Automatically generate project plans based on data entered in Zoho Creator.
+Zoho Creator,Auto-generate subscription plans,Automatically create subscription plans based on customer preferences or orders.
+Zoho Creator,Notify on data export,"Send notifications when data is exported from Zoho Creator, ensuring transparency and security."
+Zoho Creator,Auto-create SLA workflows,Automatically generate workflows to track and manage SLA compliance.
+Zoho Creator,Auto-create user permissions,Automatically assign user permissions based on roles or predefined rules.
+Zoho Creator,Notify on inventory shortages,Send alerts when inventory levels fall below a specified threshold.
+Zoho Creator,Auto-generate delivery routes,Automatically create delivery routes based on customer locations and order details.
+Zoho Creator,Auto-create follow-up tasks,Automatically create follow-up tasks for leads or customers based on predefined rules.
+Zoho Creator,Auto-create refund requests,Automatically generate refund requests when a customer initiates a return.
+Zoho Creator,Notify on data discrepancies,Send alerts when discrepancies are detected between different data sources.
+Zoho Creator,Auto-generate audit logs,Automatically create audit logs for actions performed in Zoho Creator applications.
+Zoho Creator,Sync with QuickBooks,Automatically sync financial data between Zoho Creator and QuickBooks for accounting purposes.
+Zoho Creator,Notify on SLA violations,Send alerts to managers when SLA violations occur.
+Zoho Creator,Auto-create marketing workflows,Automatically generate workflows for campaign planning and execution.
+Zoho Creator,Auto-create leave requests,Automatically process employee leave requests based on predefined rules.
+Zoho Creator,Sync with Google Drive,Automatically upload files or data from Zoho Creator to Google Drive for storage.
+Zoho Creator,Notify on expense approvals,Send notifications when expense reports are approved or rejected.
+Zoho Creator,Auto-create recurring meetings,Automatically schedule recurring meetings based on predefined schedules

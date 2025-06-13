@@ -1,0 +1,75 @@
+Category,Short Description,Description
+Wireless Diagnostics,Automated Signal Strength Monitoring,Automate the monitoring of Wi-Fi signal strength in real-time to identify weak areas.
+Wireless Diagnostics,Channel Congestion Analysis,Automate the analysis of Wi-Fi channel congestion to recommend optimal channels.
+Wireless Diagnostics,Dead Zone Detection,Automatically identify areas with no Wi-Fi signal to address coverage gaps.
+Wireless Diagnostics,Signal-to-Noise Ratio Analysis,Automate the calculation of SNR to optimize network performance.
+Wireless Diagnostics,Interference Source Identification,Automate the detection of interference sources affecting wireless performance.
+Wireless Diagnostics,Packet Loss Monitoring,Automate the detection and logging of packet loss in wireless networks.
+Wireless Diagnostics,Latency Analysis,Automate the measurement of latency to identify delays in wireless communication.
+Wireless Diagnostics,Bandwidth Usage Monitoring,Automate the monitoring of bandwidth usage across connected devices.
+Wireless Diagnostics,Rogue Access Point Detection,Automate the identification of unauthorized access points in the network.
+Wireless Diagnostics,Wi-Fi Speed Testing,Automate the testing of download and upload speeds for wireless networks.
+Wireless Diagnostics,Multi-Band Frequency Analysis,Automate the analysis of both 2.4 GHz and 5 GHz bands for performance optimization.
+Wireless Diagnostics,Real-Time Signal Drop Alerts,Automatically trigger alerts when signal strength drops below a predefined threshold.
+Wireless Diagnostics,Hidden Network Detection,Automate the detection of hidden Wi-Fi networks in the area.
+Wireless Diagnostics,AP Placement Validation,Automate the validation of access point placement against network design plans.
+Wireless Diagnostics,Channel Reassignment Recommendations,Automatically recommend new channel configurations to reduce interference.
+Wireless Diagnostics,Wi-Fi Coverage Heatmap Generation,Automate the creation of heatmaps to visualize Wi-Fi coverage areas.
+Wireless Diagnostics,Historical Performance Logging,Automate the logging of wireless network performance over time for trend analysis.
+Wireless Diagnostics,Device-Specific Signal Analysis,Automate the analysis of signal strength and performance for specific devices.
+Wireless Diagnostics,Automated Network Congestion Alerts,Automatically generate alerts when network congestion is detected.
+Wireless Diagnostics,Wi-Fi Security Protocol Validation,"Automate the validation of security protocols (e.g., WPA2, WPA3) used by wireless networks."
+Wireless Diagnostics,Real-Time Interference Alerts,Automatically trigger alerts when interference levels exceed acceptable limits.
+Wireless Diagnostics,AP Load Monitoring,Automate the monitoring of access point load to identify bottlenecks.
+Wireless Diagnostics,Wi-Fi Roaming Analysis,Automate the analysis of device roaming between access points to ensure seamless connectivity.
+Wireless Diagnostics,Automated Firmware Validation,Automate the validation of firmware versions for access points and wireless devices.
+Wireless Diagnostics,Signal Propagation Analysis,Automate the analysis of signal propagation to identify weak spots in coverage.
+Wireless Diagnostics,Automated QoS Monitoring,Automate the monitoring of Quality of Service (QoS) metrics to ensure optimal network performance.
+Wireless Diagnostics,Real-Time Network Health Monitoring,Automate the monitoring of overall network health metrics in real-time.
+Wireless Diagnostics,Wi-Fi Device Inventory Management,Automate the tracking of devices connected to the wireless network.
+Wireless Diagnostics,Automated AP Power Level Adjustment,Automate recommendations for adjusting access point power levels to optimize coverage.
+Wireless Diagnostics,Wi-Fi Authentication Type Analysis,Automate the detection of authentication types used by nearby Wi-Fi networks.
+Wireless Diagnostics,Network Downtime Detection,Automatically detect and log instances of network downtime.
+Wireless Diagnostics,Wi-Fi Speed Test Alerts,Automatically trigger alerts if speed tests fall below a predefined threshold.
+Wireless Diagnostics,Wi-Fi Load Balancing Validation,Automate validation of load balancing across multiple access points.
+Wireless Diagnostics,Wi-Fi Network Expansion Planning,Automate planning for network expansion by analyzing coverage and capacity requirements.
+Wireless Diagnostics,Wi-Fi Device Connection Stability Analysis,Automate analysis of connection stability for devices on the network.
+Wireless Diagnostics,Automated AP Naming Convention Checks,Automate validation of access point naming conventions for consistency.
+Wireless Diagnostics,Wi-Fi Network Efficiency Analysis,"Automate analysis of network efficiency metrics, such as throughput per device."
+Wireless Diagnostics,Automated Backup of Heatmaps,Automatically back up Wi-Fi heatmaps to prevent data loss.
+Wireless Diagnostics,Wi-Fi Signal Strength History,Automate the maintenance of historical logs for signal strength data.
+Wireless Diagnostics,Automated Multi-Floor Heatmapping,Automatically generate heatmaps for multiple floors in a building.
+Wireless Diagnostics,Real-Time Wi-Fi Performance Alerts,Automatically generate alerts for issues such as low throughput or high latency.
+Wireless Diagnostics,Automated Hidden SSID Scanning,Automatically scan for hidden SSIDs in the area.
+Wireless Diagnostics,ISP SLA Compliance Verification,Automate the verification of ISP compliance with Service Level Agreements (SLAs).
+Wireless Diagnostics,Wi-Fi Device Signal Strength Comparison,Automate comparison of signal strength for multiple devices connected to the same network.
+Wireless Diagnostics,Video Streaming Test Automation,Automate testing to ensure network performance meets video streaming requirements.
+Wireless Diagnostics,Automated Wi-Fi Performance Visualization,Automatically generate visualizations of Wi-Fi performance metrics for analysis.
+Wireless Diagnostics,Real-Time Rogue Device Alerts,Automatically generate alerts when rogue devices connect to the network.
+Wireless Diagnostics,Wi-Fi Encryption Protocol Analysis,Automate the analysis of encryption protocols for all detected networks.
+Wireless Diagnostics,Automated AP Power Level Analysis,Automate the analysis of access point power levels to optimize coverage and minimize interference.
+Wireless Diagnostics,Automated SSID Filtering,"Automate the filtering of SSIDs based on specific parameters, such as security type or signal strength."
+Wireless Diagnostics,Wi-Fi Signal Benchmarking,Automate benchmarking of signal strength against industry standards.
+Wireless Diagnostics,AP Firmware Validation,Automate checking the firmware versions of detected access points.
+Wireless Diagnostics,Wi-Fi Signal Stability Analysis,Automate the analysis of signal stability over time for selected networks.
+Wireless Diagnostics,Automated Network Downtime Alerts,Automatically generate alerts when a selected network goes down.
+Wireless Diagnostics,Wi-Fi Authentication Type Detection,"Automate the detection of authentication types (e.g., WPA3-Enterprise) used by networks."
+Wireless Diagnostics,Real-Time Network Load Monitoring,Automatically monitor the load on access points to ensure optimal performance.
+Wireless Diagnostics,Automated Signal Drop Detection,Automatically detect and log instances of signal drops for selected networks.
+Wireless Diagnostics,Wi-Fi Dead Zone Mapping,Automate the mapping of dead zones to visualize areas with no connectivity.
+Wireless Diagnostics,Channel Optimization Recommendations,Automate the generation of recommendations for channel optimization.
+Wireless Diagnostics,AP Signal Strength Validation,Automate validation of signal strength levels for existing access points.
+Wireless Diagnostics,Network Congestion Alerts,Automatically generate alerts when network congestion exceeds predefined thresholds.
+Wireless Diagnostics,Wi-Fi Device Location Estimation,Automate the estimation of device locations based on signal strength and triangulation.
+Wireless Diagnostics,Automated Wi-Fi Roaming Analysis,Automate the analysis of device roaming behavior between access points.
+Wireless Diagnostics,Integration with Cloud Platforms,Automate the synchronization of wireless diagnostic data with cloud platforms for storage and analysis.
+Wireless Diagnostics,Automated Wi-Fi Vulnerability Scanning,Automate the scanning of networks for potential security vulnerabilities.
+Wireless Diagnostics,Wi-Fi Network Latency Monitoring,Automate the monitoring of latency for selected Wi-Fi networks.
+Wireless Diagnostics,Automated Wi-Fi Speed Testing,"Automate the testing of download, upload, and ping speeds for selected networks."
+Wireless Diagnostics,Device Bandwidth Usage Analysis,Automate the analysis of bandwidth usage for devices connected to the same network.
+Wireless Diagnostics,Automated Wi-Fi Dependability Testing,Automate the testing of Wi-Fi network dependability under various conditions.
+Wireless Diagnostics,Hidden SSID Alerts,Automatically generate alerts when hidden SSIDs are detected.
+Wireless Diagnostics,Wi-Fi Traffic Pattern Analysis,Automate the analysis of traffic patterns for selected networks.
+Wireless Diagnostics,Real-Time SNR Alerts,Automatically generate alerts when the Signal-to-Noise Ratio drops below a specific value.
+Wireless Diagnostics,Automated Network Scalability Analysis,Automate analysis to determine if the network can handle additional devices and traffic.
+Wireless Diagnostics,Integration with Analytics Tools,Automate the export of wireless diagnostic data to

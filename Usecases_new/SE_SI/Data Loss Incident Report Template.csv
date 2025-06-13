@@ -1,0 +1,54 @@
+Category,Short Description,Description
+Data Loss Incident Report Template,Auto-Generate Report ID,Automatically generate a unique report ID for each incident report using a timestamp or sequential numbering system.
+Data Loss Incident Report Template,Pre-fill Reporter Details,"Automatically fill in reporter's details (e.g., name, email, department) based on their login credentials."
+Data Loss Incident Report Template,Auto-Time Stamp Logging,Capture and log the exact time and date when the incident report is created or updated.
+Data Loss Incident Report Template,Incident Categorization,Automatically categorize the type of data loss based on user input or predefined keywords.
+Data Loss Incident Report Template,Severity Classification,"Automate the classification of the incident's severity level (e.g., low, medium, high) based on predefined criteria."
+Data Loss Incident Report Template,Data Type Detection,"Automatically identify the type of data involved (e.g., personal, financial, proprietary) using keywords or metadata analysis."
+Data Loss Incident Report Template,Pre-populate Affected Systems,Automatically list affected systems by cross-referencing the incident details with an asset inventory database.
+Data Loss Incident Report Template,Reporter Notification,"Send automated confirmation emails to the reporter, acknowledging receipt of their incident report."
+Data Loss Incident Report Template,Manager Notification,Notify the relevant manager or team lead automatically when a report is submitted.
+Data Loss Incident Report Template,Automated Risk Score Calculation,"Calculate a risk score based on the incident's severity, data type, and affected systems."
+Data Loss Incident Report Template,Predefined Response Recommendation,Suggest predefined responses or actions based on the incident type and severity.
+Data Loss Incident Report Template,Incident Summary Report,"Automatically generate a summary report for each incident, including key details and metrics."
+Data Loss Incident Report Template,Duplicate Incident Detection,Identify and flag duplicate incident reports by comparing key data points like timestamps and affected systems.
+Data Loss Incident Report Template,Data Encryption Check,Verify whether the lost data was encrypted and log this information in the report automatically.
+Data Loss Incident Report Template,Data Recovery Option Identification,Suggest possible data recovery options or tools based on the incident type and affected systems.
+Data Loss Incident Report Template,Attach Supporting Documents,"Enable automated uploading and linking of supporting files (e.g., screenshots, logs) to the incident report."
+Data Loss Incident Report Template,Incident Escalation Workflow,Automatically escalate critical incidents to higher management or specialized teams based on predefined escalation rules.
+Data Loss Incident Report Template,Legal Compliance Check,"Check if the incident involves data subject to legal or regulatory compliance (e.g., GDPR, HIPAA) and flag this in the report."
+Data Loss Incident Report Template,Incident Status Tracking,"Automate the tracking of incident status (e.g., open, in progress, resolved) and update stakeholders accordingly."
+Data Loss Incident Report Template,Generate Root Cause Analysis Template,Automatically generate a root cause analysis template for the incident based on the initial report details.
+Data Loss Incident Report Template,Timeline Generation,Automatically create a timeline of events based on timestamps in the incident report.
+Data Loss Incident Report Template,Link to Related Incidents,Link the current report to related past incidents using incident metadata or keywords.
+Data Loss Incident Report Template,Automated Impact Assessment,Calculate and document the potential business impact of the incident using predefined formulas or metrics.
+Data Loss Incident Report Template,Data Sensitivity Tagging,"Automatically tag reports with data sensitivity levels (e.g., public, confidential, highly confidential)."
+Data Loss Incident Report Template,Incident Resolution Time Tracking,Track and log the time taken to resolve the incident from report creation to closure.
+Data Loss Incident Report Template,User Access Review,Automatically review and log user access permissions to the lost or compromised data.
+Data Loss Incident Report Template,Generate Executive Summary,Create a concise executive summary of the incident report for senior management.
+Data Loss Incident Report Template,Data Breach Notification Templates,Auto-generate notification templates for affected individuals in case of a data breach.
+Data Loss Incident Report Template,Automated SLA Monitoring,Monitor and notify if resolution times exceed predefined Service Level Agreements (SLAs).
+Data Loss Incident Report Template,Compliance Audit Preparation,Automatically compile incident reports for compliance audits based on specific criteria.
+Data Loss Incident Report Template,Risk Mitigation Suggestions,Provide automated suggestions for mitigating risks associated with the incident.
+Data Loss Incident Report Template,Data Owner Identification,Identify and document the owner of the lost or compromised data automatically.
+Data Loss Incident Report Template,Incident Closure Checklist,Generate a checklist of tasks to ensure all steps are completed before closing the report.
+Data Loss Incident Report Template,Metrics Dashboard Update,"Automatically update dashboards with metrics from the incident report (e.g., number of incidents, resolution time)."
+Data Loss Incident Report Template,Integration with Ticketing Systems,Integrate with ticketing systems like Jira or ServiceNow to automatically create tickets from incident reports.
+Data Loss Incident Report Template,Stakeholder Communication,Automate communication with stakeholders during various phases of the incident resolution process.
+Data Loss Incident Report Template,Incident Trend Analysis,Analyze incident data over time and automatically generate trend reports.
+Data Loss Incident Report Template,Policy Violation Detection,Automatically flag incidents that involve violations of internal policies or procedures.
+Data Loss Incident Report Template,Backup Verification Check,Verify and log whether backups exist for the lost data and their status.
+Data Loss Incident Report Template,Incident Priority Assignment,Assign priority levels to incidents automatically based on predefined criteria.
+Data Loss Incident Report Template,Automated Data Loss Prevention (DLP) Alerts,Trigger automated alerts in case of suspected data loss incidents based on predefined DLP rules.
+Data Loss Incident Report Template,Incident Report Archival,Automate the archival of resolved incident reports for future reference.
+Data Loss Incident Report Template,External Vendor Notification,Notify external vendors automatically if they are involved or impacted by the incident.
+Data Loss Incident Report Template,Incident Report Duplication for Testing,Duplicate incident reports for testing and training purposes without affecting the original data.
+Data Loss Incident Report Template,Incident Tagging System,Automate tagging of incidents with relevant keywords for easier searching and categorization.
+Data Loss Incident Report Template,Generate Incident Insights Report,Automatically generate reports with key insights from multiple incidents for strategic planning.
+Data Loss Incident Report Template,Cross-Team Collaboration Tracker,Automate tracking of cross-team collaboration efforts and progress.
+Data Loss Incident Report Template,False Positive Detection,Identify and flag false positives in incident reports using predefined criteria.
+Data Loss Incident Report Template,Data Loss Source Identification,Automate the identification of probable sources or origins of the data loss.
+Data Loss Incident Report Template,Historical Incident Comparison,Compare the current incident report with historical data to identify patterns or similarities.
+Data Loss Incident Report Template,Incident Retention Policy Enforcement,Automatically enforce data retention policies for incident reports based on organizational rules.
+Data Loss Incident Report Template,Geolocation Tracking for Incidents,"Automate tracking of geographical locations associated with the incident, if applicable."
+Data Loss Incident Report Template,Incident Keyword Extraction,Extract and highlight keywords from incident reports for easier analysis.

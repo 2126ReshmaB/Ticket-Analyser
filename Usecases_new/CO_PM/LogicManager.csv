@@ -1,0 +1,72 @@
+Category,Short Description,Description
+LogicManager,Automate Risk Assessment Assignments,Automatically assign risk assessments to relevant stakeholders based on their roles or departments.
+LogicManager,Generate Risk Heatmaps,Automate the creation of risk heatmaps to visualize risk levels across different areas of the organization.
+LogicManager,Notify Overdue Risk Assessments,Send automated reminders to employees or departments with overdue risk assessments.
+LogicManager,Schedule Risk Review Meetings,Automate the scheduling of periodic risk review meetings with relevant stakeholders.
+LogicManager,Update Risk Scoring Methodology,Automatically update risk scoring methodologies across the system when changes are made.
+LogicManager,Assign Risk Owners,Automatically assign risk owners to specific risks based on predefined criteria such as job function or location.
+LogicManager,Track Mitigation Plan Progress,Automate the tracking and reporting of risk mitigation plan progress.
+LogicManager,Notify Users of New Risks Identified,Automatically notify relevant users when new risks are added to the system.
+LogicManager,Generate Risk Assessment Reports,Automate the generation of risk assessment reports for management and board reviews.
+LogicManager,Monitor Third-Party Risks,Automate monitoring and reporting on third-party risks by integrating with external vendor systems.
+LogicManager,Assign Mitigation Tasks,Automatically assign specific mitigation tasks to users or teams based on the risk ownership.
+LogicManager,Notify of Policy Review Due Dates,Send automated alerts to policy owners when policy review deadlines are approaching.
+LogicManager,Update Risk Control Libraries,Automate the process of updating risk control libraries with new controls or updates.
+LogicManager,Automate Incident Reporting,Automatically notify relevant stakeholders when an incident is reported in the system.
+LogicManager,Track Incident Resolution Timelines,Automate the tracking and reporting of incident resolution timelines.
+LogicManager,Generate Incident Trend Reports,Automate the creation of incident trend analysis reports to identify recurring patterns.
+LogicManager,Notify Users of Compliance Violations,Automatically notify relevant teams when compliance violations are detected in the system.
+LogicManager,Assign Compliance Tasks,Automatically assign compliance-related tasks to users or departments based on their responsibilities.
+LogicManager,Generate Compliance Reports,Automate the generation of compliance status reports for audits or management.
+LogicManager,Schedule Compliance Training,Automate the scheduling and assignment of compliance training sessions across the organization.
+LogicManager,Notify Users of Expiring Certifications,Send automated reminders to users with certifications nearing their expiration dates.
+LogicManager,Automate Policy Distribution,Automatically distribute updated policies to relevant employees based on their roles.
+LogicManager,Track Policy Acknowledgements,Automate the tracking and reporting of employee policy acknowledgments.
+LogicManager,Notify Users of Internal Audit Schedules,Send automated notifications about upcoming internal audits to relevant stakeholders.
+LogicManager,Assign Audit Tasks,Automatically assign audit tasks to team members based on their expertise or department.
+LogicManager,Generate Audit Findings Reports,Automate the generation of audit findings reports for review and follow-up actions.
+LogicManager,Track Audit Recommendations,Automatically track the implementation of audit recommendations and send reminders for overdue actions.
+LogicManager,Notify Users of Risk Control Updates,Send automated notifications to users when risk controls are updated or added to the system.
+LogicManager,Monitor Control Effectiveness,Automate the monitoring and reporting of control effectiveness metrics.
+LogicManager,Generate Control Testing Reports,Automatically generate control testing reports for compliance and audit purposes.
+LogicManager,Schedule Control Testing Tasks,Automate the scheduling of control testing tasks across various departments.
+LogicManager,Send Risk Assessment Reminders,Automatically remind users to complete pending risk assessments.
+LogicManager,Monitor Key Risk Indicators (KRIs),Automate the monitoring and reporting of key risk indicators (KRIs) to identify emerging risks.
+LogicManager,Generate KRI Dashboards,Automatically create dashboards to visualize key risk indicator trends.
+LogicManager,Notify Users of KRI Threshold Breaches,Send automated alerts when KRIs exceed predefined thresholds.
+LogicManager,Assign Vendor Risk Assessments,Automatically assign vendor risk assessments to relevant teams or individuals.
+LogicManager,Monitor Vendor Risk Ratings,Automate the monitoring and reporting of vendor risk ratings for compliance purposes.
+LogicManager,Schedule Vendor Performance Reviews,Automatically schedule periodic performance reviews for vendors.
+LogicManager,Notify Vendors of Missing Documents,Send automated reminders to vendors about missing or incomplete documentation.
+LogicManager,Generate Vendor Risk Reports,Automate the creation of vendor risk management reports for review.
+LogicManager,Track Vendor Contract Expirations,Automatically notify stakeholders when vendor contracts are nearing expiration.
+LogicManager,Assign Business Continuity Tasks,Automate the assignment of business continuity tasks to relevant teams or users.
+LogicManager,Notify of Business Continuity Plan Updates,Send automated alerts to employees about updates to business continuity plans.
+LogicManager,Monitor Business Continuity Test Results,Automate the monitoring and reporting of business continuity test results.
+LogicManager,Assign Corrective Actions,Automatically assign corrective actions to users based on audit findings or risk assessments.
+LogicManager,Notify of Corrective Action Deadlines,Send automated reminders about upcoming deadlines for corrective actions.
+LogicManager,Generate Corrective Action Reports,Automate the generation of reports on the status and progress of corrective actions.
+LogicManager,Monitor Regulatory Changes,Automate the monitoring of regulatory changes and notify relevant stakeholders.
+LogicManager,Assign Regulatory Compliance Tasks,Automatically assign tasks to ensure compliance with new or updated regulations.
+LogicManager,Generate Regulatory Compliance Reports,Automate the creation of regulatory compliance reports for audits or management.
+LogicManager,Notify of Internal Control Failures,Automatically notify stakeholders when internal control failures are identified.
+LogicManager,Schedule Risk Control Reviews,Automate the scheduling of regular risk control review sessions.
+LogicManager,Assign Risk Control Ownership,Automatically assign ownership of specific risk controls to individuals or teams.
+LogicManager,Generate Incident Root Cause Analysis,Automate the process of generating root cause analysis reports for incidents.
+LogicManager,Notify Users of New Incident Reports,Automatically notify relevant users when new incidents are reported in the system.
+LogicManager,Track Compliance Training Progress,Automate the tracking and reporting of compliance training progress across teams.
+LogicManager,Schedule Compliance Audits,Automatically schedule compliance audits based on organizational needs.
+LogicManager,Monitor Control Implementation Timelines,Automate the tracking and reporting of timelines for implementing new controls.
+LogicManager,Notify of Critical Risk Thresholds,Automatically alert stakeholders when critical risk thresholds are reached.
+LogicManager,Generate Risk Treatment Plans,Automate the creation of risk treatment plans based on assessments and mitigation strategies.
+LogicManager,Assign Risk Treatment Tasks,Automatically assign tasks for implementing risk treatment plans to relevant individuals or teams.
+LogicManager,Generate Risk Appetite Statements,Automate the generation of risk appetite statements for organizational review.
+LogicManager,Monitor Compliance Across Departments,Automatically track and report compliance status across different departments.
+LogicManager,Notify of Non-Compliance Trends,Send automated alerts to management about emerging non-compliance trends.
+LogicManager,Track Risk Management KPIs,Automate the monitoring and reporting of key performance indicators (KPIs) for risk management.
+LogicManager,Schedule Internal Audit Follow-Ups,Automatically schedule follow-up actions for internal audits.
+LogicManager,Notify Stakeholders of High-Risk Areas,Automatically notify relevant stakeholders about areas identified as high risk during assessments.
+LogicManager,Generate Annual Risk Reports,Automate the creation of annual risk reports for organizational review and planning.
+LogicManager,Monitor IT Risks,"Automate the tracking and reporting of IT-specific risks, such as cybersecurity threats."
+LogicManager,Assign Cybersecurity Training,Automatically assign cybersecurity training to employees based on their roles.
+LogicManager,Notify of IT Control Failures,Send automated alerts when IT control failures are detected.

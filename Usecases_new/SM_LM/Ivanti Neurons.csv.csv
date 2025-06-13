@@ -1,0 +1,69 @@
+Category,Short Description,Description
+Ivanti Neurons,Incident Ticket Creation,Automate the creation of incident tickets based on monitoring alerts or incoming emails.
+Ivanti Neurons,Ticket Assignment Automation,Automate the assignment of tickets to appropriate teams or technicians based on predefined rules.
+Ivanti Neurons,SLA Breach Alerts,Automate alerts for SLA breaches to notify stakeholders and escalate unresolved tickets.
+Ivanti Neurons,Ticket Escalation Rules,Automate the escalation of tickets to higher support tiers when SLAs or deadlines are missed.
+Ivanti Neurons,Knowledge Article Creation,Automate the generation of knowledge base articles from resolved tickets for self-service portals.
+Ivanti Neurons,Knowledge Base Maintenance,Automate reminders for reviewing and updating outdated knowledge base articles.
+Ivanti Neurons,Asset Discovery,Automate the discovery of IT assets on the network and update the asset inventory in real-time.
+Ivanti Neurons,Software License Compliance,Automate tracking of software license usage and send alerts when nearing thresholds.
+Ivanti Neurons,Patch Management,"Automate patch deployment tasks, including scheduling, approvals, and installation."
+Ivanti Neurons,Vulnerability Management,Automate the creation of remediation tasks based on vulnerability scan results.
+Ivanti Neurons,Endpoint Configuration Updates,Automate updates to endpoint configurations to ensure compliance with organizational policies.
+Ivanti Neurons,Incident Status Updates,Automate notifications to users when the status of their tickets changes.
+Ivanti Neurons,Password Reset Automation,Automate password reset requests from users via self-service options or workflows.
+Ivanti Neurons,Employee Onboarding,"Automate the onboarding process, including provisioning IT assets, creating accounts, and granting access."
+Ivanti Neurons,Employee Offboarding,"Automate the offboarding process by disabling accounts, reclaiming assets, and revoking access."
+Ivanti Neurons,Compliance Reporting,Automate the creation of compliance reports for audits and regulatory requirements.
+Ivanti Neurons,Security Incident Management,Automate workflows for logging and resolving security-related incidents.
+Ivanti Neurons,IT Asset Lifecycle Management,"Automate workflows for tracking assets through their lifecycle stages, such as procurement, maintenance, and decommissioning."
+Ivanti Neurons,CMDB Updates,Automate updates to the Configuration Management Database (CMDB) when asset changes occur.
+Ivanti Neurons,CI Dependency Mapping,Automate the mapping of dependencies between configuration items (CIs) in the CMDB.
+Ivanti Neurons,Service Request Fulfillment,"Automate the fulfillment of standard service requests, such as granting access to applications or systems."
+Ivanti Neurons,Service Catalog Maintenance,Automate updates to the service catalog by adding or retiring services.
+Ivanti Neurons,SLA Monitoring,Automate tracking of SLA compliance and provide real-time updates to service desk teams.
+Ivanti Neurons,Knowledge Search Analytics,Automate analysis of search terms in the knowledge base to identify content gaps.
+Ivanti Neurons,Feedback Collection,Automate the collection and analysis of feedback from users to improve IT services.
+Ivanti Neurons,User Satisfaction Surveys,Automate sending surveys to users after incidents are resolved or service requests are fulfilled.
+Ivanti Neurons,Incident Trend Analysis,Automate the analysis of incident trends to identify recurring problems and areas for improvement.
+Ivanti Neurons,Root Cause Analysis Reporting,Automate the creation of root cause analysis reports for critical incidents.
+Ivanti Neurons,Dynamic Ticket Routing,Automate routing of tickets to the correct teams or technicians based on ticket attributes like category or urgency.
+Ivanti Neurons,Dynamic Approver Assignment,Automate the assignment of approvers for workflows based on ticket or request details.
+Ivanti Neurons,Incident Duplication Detection,Automate detection and merging of duplicate incidents to streamline ticket management.
+Ivanti Neurons,Event Correlation,Automate correlation of related events into a single incident to reduce ticket volume.
+Ivanti Neurons,API Integration for Monitoring Tools,Automate integration with third-party monitoring tools for real-time ticket creation.
+Ivanti Neurons,Integration with Active Directory,Automate synchronization of user accounts and groups with Active Directory for accurate access and identity management.
+Ivanti Neurons,Integration with Email Systems,Automate ticket creation and updates based on incoming email requests.
+Ivanti Neurons,Integration with Collaboration Tools,Automate notifications and updates to collaboration tools like Slack or Microsoft Teams.
+Ivanti Neurons,Software Deployment,Automate the deployment of software packages to endpoints based on user requests or schedules.
+Ivanti Neurons,Backup Monitoring,Automate monitoring of scheduled backups and creation of tickets for failures.
+Ivanti Neurons,License Renewal Notifications,Automate reminders for renewing software or hardware licenses before expiration.
+Ivanti Neurons,Contract Expiry Alerts,Automate alerts for contract renewals or expirations to avoid service disruptions.
+Ivanti Neurons,Audit Trail Maintenance,Automate the creation and maintenance of audit trails for all system changes.
+Ivanti Neurons,Scheduled Maintenance Notifications,Automate notifications to users and technicians about upcoming scheduled maintenance.
+Ivanti Neurons,Recurring Task Scheduling,Automate the creation and scheduling of recurring maintenance tasks.
+Ivanti Neurons,Multi-Channel Notifications,"Automate sending alerts and updates to users and teams via email, SMS, or chat tools."
+Ivanti Neurons,Dynamic Form Fields,Automate the display of form fields based on user input or ticket details.
+Ivanti Neurons,Multi-Language Support,Automate sending notifications and updates in multiple languages based on user preferences.
+Ivanti Neurons,Incident Aging Reports,Automate the generation of reports to track unresolved or aging incidents.
+Ivanti Neurons,Cost Allocation Reports,Automate the creation of cost allocation reports for IT services and resources.
+Ivanti Neurons,Shift Handover Reports,Automate the generation of handover reports for service desk teams during shift changes.
+Ivanti Neurons,Performance Dashboards,Automate updates to dashboards showing key IT performance metrics like ticket resolution times and SLA compliance.
+Ivanti Neurons,Gantt Chart Updates,Automate updates to Gantt charts for project tracking and resource allocation.
+Ivanti Neurons,Outage Notifications,Automate notifications to users and stakeholders during planned or unplanned outages.
+Ivanti Neurons,Workflow Error Reporting,Automate detection and reporting of errors in workflows for troubleshooting.
+Ivanti Neurons,Role-Based Access Control Updates,Automate updates to user roles and permissions based on organizational changes.
+Ivanti Neurons,Business Impact Analysis,Automate analysis of ticket data to assess the impact of IT incidents on business operations.
+Ivanti Neurons,Resource Allocation,Automate tracking and allocation of IT resources for ongoing projects or tasks.
+Ivanti Neurons,Training Record Management,Automate tracking of training and certification records for IT staff.
+Ivanti Neurons,Password Policy Enforcement,Automate enforcement of password policies and generate compliance reports.
+Ivanti Neurons,SLA Breach Reporting,Automate generation of SLA breach reports to analyze root causes and improve processes.
+Ivanti Neurons,Incident Communication Templates,Automate the creation of pre-defined templates for incident communications.
+Ivanti Neurons,Feedback Analysis,Automate analysis of feedback from users to identify trends and areas for service improvement.
+Ivanti Neurons,Event Log Analysis,Automate analysis of event logs to identify anomalies or patterns.
+Ivanti Neurons,Risk Assessment Automation,"Automate risk assessments for changes, incidents, or vulnerabilities using predefined criteria."
+Ivanti Neurons,Release Management,"Automate workflows for release management, including approvals and notifications."
+Ivanti Neurons,Endpoint Health Monitoring,Automate monitoring of endpoint health and creation of remediation tasks for issues.
+Ivanti Neurons,Software Usage Analytics,Automate tracking of software usage to identify underutilized applications and optimize costs.
+Ivanti Neurons,Hardware Warranty Tracking,Automate tracking of hardware warranties and send alerts before expiration.
+Ivanti Neurons,Holiday Calendar Adjustments,Automate adjustments

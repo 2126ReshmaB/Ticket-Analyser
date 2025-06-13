@@ -1,0 +1,70 @@
+Category,Short Description,Description
+Workiva,Automate Financial Report Generation,Automatically generate financial reports by pulling data from integrated systems into Workiva templates.
+Workiva,Schedule Recurring Report Updates,Automate the scheduling of financial or compliance report updates at regular intervals.
+Workiva,Notify of Report Approval Deadlines,Send automated notifications to approvers when a report approval deadline is approaching.
+Workiva,Assign Report Review Tasks,Automatically assign report review tasks to relevant stakeholders based on their roles.
+Workiva,Automate SOX Testing Workflow,"Automate SOX (Sarbanes-Oxley) testing workflows, assigning tasks and consolidating results."
+Workiva,Track SOX Testing Progress,Monitor and report on the progress of SOX testing tasks across teams.
+Workiva,Notify of SOX Control Failures,Send automated alerts when a SOX control test fails or is flagged as an issue.
+Workiva,Generate SOX Compliance Reports,Automate the creation of reports summarizing SOX compliance testing and results.
+Workiva,Assign Audit Tasks,Automatically assign audit tasks to team members based on their expertise or responsibilities.
+Workiva,Notify of Audit Findings,Send automated notifications to stakeholders about new audit findings or flagged issues.
+Workiva,Track Audit Finding Resolutions,Automatically track and report on the resolution status of audit findings.
+Workiva,Generate Internal Audit Reports,"Automate the creation of internal audit reports summarizing findings, recommendations, and resolutions."
+Workiva,Schedule Audit Follow-Ups,Automatically schedule follow-up actions for unresolved audit findings.
+Workiva,Notify of Compliance Violations,Send automated alerts when compliance violations are detected during audits or reporting.
+Workiva,Automate Certification Tracking,Track certifications automatically and notify stakeholders when renewal deadlines are approaching.
+Workiva,Notify of Policy Review Deadlines,Send automated reminders to policy owners when a policy review deadline is near.
+Workiva,Automate Policy Approvals,Automatically route policies to the appropriate approvers for review and sign-off.
+Workiva,Distribute Updated Policies,Automatically distribute updated policies to employees and track acknowledgments.
+Workiva,Archive Expired Policies,Automate the archival of policies that are no longer valid or have expired.
+Workiva,Assign Compliance Tasks,Automatically assign compliance-related tasks to relevant employees based on their responsibilities.
+Workiva,Notify of Compliance Updates,Send automated notifications to employees or departments when compliance standards are updated.
+Workiva,Generate Compliance Reports,Automate the creation of compliance reports for internal reviews or external audits.
+Workiva,Monitor Control Testing Results,Automatically track and report on the results of control testing for compliance purposes.
+Workiva,Notify of Control Failures,Send automated alerts when a control test fails or does not meet the required standards.
+Workiva,Schedule Control Testing Reviews,Automatically schedule periodic reviews of control testing with relevant teams.
+Workiva,Generate Control Effectiveness Reports,Create automated reports on the effectiveness of internal controls for audits or compliance.
+Workiva,Automate Risk Assessments,Automatically assign and track risk assessments across teams or departments.
+Workiva,Notify of Risk Threshold Breaches,Send alerts to stakeholders when identified risks exceed predefined thresholds.
+Workiva,Assign Risk Mitigation Tasks,Automatically assign tasks for mitigating risks identified during assessments.
+Workiva,Generate Risk Assessment Reports,Automate the creation of reports summarizing risk assessments and mitigation plans.
+Workiva,Monitor Mitigation Plan Progress,Automatically track and report on the progress of risk mitigation plans.
+Workiva,Automate ESG Data Collection,"Automatically collect and consolidate Environmental, Social, and Governance (ESG) data from multiple sources."
+Workiva,Notify of ESG Reporting Deadlines,Send automated reminders to stakeholders when ESG reporting deadlines are approaching.
+Workiva,Generate ESG Reports,Automate the creation of ESG reports for stakeholders or regulatory bodies.
+Workiva,Track ESG Metrics,Automatically monitor and report on key ESG metrics to ensure compliance with standards.
+Workiva,Assign Vendor Risk Assessments,Automatically assign risk assessments for vendors based on their relationship with the organization.
+Workiva,Notify Vendors of Missing Documentation,Send automated notifications to vendors about missing or incomplete compliance documents.
+Workiva,Monitor Vendor Risk Scores,Automatically track and report on vendor risk scores to ensure compliance standards are met.
+Workiva,Generate Vendor Compliance Reports,Automate the creation of reports summarizing vendor compliance statuses.
+Workiva,Notify of Vendor Contract Expirations,Send automated reminders to stakeholders when vendor contracts are nearing expiration.
+Workiva,Automate Incident Reporting,Automatically create incident reports when security or compliance events are detected.
+Workiva,Notify of New Incidents,Send alerts to stakeholders when new incidents are logged in Workiva.
+Workiva,Track Incident Resolution Timelines,Monitor and report on the timelines of incident resolution efforts.
+Workiva,Generate Incident Root Cause Analysis,Automate the generation of root cause analysis reports for incidents.
+Workiva,Assign Corrective Actions for Incidents,Automatically assign corrective actions to relevant teams based on incident reports.
+Workiva,Automate Task Progress Tracking,Automatically monitor and report on the progress of assigned tasks in connected reporting workflows.
+Workiva,Notify of Overdue Tasks,Send automated reminders to users when assigned tasks are overdue.
+Workiva,Automate Data Consolidation,Automatically consolidate data from multiple systems into Workiva for reporting and analysis.
+Workiva,Notify of Data Discrepancies,Send automated alerts when discrepancies are detected in integrated data sources.
+Workiva,Generate Data Accuracy Reports,Automate the creation of reports evaluating the accuracy and quality of imported data.
+Workiva,Track Financial Close Processes,Automatically track and report on the progress of financial close tasks across teams.
+Workiva,Notify of Financial Close Delays,Send alerts when delays are detected in the financial close process.
+Workiva,Automate XBRL Tagging,Automatically tag financial data with XBRL (eXtensible Business Reporting Language) for regulatory filings.
+Workiva,Monitor Filing Deadlines,"Send automated reminders for important filing deadlines, such as SEC filings or other regulatory submissions."
+Workiva,Generate SEC Filing Reports,Automate the creation of SEC filing reports and ensure they meet regulatory standards.
+Workiva,Notify of Filing Errors,Send alerts when errors or inconsistencies are detected in regulatory filings.
+Workiva,Assign Filing Review Tasks,Automatically assign tasks for reviewing regulatory filings to relevant stakeholders.
+Workiva,Automate Board Reporting,Automatically generate board reports by consolidating data from multiple sources into the required format.
+Workiva,Schedule Board Report Updates,Automate the scheduling of updates to board reports at regular intervals.
+Workiva,Notify of Board Meeting Deadlines,Send automated reminders to stakeholders about deadlines for submitting board meeting materials.
+Workiva,Automate Annual Report Preparation,Automatically collect and consolidate data for annual report preparation.
+Workiva,Notify of Annual Report Deadlines,Send reminders to stakeholders when deadlines for annual report submissions are approaching.
+Workiva,Automate Investor Presentation Updates,Automatically update investor presentations with the latest financial and operational data.
+Workiva,Notify of Investor Meeting Deadlines,Send automated reminders about deadlines for submitting materials for investor meetings.
+Workiva,Automate GRC Data Integration,"Automatically integrate data from Governance, Risk, and Compliance (GRC) systems into Workiva for reporting."
+Workiva,Notify of GRC Data Gaps,Send alerts when gaps are detected in GRC data required for compliance reporting.
+Workiva,Generate GRC Compliance Dashboards,Automate the creation of dashboards visualizing GRC compliance metrics.
+Workiva,Automate Workflow Approvals,Automatically route workflows for approval to the appropriate stakeholders.
+Workiva,Notify of Workflow Bottlenecks,Send alerts when bottlenecks or delays are detected in

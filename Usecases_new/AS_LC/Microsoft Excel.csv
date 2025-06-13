@@ -1,0 +1,68 @@
+Category,Short Description,Description
+Microsoft Excel,Automate data cleaning,"Automate processes like removing duplicates, trimming spaces, and correcting formatting issues in bulk Excel datasets."
+Microsoft Excel,Automate data consolidation,"Merge data from multiple sheets or workbooks into a single sheet automatically, based on common fields or formats."
+Microsoft Excel,Generate pivot tables,Automatically create pivot tables from raw data to summarize information and generate insights.
+Microsoft Excel,Automate data validation,"Automate the validation of data entries based on predefined rules, such as checking for valid email addresses or numerical ranges."
+Microsoft Excel,Automate data entry,"Use scripts to fill in repetitive or predefined data automatically, reducing manual entry."
+Microsoft Excel,Automate report generation,"Create scripts to generate daily, weekly, or monthly reports from raw data in a predefined format."
+Microsoft Excel,Automate chart creation,"Automatically generate charts and graphs from data, such as bar charts, pie charts, and line graphs."
+Microsoft Excel,Automate conditional formatting,"Apply conditional formatting rules automatically, such as highlighting cells based on thresholds or specific conditions."
+Microsoft Excel,Automate email sending,Use scripts to send Excel reports or data as email attachments to predefined recipients.
+Microsoft Excel,Automate file naming,"Rename Excel files automatically based on their content or metadata, such as date and project name."
+Microsoft Excel,Automate CSV import,Write scripts to import CSV files into Excel and format them as needed.
+Microsoft Excel,Automate CSV export,"Export Excel data as CSV files automatically, ensuring proper formatting and compatibility."
+Microsoft Excel,Automate data filtering,"Create scripts to filter data based on specific criteria, such as dates, values, or text content."
+Microsoft Excel,Automate column sorting,"Sort columns automatically based on predefined rules, such as alphabetical order or numerical value."
+Microsoft Excel,Automate data formatting,"Standardize formats, such as dates, currency, and text case, across entire workbooks automatically."
+Microsoft Excel,Automate VLOOKUP or XLOOKUP processes,Use scripts to automate VLOOKUP or XLOOKUP functions for matching data between sheets or workbooks.
+Microsoft Excel,Automate invoice generation,Generate customized invoices automatically using data from Excel sheets.
+Microsoft Excel,Automate time tracking calculations,"Automatically calculate work hours, overtime, and employee timesheets based on input data."
+Microsoft Excel,Automate attendance tracking,Create scripts to track employee attendance and generate summaries automatically from raw data.
+Microsoft Excel,Automate spreadsheet protection,Use scripts to add or remove password protection from Excel files or specific sheets.
+Microsoft Excel,Automate duplicate detection,Identify and flag duplicate entries in datasets automatically.
+Microsoft Excel,Automate data merging,"Merge two or more datasets based on common columns, such as IDs or names, using scripts."
+Microsoft Excel,Automate email-based data entry,"Extract data from emails (e.g., CSV attachments) and populate Excel sheets automatically."
+Microsoft Excel,Automate hyperlink creation,"Generate hyperlinks in cells based on predefined rules, such as linking to specific URLs or folders."
+Microsoft Excel,Automate data backup,Create backup copies of Excel files automatically to prevent data loss.
+Microsoft Excel,Automate formula insertion,Use scripts to apply predefined formulas across entire columns or rows automatically.
+Microsoft Excel,Automate error detection in formulas,"Identify and flag errors in Excel formulas automatically, such as missing references or invalid calculations."
+Microsoft Excel,Automate sheet duplication,"Duplicate sheets within a workbook automatically, with or without modifications to the content."
+Microsoft Excel,Automate cell formatting,"Standardize cell formatting, such as font size, color, and alignment, across entire workbooks."
+Microsoft Excel,Automate data comparison,Compare data across multiple sheets or workbooks to identify discrepancies or matches.
+Microsoft Excel,Automate dropdown list creation,Generate dropdown lists in cells automatically based on predefined values or external data sources.
+Microsoft Excel,Automate sheet renaming,"Rename sheets dynamically based on their content, such as project names or dates."
+Microsoft Excel,Automate data extraction,"Extract specific rows or columns of data from large datasets automatically, based on criteria."
+Microsoft Excel,Automate data transformation,"Transform raw data into structured formats, such as splitting full names into first and last names or converting text to lowercase."
+Microsoft Excel,Automate task tracking,Create automated task trackers that update progress and completion rates based on user inputs.
+Microsoft Excel,Automate financial forecasting,"Build scripts to calculate financial forecasts based on historical data, such as revenue trends or expense patterns."
+Microsoft Excel,Automate inventory management,Track inventory levels and generate alerts for low stock automatically using Excel scripts.
+Microsoft Excel,Automate product price updating,Update product prices in Excel sheets automatically based on predefined rules or external data sources.
+Microsoft Excel,Automate tax calculation,Calculate taxes automatically based on predefined rates and income or sales data.
+Microsoft Excel,Automate profit and loss statements,Generate profit and loss statements automatically from financial data.
+Microsoft Excel,Automate project timelines,Create and update Gantt charts or project timelines automatically based on task data.
+Microsoft Excel,Automate employee performance tracking,"Track employee performance metrics, such as sales numbers or productivity scores, using automated scripts."
+Microsoft Excel,Automate goal tracking,"Build automated tools to track goal progress, such as sales targets or project milestones."
+Microsoft Excel,Automate survey data analysis,"Analyze survey data automatically by generating summaries, averages, and graphical representations."
+Microsoft Excel,Automate grading systems,Calculate grades automatically based on predefined scoring criteria for exams or assignments.
+Microsoft Excel,Automate schedule creation,"Generate schedules automatically, such as shift rosters or meeting calendars, based on input data."
+Microsoft Excel,Automate forecast accuracy tracking,Compare forecasted values with actual values and calculate accuracy metrics automatically.
+Microsoft Excel,Automate expense tracking,Track and categorize expenses automatically based on transaction data.
+Microsoft Excel,Automate resource allocation,"Allocate resources, such as personnel or budgets, automatically based on project requirements and constraints."
+Microsoft Excel,Automate lead tracking,"Track sales leads automatically, including stages, statuses, and follow-up reminders."
+Microsoft Excel,Automate email list generation,Extract email addresses from datasets and generate lists automatically.
+Microsoft Excel,Automate compliance checks,Check datasets automatically for compliance with regulatory or organizational standards.
+Microsoft Excel,Automate date calculations,"Calculate dates automatically, such as due dates, deadlines, or time intervals."
+Microsoft Excel,Automate payroll calculation,"Generate payroll reports automatically based on hours worked, taxes, and deductions."
+Microsoft Excel,Automate data archiving,Archive old or unused data automatically into separate sheets or files.
+Microsoft Excel,Automate attendance summaries,"Create automated summaries of attendance data, such as total days present or absent."
+Microsoft Excel,Automate invoice tracking,"Track invoice statuses, such as paid, unpaid, or overdue, automatically."
+Microsoft Excel,Automate budget planning,"Automate budget planning processes, such as calculating budget allocations or tracking expenses against budgets."
+Microsoft Excel,Automate web scraping,Extract data from websites and populate Excel sheets automatically using scripts.
+Microsoft Excel,Automate forecasting models,"Build automated forecasting models for predicting sales, expenses, or other KPIs based on historical data."
+Microsoft Excel,Automate data anonymization,"Mask sensitive data, such as customer names or IDs, automatically for anonymization purposes."
+Microsoft Excel,Automate scenario analysis,"Create scripts to run ""what-if"" scenario analyses automatically based on variable inputs."
+Microsoft Excel,Automate order tracking,Track order statuses and update delivery timelines automatically in Excel sheets.
+Microsoft Excel,Automate performance dashboards,Build dynamic dashboards that update automatically with key performance indicators (KPIs).
+Microsoft Excel,Automate customer segmentation,"Segment customers automatically based on predefined criteria such as age, region, or purchase behavior."
+Microsoft Excel,Automate sales tracking,"Track sales performance automatically by region, product, or time period."
+Microsoft Excel,Automate stock price tracking,

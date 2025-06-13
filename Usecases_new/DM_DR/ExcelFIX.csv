@@ -1,0 +1,71 @@
+Category,Short Description,Description
+ExcelFIX,Repair corrupted Excel files,Automate the repair of corrupted Excel files to restore data and functionality.
+ExcelFIX,Recover Excel files after system crash,Automate recovery of Excel files that were damaged during a system crash.
+ExcelFIX,Recover Excel files from backup,Automate the process of recovering Excel files from backup files.
+ExcelFIX,Extract data from corrupted Excel sheets,Automate extraction of data from damaged Excel worksheets.
+ExcelFIX,Recover formulas from Excel files,Automate recovery of formulas in corrupted Excel sheets.
+ExcelFIX,Repair Excel files with unreadable content,"Automate fixing Excel files that display ""unreadable content"" errors."
+ExcelFIX,Recover Excel files with broken links,Automate recovery of Excel files with broken hyperlinks or external references.
+ExcelFIX,Fix Excel files with corrupted macros,Automate repair of Excel files containing corrupted VBA macros.
+ExcelFIX,Recover Excel tables,Automate recovery of tables in damaged Excel files.
+ExcelFIX,Recover missing data in Excel sheets,Automate the restoration of missing or blank data in Excel sheets.
+ExcelFIX,Restore conditional formatting in Excel,Automate recovery of conditional formatting rules in corrupted Excel files.
+ExcelFIX,Recover Excel files after power failure,Automate recovery of Excel files damaged due to unexpected power outages.
+ExcelFIX,Recover Excel files from deleted partitions,Automate recovery of Excel files stored on partitions that have been deleted.
+ExcelFIX,Repair corrupted charts in Excel,Automate repairing of corrupted charts and graph data in Excel files.
+ExcelFIX,Restore Excel file formatting,"Automate recovery of cell formats, colors, and styles in Excel files."
+ExcelFIX,Recover hidden sheets in Excel,Automate restoration of hidden or inaccessible sheets in Excel files.
+ExcelFIX,Repair corrupted pivot tables,Automate repair of corrupted pivot tables in Excel files.
+ExcelFIX,Recover shared Excel workbooks,Automate recovery of shared Excel files damaged during multi-user collaboration.
+ExcelFIX,Repair broken data validation rules,Automate recovery of corrupted data validation rules in Excel files.
+ExcelFIX,Recover Excel files containing graphs,Automate recovery of Excel graphs and their underlying data.
+ExcelFIX,Fix Excel files with corrupted protection settings,Automate recovery of corrupted worksheet and workbook protection settings.
+ExcelFIX,Extract individual worksheets from Excel,Automate extraction and recovery of individual worksheets from corrupted files.
+ExcelFIX,Repair corrupted Excel headers,Automate fixing of corrupted headers and metadata in Excel files.
+ExcelFIX,Fix corrupted drop-down lists in Excel,Automate recovery of corrupted drop-down lists in Excel sheets.
+ExcelFIX,Recover Excel files from a crashed hard drive,Automate recovery of Excel files stored on crashed or inaccessible hard drives.
+ExcelFIX,Recover Excel files from USB drives,Automate recovery of Excel files stored on corrupted or inaccessible USB drives.
+ExcelFIX,Recover Excel files from SD cards,Automate recovery of Excel files stored on SD or microSD cards.
+ExcelFIX,Repair corrupted Excel file headers,Automate fixing issues in file headers that prevent Excel from opening properly.
+ExcelFIX,Recover merged cells in Excel,Automate recovery of merged cells in corrupted Excel sheets.
+ExcelFIX,Fix corrupted hyperlinks in Excel,Automate recovery of corrupted hyperlinks embedded in Excel sheets.
+ExcelFIX,Repair corrupted freeze panes,Automate fixing corrupted freeze panes in Excel workbooks.
+ExcelFIX,Restore Excel file filters,Automate recovery of corrupted or missing filter settings in Excel files.
+ExcelFIX,Recover Excel files after accidental deletion,Automate recovery of Excel files that were accidentally deleted.
+ExcelFIX,Recover Excel files from email attachments,Automate recovery of Excel files lost or deleted from email attachments.
+ExcelFIX,Recover Excel files after failed updates,Automate recovery of Excel files lost during a failed software or system update.
+ExcelFIX,Repair corrupted Excel file footer,Automate fixing of corrupted footers in Excel files.
+ExcelFIX,Restore corrupted Excel themes,Automate recovery of workbook themes and styles in damaged Excel files.
+ExcelFIX,Recover Excel files from corrupted RAID arrays,Automate recovery of Excel files stored on RAID arrays that have failed or degraded.
+ExcelFIX,Recover Excel files from BitLocker drives,Automate recovery of Excel files from BitLocker-encrypted drives after decryption.
+ExcelFIX,Repair Excel files with corrupted page setup,Automate fixing of page setup configurations in damaged Excel files.
+ExcelFIX,Recover Excel files from logical drives,Automate recovery of Excel files stored on logical drives that are inaccessible.
+ExcelFIX,Restore Excel file print settings,Automate recovery of corrupted print settings in Excel workbooks.
+ExcelFIX,Recover Excel files containing shared formulas,Automate recovery of shared formulas in corrupted Excel sheets.
+ExcelFIX,Repair Excel files with corrupted workbook structure,Automate fixing of corrupted workbook structures in Excel files.
+ExcelFIX,Recover Excel files from corrupted memory cards,Automate recovery of Excel files stored on corrupted or damaged memory cards.
+ExcelFIX,Recover Excel files from Quick Formatted drives,Automate recovery of Excel files from drives that underwent a Quick Format operation.
+ExcelFIX,Repair Excel files with corrupted split panes,Automate fixing of split panes in damaged Excel files.
+ExcelFIX,Recover lost Excel files from hidden folders,Automate recovery of Excel files stored in hidden or inaccessible folders.
+ExcelFIX,Restore hyperlinks in Excel charts,Automate recovery of hyperlinks in charts embedded in Excel sheets.
+ExcelFIX,Recover Excel files from cloud storage backups,Automate recovery of Excel files synced or backed up to cloud storage platforms.
+ExcelFIX,Recover Excel files from old hard drives,Automate recovery of Excel files stored on old or aging hard drives.
+ExcelFIX,Repair Excel files after interrupted save,Automate recovery of Excel files corrupted due to an interrupted save process.
+ExcelFIX,Fix Excel file workbook links,Automate recovery of corrupted links between Excel workbooks.
+ExcelFIX,Recover Excel files from NAS devices,Automate recovery of Excel files stored on Network Attached Storage (NAS) devices.
+ExcelFIX,Recover Excel files from virtual disks,"Automate recovery of Excel files stored on virtual disks, such as VHD or VMDK files."
+ExcelFIX,Recover Excel files from smartphone storage,Automate recovery of Excel files stored on smartphone internal or external storage.
+ExcelFIX,Restore Excel files from fragmented drives,Automate recovery of Excel files stored on highly fragmented drives.
+ExcelFIX,Recover Excel files from damaged USB ports,Automate recovery of Excel files from devices connected via faulty USB ports.
+ExcelFIX,Repair Excel files with corrupted data validation rules,Automate fixing of corrupted data validation rules in Excel files.
+ExcelFIX,Recover Excel files from dual-boot systems,Automate recovery of Excel files lost during dual-boot OS setups.
+ExcelFIX,Restore Excel files from encrypted drives,Automate recovery of Excel files stored on encrypted drives.
+ExcelFIX,Recover Excel files with renamed extensions,Automate recovery of Excel files that have been renamed to non-standard extensions.
+ExcelFIX,Repair Excel files with corrupted workbook protection,Automate fixing of corrupted workbook protection settings.
+ExcelFIX,Recover Excel files from RAID-0 configurations,Automate recovery of Excel files stored on RAID-0 (striped) configurations.
+ExcelFIX,Recover Excel files from RAID-5 configurations,Automate recovery of Excel files stored on RAID-5 (parity) configurations.
+ExcelFIX,Recover Excel files from bad sectors,Automate recovery of Excel files stored on drives with bad sectors.
+ExcelFIX,Recover Excel files from QuickBooks exports,Automate recovery of corrupted Excel files exported from QuickBooks.
+ExcelFIX,Recover Excel files with large datasets,Automate recovery of Excel files containing large datasets or multiple worksheets.
+ExcelFIX,Recover Excel files from system restore points,Automate recovery of Excel files from system restore snapshots.
+ExcelFIX,Repair,

@@ -1,0 +1,64 @@
+Category,Short Description,Description
+Veeam Backup & Replication,Scheduled Full Backups,Automate full backups of virtual and physical machines on a regular schedule.
+Veeam Backup & Replication,Incremental Backups,Automate incremental backups to save only the changes made since the last backup.
+Veeam Backup & Replication,Differential Backups,Automate differential backups to capture changes since the last full backup.
+Veeam Backup & Replication,Cloud Backup Automation,"Automate backups to cloud storage providers like AWS, Azure, or Google Cloud."
+Veeam Backup & Replication,Local Backup Scheduling,"Automate backups to local storage devices, such as NAS or external drives."
+Veeam Backup & Replication,Encrypted Backup Automation,Automate the creation of encrypted backups to secure sensitive data.
+Veeam Backup & Replication,Backup Retention Policy,Automate enforcement of backup retention policies to manage storage usage.
+Veeam Backup & Replication,Backup Verification,Automate verification of backup integrity to ensure data consistency and recovery readiness.
+Veeam Backup & Replication,VM Backup Scheduling,Automate backups of virtual machines (VMs) in VMware and Hyper-V environments.
+Veeam Backup & Replication,NAS Backup Automation,Automate backups of data stored on Network Attached Storage (NAS) devices.
+Veeam Backup & Replication,Database Backup Automation,"Automate backups of databases like SQL Server, Oracle, or PostgreSQL."
+Veeam Backup & Replication,Application-Aware Backups,"Automate application-aware backups for Microsoft Exchange, SQL Server, and Active Directory."
+Veeam Backup & Replication,Backup of Shared Drives,Automate backups of shared folders and drives in a networked environment.
+Veeam Backup & Replication,Backup of External Drives,Automate the backup of external hard drives and USB devices.
+Veeam Backup & Replication,Backup to Tape,Automate backups to tape devices for long-term archival.
+Veeam Backup & Replication,Backup to Object Storage,"Automate backups to object storage like Amazon S3, Azure Blob, or Google Cloud Storage."
+Veeam Backup & Replication,Backup of Office 365,"Automate backups of Microsoft Office 365 data, including Exchange, SharePoint, and OneDrive."
+Veeam Backup & Replication,Backup of Physical Servers,Automate backups of physical servers running Windows or Linux.
+Veeam Backup & Replication,Backup of Workstations,Automate backups of user workstations and laptops.
+Veeam Backup & Replication,Backup of Cloud VMs,Automate backups of virtual machines running in cloud environments like AWS or Azure.
+Veeam Backup & Replication,Backup of Docker Containers,Automate backups of data and configurations stored in Docker containers.
+Veeam Backup & Replication,Backup of Kubernetes Clusters,Automate backups of persistent volumes and configurations in Kubernetes clusters.
+Veeam Backup & Replication,Backup Scheduling by Tags,Automate backup scheduling based on resource tags in VMware or cloud environments.
+Veeam Backup & Replication,Backup Compression,Automate compression of backup files to save storage space.
+Veeam Backup & Replication,Backup Alerts,"Automate email or SMS alerts for backup job completion, failure, or errors."
+Veeam Backup & Replication,Backup Logs,Automate the generation and storage of detailed logs for backup jobs.
+Veeam Backup & Replication,Backup of Large Files,Automate the backup of large files by splitting them into smaller chunks.
+Veeam Backup & Replication,Backup of Multimedia,"Automate backups of multimedia files, such as photos, videos, and audio libraries."
+Veeam Backup & Replication,Backup of CAD Files,Automate backups of CAD (Computer-Aided Design) files for engineering projects.
+Veeam Backup & Replication,Backup of Email Archives,Automate backups of email archives like PST files or Exchange mailboxes.
+Veeam Backup & Replication,Backup of Legal Documents,Automate backups of legal documents and contracts to ensure compliance and secure storage.
+Veeam Backup & Replication,Backup of Financial Data,Automate backups of financial records and accounting data for audits.
+Veeam Backup & Replication,Backup of CRM Data,Automate backups of Customer Relationship Management (CRM) system databases and files.
+Veeam Backup & Replication,Backup of ERP Data,Automate backups of Enterprise Resource Planning (ERP) system files and databases.
+Veeam Backup & Replication,Backup of Marketing Campaign Data,"Automate backups of marketing campaign assets, reports, and analytics."
+Veeam Backup & Replication,Backup of Medical Records,Automate backups of patient medical records and healthcare databases to maintain HIPAA compliance.
+Veeam Backup & Replication,Backup of IoT Device Logs,Automate backups of logs and analytics from IoT devices.
+Veeam Backup & Replication,Backup of Smart Home Data,Automate backups of smart home device configurations and logs.
+Veeam Backup & Replication,Backup of Blockchain Data,Automate backups of blockchain ledgers and associated metadata.
+Veeam Backup & Replication,Backup of AR and VR Projects,Automate backups of Augmented Reality (AR) and Virtual Reality (VR) project files and assets.
+Veeam Backup & Replication,Backup of 3D Printing Files,"Automate backups of 3D printing designs, blueprints, and STL files."
+Veeam Backup & Replication,Backup of Game Development Assets,"Automate backups of game development files, assets, and source code."
+Veeam Backup & Replication,Backup of Research Data,"Automate backups of research papers, experiments, and datasets."
+Veeam Backup & Replication,Backup of Video Editing Projects,Automate backups of video editing project files and raw footage.
+Veeam Backup & Replication,Backup of Audio Editing Projects,"Automate backups of audio editing projects, including soundtracks and effects."
+Veeam Backup & Replication,Backup of Energy Data,Automate backups of energy consumption and production data for analysis.
+Veeam Backup & Replication,Backup of Wildlife Data,Automate backups of wildlife research and tracking data for conservation.
+Veeam Backup & Replication,Backup of Satellite Imagery,Automate backups of satellite imagery and associated metadata.
+Veeam Backup & Replication,Backup of IoT Sensor Data,Automate backups of IoT sensor data for analytics and reporting.
+Veeam Backup & Replication,Backup to Azure Blob Storage,Automate backups to Microsoft Azure Blob storage for long-term retention.
+Veeam Backup & Replication,Backup to Amazon S3,Automate backups to Amazon S3 storage buckets for scalable storage.
+Veeam Backup & Replication,Backup to Google Cloud,Automate backups to Google Cloud Storage for secure and redundant backups.
+Veeam Backup & Replication,Backup Offloading to Cloud,Automate the offloading of old backups to cheaper cloud storage tiers.
+Veeam Backup & Replication,Backup of Collaboration Tools,Automate backups of collaboration tools like Microsoft Teams or Slack data.
+Veeam Backup & Replication,Backup of Website Data,"Automate backups of website files, configurations, and databases."
+Veeam Backup & Replication,Backup of API Logs,Automate backups of API logs for monitoring and debugging purposes.
+Veeam Backup & Replication,Pre-Backup Disk Cleanup,Automate disk cleanup tasks before initiating a backup to optimize storage.
+Veeam Backup & Replication,Post-Backup Integrity Check,Automate integrity verification of backups after completion to ensure recoverability.
+Veeam Backup & Replication,Scheduled Restore Testing,Automate periodic restore testing to verify the reliability of backups.
+Veeam Backup & Replication,Backup of E-Commerce Data,"Automate backups of e-commerce platform data, including product catalogs, orders, and customer details."
+Veeam Backup & Replication,Backup of HR Data,"Automate backups of employee records, payroll data, and HR-related files."
+Veeam Backup & Replication,Backup of Manufacturing Data,Automate backups of manufacturing process files and quality control data.
+Veeam Backup & Replication,Backup of Weather Data,Automate backups of weather monitoring and

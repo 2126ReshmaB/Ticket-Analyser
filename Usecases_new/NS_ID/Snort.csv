@@ -1,0 +1,61 @@
+Category,Short Description,Description
+Snort,Detect Port Scans,Automate the detection of port scanning attempts by monitoring traffic patterns and identifying repeated connection attempts to various ports.
+Snort,Block Malicious IPs,Automatically block traffic from known malicious IP addresses by updating Snort rules dynamically based on threat intelligence feeds.
+Snort,Detect SQL Injection,Identify SQL injection attempts by analyzing HTTP request payloads for suspicious SQL commands and flagging or blocking such traffic.
+Snort,Alert on Unauthorized Access,Monitor for access attempts to restricted areas of a network and send alerts if unauthorized IP addresses try to connect.
+Snort,Monitor DNS Tunneling,"Flag DNS queries that indicate possible data exfiltration via DNS tunneling, based on unusual query patterns or payloads."
+Snort,Detect Brute Force Attacks,"Identify repeated failed login attempts to detect brute force attacks targeting SSH, RDP, or other protocols."
+Snort,Alert on Malware Downloads,Monitor HTTP or HTTPS traffic for known malware file signatures and send alerts when such files are downloaded.
+Snort,Detect Suspicious User Agents,Analyze HTTP headers to detect suspicious or unusual user agents that might indicate malicious activity or bot traffic.
+Snort,Block Tor Exit Nodes,Use threat intelligence to dynamically block traffic originating from known Tor exit nodes that may be used for anonymity by attackers.
+Snort,Detect Fileless Malware,Identify anomalous traffic patterns that might indicate the presence of fileless malware using memory-based exploitation techniques.
+Snort,Monitor Outbound Traffic Volume,"Flag excessive outbound traffic from specific hosts, which could indicate data exfiltration or compromised devices."
+Snort,Detect Phishing Sites,Identify traffic to known phishing domains by integrating Snort with domain reputation feeds or custom blocklists.
+Snort,Monitor Suspicious FTP Activity,"Flag unusual FTP activity, such as file uploads from unauthorized users or connections to suspicious servers."
+Snort,Alert on ARP Spoofing Attempts,"Detect ARP spoofing attacks by identifying unusual ARP traffic patterns, such as duplicate MAC addresses."
+Snort,Identify Botnet C\&C Communication,Detect communication between compromised devices and botnet command-and-control servers by analyzing destination domains and IPs.
+Snort,Flag Cleartext Passwords,"Monitor traffic to detect and alert on transmission of passwords in cleartext, especially over unencrypted protocols."
+Snort,Detect Exploit Kits,Identify network traffic patterns associated with exploit kits attempting to deliver malware onto vulnerable systems.
+Snort,Enforce Geo-Blocking,Dynamically block traffic originating from specific geographic locations by integrating with IP geolocation databases.
+Snort,Monitor IoT Device Traffic,"Detect anomalous behavior in IoT device traffic, such as sudden spikes in activity or communication with unknown servers."
+Snort,Detect DNS Amplification Attacks,Identify signs of DNS amplification attacks by monitoring for high-frequency DNS queries with large response payloads.
+Snort,Block Known Ransomware Domains,Dynamically block traffic to domains associated with ransomware operations using regularly updated domain threat feeds.
+Snort,Detect SMB Exploitation Attempts,"Monitor for suspicious SMB traffic patterns that could indicate exploitation attempts, such as EternalBlue."
+Snort,Alert on Suspicious Payloads,"Inspect packet payloads for suspicious content, such as embedded shellcode or malicious scripts, and alert administrators."
+Snort,Monitor for Social Engineering,Flag traffic to known social engineering or phishing sites to prevent users from falling victim to scams.
+Snort,Detect HTTP Flood Attacks,Identify HTTP flood attacks by monitoring for a high number of HTTP requests from a single source in a short time.
+Snort,Alert on Crypto Mining Activity,Detect traffic patterns associated with crypto mining pools and flag devices participating in unauthorized mining activities.
+Snort,Monitor Sensitive Data Leakage,"Scan outbound traffic for sensitive data, such as credit card numbers or Social Security numbers, being transmitted unencrypted."
+Snort,Detect Zero-Day Exploits,Monitor for unusual traffic patterns or payloads that could indicate the use of zero-day exploits targeting network devices.
+Snort,Block Outdated Protocols,"Automatically block traffic using outdated and insecure protocols, such as SSLv2, SSLv3, or Telnet."
+Snort,Detect Rogue DHCP Servers,Monitor for unauthorized DHCP servers on the network that could disrupt legitimate network operations.
+Snort,Alert on Unauthorized VPN Usage,Identify unauthorized VPN connections by detecting traffic to non-approved VPN servers or unusual encryption patterns.
+Snort,Track Bandwidth Usage,Monitor bandwidth consumption by IP address to identify devices consuming excessive network resources.
+Snort,Detect Email Spoofing Attempts,Inspect email headers to detect attempts at spoofing legitimate email domains for phishing or spam campaigns.
+Snort,Monitor for Worm Propagation,"Detect traffic patterns associated with worm propagation, such as rapid scanning of IP address ranges."
+Snort,Detect ICMP Flood Attacks,Identify ICMP flood attacks by monitoring for a high volume of ICMP packets from a single source in a short time.
+Snort,Block P2P Traffic,"Automatically detect and block peer-to-peer (P2P) traffic, such as BitTorrent, to enforce network usage policies."
+Snort,Detect Suspicious DNS Queries,Flag DNS queries for suspicious or non-existent domains often used in malware campaigns or C2 communication.
+Snort,Monitor Unusual Port Activity,"Identify unusual traffic to uncommon ports, which may indicate unauthorized services running on the network."
+Snort,Alert on C2 Beaconing Patterns,Detect periodic traffic patterns indicative of command-and-control (C2) beaconing from compromised devices.
+Snort,Block Known Bad Certificates,Monitor and block HTTPS traffic using certificates flagged as malicious or revoked.
+Snort,Detect Email Bombing,Identify email bombing campaigns by monitoring for a large volume of emails sent to a single recipient in a short time.
+Snort,Monitor for Data Exfiltration,"Detect signs of data exfiltration, such as large file transfers to unauthorized external servers."
+Snort,Alert on Unauthorized SSH Access,Monitor SSH traffic to detect unauthorized login attempts or access from unusual IP addresses.
+Snort,Detect Voice Over IP (VoIP) Abuse,"Identify unusual VoIP traffic patterns, such as high call volumes or traffic to unauthorized VoIP servers."
+Snort,Block Malicious Attachments,Detect and block email attachments containing malicious payloads based on file signatures.
+Snort,Detect HTTP Header Injection,"Monitor HTTP headers for injection attacks, such as CRLF injection or malicious header manipulation."
+Snort,Alert on Network Reconnaissance,"Detect reconnaissance activities, such as OS fingerprinting or network mapping, and send alerts to administrators."
+Snort,Block Unauthorized Proxy Usage,Identify and block traffic to unauthorized proxy servers used to bypass network restrictions.
+Snort,Detect Cross-Site Scripting (XSS),Monitor HTTP traffic for patterns indicative of cross-site scripting (XSS) attacks targeting web applications.
+Snort,Monitor Encrypted Traffic Patterns,"Identify potential malicious activity in encrypted traffic using metadata analysis, such as packet sizes and timing."
+Snort,Detect Privilege Escalation,"Monitor network traffic for signs of privilege escalation attempts, such as suspicious SMB or LDAP queries."
+Snort,Block IP Spoofing Attempts,Identify and block traffic with spoofed IP addresses that do not match legitimate network assignments.
+Snort,Detect Suspicious VPN Tunnels,Flag VPN traffic to unknown or non-approved VPN servers that may indicate unauthorized remote access.
+Snort,Alert on DNS Cache Poisoning,Detect DNS cache poisoning attempts by identifying suspicious or unauthorized DNS response modifications.
+Snort,Monitor Network Time Protocol,Detect abuse of Network Time Protocol (NTP) for DDoS amplification attacks or misconfigurations.
+Snort,Alert on Suspicious SMB Traffic,"Monitor SMB traffic for unauthorized access, file transfers, or exploitation attempts."
+Snort,Detect Misconfigured Devices,Identify misconfigured devices on the network that may be leaking sensitive data or exposing vulnerabilities.
+Snort,Block Unapproved Applications,"Automatically block traffic from applications not approved for use within the organization, such as gaming or streaming platforms."
+Snort,Monitor Remote Desktop Protocol,Detect unauthorized RDP traffic or brute force attempts targeting remote desktop sessions.
+Snort,Identify Suspicious HTTP Methods,Flag unusual

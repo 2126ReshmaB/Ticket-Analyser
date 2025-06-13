@@ -1,0 +1,78 @@
+Category,Short Description,Description
+FME (Feature Manipulation Engine),Geographic Data Transformation,Transform GIS data between different formats and coordinate systems.
+FME (Feature Manipulation Engine),Real-Time Data Integration,Integrate real-time data streams from IoT devices into GIS systems.
+FME (Feature Manipulation Engine),Automated Data Validation,Validate data integrity and identify errors in datasets automatically.
+FME (Feature Manipulation Engine),Spatial Data Analysis,Perform spatial analysis by integrating and transforming geographic datasets.
+FME (Feature Manipulation Engine),3D Model Data Processing,Process and convert 3D models for compatibility with GIS applications.
+FME (Feature Manipulation Engine),Raster to Vector Conversion,Convert raster images into vector data for advanced spatial analysis.
+FME (Feature Manipulation Engine),CAD to GIS Integration,Convert and integrate CAD files into GIS platforms.
+FME (Feature Manipulation Engine),XML Data Parsing,Parse and transform XML data for use in other applications.
+FME (Feature Manipulation Engine),Data Cleansing Workflows,Automate data cleansing processes to ensure high data quality.
+FME (Feature Manipulation Engine),API Data Integration,Extract and integrate data from APIs into existing workflows.
+FME (Feature Manipulation Engine),Data Format Conversion,"Convert data between formats like CSV, JSON, XML, and more."
+FME (Feature Manipulation Engine),ETL for Geospatial Data,"Extract, transform, and load geospatial data efficiently."
+FME (Feature Manipulation Engine),Cloud Data Migration,Migrate datasets to and from cloud storage platforms.
+FME (Feature Manipulation Engine),GIS Data Publishing,Publish GIS data to web mapping platforms like ArcGIS Online.
+FME (Feature Manipulation Engine),Database Integration,Connect and integrate data from relational or NoSQL databases.
+FME (Feature Manipulation Engine),Automated Workflow Scheduling,Schedule data transformation workflows to run automatically.
+FME (Feature Manipulation Engine),Multi-Format File Processing,Process multiple file formats in a single automated workflow.
+FME (Feature Manipulation Engine),Coordinate System Transformation,Reproject geographic data to different coordinate systems.
+FME (Feature Manipulation Engine),PDF Data Extraction,Extract tabular or spatial data from PDFs for further processing.
+FME (Feature Manipulation Engine),Remote Sensing Data Integration,Integrate and process remote sensing data for analysis.
+FME (Feature Manipulation Engine),BIM to GIS Conversion,Convert building information models (BIM) into GIS-compatible formats.
+FME (Feature Manipulation Engine),Weather Data Integration,Integrate weather data into GIS systems for analysis and visualization.
+FME (Feature Manipulation Engine),IoT Sensor Data Processing,Process and visualize IoT sensor data in real time.
+FME (Feature Manipulation Engine),Web Service Integration,Connect and process data from web services like WFS and WMS.
+FME (Feature Manipulation Engine),GeoJSON Data Handling,"Parse, transform, and integrate GeoJSON data into GIS workflows."
+FME (Feature Manipulation Engine),LiDAR Data Processing,Process and convert LiDAR point cloud data for GIS applications.
+FME (Feature Manipulation Engine),CSV Data Transformation,Automate the transformation of CSV files into desired formats.
+FME (Feature Manipulation Engine),Utility Network Data Integration,Integrate and process data for utility network management systems.
+FME (Feature Manipulation Engine),Real-Time Traffic Data Integration,Process real-time traffic data for route optimization and analysis.
+FME (Feature Manipulation Engine),Data Enrichment Workflows,Enhance datasets by combining them with external data sources.
+FME (Feature Manipulation Engine),Geospatial Metadata Management,Automate the creation and management of metadata for geospatial datasets.
+FME (Feature Manipulation Engine),Address Geocoding Automation,Automate the geocoding of address data for location-based analysis.
+FME (Feature Manipulation Engine),Satellite Imagery Processing,Process and analyze satellite imagery for environmental monitoring.
+FME (Feature Manipulation Engine),Drone Data Integration,Process and integrate drone-collected imagery into GIS systems.
+FME (Feature Manipulation Engine),Time-Series Data Manipulation,Automate workflows for time-series data analysis and visualization.
+FME (Feature Manipulation Engine),Data Aggregation for Dashboards,Aggregate data from multiple sources for use in dashboards.
+FME (Feature Manipulation Engine),Asset Management Data Processing,Transform asset management data for integration with GIS systems.
+FME (Feature Manipulation Engine),Flood Risk Analysis,Process hydrological data for flood risk assessment and mitigation.
+FME (Feature Manipulation Engine),Urban Planning Data Integration,Automate workflows for urban planning data analysis and visualization.
+FME (Feature Manipulation Engine),Utility Asset Mapping,Integrate utility asset data into GIS systems for mapping and analysis.
+FME (Feature Manipulation Engine),Public Transport Data Analysis,Process and visualize public transport data for network optimization.
+FME (Feature Manipulation Engine),Data Validation for Compliance,Validate datasets to meet industry or regulatory compliance standards.
+FME (Feature Manipulation Engine),Land Use Change Monitoring,Process geospatial data to monitor land use changes over time.
+FME (Feature Manipulation Engine),Automated Data Backup,Schedule backups for critical datasets to ensure data integrity.
+FME (Feature Manipulation Engine),Data Integration with Tableau,Transform and integrate data for use in Tableau dashboards.
+FME (Feature Manipulation Engine),3D Terrain Model Generation,Automate the creation of 3D terrain models from elevation data.
+FME (Feature Manipulation Engine),Integration with ArcGIS,Transform and load data into ArcGIS for analysis and mapping.
+FME (Feature Manipulation Engine),Road Network Optimization,Process road network data for routing and optimization.
+FME (Feature Manipulation Engine),Environmental Data Monitoring,Automate workflows for environmental data collection and analysis.
+FME (Feature Manipulation Engine),Real-Time Weather Alerts,Process weather data to generate real-time alerts and notifications.
+FME (Feature Manipulation Engine),Data Stream Processing,Process continuous data streams for real-time analytics.
+FME (Feature Manipulation Engine),Integration with Power BI,Transform data for use in Power BI dashboards.
+FME (Feature Manipulation Engine),Parcel Boundary Management,Automate the management and transformation of parcel boundary data.
+FME (Feature Manipulation Engine),Data Migration to Cloud,Migrate datasets to cloud storage solutions like AWS or Azure.
+FME (Feature Manipulation Engine),Historical Data Comparison,Compare historical datasets to identify trends and changes.
+FME (Feature Manipulation Engine),Mobile Data Integration,Process and integrate mobile GPS data into GIS workflows.
+FME (Feature Manipulation Engine),Utility Outage Mapping,Process outage data for visualization on GIS platforms.
+FME (Feature Manipulation Engine),Automated Map Production,Automate the creation of maps for reporting or analysis.
+FME (Feature Manipulation Engine),Wildlife Habitat Mapping,Process geospatial data for wildlife habitat analysis and mapping.
+FME (Feature Manipulation Engine),Emergency Response Data Integration,Integrate real-time data for emergency response planning and execution.
+FME (Feature Manipulation Engine),Airport Data Management,Automate workflows for airport infrastructure and operations data.
+FME (Feature Manipulation Engine),Integration with PostgreSQL/PostGIS,Transform and load spatial data into PostgreSQL/PostGIS databases.
+FME (Feature Manipulation Engine),Data Integration for Smart Cities,Process and integrate data for smart city initiatives and systems.
+FME (Feature Manipulation Engine),Water Utility Data Management,Automate workflows for water utility data integration and analysis.
+FME (Feature Manipulation Engine),Data Integration with BIM Models,Convert BIM data for integration with GIS platforms.
+FME (Feature Manipulation Engine),Census Data Processing,Automate the transformation and analysis of census datasets.
+FME (Feature Manipulation Engine),Integration with Google Earth,Transform data for visualization in Google Earth.
+FME (Feature Manipulation Engine),Integration with Excel,"Automate data extraction, transformation, and loading into Excel files."
+FME (Feature Manipulation Engine),Pipeline Network Mapping,Process pipeline data for integration with GIS mapping systems.
+FME (Feature Manipulation Engine),Urban Heat Mapping,Process temperature data for urban heat island analysis.
+FME (Feature Manipulation Engine),Integration with APIs,Extract and process data from APIs for analysis and visualization.
+FME (Feature Manipulation Engine),Automated GIS Data Validation,Validate GIS datasets to ensure accuracy and compliance.
+FME (Feature Manipulation Engine),Integration with WMS/WFS Services,Fetch and process geospatial data from WMS/WFS services.
+FME (Feature Manipulation Engine),Seismic Data Processing,Process seismic data for geological and environmental analysis.
+FME (Feature Manipulation Engine),Vehicle Fleet Tracking,Integrate and process fleet tracking data for logistics planning.
+FME (Feature Manipulation Engine),Integration with Amazon Redshift,Automate workflows for Amazon Redshift data processing.
+FME,,

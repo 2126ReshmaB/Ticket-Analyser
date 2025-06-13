@@ -1,0 +1,76 @@
+Category,Short Description,Description
+Freshservice,Ticket Creation from Email,Automate the creation of tickets from incoming customer emails by parsing email content.
+Freshservice,Automatic Ticket Assignment,Automate assigning tickets to the appropriate team or agent based on ticket category or priority.
+Freshservice,SLA Breach Alerts,Automate alerts to agents and managers for tickets approaching SLA deadlines.
+Freshservice,Escalation Rules,Automate the escalation of tickets to higher support tiers when SLA thresholds are breached.
+Freshservice,Auto-Categorization of Tickets,Automate categorization of incoming tickets based on keywords or predefined rules.
+Freshservice,Priority Adjustment,Automate priority updates for tickets based on urgency and impact defined in ticket details.
+Freshservice,Status Change Notifications,Automate sending ticket status change notifications to users and agents.
+Freshservice,Ticket Closure Verification,Automate checks to ensure resolution notes are added and required fields are completed before ticket closure.
+Freshservice,Recurring Task Automation,"Automate scheduling and creation of recurring IT tasks, such as server maintenance."
+Freshservice,Knowledge Base Article Creation,Automate generating knowledge base articles from resolved tickets for future reference.
+Freshservice,Knowledge Base Expiry Review,Automate reminders for reviewing and updating outdated knowledge base articles.
+Freshservice,Change Request Workflow,"Automate workflows for creating, reviewing, and approving change requests."
+Freshservice,Approval Notifications,Automate sending notifications to approvers for pending tickets or change requests.
+Freshservice,Scheduled Maintenance Notifications,Automate alerts for upcoming scheduled maintenance to relevant stakeholders.
+Freshservice,Asset Discovery,Automate the discovery of IT assets on the network and update the asset inventory.
+Freshservice,Software License Tracking,Automate tracking software license usage and alerting stakeholders for renewals.
+Freshservice,Software License Compliance,Automate tracking license compliance by comparing usage data against purchased licenses.
+Freshservice,Hardware Warranty Alerts,Automate notifications for hardware warranty expiration to ensure proactive management.
+Freshservice,User Onboarding Workflow,"Automate onboarding workflows, including account setup, software provisioning, and asset allocation for new employees."
+Freshservice,User Offboarding Workflow,"Automate offboarding workflows, including disabling accounts, recovering assets, and revoking system access."
+Freshservice,Password Reset Automation,Automate password reset requests for users through self-service portals or workflows.
+Freshservice,Asset Lifecycle Management,"Automate tracking of assets throughout their lifecycle, from procurement to decommissioning."
+Freshservice,Vendor Management Updates,"Automate updating vendor records, such as contact details and contract terms."
+Freshservice,Contract Expiry Alerts,Automate reminders for contracts nearing expiration to avoid disruptions.
+Freshservice,Incident Trend Analysis,Automate analysis of incident trends to identify recurring problems or bottlenecks.
+Freshservice,Root Cause Analysis Reports,Automate generating root cause analysis reports for critical incidents.
+Freshservice,Duplicate Ticket Detection,Automate identification and merging of duplicate tickets to reduce redundancy.
+Freshservice,Event Correlation,Automate grouping related events into a single incident to streamline resolution.
+Freshservice,Integration with Monitoring Tools,Automate ticket creation in Freshservice based on alerts from tools like Nagios or SolarWinds.
+Freshservice,Integration with Active Directory,Automate syncing user accounts and permissions with Active Directory.
+Freshservice,Integration with Collaboration Tools,"Automate ticket updates and notifications to Slack, Microsoft Teams, or other collaboration platforms."
+Freshservice,Integration with Email,Automate parsing email content to create or update tickets.
+Freshservice,Ticket Aging Reports,Automate generating reports to track unresolved or aging tickets in the queue.
+Freshservice,SLA Compliance Reports,Automate generating SLA compliance reports for internal review or audits.
+Freshservice,Change Risk Assessment,Automate evaluating risk levels for change requests based on ticket details.
+Freshservice,Knowledge Base Usage Analytics,Automate generating reports on how frequently knowledge base articles are accessed or used.
+Freshservice,Feedback Collection,Automate collecting and analyzing customer feedback after ticket resolution or service fulfillment.
+Freshservice,User Satisfaction Surveys,Automate sending satisfaction surveys to users after tickets are resolved.
+Freshservice,Custom SLA Rules,Automate the creation and application of custom SLA rules for different customer groups.
+Freshservice,Dynamic Approver Assignment,"Automate assigning approvers for workflows based on ticket attributes, such as department or priority."
+Freshservice,Dynamic Form Updates,Automate showing or hiding form fields based on user input or ticket details.
+Freshservice,Scheduled Workflow Execution,"Automate running specific workflows on a fixed schedule, such as nightly updates."
+Freshservice,Incident Communication Templates,Automate generating pre-defined templates for communicating incident updates.
+Freshservice,Multi-Channel Notifications,"Automate sending notifications via email, SMS, or chat tools based on user preferences."
+Freshservice,CI Dependency Mapping,Automate mapping Configuration Item (CI) dependencies in the CMDB for better visibility.
+Freshservice,CMDB Data Reconciliation,Automate reconciling data in the CMDB by identifying and removing outdated or duplicate entries.
+Freshservice,Service Catalog Updates,"Automate updating the service catalog with new, modified, or retired service offerings."
+Freshservice,Cost Tracking Reports,Automate generating cost tracking reports for IT services and resources.
+Freshservice,Asset Audit Scheduling,Automate scheduling periodic audits of IT assets and generating reports.
+Freshservice,License Renewal Notifications,Automate reminders to stakeholders for upcoming license renewals.
+Freshservice,Performance Dashboards,Automate updates to dashboards that track key IT performance metrics like resolution times and ticket volume.
+Freshservice,Scheduled Maintenance Automation,Automate ticket creation and task tracking for planned maintenance activities.
+Freshservice,Customer Segmentation,Automate ticket prioritization and SLA assignment based on customer segmentation.
+Freshservice,Incident Dependency Analysis,Automate identifying dependencies between incidents and affected services.
+Freshservice,Knowledge Base Gap Analysis,Automate identifying gaps in the knowledge base by analyzing failed search results.
+Freshservice,Gantt Chart for Change Requests,Automate generating Gantt charts for tracking the progress of change requests.
+Freshservice,Recurring Report Generation,Automate scheduling and delivery of recurring IT reports to stakeholders.
+Freshservice,Vulnerability Management,Automate ticket creation for vulnerabilities discovered during regular scans.
+Freshservice,Patch Management,Automate workflows for patch deployment and tracking.
+Freshservice,User Role Assignment,Automate assigning roles to users in Freshservice based on their department or job title.
+Freshservice,Ticket Volume Prediction,Automate forecasting ticket volume based on historical data to prepare resources.
+Freshservice,Ticket Workflow Error Reporting,Automate detecting and reporting errors in ticket workflows for troubleshooting.
+Freshservice,Preventive Maintenance,Automate creating preventive maintenance tickets based on asset performance data.
+Freshservice,Multi-Language Notifications,Automate sending notifications in multiple languages based on regional preferences.
+Freshservice,Service Health Monitoring,Automate monitoring of service health and generating alerts for degraded performance.
+Freshservice,Endpoint Health Monitoring,Automate ticket creation for endpoints requiring attention based on monitoring tools.
+Freshservice,Incident Aging Alerts,Automate reminders for agents about tickets nearing aging thresholds.
+Freshservice,Proactive Incident Detection,Automate creating incidents based on system or service performance degradation.
+Freshservice,Outage Notifications,Automate sending outage notifications to users and stakeholders during planned or unplanned downtime.
+Freshservice,IT Budget Tracking,Automate tracking IT budgets and expenses tied to tickets or assets.
+Freshservice,SLA Breach Prediction,Automate predicting SLA breaches and notifying agents to take corrective actions.
+Freshservice,Dynamic SLA Adjustments,Automate SLA adjustments based on ticket priority or customer type.
+Freshservice,Incident Volume Analytics,Automate generating analytics on incident volume trends to identify peak periods.
+Freshservice,Service Request Fulfillment,Automate workflows for fulfilling routine service requests such as software installations.
+,,

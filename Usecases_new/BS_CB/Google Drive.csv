@@ -1,0 +1,74 @@
+Category,Short Description,Description
+Google Drive,Automate file organization,"Automatically organize files into folders based on file type, name, or creation date using a script."
+Google Drive,Backup files to another Drive account,Automate the process of backing up files from one Google Drive account to another for redundancy.
+Google Drive,Delete duplicate files,Identify and delete duplicate files in Google Drive to save storage space.
+Google Drive,Generate file usage reports,"Create a script to generate reports on file usage, including last accessed date and size."
+Google Drive,Share files with specific users,Automate file sharing with predefined users or groups based on folder or file criteria.
+Google Drive,Set expiration dates for shared links,Automatically set expiration dates for shared links to enhance security.
+Google Drive,Convert files to PDF,"Automate the conversion of Google Docs, Sheets, or Slides to PDF format."
+Google Drive,Sync local folder with Google Drive,Create a script to sync a local folder with Google Drive for real-time updates.
+Google Drive,Notify on file changes,Send email notifications when specific files or folders are modified.
+Google Drive,Archive old files,Automatically move files older than a certain date to an archive folder.
+Google Drive,Rename files in bulk,Automate the renaming of multiple files based on a naming convention.
+Google Drive,Monitor storage usage,Generate automated reports on Google Drive storage usage and send alerts when nearing limits.
+Google Drive,Create folder structures,Automatically create predefined folder structures for new projects or clients.
+Google Drive,Sync Google Drive with external apps,Automate syncing Google Drive with external apps like Dropbox or OneDrive.
+Google Drive,Export Google Drive data to Sheets,"Export metadata of files (e.g., name, size, owner) to a Google Sheet for analysis."
+Google Drive,Automate file approvals,Create a workflow to automate file approval processes using Google Forms and Drive.
+Google Drive,Track file downloads,Monitor and log file download activities for shared files.
+Google Drive,Automate file uploads,Automatically upload files from a local directory to Google Drive at scheduled intervals.
+Google Drive,Create file templates,Automate the creation of file templates for repetitive tasks like invoices or reports.
+Google Drive,Sync Google Drive with Google Photos,Automate syncing of photos between Google Drive and Google Photos.
+Google Drive,Delete old shared links,Identify and delete expired or unused shared links to maintain security.
+Google Drive,Automate folder permissions,Automatically set folder permissions for new folders based on predefined rules.
+Google Drive,Generate file previews,Create a script to generate and share file previews for specific file types.
+Google Drive,Automate file tagging,Add tags or labels to files based on their content or metadata.
+Google Drive,Sync Google Drive with CRM,Automate syncing of files between Google Drive and a CRM system like Salesforce.
+Google Drive,Schedule file deletions,Automatically delete files after a certain period to manage storage.
+Google Drive,Automate file versioning,Maintain and manage file versions automatically for collaborative projects.
+Google Drive,Create shared drives,Automate the creation of shared drives for teams or departments.
+Google Drive,Sync Google Drive with Google Sheets,Automate the process of syncing file data with Google Sheets for reporting or analysis.
+Google Drive,Automate file compression,Compress large files automatically before uploading them to Google Drive.
+Google Drive,Notify on shared file access,Send notifications when someone accesses a shared file.
+Google Drive,Automate file recovery,Create a script to recover accidentally deleted files from the trash.
+Google Drive,Sync Google Drive with project management,Automate syncing of files between Google Drive and project management tools like Asana or Trello.
+Google Drive,Automate file encryption,Encrypt sensitive files before uploading them to Google Drive.
+Google Drive,Generate audit logs,"Create audit logs for file activities, including uploads, downloads, and edits."
+Google Drive,Automate file sharing with expiration,Share files with expiration dates automatically set for enhanced security.
+Google Drive,Sync Google Drive with email attachments,Automatically save email attachments to Google Drive.
+Google Drive,Automate folder backups,Create backups of specific folders at regular intervals.
+Google Drive,Notify on low storage,Send alerts when Google Drive storage is running low.
+Google Drive,Automate file metadata updates,Update file metadata automatically based on predefined rules.
+Google Drive,Sync Google Drive with cloud databases,Automate syncing of files between Google Drive and cloud databases like Firebase.
+Google Drive,Automate file access revocation,Revoke access to shared files automatically after a certain period.
+Google Drive,Generate file summaries,Create summaries of file contents using AI or natural language processing.
+Google Drive,Automate file uploads from forms,Automatically upload files submitted through Google Forms to Google Drive.
+Google Drive,Sync Google Drive with accounting software,Automate syncing of invoices and receipts between Google Drive and accounting software like QuickBooks.
+Google Drive,Automate file sorting,Sort files into folders automatically based on their names or metadata.
+Google Drive,Notify on unauthorized access,Send alerts when unauthorized access to files is detected.
+Google Drive,Automate file sharing with groups,Share files automatically with specific Google Groups.
+Google Drive,Sync Google Drive with ERP systems,Automate syncing of files between Google Drive and ERP systems like SAP.
+Google Drive,Automate file cleanup,Delete temporary or unnecessary files automatically to free up space.
+Google Drive,Generate file access statistics,"Create reports on file access statistics, including views and edits."
+Google Drive,Automate file uploads from APIs,Upload files to Google Drive automatically using APIs.
+Google Drive,Sync Google Drive with learning platforms,Automate syncing of course materials between Google Drive and learning platforms like Moodle.
+Google Drive,Automate file sharing with clients,Share files automatically with clients based on project or folder criteria.
+Google Drive,Notify on file upload completion,Send notifications when large file uploads are completed.
+Google Drive,Automate file sharing with external partners,Share files automatically with external partners based on predefined rules.
+Google Drive,Sync Google Drive with HR systems,Automate syncing of employee documents between Google Drive and HR systems like Workday.
+Google Drive,Automate file sharing with contractors,Share files automatically with contractors based on project criteria.
+Google Drive,Notify on file deletion,Send alerts when files are deleted from specific folders.
+Google Drive,Automate file sharing with vendors,Share files automatically with vendors based on predefined rules.
+Google Drive,Sync Google Drive with marketing tools,Automate syncing of marketing assets between Google Drive and tools like HubSpot.
+Google Drive,Automate file sharing with stakeholders,Share files automatically with stakeholders based on project criteria.
+Google Drive,Notify on file access requests,Send notifications when someone requests access to a file.
+Google Drive,Automate file sharing with investors,Share files automatically with investors based on predefined rules.
+Google Drive,Sync Google Drive with analytics tools,Automate syncing of data files between Google Drive and analytics tools like Tableau.
+Google Drive,Automate file sharing with board members,Share files automatically with board members based on project criteria.
+Google Drive,Notify on file upload errors,Send alerts when file uploads fail due to errors.
+Google Drive,Automate file sharing with media partners,Share files automatically with media partners based on predefined rules.
+Google Drive,Sync Google Drive with design tools,Automate syncing of design files between Google Drive and tools like Adobe Creative Cloud.
+Google Drive,Automate file sharing with legal teams,Share files automatically with legal teams based on project criteria.
+Google Drive,Notify on file sharing violations,Send alerts when file sharing policies are violated.
+Google Drive,Automate file sharing with auditors,Share files automatically with auditors based on predefined rules.
+Google Drive,Sync Google Drive with video editing,

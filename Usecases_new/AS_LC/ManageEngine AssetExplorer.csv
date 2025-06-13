@@ -1,0 +1,67 @@
+Category,Short Description,Description
+ManageEngine AssetExplorer,Automate asset discovery,Automatically discover and add new IT assets in the network to the AssetExplorer database.
+ManageEngine AssetExplorer,Sync asset inventory,Automate the synchronization of asset inventory across multiple locations and systems.
+ManageEngine AssetExplorer,Notify admins of expiring warranties,Send automated alerts to administrators about upcoming warranty expirations for IT assets.
+ManageEngine AssetExplorer,Automate software license tracking,Track the usage and compliance of software licenses automatically.
+ManageEngine AssetExplorer,Generate asset usage reports,Create automated reports showing asset utilization across departments or locations.
+ManageEngine AssetExplorer,Automate vendor contract tracking,Track and send reminders for vendor contract renewals automatically.
+ManageEngine AssetExplorer,Automate asset lifecycle management,"Monitor the lifecycle of IT assets, from procurement to decommissioning, automatically."
+ManageEngine AssetExplorer,Automate compliance reporting,Generate compliance reports automatically to meet regulatory and internal standards.
+ManageEngine AssetExplorer,Notify users of unused assets,Send automated notifications to users about unused or underutilized assets.
+ManageEngine AssetExplorer,Automate asset depreciation calculations,Calculate the depreciation of IT assets based on predefined formulas and schedules automatically.
+ManageEngine AssetExplorer,Track end-of-life assets,Automatically identify and flag assets nearing their end-of-life for replacement.
+ManageEngine AssetExplorer,Automate asset audit reminders,Schedule and send reminders for upcoming asset audits to relevant teams automatically.
+ManageEngine AssetExplorer,Automate software metering,Track software usage and identify underutilized installations automatically.
+ManageEngine AssetExplorer,Integrate with procurement tools,Sync asset purchase data with procurement systems automatically for accurate inventory updates.
+ManageEngine AssetExplorer,Track hardware upgrades,Automate the tracking of hardware upgrades performed on IT assets.
+ManageEngine AssetExplorer,Automate IT asset tagging,Assign unique tags to new IT assets automatically upon discovery.
+ManageEngine AssetExplorer,Notify admins of over-utilized assets,Send alerts to administrators when assets are being over-utilized or nearing capacity limits.
+ManageEngine AssetExplorer,Automate asset assignment to users,Automatically assign assets to users based on their roles and responsibilities.
+ManageEngine AssetExplorer,Automate asset return tracking,Track and send reminders for returning assets issued to employees who are leaving the organization.
+ManageEngine AssetExplorer,Detect unauthorized software installations,Identify and flag unauthorized or unapproved software installations automatically.
+ManageEngine AssetExplorer,Automate asset disposal approvals,Streamline the approval process for decommissioning assets through automated workflows.
+ManageEngine AssetExplorer,Track consumable assets,"Automatically track the usage and stock levels of consumable assets, such as printer cartridges."
+ManageEngine AssetExplorer,Automate IT asset reallocation,Reallocate assets dynamically based on user or departmental needs.
+ManageEngine AssetExplorer,Notify admins of unused licenses,Send automated notifications about underutilized software licenses for cost optimization.
+ManageEngine AssetExplorer,Automate asset procurement approvals,Automate the approval process for asset purchase requests.
+ManageEngine AssetExplorer,Automate license renewal reminders,Send reminders to renew software licenses before they expire to avoid compliance issues.
+ManageEngine AssetExplorer,Automate cloud asset tracking,"Track cloud-based assets, such as SaaS subscriptions, automatically."
+ManageEngine AssetExplorer,Notify users of allocated assets,"Send automated notifications to users about assets assigned to them, including usage guidelines."
+ManageEngine AssetExplorer,Automate BYOD device tracking,Track employee-owned devices (BYOD) that access the network automatically.
+ManageEngine AssetExplorer,Automate asset stock level alerts,Notify admins when stock levels of IT assets fall below predefined thresholds.
+ManageEngine AssetExplorer,Automate hardware warranty tracking,Track and send reminders for hardware warranty expirations automatically.
+ManageEngine AssetExplorer,Detect asset duplication,Identify duplicate asset entries in the system and eliminate them automatically.
+ManageEngine AssetExplorer,Automate asset usage benchmarking,Compare asset usage across teams or departments to identify optimization opportunities.
+ManageEngine AssetExplorer,Automate network device tracking,"Track and maintain an up-to-date inventory of network devices, such as routers and switches."
+ManageEngine AssetExplorer,Notify admins of critical asset failures,Send alerts when critical IT assets fail or go offline unexpectedly.
+ManageEngine AssetExplorer,Automate mobile device tracking,Track and manage mobile devices used within the organization automatically.
+ManageEngine AssetExplorer,Automate software version tracking,Track the versions of installed software and ensure they are updated automatically.
+ManageEngine AssetExplorer,Notify admins of asset theft risks,Send alerts when an asset is detected in an unauthorized location or network.
+ManageEngine AssetExplorer,Automate scheduled asset audits,Schedule and perform periodic asset audits automatically to ensure accuracy in inventory.
+ManageEngine AssetExplorer,Automate IT asset discovery scans,Schedule regular network scans to discover new IT assets automatically.
+ManageEngine AssetExplorer,Automate asset location tracking,Track the physical location of IT assets dynamically and send updates automatically.
+ManageEngine AssetExplorer,Automate SLA compliance tracking,Monitor and report on SLA compliance for IT asset maintenance automatically.
+ManageEngine AssetExplorer,Automate vendor performance tracking,Track and evaluate vendor performance based on contract adherence and service quality.
+ManageEngine AssetExplorer,Automate software compliance checks,Automatically check for compliance with software licensing agreements.
+ManageEngine AssetExplorer,Notify admins of hardware health issues,"Send alerts when hardware health issues, such as overheating or disk failures, are detected."
+ManageEngine AssetExplorer,Automate asset cost allocation,Allocate asset costs to departments or projects automatically based on usage.
+ManageEngine AssetExplorer,Automate IT asset lifecycle cost tracking,Track and report on the lifecycle cost of IT assets automatically.
+ManageEngine AssetExplorer,Automate asset data normalization,Normalize asset data for consistency across the inventory database automatically.
+ManageEngine AssetExplorer,Automate software upgrade approvals,Streamline the approval process for software upgrades through automated workflows.
+ManageEngine AssetExplorer,Automate IT asset risk analysis,Assess and report risks associated with IT assets automatically.
+ManageEngine AssetExplorer,Automate recurring asset maintenance,Schedule and track recurring maintenance tasks for IT assets automatically.
+ManageEngine AssetExplorer,Automate IT asset policy enforcement,Ensure compliance with organizational IT asset policies through automated checks and alerts.
+ManageEngine AssetExplorer,Automate power usage tracking,Track and report on the power consumption of IT assets to identify cost-saving opportunities.
+ManageEngine AssetExplorer,Automate remote asset management,Manage assets in remote office locations automatically from a central console.
+ManageEngine AssetExplorer,Automate IoT device tracking,Track and manage IoT devices connected to the network automatically.
+ManageEngine AssetExplorer,Automate IT asset performance monitoring,Monitor the performance of IT assets and send alerts when thresholds are exceeded.
+ManageEngine AssetExplorer,Automate SaaS subscription tracking,Track SaaS subscriptions and ensure they are renewed or canceled based on usage automatically.
+ManageEngine AssetExplorer,Automate dynamic asset grouping,"Group assets dynamically based on criteria such as department, location, or usage."
+ManageEngine AssetExplorer,Automate IT asset procurement cost tracking,Track and report on IT asset procurement costs for better budgeting.
+ManageEngine AssetExplorer,Automate IT asset contract compliance tracking,Ensure IT asset contracts comply with company policies and regulatory standards automatically.
+ManageEngine AssetExplorer,Automate hardware refresh cycle planning,Plan and execute hardware refresh cycles automatically based on asset lifecycle data.
+ManageEngine AssetExplorer,Automate IT asset KPI reporting,Generate KPI reports for IT asset performance and utilization automatically.
+ManageEngine AssetExplorer,Automate IT asset downtime tracking,Track and report on asset downtime to identify reliability issues automatically.
+ManageEngine AssetExplorer,Automate IT asset configuration tracking,Monitor and report on configuration changes made to IT assets automatically.
+ManageEngine AssetExplorer,Automate IT asset service history tracking,Maintain a history of all services and repairs performed on IT assets automatically.
+ManageEngine AssetExplorer,Automate IT asset role-based access control,Assign access rights to IT assets based on

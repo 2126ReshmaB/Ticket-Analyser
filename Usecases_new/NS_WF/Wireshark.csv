@@ -1,0 +1,71 @@
+Category,Short Description,Description
+Wireshark,Packet Capture Automation,Automate capturing packets on a specific network interface for a defined duration.
+Wireshark,Protocol-Specific Packet Filtering,"Automate filtering of packets based on specific protocols, such as HTTP, TCP, or DNS."
+Wireshark,Packet Size Analysis,Automate the analysis of packet sizes to identify unusually large or small packets.
+Wireshark,Automated Packet Export,Automate exporting captured packets to file formats like PCAP or CSV for further analysis.
+Wireshark,Real-Time Packet Monitoring,Automate real-time packet monitoring for detecting suspicious network activity.
+Wireshark,IP Address Filtering,Automate filtering packets based on specific source or destination IP addresses.
+Wireshark,Port-Based Filtering,Automate filtering of packets based on source or destination ports.
+Wireshark,Network Latency Analysis,Automate measuring network latency between packets using timestamp analysis.
+Wireshark,Protocol Hierarchy Analysis,Automate the generation of protocol hierarchy reports for network traffic breakdown.
+Wireshark,Packet Loss Detection,Automate the detection of packet loss by identifying retransmissions or missing sequence numbers.
+Wireshark,Bandwidth Usage Analysis,Automate the analysis of bandwidth usage by capturing and calculating packet data transfer rates.
+Wireshark,DNS Query Monitoring,Automate monitoring of DNS queries to identify frequent lookups or suspicious activity.
+Wireshark,HTTP Traffic Analysis,"Automate filtering and analysis of HTTP traffic, including requests and responses."
+Wireshark,TLS/SSL Handshake Monitoring,Automate the analysis of TLS/SSL handshakes to ensure secure connections.
+Wireshark,ARP Traffic Monitoring,Automate capturing and analyzing ARP traffic to detect ARP spoofing or other issues.
+Wireshark,TCP Connection Analysis,"Automate analysis of TCP connections, including handshake processes and connection terminations."
+Wireshark,DHCP Packet Monitoring,Automate the capture and analysis of DHCP packets to ensure proper IP assignments.
+Wireshark,ICMP Traffic Analysis,Automate the capture and analysis of ICMP packets to detect ping requests or network diagnostic activity.
+Wireshark,Packet Burst Detection,Automate the detection of high-packet burst events that may indicate flooding attacks.
+Wireshark,Malformed Packet Detection,Automate the identification of malformed packets that may indicate network or application issues.
+Wireshark,SYN Flood Detection,Automate filtering for numerous SYN packets to detect potential SYN flood attacks.
+Wireshark,Packet Decryption,Automate decryption of encrypted packets using shared keys or SSL logs (where applicable).
+Wireshark,DNS Spoofing Detection,Automate the detection of DNS spoofing by analyzing DNS responses and IP mismatches.
+Wireshark,HTTP Error Monitoring,"Automate filtering for HTTP error responses (e.g., 404, 500) to identify server issues."
+Wireshark,QoS Packet Analysis,Automate the analysis of Quality of Service (QoS) tags in packets to ensure proper prioritization.
+Wireshark,Packet Reassembly,Automate the reassembly of fragmented packets for protocols such as TCP.
+Wireshark,Network Latency Reporting,Automate the creation of latency reports for specific network flows or endpoints.
+Wireshark,Real-Time Alerts for Keywords,Automate alerts when specific keywords or payloads are detected in packet contents.
+Wireshark,VLAN Tag Monitoring,Automate the monitoring of VLAN tags in packets to ensure proper segmentation.
+Wireshark,Traffic Volume Analysis,Automate the calculation of traffic volume per protocol or IP over a specified duration.
+Wireshark,Wireless Packet Capture,"Automate capturing and analyzing wireless traffic, including 802.11 protocols."
+Wireshark,FTP Traffic Monitoring,Automate the capture and analysis of FTP traffic to detect file transfer activity.
+Wireshark,Packet Round-Trip Time Analysis,Automate the calculation of round-trip times for TCP packets to measure network delays.
+Wireshark,HTTP Header Analysis,Automate the extraction and analysis of HTTP headers for debugging web applications.
+Wireshark,Automated Packet Capture Scheduling,"Automate packet captures during specific time windows (e.g., peak traffic hours)."
+Wireshark,Packet Flow Visualization,Automate the generation of flow diagrams or graphs for specific packet streams.
+Wireshark,UDP Traffic Monitoring,Automate the capture and analysis of UDP traffic to identify potential issues.
+Wireshark,Network Congestion Analysis,Automate the detection of network congestion by analyzing packet delays and retransmissions.
+Wireshark,Packet Delay Variation Analysis,Automate the analysis of packet delay variations (jitter) for real-time applications like VoIP.
+Wireshark,SIP Traffic Monitoring,Automate the capture and analysis of SIP traffic to debug VoIP issues.
+Wireshark,RTP Stream Analysis,Automate the analysis of RTP streams for quality monitoring in media communications.
+Wireshark,BGP Traffic Monitoring,Automate the capture and analysis of BGP traffic for network routing issues.
+Wireshark,Packet Duplication Detection,Automate the detection of duplicate packets to identify potential network problems.
+Wireshark,Automated Packet Export to Cloud,Automate the export of captured packets to cloud platforms for further analysis.
+Wireshark,Broadcast Traffic Monitoring,Automate the capture and analysis of broadcast traffic to detect unnecessary or excessive broadcasts.
+Wireshark,IPv6 Traffic Analysis,Automate the capture and analysis of IPv6 traffic to ensure proper configuration and operation.
+Wireshark,Firewall Rule Validation,Automate the validation of firewall rules by analyzing allowed and blocked traffic.
+Wireshark,Network Device Discovery,Automate the discovery of network devices by analyzing traffic patterns.
+Wireshark,Packet Capture File Merging,Automate the merging of multiple capture files for comprehensive analysis.
+Wireshark,Switch Port Monitoring,Automate monitoring of switch ports by analyzing traffic on mirrored ports.
+Wireshark,HTTP Cookie Analysis,Automate the extraction and analysis of HTTP cookies from captured traffic.
+Wireshark,SSL/TLS Certificate Validation,Automate the validation of SSL/TLS certificates in encrypted traffic.
+Wireshark,DNS Response Time Analysis,Automate the analysis of DNS response times to identify slow DNS servers.
+Wireshark,IoT Device Traffic Monitoring,Automate the capture and analysis of traffic from IoT devices for potential vulnerabilities.
+Wireshark,Packet Timing Analysis,Automate the analysis of packet inter-arrival times for detecting anomalies.
+Wireshark,Network Performance Baseline Creation,Automate the creation of baselines for network performance using historical packet captures.
+Wireshark,Automated Alert for Malicious IPs,Automatically generate alerts when packets from known malicious IPs are detected.
+Wireshark,Network Time Synchronization Analysis,Automate the analysis of time synchronization protocols like NTP.
+Wireshark,Data Exfiltration Detection,Automate the detection of unusual data transfers that may indicate exfiltration.
+Wireshark,MAC Address Filtering,Automate the filtering of traffic based on specific MAC addresses.
+Wireshark,Network Protocol Compliance Checks,Automate compliance checks for specific protocols to ensure adherence to standards.
+Wireshark,Botnet Traffic Detection,Automate captures to identify traffic patterns associated with botnets.
+Wireshark,Network Segmentation Validation,Automate the validation of network segmentation by analyzing inter-VLAN traffic.
+Wireshark,Automated DNS Traffic Export,Automate the export of DNS traffic for offline analysis.
+Wireshark,VPN Traffic Monitoring,Automate the analysis of VPN traffic to ensure proper encryption and routing.
+Wireshark,Email Protocol Analysis,"Automate the capture and analysis of email traffic using SMTP, IMAP, or POP3 protocols."
+Wireshark,Automated Packet Capture Cleanup,Automate the removal of redundant or irrelevant packets from capture files.
+Wireshark,Network Attack Pattern Detection,Automate the detection of traffic patterns indicative of common network attacks.
+Wireshark,IoT Firmware Update Analysis,Automate the analysis of firmware update traffic for IoT devices.
+Wireshark,MPLS Traffic Monitoring,Automate the capture and analysis of MPLS traffic for

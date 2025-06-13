@@ -1,0 +1,62 @@
+Category,Short Description,Description
+Tufin SecureTrack,Automated Policy Review,Automate the periodic review of firewall and security policies to ensure compliance with regulatory and internal standards.
+Tufin SecureTrack,Rule Cleanup Automation,"Automate the identification and removal of redundant, unused, or shadowed firewall rules."
+Tufin SecureTrack,Compliance Report Generation,"Script the generation of compliance reports for frameworks such as PCI DSS, HIPAA, and NIST."
+Tufin SecureTrack,Shadowed Rule Detection,Automate the detection of rules that are shadowed by more permissive or conflicting rules.
+Tufin SecureTrack,Rule Expiry Management,Automate the tracking of temporary rules and generate alerts for expiration or renewal.
+Tufin SecureTrack,Change Tracking,"Script the tracking of all changes made to firewall policies, including who made the changes and when."
+Tufin SecureTrack,Multi-Vendor Firewall Management,"Automate the centralized management of policies across multiple firewall vendors like Cisco, Palo Alto, Fortinet, and Check Point."
+Tufin SecureTrack,Real-Time Policy Monitoring,Automate real-time monitoring of policy changes to detect unauthorized modifications or violations.
+Tufin SecureTrack,Risk Assessment Automation,Automate the risk assessment of firewall rules and policies to identify vulnerabilities and attack paths.
+Tufin SecureTrack,Policy Baseline Enforcement,Script the enforcement of baseline security policies across all managed devices.
+Tufin SecureTrack,Configuration Backup,Automate regular backups of firewall and device configurations for disaster recovery.
+Tufin SecureTrack,Rule Usage Analysis,Automate the analysis of rule usage to identify unused or redundant rules for cleanup.
+Tufin SecureTrack,Policy Impact Simulation,Automate the simulation of policy changes to predict their impact on network traffic and security posture.
+Tufin SecureTrack,Audit Trail Management,Script the generation of detailed audit trails for all policy changes to meet compliance requirements.
+Tufin SecureTrack,Rule Optimization,Automate the optimization of firewall rules to improve performance and reduce latency.
+Tufin SecureTrack,Compliance Gap Analysis,Automate the identification of gaps between current security policies and compliance requirements.
+Tufin SecureTrack,Automated Rule Documentation,"Script the creation of documentation for firewall rules, including their purpose, owner, and associated risks."
+Tufin SecureTrack,Temporary Rule Monitoring,Automate monitoring of temporary rules and trigger alerts when they are no longer required.
+Tufin SecureTrack,Access Path Analysis,Automate the analysis of network access paths to identify weak points or unauthorized access routes.
+Tufin SecureTrack,Network Segmentation Validation,Automate the validation of network segmentation policies to ensure sensitive data is adequately protected.
+Tufin SecureTrack,Firewall Rule Expiry Alerting,"Script alerts for rules set to expire within a specific time frame, prompting review or renewal."
+Tufin SecureTrack,Compliance Dashboard Automation,Script the creation of dashboards that display compliance statuses for all managed devices.
+Tufin SecureTrack,Device Inventory Management,"Automate the inventorying of all managed security devices, including firewalls, routers, and switches."
+Tufin SecureTrack,Configuration Drift Detection,Automate the detection of configuration drift between current and intended firewall configurations.
+Tufin SecureTrack,Rule Risk Scoring,Automate the calculation of risk scores for firewall rules based on factors like exposure and access level.
+Tufin SecureTrack,Multi-Cloud Policy Management,"Automate the management of security policies across multiple cloud environments such as AWS, Azure, and GCP."
+Tufin SecureTrack,Policy Version Control,Automate the tracking of policy versions and enable rollback to previous versions when necessary.
+Tufin SecureTrack,Automated Policy Deployment,Script the deployment of new or updated policies to multiple devices across the network.
+Tufin SecureTrack,Historical Policy Analysis,Automate the analysis of historical policy changes to identify trends or recurring compliance issues.
+Tufin SecureTrack,Rule Documentation Export,Automate the export of rule documentation for offline review or audit purposes.
+Tufin SecureTrack,Threat Intelligence Integration,Automate the integration of external threat intelligence feeds into security policies for enhanced threat detection.
+Tufin SecureTrack,High-Risk Rule Alerting,Script alerts for rules identified as high risk based on excessive permissions or wide access.
+Tufin SecureTrack,Policy Deviation Reporting,Automate the reporting of deviations from predefined security policies across all managed devices.
+Tufin SecureTrack,Role-Based Access Management,Automate the configuration and management of role-based access controls for SecureTrack users.
+Tufin SecureTrack,SLA Monitoring Automation,Automate the monitoring and reporting of SLA compliance related to policy change requests and incident resolution times.
+Tufin SecureTrack,Firewall Rule Cloning,Script the cloning of existing rules to simplify the creation of similar policies.
+Tufin SecureTrack,Automated Configuration Validation,Automate the validation of firewall configurations against industry best practices and organizational standards.
+Tufin SecureTrack,Network Access Review,Automate the review of network access permissions to ensure compliance with the principle of least privilege.
+Tufin SecureTrack,Application Connectivity Mapping,Automate the mapping of application dependencies to ensure uninterrupted connectivity and compliance.
+Tufin SecureTrack,Automated Policy Rollback,Script the rollback of policies to previous versions in case of misconfigurations or performance issues.
+Tufin SecureTrack,Compliance Report Distribution,Automate the distribution of compliance reports to relevant stakeholders through email or other channels.
+Tufin SecureTrack,Automated Access Review,Script periodic reviews of user and application access permissions to ensure compliance with security policies.
+Tufin SecureTrack,Firewall Rule Aging Analysis,Automate the analysis of rule age to identify legacy rules that need to be reviewed or removed.
+Tufin SecureTrack,Real-Time Change Notifications,Automate notifications to administrators when policy or configuration changes are detected.
+Tufin SecureTrack,Rule Duplication Detection,Automate the detection of duplicate rules across firewalls to maintain clean and efficient configurations.
+Tufin SecureTrack,Automated Rule Removal,Script the removal of obsolete or unused rules based on usage analysis.
+Tufin SecureTrack,Policy Approval Workflow Automation,"Automate the workflow for approving new or modified policies, including manager and compliance team reviews."
+Tufin SecureTrack,Firewall Rule Tagging,"Automate the tagging of rules with metadata such as owner, purpose, and expiration date for better organization and visibility."
+Tufin SecureTrack,Automated Alert Configuration,"Script the configuration of alerts for specific events, such as unauthorized changes or high-risk rules."
+Tufin SecureTrack,Policy Cleanup Suggestions,Automate the generation of cleanup suggestions to remove redundant or conflicting rules.
+Tufin SecureTrack,Firewall Performance Reporting,Automate the generation of reports on firewall performance metrics such as CPU usage and throughput.
+Tufin SecureTrack,Rule Conflict Resolution Automation,Automate the detection and resolution of conflicts between firewall rules to ensure consistent security enforcement.
+Tufin SecureTrack,Automated Rule Justification,Script the requirement for business justification when creating or modifying firewall rules.
+Tufin SecureTrack,Network Connectivity Testing,Automate tests to ensure connectivity between critical applications and network segments.
+Tufin SecureTrack,Policy Migration Automation,"Script the migration of policies between devices, vendors, or environments, such as from on-prem to cloud."
+Tufin SecureTrack,Incident Response Automation,"Automate responses to detected incidents, such as blocking IPs or disabling rules in real time."
+Tufin SecureTrack,Compliance Benchmark Automation,Automate benchmarking of firewall configurations against industry compliance standards.
+Tufin SecureTrack,Network Topology Mapping,Script the generation of network topology maps to visualize device connectivity and segmentation.
+Tufin SecureTrack,Traffic Flow Analysis,"Automate the analysis of traffic flows to identify bottlenecks, anomalies, or unauthorized access."
+Tufin SecureTrack,Firewall Health Check,Automate periodic health checks of firewalls to ensure they are functioning optimally.
+Tufin SecureTrack,Automated Threat Detection,"Script the detection of threats based on traffic patterns,"

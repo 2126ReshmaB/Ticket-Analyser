@@ -1,0 +1,51 @@
+Category,Short Description,Description
+Operations Incident Management Dashboard,Auto-create incident tickets,Automatically create incident tickets when an issue is detected in the system.
+Operations Incident Management Dashboard,Notify on new incident creation,Send notifications to relevant stakeholders when a new incident is logged in the dashboard.
+Operations Incident Management Dashboard,Auto-assign incident owners,Automatically assign incidents to specific team members or groups based on predefined rules.
+Operations Incident Management Dashboard,Auto-prioritize incidents,"Automatically assign priority levels to incidents based on severity, impact, or urgency."
+Operations Incident Management Dashboard,Auto-create incident categories,Automatically categorize incidents based on keywords or predefined rules in the incident description.
+Operations Incident Management Dashboard,Notify on overdue incidents,Send reminders to incident owners when incidents are overdue or nearing their resolution deadlines.
+Operations Incident Management Dashboard,Auto-link related incidents,"Automatically link related incidents based on shared attributes such as location, type, or involved assets."
+Operations Incident Management Dashboard,Auto-generate incident summaries,"Automatically generate summaries for incidents, including key details and resolution steps."
+Operations Incident Management Dashboard,Auto-create incident timelines,"Automatically generate timelines for incidents, including key events and actions taken."
+Operations Incident Management Dashboard,Notify on incident status changes,"Send notifications to stakeholders when the status of an incident changes (e.g., from ""Open"" to ""In Progress"")."
+Operations Incident Management Dashboard,Auto-create incident dashboards,"Automatically generate dashboards to visualize incident trends, statuses, and key metrics."
+Operations Incident Management Dashboard,Auto-create compliance reports,Automatically generate compliance reports for incidents to meet regulatory requirements.
+Operations Incident Management Dashboard,Notify on SLA breaches,Send alerts when incidents exceed their Service Level Agreement (SLA) deadlines.
+Operations Incident Management Dashboard,Auto-create incident playbooks,Automatically generate incident response playbooks based on the type of incident reported.
+Operations Incident Management Dashboard,Auto-create incident tags,Automatically tag incidents with relevant keywords or categories for easier search and filtering.
+Operations Incident Management Dashboard,Notify on critical incidents,Send immediate alerts to senior management or security teams when critical incidents are logged.
+Operations Incident Management Dashboard,Auto-close resolved incidents,"Automatically close incidents that meet predefined resolution criteria, such as all tasks being completed."
+Operations Incident Management Dashboard,Auto-create tasks for incident resolution,Automatically generate resolution tasks for incidents based on predefined workflows or playbooks.
+Operations Incident Management Dashboard,Auto-update incident severity,Automatically update the severity of incidents based on new information or changes in impact.
+Operations Incident Management Dashboard,Auto-create root cause analysis,Automatically generate root cause analysis reports for incidents based on available data.
+Operations Incident Management Dashboard,Notify on incident escalation,Send alerts when incidents are escalated to higher levels of management or response teams.
+Operations Incident Management Dashboard,Auto-create incident follow-up tasks,Automatically generate follow-up tasks for incidents to ensure proper resolution and documentation.
+Operations Incident Management Dashboard,Auto-create incident heatmaps,Automatically generate heatmaps to visualize incident frequency and severity by location or category.
+Operations Incident Management Dashboard,Notify on incident recurrence,Send alerts when similar incidents recur within a specified timeframe.
+Operations Incident Management Dashboard,Auto-create incident response SLAs,Automatically generate Service Level Agreements (SLAs) for incident response based on predefined criteria.
+Operations Incident Management Dashboard,Notify on incident resolution delays,Send alerts when incidents are not resolved within the expected timeframe.
+Operations Incident Management Dashboard,Auto-create incident severity heatmaps,Automatically generate heatmaps to visualize incident severity across different categories or locations.
+Operations Incident Management Dashboard,Notify on incident misclassification,Send alerts when incidents are misclassified or require reclassification.
+Operations Incident Management Dashboard,Auto-create incident response metrics,Automatically generate metrics to measure the effectiveness of incident response efforts.
+Operations Incident Management Dashboard,Notify on incident response gaps,Send alerts when gaps or inefficiencies are identified in incident response workflows.
+Operations Incident Management Dashboard,Auto-create incident response training tasks,Automatically generate training tasks for teams based on incident response gaps or trends.
+Operations Incident Management Dashboard,Auto-create incident escalation workflows,Automatically generate workflows for escalating incidents to higher levels of management or response teams.
+Operations Incident Management Dashboard,Notify on incident trends,Send alerts when specific incident trends or patterns are detected.
+Operations Incident Management Dashboard,Auto-create incident KPIs,"Automatically generate Key Performance Indicators (KPIs) for incident management, such as average resolution time."
+Operations Incident Management Dashboard,Auto-create incident workflows,Automatically generate workflows for incident response based on predefined templates.
+Operations Incident Management Dashboard,Notify on incident containment,Send alerts when containment actions are successfully executed for an incident.
+Operations Incident Management Dashboard,Auto-create incident response benchmarks,Automatically generate benchmarks to compare incident response performance over time.
+Operations Incident Management Dashboard,Notify on incident resolution verification,Send alerts when incident resolution is verified by the appropriate team or individual.
+Operations Incident Management Dashboard,Auto-create incident response dashboards,Automatically generate dashboards to track incident response performance and trends.
+Operations Incident Management Dashboard,Notify on incident response improvements,Send alerts when improvements are made to incident response workflows or processes.
+Operations Incident Management Dashboard,Auto-create incident response readiness reports,Automatically generate reports to assess the readiness of incident response teams.
+Operations Incident Management Dashboard,Notify on incident response readiness,Send alerts when incident response teams are fully prepared or require additional resources.
+Operations Incident Management Dashboard,Auto-create incident response training plans,Automatically generate training plans for incident response teams based on identified gaps or trends.
+Operations Incident Management Dashboard,Auto-create incident response playbooks,Automatically generate playbooks for incident response based on incident type or severity.
+Operations Incident Management Dashboard,Notify on incident response effectiveness,Send alerts when incident response efforts are deemed effective or require improvement.
+Operations Incident Management Dashboard,Auto-create incident response improvement plans,Automatically generate plans to improve incident response workflows and processes.
+Operations Incident Management Dashboard,Notify on incident response readiness gaps,Send alerts when gaps are identified in incident response readiness.
+Operations Incident Management Dashboard,Auto-create incident response readiness benchmarks,Automatically generate benchmarks to assess incident response readiness over time.
+Operations Incident Management Dashboard,Notify on incident response readiness improvements,Send alerts when improvements are made to incident response readiness.
+Operations Incident Management Dashboard,Auto-create incident response readiness dashboards,Automatically generate dashboards to track incident response readiness and performance.

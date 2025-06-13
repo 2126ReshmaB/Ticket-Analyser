@@ -1,0 +1,67 @@
+Category,Short Description,Description
+APM Insight,Automate Dashboard Creation,Use scripts to create custom dashboards for visualizing application performance metrics and transaction data programmatically.
+APM Insight,Alert Configuration Automation,"Automate the creation and configuration of alerts for key performance metrics such as response time, error rates, and throughput."
+APM Insight,Automated Transaction Tracing,"Automate transaction tracing to identify performance bottlenecks, slow transactions, and errors across services."
+APM Insight,Service Dependency Mapping,Automate the mapping of service dependencies to visualize relationships between services and components.
+APM Insight,Dynamic Tagging of Transactions,"Automate tagging of transactions with metadata like environment, user ID, or region for better filtering and analysis."
+APM Insight,SLA Monitoring and Reporting,Automate SLA monitoring for applications and services and generate compliance reports for stakeholders.
+APM Insight,Error Rate Monitoring,"Automate the setup of error rate monitoring for critical transactions and services, enabling proactive detection of issues."
+APM Insight,Real-Time Performance Monitoring,Automate real-time monitoring of application performance to identify bottlenecks and slowdowns quickly.
+APM Insight,Deployment Marker Automation,Automate the addition of deployment markers to correlate performance changes with new code releases.
+APM Insight,Custom Metric Collection,Use scripts to collect and send custom metrics to APM Insight for monitoring specific business KPIs.
+APM Insight,Automated Root Cause Analysis,"Automate root cause analysis for performance issues by correlating transaction traces, metrics, and logs."
+APM Insight,Dynamic Threshold Adjustment,Automatically adjust performance thresholds for alerts based on historical trends and seasonal patterns.
+APM Insight,Automated Incident Escalation,Automate the escalation of unresolved incidents to higher-level teams based on severity and SLA breach conditions.
+APM Insight,Synthetic Monitoring Setup,Automate the setup of synthetic monitoring to simulate user interactions and track API or application availability.
+APM Insight,Log Correlation with Transactions,Automate correlation of logs with transaction traces and metrics to streamline troubleshooting.
+APM Insight,Automated Report Generation,Use scripts to generate and distribute performance and error trend reports to stakeholders automatically.
+APM Insight,Application Health Checks,Automate periodic health checks for applications and alert stakeholders if any issues are detected.
+APM Insight,Automated Baseline Setup,Configure baselines for application performance metrics automatically to identify deviations and anomalies effectively.
+APM Insight,Integration Testing Automation,"Automate testing of integrations with tools like PagerDuty, ServiceNow, or Slack to ensure smooth workflows."
+APM Insight,Automated Health Rule Maintenance,Automate the updating of health rules for applications and services as performance conditions change.
+APM Insight,SLA Violation Alerts,Automate alert notifications for SLA violations to notify teams about performance breaches.
+APM Insight,Automated Trace Sampling Setup,Automate trace sampling configurations to reduce data volume while retaining critical insights.
+APM Insight,Application Inventory Management,"Automate discovery, tagging, and onboarding of new applications into APM Insight for consistent monitoring."
+APM Insight,Automated Performance Trend Analysis,Use scripts to analyze performance trends over time and identify areas for optimization.
+APM Insight,Real User Monitoring Setup,Automate the configuration of Real User Monitoring (RUM) to track user interactions and experience metrics.
+APM Insight,Dynamic Resource Allocation,Automate allocation of application resources based on performance trends and real-time monitoring data.
+APM Insight,Error Budget Tracking,Automate tracking and reporting of error budgets for applications and services to meet reliability objectives.
+APM Insight,Automated Alert Suppression,Suppress alerts automatically during maintenance windows or for known issues to reduce noise.
+APM Insight,Automated Capacity Planning,Use historical data to forecast resource requirements and automate capacity planning tasks.
+APM Insight,SLA Breach Impact Analysis,Automate analysis of SLA breaches to understand their business or user impact.
+APM Insight,Automated Deployment Validation,Validate deployments automatically by comparing pre- and post-deployment performance metrics.
+APM Insight,Automated Incident Archiving,Archive incidents and related details automatically for compliance or audit purposes.
+APM Insight,Log Forwarding Automation,Automate forwarding of logs from applications to APM Insight for centralized error and performance tracking.
+APM Insight,Synthetic Test Maintenance,"Automate updates to synthetic tests as new application components, APIs, or endpoints are added."
+APM Insight,Dynamic Service Map Updates,Automatically update service maps as new services are discovered or existing ones are modified.
+APM Insight,Automated Error Cleanup,Remove resolved or obsolete errors automatically to maintain clean dashboards and improve visibility of active issues.
+APM Insight,SLA Breach Notifications,"Notify stakeholders automatically when SLA breaches occur, including root cause and resolution suggestions."
+APM Insight,Performance Bottleneck Detection,Automate detection of performance bottlenecks using transaction traces and performance metrics.
+APM Insight,Dynamic Alert Escalation,"Automate escalation workflows dynamically based on issue severity, duration, or frequency."
+APM Insight,Automated Application Restart Alerts,Monitor and alert automatically when applications or services are restarted unexpectedly.
+APM Insight,Performance Optimization Suggestions,Automate generation of optimization suggestions for applications based on historical performance trends and bottlenecks.
+APM Insight,SLA Tracking for APIs,Automate SLA monitoring and tracking for API endpoints to ensure compliance with uptime and performance standards.
+APM Insight,Automated Problem Correlation,Correlate problems across services and infrastructure automatically to identify root causes and affected components.
+APM Insight,Automated Health Dashboard Updates,Automate updates to health dashboards dynamically as new metrics or services are added.
+APM Insight,Automated Incident Reporting,"Generate incident reports automatically, including root cause analysis, affected components, and resolution steps."
+APM Insight,Application Scaling Automation,Automate scaling of applications based on real-time performance metrics and predefined thresholds.
+APM Insight,SLA Compliance Validation,Automate validation of SLA compliance for services using APM Insight monitoring and reporting features.
+APM Insight,Automated Event Correlation,"Correlate events across logs, metrics, and transactions automatically for better incident visibility."
+APM Insight,Automated Root Cause Correlation,"Automate root cause identification by correlating transactions, metrics, and error logs across multiple services."
+APM Insight,Dynamic KPI Monitoring,Automate monitoring of dynamic KPIs tailored to specific business or application requirements.
+APM Insight,Cost Analysis for Resource Usage,Automate cost analysis for resource usage based on performance and monitoring metrics collected by APM Insight.
+APM Insight,Error Impact Analysis,Automate analysis of the impact of errors on users or business processes to prioritize resolutions effectively.
+APM Insight,SLA Compliance Dashboard Creation,Use scripts to create dashboards tailored to SLA compliance metrics automatically.
+APM Insight,Automated Anomaly Detection,Configure anomaly detection automatically to identify unusual patterns in application performance metrics.
+APM Insight,Automated Alert Workflow Testing,"Test alert workflows automatically to ensure proper routing, notification, and escalation of incidents."
+APM Insight,Threshold Validation Automation,Automate testing and validation of alert thresholds to ensure they reflect current performance expectations.
+APM Insight,Automated SLA Reporting,Generate SLA compliance reports automatically and share them with stakeholders on a regular schedule.
+APM Insight,Automated Error Budget Reporting,Generate error budget reports automatically and distribute them to stakeholders to track reliability goals.
+APM Insight,SLA Breach Root Cause Analysis,Automate root cause analysis for SLA breaches to identify contributing factors and resolution steps.
+APM Insight,Application Timeout Monitoring,Automate monitoring of application timeouts and trigger alerts when response times exceed acceptable thresholds.
+APM Insight,Automated Trace Cleanup,Remove unused or irrelevant trace data automatically to optimize storage and streamline analysis.
+APM Insight,Automated SLA Breach Impact Reporting,"Generate reports automatically for SLA breaches, including details on affected services and users."
+APM Insight,Automated Health Rule Validation,Use scripts to validate health rules and ensure they align with current application performance baselines.
+APM Insight,Automated SLA Breach Notifications,"Notify stakeholders automatically when SLA breaches occur, including performance details and root cause information."
+APM Insight,Automated Issue Remediation,Trigger automated remediation actions such as restarting services or clearing caches when issues are detected.
+APM Insight,Automated Deployment Marker Setup,Add deployment markers automatically to correlate application changes with

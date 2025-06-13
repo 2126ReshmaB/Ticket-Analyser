@@ -1,0 +1,71 @@
+Category,Short Description,Description
+Onspring,Automate User Role Assignments,"Automatically assign roles to users based on their department, job title, or responsibilities."
+Onspring,Notify Users of Assigned Tasks,Send automated task assignment notifications to users via email or in-app notifications.
+Onspring,Schedule Recurring Reports,"Automate the generation and distribution of recurring reports, such as weekly or monthly summaries."
+Onspring,Monitor Task Completion Rates,Automatically track and report on task completion rates across teams or departments.
+Onspring,Assign Approval Workflows,"Create automated workflows for approval processes, routing requests to the appropriate approvers."
+Onspring,Notify Approvers of Pending Tasks,Send reminders to approvers for pending tasks to ensure timely approvals.
+Onspring,Automate Data Import,Use scripts to automate the import of bulk data into Onspring from external sources like spreadsheets or databases.
+Onspring,Generate Audit Trail Reports,Automatically generate audit trail reports for tracking user actions and system changes.
+Onspring,Send Alerts for Overdue Tasks,Notify users automatically when they have overdue tasks assigned to them.
+Onspring,Automate Risk Assessments,Assign and schedule risk assessments to stakeholders based on predefined criteria.
+Onspring,Send Notifications for Risk Threshold Breaches,Automatically alert relevant stakeholders when risk thresholds are exceeded.
+Onspring,Monitor Key Risk Indicators (KRIs),Automate the monitoring and reporting of KRIs to identify potential risks early.
+Onspring,Assign Mitigation Plans,Automatically assign mitigation plans to users or teams based on risk ownership.
+Onspring,Track Mitigation Plan Progress,Automate the tracking and reporting of progress for mitigation plans.
+Onspring,Notify Users of Policy Updates,Send automated notifications to users when a policy is updated or a new policy is added.
+Onspring,Track Policy Acknowledgments,Automate the tracking of employee acknowledgments for policies and generate reports on acknowledgment status.
+Onspring,Schedule Policy Reviews,Automatically schedule periodic reviews for policies and notify policy owners.
+Onspring,Archive Expired Policies,Automate the archival of policies that have expired or are no longer in use.
+Onspring,Assign Training Modules,Automatically assign training modules to employees based on their roles or responsibilities.
+Onspring,Send Training Completion Notifications,Notify supervisors when their team members complete assigned training modules.
+Onspring,Track Training Progress,Automate the tracking of employee training progress and generate related reports.
+Onspring,Notify Users of Expiring Certifications,Automatically remind users of certifications that are about to expire.
+Onspring,Generate Compliance Reports,Automate the generation of compliance reports for internal or external audits.
+Onspring,Monitor Vendor Compliance,Automate the monitoring of vendor compliance by tracking their documentation and certifications.
+Onspring,Notify Vendors of Missing Documents,Send automated notifications to vendors if they have missing or incomplete documents.
+Onspring,Track Vendor Risk Ratings,Automatically monitor and update vendor risk ratings based on predefined criteria.
+Onspring,Generate Vendor Performance Reports,Automate the creation of vendor performance reports for periodic reviews.
+Onspring,Notify Vendors of Contract Expirations,Automatically send reminders to vendors when their contracts are about to expire.
+Onspring,Assign Control Testing Tasks,Automatically assign control testing tasks to relevant team members based on their expertise.
+Onspring,Schedule Control Testing Reviews,Automate the scheduling of periodic reviews for control testing.
+Onspring,Notify of Control Failures,Automatically alert stakeholders when control failures are detected.
+Onspring,Generate Control Effectiveness Reports,Automate the creation of reports on the effectiveness of internal controls.
+Onspring,Track Incident Reports,"Automatically track and record incident reports, ensuring all relevant fields are completed."
+Onspring,Notify of New Incidents,Send automated alerts to stakeholders when a new incident is logged in the system.
+Onspring,Automate Root Cause Analysis,Generate root cause analysis reports for incidents automatically.
+Onspring,Assign Incident Resolution Tasks,Automatically assign resolution tasks to team members based on the nature of the incident.
+Onspring,Track Incident Resolution Timelines,Automate the tracking of resolution timelines for incidents and send reminders for overdue tasks.
+Onspring,Generate Incident Trend Reports,Automatically create reports to identify trends and recurring patterns in incidents.
+Onspring,Assign Audit Tasks,Automate the assignment of audit tasks to team members based on their expertise.
+Onspring,Notify of Upcoming Audits,Send automated notifications to relevant stakeholders about upcoming audits.
+Onspring,Track Audit Findings,Automate the tracking of audit findings and their resolution status.
+Onspring,Generate Audit Reports,"Automatically generate audit reports summarizing findings, recommendations, and resolutions."
+Onspring,Schedule Audit Follow-Ups,Automate the scheduling of follow-up actions for audits to ensure all findings are addressed.
+Onspring,Notify of Compliance Violations,Automatically alert relevant parties when a compliance violation is detected.
+Onspring,Assign Compliance Tasks,Automatically assign compliance-related tasks to appropriate users or teams.
+Onspring,Monitor Business Continuity Plans,Automate the monitoring of business continuity plans and notify stakeholders of updates or gaps.
+Onspring,Schedule Business Continuity Tests,Automatically schedule and assign periodic business continuity plan tests.
+Onspring,Notify of Business Continuity Test Results,Send automated notifications with the results of business continuity plan tests to stakeholders.
+Onspring,Assign Corrective Actions,"Automatically assign corrective actions based on incident reports, audits, or findings."
+Onspring,Notify of Corrective Action Deadlines,Send reminders to responsible parties when corrective action deadlines are approaching.
+Onspring,Track Corrective Action Progress,Automate the tracking and reporting of progress for corrective actions.
+Onspring,Notify of Regulatory Compliance Changes,Automatically notify relevant stakeholders when new regulatory requirements are added or existing ones are updated.
+Onspring,Assign Regulatory Compliance Tasks,Automatically assign tasks to ensure compliance with regulatory changes.
+Onspring,Generate Regulatory Compliance Reports,Automate the creation of reports to demonstrate compliance with relevant regulations.
+Onspring,Monitor IT Risks,Automate the tracking and reporting of IT risks such as system vulnerabilities or cybersecurity threats.
+Onspring,Assign Cybersecurity Training,Automatically assign cybersecurity training to employees based on their roles and responsibilities.
+Onspring,Notify of IT Control Failures,Send automated alerts when IT control failures are detected.
+Onspring,Track IT Control Effectiveness,Automate the monitoring and reporting of IT control effectiveness.
+Onspring,Generate IT Risk Reports,Automatically generate reports summarizing IT risks and mitigation plans.
+Onspring,Assign Vendor Risk Assessments,Automatically assign vendor risk assessments to relevant teams or individuals.
+Onspring,Notify of Vendor Risk Threshold Breaches,Send automated notifications when vendor risk ratings exceed acceptable thresholds.
+Onspring,Automate Vendor Onboarding Processes,"Automate workflows for vendor onboarding, including document collection and risk assessments."
+Onspring,Monitor Contract Renewals,Automatically track contract renewal dates and notify stakeholders of upcoming renewals.
+Onspring,Generate SLA Compliance Reports,Automate the creation of Service Level Agreement (SLA) compliance reports for vendors and internal teams.
+Onspring,Notify of SLA Violations,"Send alerts when SLA violations are detected, along with relevant data for analysis."
+Onspring,Assign SLA Monitoring Tasks,Automatically assign tasks to monitor SLA compliance for critical vendors or services.
+Onspring,Track Operational Risks,Automate the tracking of operational risks and generate reports on their status.
+Onspring,Schedule Operational Risk Reviews,Automatically schedule periodic reviews of operational risks with relevant teams.
+Onspring,Notify of High-Risk Areas,Send automated alerts to stakeholders about areas identified as high risk during assessments.
+Onspring,Generate Risk Treatment Plans,Automate the creation of risk treatment plans based on assessments and mitigation strategies.

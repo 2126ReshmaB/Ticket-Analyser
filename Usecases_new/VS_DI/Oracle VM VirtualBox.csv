@@ -1,0 +1,87 @@
+Category,Short Description,Description
+Oracle VM VirtualBox,Create Virtual Machines for Testing,Set up virtual machines to test different operating systems and software configurations.
+Oracle VM VirtualBox,Cross-Platform Virtualization Support,"Run virtual machines on Windows, macOS, Linux, and Solaris hosts."
+Oracle VM VirtualBox,Snapshot Management,Create and manage snapshots to save the state of a virtual machine for rollback purposes.
+Oracle VM VirtualBox,Isolated Testing Environments,Create isolated environments to test software without impacting the host system.
+Oracle VM VirtualBox,Virtual Networking Configuration,Configure virtual networks for testing connected applications or services.
+Oracle VM VirtualBox,Run Legacy Operating Systems,Run outdated or legacy operating systems for backward compatibility testing.
+Oracle VM VirtualBox,Nested Virtualization Support,Enable nested virtualization to run virtual machines inside another virtual machine.
+Oracle VM VirtualBox,USB Device Passthrough,Access USB devices from within virtual machines for testing or development purposes.
+Oracle VM VirtualBox,Shared Folder Setup,Share folders between the host and guest operating systems for easy file transfer.
+Oracle VM VirtualBox,Multi-Screen Display Support,Use multiple monitors within a single virtual machine for enhanced workflows.
+Oracle VM VirtualBox,Cross-Platform Application Development,Test and develop cross-platform applications on different operating systems.
+Oracle VM VirtualBox,Command-Line Management,Automate virtual machine management using the VBoxManage command-line tool.
+Oracle VM VirtualBox,VM Cloning for Rapid Deployment,Clone virtual machines to create identical environments quickly.
+Oracle VM VirtualBox,Bridged Network Configuration,Connect virtual machines directly to the host network for advanced networking.
+Oracle VM VirtualBox,Host-Only Networking Setup,Create private networks between virtual machines for secure communication.
+Oracle VM VirtualBox,Virtual Disk Encryption,Encrypt virtual disks to protect sensitive data within virtual machines.
+Oracle VM VirtualBox,Test Different Software Versions,Run multiple software versions side by side in different virtual environments.
+Oracle VM VirtualBox,Guest Additions Installation,Enhance virtual machine performance with features like seamless mode and better graphics.
+Oracle VM VirtualBox,Cross-Platform OS Compatibility Testing,Test software compatibility across multiple operating systems.
+Oracle VM VirtualBox,Portable Virtual Machine Deployment,Export and import virtual machines for portability between systems.
+Oracle VM VirtualBox,Virtual Appliance Import/Export,Share preconfigured virtual machines using the appliance feature.
+Oracle VM VirtualBox,Network Packet Analysis,Analyze network traffic through virtual network adapters for troubleshooting.
+Oracle VM VirtualBox,Run Multiple OS Simultaneously,Run multiple operating systems on a single workstation for multitasking.
+Oracle VM VirtualBox,Virtual Machine Performance Monitoring,"Monitor CPU, memory, and disk usage for virtual machines in real time."
+Oracle VM VirtualBox,Software Development Sandboxing,Use isolated virtual machines to test and debug code securely.
+Oracle VM VirtualBox,Cross-Browser Compatibility Testing,Test web applications in different browsers installed on virtual machines.
+Oracle VM VirtualBox,Custom VM Configuration,"Customize CPU cores, RAM, and disk space for each virtual machine."
+Oracle VM VirtualBox,Virtual Machine Backup and Restore,Back up virtual machines and restore them as needed for disaster recovery.
+Oracle VM VirtualBox,Test Network Security Configurations,Simulate network environments to test firewalls and security protocols.
+Oracle VM VirtualBox,Seamless Mode for Guest Integration,Combine guest applications with the host desktop for a seamless experience.
+Oracle VM VirtualBox,Virtual Machine Templates,Create and reuse templates for faster virtual machine deployments.
+Oracle VM VirtualBox,Disk Partition Testing,Test disk partitioning and file systems on virtual drives without affecting the host.
+Oracle VM VirtualBox,Run Headless Virtual Machines,Run virtual machines in the background without a graphical user interface.
+Oracle VM VirtualBox,Debugging Applications in Virtual Environments,Use VMs to debug applications without affecting the host system.
+Oracle VM VirtualBox,Multi-User Remote Access,Allow multiple users to access virtual machines remotely.
+Oracle VM VirtualBox,Integration with CI/CD Pipelines,Use virtual machines in continuous integration and deployment pipelines.
+Oracle VM VirtualBox,Test IoT Device Connectivity,Simulate IoT device connections in virtual environments.
+Oracle VM VirtualBox,Simulate Network Latency,Test application performance by simulating network latency and packet loss.
+Oracle VM VirtualBox,Deploy Virtual Labs for Training,Create virtual labs for training employees or students in a safe environment.
+Oracle VM VirtualBox,Run Beta Software,Test beta versions of software in isolated virtual environments.
+Oracle VM VirtualBox,Multiple Snapshot Branching,Create multiple snapshots to manage different testing states of a VM.
+Oracle VM VirtualBox,Virtual Disk Resizing,Resize virtual disks to accommodate growing storage needs.
+Oracle VM VirtualBox,Test Cloud Integrations Locally,Simulate cloud environments locally before deploying to production systems.
+Oracle VM VirtualBox,Application Packaging Testing,Validate application packaging and deployment processes in virtual machines.
+Oracle VM VirtualBox,Cross-Architecture Testing,Test applications on 32-bit and 64-bit architectures using VMs.
+Oracle VM VirtualBox,Virtual Machine Live Migration,Migrate virtual machines between hosts without downtime.
+Oracle VM VirtualBox,Test VPN Configurations,Simulate and test VPN connections within virtual environments.
+Oracle VM VirtualBox,Virtual Machine Logging,Enable logging to troubleshoot issues within virtual machines.
+Oracle VM VirtualBox,Test Database Configurations,Set up isolated environments to test database configurations and migrations.
+Oracle VM VirtualBox,Integration with Cloud Providers,"Test integrations with AWS, Azure, or Google Cloud from your virtual machines."
+Oracle VM VirtualBox,Virtual NIC Teaming,Simulate NIC teaming for redundancy and load balancing.
+Oracle VM VirtualBox,Test Software Licensing Models,Validate software licensing mechanisms in isolated virtual environments.
+Oracle VM VirtualBox,Network Bridging for IoT Simulations,Simulate IoT devices connected to a network via bridged adapters.
+Oracle VM VirtualBox,Test Backup and Restore Procedures,Validate disaster recovery plans in a virtualized environment.
+Oracle VM VirtualBox,Test Operating System Upgrades,Simulate OS upgrades in virtual machines to assess compatibility.
+Oracle VM VirtualBox,Virtual Machine Resource Throttling,Limit CPU and memory usage for resource-constrained environments.
+Oracle VM VirtualBox,Network Load Testing,Simulate heavy network traffic in virtual environments to test performance.
+Oracle VM VirtualBox,Virtual Machine Auto-Start Configuration,Automatically start virtual machines when the host system boots.
+Oracle VM VirtualBox,Isolated Malware Testing,Test malware behavior in a secure virtual environment.
+Oracle VM VirtualBox,Virtual Machine Encryption Testing,Evaluate encryption software in virtualized environments.
+Oracle VM VirtualBox,Simulate Multi-Site Deployments,Create multi-site environments to test distributed applications.
+Oracle VM VirtualBox,Run Open-Source Operating Systems,Test and explore open-source operating systems like Linux distros.
+Oracle VM VirtualBox,Virtual Machine Snapshot Comparison,Compare snapshots to identify changes between different states.
+Oracle VM VirtualBox,Test API Server Deployments,Validate API server configurations in isolated virtual environments.
+Oracle VM VirtualBox,Test Web Server Configurations,Simulate web server environments for testing configurations and performance.
+Oracle VM VirtualBox,Emulate Legacy Hardware,Simulate older hardware configurations to test legacy software.
+Oracle VM VirtualBox,Virtual Machine Resource Overcommitment,Overcommit resources to simulate high-demand scenarios.
+Oracle VM VirtualBox,Test Cross-Network Configurations,Validate routing and switching configurations in virtual networks.
+Oracle VM VirtualBox,Host-Guest Network Integration,Test real-world network interactions between host and guest systems.
+Oracle VM VirtualBox,Develop Secure Sandboxed Applications,Build and test secure applications in a contained virtual environment.
+Oracle VM VirtualBox,Simulate WAN Environments,Test application performance in simulated WAN conditions.
+Oracle VM VirtualBox,Validate Disaster Recovery Scenarios,Simulate disaster recovery and failover processes using snapshots.
+Oracle VM VirtualBox,Test Software Deployment Scripts,Run deployment scripts in virtual environments to validate automation.
+Oracle VM VirtualBox,Evaluate Endpoint Security Solutions,Test antivirus and endpoint protection software in virtual machines.
+Oracle VM VirtualBox,Test Active Directory Configurations,Simulate Active Directory setups to test group policies and permissions.
+Oracle VM VirtualBox,Virtual Machine Network Isolation,Isolate virtual machine networks for secure testing environments.
+Oracle VM VirtualBox,Test Multi-Tenant Applications,Simulate multi-tenant environments for SaaS application testing.
+Oracle VM VirtualBox,Emulate Different Processor Types,Test software on virtual machines with different processor configurations.
+Oracle VM VirtualBox,Cross-Domain Network Simulation,Simulate cross-domain environments to test firewall policies.
+Oracle VM VirtualBox,Thin-Provisioned Disk Testing,Validate performance of thin-provisioned virtual disks.
+Oracle VM VirtualBox,Virtual Machine Export for Collaboration,Share virtual machines with team members for collaborative testing.
+Oracle VM VirtualBox,Test Application Scaling Strategies,Simulate horizontal and vertical scaling in a virtualized environment.
+Oracle VM VirtualBox,Validate SSL/TLS Configurations,Test SSL/TLS setups for applications in secure virtual environments.
+Oracle VM VirtualBox,Test Container Deployments,Run and test containerized applications within virtual machines.
+Oracle VM VirtualBox,Virtual Machine Network Tunneling,Simulate secure tunnels for remote virtual machine connections.
+Oracle VM VirtualBox,Test IPv6 Compatibility,Validate IPv6 configurations in

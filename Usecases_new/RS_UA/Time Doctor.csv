@@ -1,0 +1,69 @@
+Category,Short Description,Description
+Time Doctor,Automated Time Tracking Reminders,Sends reminders to employees to start or stop time tracking based on predetermined schedules or inactivity detection.
+Time Doctor,Daily Productivity Reports,Automatically generates and emails daily productivity reports to managers summarizing employee activity levels and work hours.
+Time Doctor,Weekly Timesheet Reports,"Creates and sends weekly summaries of employee timesheets, including tracked hours, idle time, and breaks."
+Time Doctor,Integration With Payroll Systems,"Automates the export of timesheet data to payroll systems like QuickBooks, Gusto, or ADP for seamless payroll processing."
+Time Doctor,Idle Time Alerts,Sends automated notifications to users if their system detects extended idle periods during working hours.
+Time Doctor,Task Assignment Notifications,"Notifies employees when new tasks are assigned to them through integrations like Asana, Monday.com, or Trello."
+Time Doctor,Integration With Google Calendar,Syncs employee schedules and tracked hours with Google Calendar for improved time management and scheduling.
+Time Doctor,Overtime Tracking,Tracks employee overtime and notifies managers when employees exceed their allocated work hours.
+Time Doctor,Automated Break Tracking,Tracks employee breaks automatically and ensures compliance with labor laws or company policies.
+Time Doctor,Real-Time Activity Monitoring,Sends real-time updates to managers about employee activity levels and time spent on specific tasks.
+Time Doctor,Project Budget Tracking,Monitors project budgets by comparing tracked hours against budgeted hours and alerts managers if a project is at risk of going over budget.
+Time Doctor,Screenshot Management,Automates the deletion or archiving of screenshots older than a specified period to comply with data retention policies.
+Time Doctor,Automated Shift Scheduling,Automatically creates and distributes employee shift schedules and tracks attendance.
+Time Doctor,Integration With Trello,Automatically syncs time tracking data with Trello boards for better task management and reporting.
+Time Doctor,Weekly Performance Trends,"Creates weekly reports analyzing employee performance trends, including activity levels and time spent on different tasks."
+Time Doctor,Low Activity Alerts,Sends alerts to employees and managers when activity levels drop below a set percentage during work hours.
+Time Doctor,Employee Productivity Heatmaps,Generates heatmaps to visualize peak productivity hours for individual employees or teams.
+Time Doctor,Task Progress Sync,"Syncs task progress with project management tools like Jira or Monday.com, automatically updating task completion statuses."
+Time Doctor,Integration With Slack,"Sends notifications to Slack channels when employees start or stop tracking time, or when tasks are updated."
+Time Doctor,Automated Attendance Tracking,Tracks employee attendance and generates attendance logs for managers.
+Time Doctor,Integration With Salesforce,Tracks time spent on Salesforce tasks and syncs data for better project tracking and billing.
+Time Doctor,Real-Time Location-Based Time Tracking,"Automatically starts or stops tracking time based on employee location (e.g., job site check-ins)."
+Time Doctor,Custom Productivity Benchmarks,Sets benchmarks for employee productivity and sends alerts when goals are not met.
+Time Doctor,Weekly Task Completion Reports,Creates reports summarizing tasks completed by employees over the week and time spent on each task.
+Time Doctor,Integration With Asana,Syncs tasks and time tracking data between Time Doctor and Asana for seamless project management.
+Time Doctor,Employee Idle Time Reporting,Generates reports showing idle time for employees to identify workflow inefficiencies.
+Time Doctor,Integration With Basecamp,Syncs time tracking data with Basecamp projects for better task and project management.
+Time Doctor,Automated Notifications for Overdue Tasks,Sends reminders to employees about tasks that are overdue or approaching their deadlines.
+Time Doctor,Integration With Hubstaff,Exports time tracking data from Time Doctor to Hubstaff for consolidated reporting.
+Time Doctor,Time Tracking for Remote Teams,Automates time tracking for remote employees based on login activity or IP-based location detection.
+Time Doctor,Integration With Zapier,"Automates workflows by connecting Time Doctor to other apps like Google Sheets, Airtable, or Notion using Zapier."
+Time Doctor,Task Prioritization Notifications,Sends automated alerts to employees about high-priority tasks assigned to them.
+Time Doctor,Integration With Jira,Automatically syncs work hours and task progress data with Jira for better project tracking.
+Time Doctor,Employee Check-In Notifications,Sends reminders to employees to check in at the beginning of their shifts.
+Time Doctor,Real-Time Performance Dashboards,"Automatically updates dashboards with real-time employee performance metrics, including tracked hours and activity levels."
+Time Doctor,Employee Productivity Insights,Analyzes employee productivity trends using tracked time and generates actionable insights.
+Time Doctor,Compliance Reporting,"Automatically generates reports to ensure compliance with labor laws, including overtime and break tracking."
+Time Doctor,Integration With Zoho Projects,Syncs time tracking data with Zoho Projects for seamless task and project management.
+Time Doctor,Task Dependency Alerts,Notifies employees and managers when dependent tasks are delayed or completed.
+Time Doctor,Integration With PayPal,Automates payments to freelancers or contractors using tracked time data and PayPal.
+Time Doctor,Employee Workload Balancing,Analyzes time tracking data to identify workload imbalances and suggests reallocations.
+Time Doctor,Integration With FreshBooks,Automates the creation of invoices in FreshBooks using tracked time data.
+Time Doctor,Daily Task Completion Reports,Sends daily summaries of tasks completed by employees and time spent on each task.
+Time Doctor,Late Shift Notifications,Alerts managers when employees fail to start their shifts on time.
+Time Doctor,Employee Break Compliance Tracking,Ensures compliance with break policies by monitoring break durations and notifying employees and managers.
+Time Doctor,Integration With Microsoft Teams,"Sends notifications to Teams channels when time tracking starts or stops, or when tasks are updated."
+Time Doctor,Project Budget Usage Alerts,Sends alerts when tracked hours for a project approach or exceed budgeted limits.
+Time Doctor,Integration With ClickUp,Syncs tasks and time tracking data between Time Doctor and ClickUp for better task management.
+Time Doctor,Automated Invoice Generation,Creates and sends invoices to clients based on tracked time and hourly rates.
+Time Doctor,Task Assignment Efficiency,Monitors task assignment efficiency by analyzing time spent on tasks and completion rates.
+Time Doctor,Employee Attendance Reports,Automatically generates attendance reports based on employee tracking data.
+Time Doctor,Integration With Monday.com,Syncs tasks and time tracking data with Monday.com for better project management.
+Time Doctor,Employee Productivity Leaderboards,Generates leaderboards ranking employees based on their productivity and activity levels.
+Time Doctor,Task Progress Tracking,"Tracks and visualizes task progress for employees and teams, including time spent on each task."
+Time Doctor,Integration With Wrike,Syncs time tracking data with Wrike for seamless task and project updates.
+Time Doctor,Employee Engagement Heatmaps,Creates heatmaps showing employee engagement levels at different times of the day.
+Time Doctor,Integration With Harvest,Syncs tracked time data with Harvest for invoicing and billing purposes.
+Time Doctor,Real-Time GPS Tracking,Tracks and reports employees’ real-time location using GPS for field-based teams.
+Time Doctor,Work Hour Compliance Alerts,Sends alerts to managers and employees if tracked hours exceed or fall short of scheduled work hours.
+Time Doctor,Integration With Airtable,Exports time tracking data to Airtable for custom reporting and analysis.
+Time Doctor,Employee Overwork Alerts,"Notifies managers if employees are working excessive hours, helping prevent burnout."
+Time Doctor,Integration With Notion,Syncs time tracking data with Notion databases for better documentation and reporting.
+Time Doctor,Task Completion Notifications,Sends automated notifications to managers when tasks are marked as complete.
+Time Doctor,Employee Focus Time Tracking,Tracks focus time for employees by identifying periods of uninterrupted work.
+Time Doctor,Custom Time Tracking Rules,"Configures custom rules for time tracking, such as automatically assigning time to specific projects based on task descriptions."
+Time Doctor,Integration With QuickBooks,Syncs time tracking data with QuickBooks for seamless payroll and invoicing processes.
+Time Doctor,Productivity Analysis for Teams,Analyzes team productivity trends and generates reports for managers.
+,,

@@ -1,0 +1,65 @@
+Category,Short Description,Description
+Flexera Software License Optimization,Automate license compliance checks,Automatically check software deployments for compliance with license agreements and usage restrictions.
+Flexera Software License Optimization,Track unused software licenses,Identify unused or underutilized licenses across the organization and flag them for optimization or reallocation.
+Flexera Software License Optimization,Generate software usage reports,Automate the creation of reports summarizing software usage across departments or user groups.
+Flexera Software License Optimization,Optimize license allocation,Reallocate licenses based on usage patterns and business needs to ensure optimal utilization.
+Flexera Software License Optimization,Automate license reconciliation,Match software deployment data with purchased licenses to ensure proper alignment and compliance.
+Flexera Software License Optimization,Notify admins of license expiration,Send automated alerts to administrators when licenses are nearing their expiration dates.
+Flexera Software License Optimization,Automate license renewal,Automatically trigger renewal workflows for licenses that are about to expire.
+Flexera Software License Optimization,Identify duplicate license assignments,Detect and flag duplicate license assignments to the same user or device for optimization.
+Flexera Software License Optimization,Automate contract tracking,Track software license contracts and send reminders for renewals or expiration deadlines.
+Flexera Software License Optimization,Analyze license usage by department,"Generate reports to show software license usage at the department level, helping in cost allocation and budgeting."
+Flexera Software License Optimization,Automate software inventory,Automatically maintain an up-to-date inventory of installed software across the organization.
+Flexera Software License Optimization,Monitor cloud-based software usage,Track and report on cloud-based software usage to ensure compliance with subscription agreements.
+Flexera Software License Optimization,Automate license cost tracking,Calculate and track the cost of software licenses across teams and projects.
+Flexera Software License Optimization,Automate license pooling,Create and manage shared pools of licenses for frequently used software applications.
+Flexera Software License Optimization,Automate license harvesting,Reclaim licenses from inactive or unused installations and reassign them automatically.
+Flexera Software License Optimization,Notify users of unused licenses,"Send email notifications to users about unused licenses, prompting them to release them for others."
+Flexera Software License Optimization,Automate software deployment tracking,Track active and inactive software deployments and flag those that exceed the licensed limit.
+Flexera Software License Optimization,Monitor license consumption trends,Analyze and report on trends in license consumption over time to support forecasting.
+Flexera Software License Optimization,Automate user access tracking,Track which users are actively using their assigned software licenses and identify inactive users.
+Flexera Software License Optimization,Detect non-compliant software installations,Identify and flag software installations that are not aligned with license agreements.
+Flexera Software License Optimization,Automate license cost optimization,Recommend cost-saving measures by analyzing license usage and identifying redundant or unnecessary licenses.
+Flexera Software License Optimization,Notify admins of software over-usage,Send alerts when software usage exceeds license capacity or agreements.
+Flexera Software License Optimization,Automate cloud subscription tracking,Monitor cloud software subscriptions and ensure they align with current usage patterns.
+Flexera Software License Optimization,Automate data normalization,"Normalize data related to software titles, versions, and publishers to ensure accurate reporting."
+Flexera Software License Optimization,Generate vendor-specific license reports,Create automated reports showing license usage and compliance for specific vendors.
+Flexera Software License Optimization,Automate license deactivation,Automatically deactivate licenses for users who no longer need access or have left the organization.
+Flexera Software License Optimization,Automate software metering,Implement metering to track software usage on a per-user or per-device basis automatically.
+Flexera Software License Optimization,Automate license compliance gap analysis,Identify gaps between purchased licenses and installed software to ensure compliance.
+Flexera Software License Optimization,Track license usage for virtual environments,Monitor and report on license usage for software installed in virtualized environments.
+Flexera Software License Optimization,Automate reallocation of floating licenses,Reassign floating licenses dynamically based on real-time usage and needs.
+Flexera Software License Optimization,Notify admins of underutilized software,Send automated alerts about software licenses that are not being fully utilized.
+Flexera Software License Optimization,Automate software cost center allocation,Allocate software license costs to specific cost centers automatically.
+Flexera Software License Optimization,Track license usage across multiple locations,Generate reports showing license usage by location or office.
+Flexera Software License Optimization,Automate license assignment for new hires,Automatically assign software licenses to new employees based on their roles and responsibilities.
+Flexera Software License Optimization,Automate license removal for terminated employees,Automatically revoke licenses from employees who are no longer with the organization.
+Flexera Software License Optimization,Monitor SaaS application usage,Track and report on the usage of SaaS applications to ensure compliance with subscription agreements.
+Flexera Software License Optimization,Automate cost forecasting,Predict future software license costs based on historical usage patterns.
+Flexera Software License Optimization,Track license usage by project,Generate reports to show license usage by specific projects for better cost management.
+Flexera Software License Optimization,Automate license model optimization,"Optimize license models (e.g., per-user vs. per-device licensing) based on actual usage data."
+Flexera Software License Optimization,Automate license key management,"Store, retrieve, and assign license keys automatically, ensuring secure and efficient distribution."
+Flexera Software License Optimization,Detect unauthorized software,Identify and report on unauthorized or unlicensed software installations across the organization.
+Flexera Software License Optimization,Notify admins of license shortages,Send alerts when license availability falls below a certain threshold.
+Flexera Software License Optimization,Automate license purchase approvals,Streamline the approval process for purchasing additional licenses when needed.
+Flexera Software License Optimization,Automate license allocation for contractors,Assign temporary licenses to contractors with predefined expiration dates.
+Flexera Software License Optimization,Generate IT cost optimization dashboards,Create visualization dashboards showing opportunities for cost savings in software licensing.
+Flexera Software License Optimization,Automate license model compliance checks,Ensure that software is being used according to its licensing model and flag non-compliance.
+Flexera Software License Optimization,Track usage of legacy software,Monitor and report on the usage of outdated or legacy software for potential decommissioning.
+Flexera Software License Optimization,Automate software license audits,Schedule and conduct regular license audits to ensure compliance with vendor agreements.
+Flexera Software License Optimization,Integrate with CMDB,Sync license data with the Configuration Management Database (CMDB) for a unified view of assets.
+Flexera Software License Optimization,Automate license allocation for shared resources,Manage shared license pools and allocate them dynamically based on demand.
+Flexera Software License Optimization,Monitor license usage in hybrid environments,Track software license usage across on-premise and cloud environments.
+Flexera Software License Optimization,Automate cost savings recommendations,Generate recommendations for reducing software costs by identifying redundant or unused licenses.
+Flexera Software License Optimization,Automate license expiration tracking,Track expiration dates for software licenses and send alerts to relevant teams.
+Flexera Software License Optimization,Generate license compliance scorecards,Create scorecards that summarize compliance levels across all software licenses.
+Flexera Software License Optimization,Automate license allocation for mergers and acquisitions,Reallocate licenses automatically after mergers or acquisitions based on the new organizational structure.
+Flexera Software License Optimization,Automate software license risk detection,"Identify risks such as over-deployment, non-compliance, or unauthorized usage automatically."
+Flexera Software License Optimization,Monitor usage of software bundles,Track and report usage of bundled software products to ensure compliance with bundle agreements.
+Flexera Software License Optimization,Automate license usage normalization,Normalize license usage data to align with vendor-specific reporting requirements.
+Flexera Software License Optimization,Optimize license agreements,Analyze existing agreements and suggest optimizations based on usage data.
+Flexera Software License Optimization,Track license usage by software category,"Generate reports showing usage by software category (e.g., productivity, design, or development tools)."
+Flexera Software License Optimization,Automate alerting for license breaches,Send alerts when software usage exceeds licensing limits or agreements.
+Flexera Software License Optimization,Automate SaaS license optimization,Optimize SaaS subscriptions by identifying unused or underutilized accounts.
+Flexera Software License Optimization,Track license costs for chargebacks,Allocate license costs to departments or business units for chargeback purposes.
+Flexera Software License Optimization,Automate reporting for,

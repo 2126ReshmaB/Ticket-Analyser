@@ -1,0 +1,61 @@
+Category,Short Description,Description
+Cherwell Software License Management,Automate license inventory tracking,Automatically track and maintain an up-to-date inventory of all software licenses across the organization.
+Cherwell Software License Management,Automate license assignment,"Assign software licenses to users or devices automatically based on predefined rules, such as user roles or department."
+Cherwell Software License Management,Notify admins of license expiration,Send automated reminders to administrators when software licenses are nearing expiration.
+Cherwell Software License Management,Automate compliance checks,Automatically check license usage against compliance requirements to ensure adherence to vendor agreements.
+Cherwell Software License Management,Automate unused license detection,Identify and flag unused licenses across the organization to optimize costs.
+Cherwell Software License Management,Generate license usage reports,"Create automated reports on software license usage by user, department, or application to provide insights into utilization."
+Cherwell Software License Management,Automate license renewal approvals,Streamline the approval process for renewing software licenses through automated workflows.
+Cherwell Software License Management,Track license costs by department,Automatically allocate and track license costs by department for budgeting and optimization purposes.
+Cherwell Software License Management,Automate license reallocation,Reallocate licenses dynamically to users or devices based on their actual usage patterns.
+Cherwell Software License Management,Notify users of license revocation,Send automated alerts to users when their software licenses are revoked or reassigned.
+Cherwell Software License Management,Automate software usage metering,Track and report on software usage automatically to identify underutilized applications.
+Cherwell Software License Management,Automate license compliance audits,Schedule and execute compliance audits automatically to ensure all licenses are being used correctly.
+Cherwell Software License Management,Track license usage by location,Generate automated reports on software license usage by geographic region or office location.
+Cherwell Software License Management,Automate license allocation for new hires,Assign licenses to new employees automatically during the onboarding process based on their roles.
+Cherwell Software License Management,Revoke licenses for terminated employees,Automatically revoke licenses from employees who have left the organization to free up resources.
+Cherwell Software License Management,Notify admins of license overuse,Send alerts when the number of active licenses exceeds the available count to avoid compliance issues.
+Cherwell Software License Management,Automate cloud license tracking,"Monitor and manage cloud-based software licenses, such as SaaS tools, automatically."
+Cherwell Software License Management,Automate software license pooling,Create and manage shared license pools for applications to optimize allocation dynamically.
+Cherwell Software License Management,Automate vendor contract tracking,Track vendor contracts associated with software licenses and send reminders for renewals automatically.
+Cherwell Software License Management,Automate software cost forecasting,Predict future software license costs based on historical usage data and subscription trends.
+Cherwell Software License Management,Automate license allocation for specific projects,Assign licenses to team members working on specific projects automatically.
+Cherwell Software License Management,Notify admins of duplicate licenses,Identify and notify administrators about duplicate license assignments to optimize usage.
+Cherwell Software License Management,Track license usage by application,Generate reports showing license utilization for each application to identify high-demand or underutilized tools.
+Cherwell Software License Management,Automate license allocation for contractors,Assign temporary licenses to contractors with predefined expiration dates.
+Cherwell Software License Management,Automate license expiration calendars,Maintain and update a calendar view of upcoming license expirations automatically.
+Cherwell Software License Management,Automate SaaS subscription renewals,Streamline the renewal process for SaaS subscriptions by automating workflows for approvals.
+Cherwell Software License Management,Automate license allocation for seasonal employees,Automatically allocate licenses to seasonal employees with expiration dates corresponding to the end of their contracts.
+Cherwell Software License Management,Automate software version tracking,Track software versions in use and ensure that they are updated or aligned with license agreements automatically.
+Cherwell Software License Management,Notify admins of underutilized applications,Send automated alerts about applications or software licenses that are underutilized.
+Cherwell Software License Management,Automate license usage normalization,Normalize license usage data to align with vendor-specific reporting requirements automatically.
+Cherwell Software License Management,Automate license allocation for virtual environments,Assign licenses to virtual machines or environments dynamically to optimize resource usage.
+Cherwell Software License Management,Automate software license harvesting,Reclaim unused or inactive licenses automatically for reallocation.
+Cherwell Software License Management,Automate license key distribution,Distribute license keys securely and automatically to authorized users or devices.
+Cherwell Software License Management,Monitor SaaS usage trends,Track and report on SaaS application usage trends over time for cost optimization and forecasting.
+Cherwell Software License Management,Automate software deployment tracking,Track and report on software deployments across the organization to ensure compliance with licensing agreements.
+Cherwell Software License Management,Automate license reallocation during organizational changes,"Reallocate licenses automatically during team restructures, mergers, or acquisitions."
+Cherwell Software License Management,Automate license allocation for shared resources,Manage shared license pools for commonly used applications automatically to optimize allocation.
+Cherwell Software License Management,Notify admins of non-compliant software installations,Send alerts when software installations are detected that don’t comply with licensing agreements.
+Cherwell Software License Management,Automate software usage benchmarking,Compare software usage across teams or departments to identify opportunities for cost savings.
+Cherwell Software License Management,Automate license cost allocation,Allocate software license costs dynamically to departments or business units based on usage data.
+Cherwell Software License Management,Automate license usage by time period,Track and report on software license utilization over specific timeframes for trend analysis.
+Cherwell Software License Management,Automate license allocation for high-demand applications,Assign licenses dynamically to users or teams using applications with high demand.
+Cherwell Software License Management,Notify admins of critical license shortages,Send alerts when license shortages are detected for critical applications to avoid disruptions.
+Cherwell Software License Management,Automate license allocation for testing environments,Assign licenses to testing environments automatically for software development purposes.
+Cherwell Software License Management,Automate license allocation for training environments,Allocate licenses to training environments to support employee onboarding or skill development automatically.
+Cherwell Software License Management,Automate license allocation for staging environments,Assign licenses to staging environments dynamically for pre-production testing.
+Cherwell Software License Management,Automate license allocation for production environments,Allocate licenses automatically to production environments to ensure operational continuity.
+Cherwell Software License Management,Automate license allocation during hardware upgrades,Reassign licenses automatically during hardware upgrades or replacements.
+Cherwell Software License Management,Notify admins of license cost overruns,Send alerts when software license costs exceed budgeted amounts for specific applications or departments.
+Cherwell Software License Management,Automate license allocation for specific roles,Assign licenses automatically based on user roles and responsibilities.
+Cherwell Software License Management,Automate license allocation for BYOD devices,Track and allocate licenses to employee-owned (BYOD) devices that access organizational resources.
+Cherwell Software License Management,Automate SLA tracking for licenses,Monitor and report on SLA compliance for software license contracts automatically.
+Cherwell Software License Management,Automate software risk assessments,"Identify risks, such as unauthorized installations or over-deployment, associated with software licenses automatically."
+Cherwell Software License Management,Automate license allocation for collaboration tools,"Assign licenses for collaboration tools, such as video conferencing software, dynamically based on user demand."
+Cherwell Software License Management,Automate software feature usage tracking,Track which features of a software tool are being used to determine if a lower-cost license tier would suffice.
+Cherwell Software License Management,Automate vendor performance evaluations,"Track and evaluate vendor performance based on license compliance, costs, and support quality automatically."
+Cherwell Software License Management,Automate integration with procurement systems,Sync license data with procurement tools to streamline software purchases and renewals.
+Cherwell Software License Management,Automate license usage by user role,"Generate reports showing license usage segmented by user roles, such as admin, standard user, or viewer."
+Cherwell Software License Management,Automate license allocation for disaster recovery systems,Assign licenses to disaster recovery environments automatically to ensure business continuity.
+Cherwell Software License Management,Autom,

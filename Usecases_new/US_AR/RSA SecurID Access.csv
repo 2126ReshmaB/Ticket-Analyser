@@ -1,0 +1,52 @@
+Category,Short Description,Description
+RSA SecurID Access,Automate User Enrollment,Automatically enroll users in RSA SecurID and assign tokens during onboarding.
+RSA SecurID Access,Automate Token Assignment,Automatically assign hardware or software tokens to users based on their roles or departments.
+RSA SecurID Access,Automate Token Revocation,Automatically revoke tokens for users who leave the organization or change roles.
+RSA SecurID Access,Automate Token Expiry Notifications,Notify users automatically when their tokens are about to expire and guide them through renewal.
+RSA SecurID Access,Automate Token Replacement,Automatically replace lost or damaged tokens by generating new ones and assigning them to users.
+RSA SecurID Access,Automate Two-Factor Authentication (2FA),Enforce 2FA for all users accessing critical systems or applications.
+RSA SecurID Access,Automate Secure VPN Access,Automatically enforce RSA SecurID authentication for VPN connections to ensure secure remote access.
+RSA SecurID Access,Automate Privileged Access Management,Require RSA SecurID authentication for privileged accounts accessing critical systems.
+RSA SecurID Access,Automate Cloud Application Security,"Enforce RSA SecurID MFA for cloud applications like Microsoft 365, AWS, and Google Workspace."
+RSA SecurID Access,Automate Identity Federation,Integrate RSA SecurID with identity federation solutions to enable secure access to federated services.
+RSA SecurID Access,Automate Secure Remote Access,Automatically enforce RSA SecurID authentication for remote employees accessing corporate resources.
+RSA SecurID Access,Automate Compliance Reporting,Generate compliance reports automatically to track RSA SecurID usage and ensure regulatory adherence.
+RSA SecurID Access,Automate Phishing Prevention,Enforce dynamic one-time codes to mitigate phishing attacks and prevent unauthorized access.
+RSA SecurID Access,Automate Risk-Based Authentication,Automatically adjust authentication requirements based on the risk level of login attempts.
+RSA SecurID Access,Automate Token Synchronization,Automatically synchronize tokens with the RSA Authentication Manager to ensure accurate time-based codes.
+RSA SecurID Access,Automate Self-Service Portal Access,Provide users with automated access to the self-service portal for managing their tokens and PINs.
+RSA SecurID Access,Automate Token PIN Reset,Allow users to reset their token PINs automatically through the self-service portal.
+RSA SecurID Access,Automate Token Activation,Automatically activate tokens for new users during the onboarding process.
+RSA SecurID Access,Automate Secure Transaction Approval,Require RSA SecurID authentication for approving sensitive financial or business transactions.
+RSA SecurID Access,Automate Integration with VPNs,Automatically configure RSA SecurID authentication for VPN solutions like Cisco AnyConnect or SonicWall.
+RSA SecurID Access,Automate Integration with HR Systems,Sync user data between HR systems and RSA SecurID to automate token assignment and revocation.
+RSA SecurID Access,Automate Token Inventory Management,Automatically track and manage the inventory of hardware tokens to ensure availability.
+RSA SecurID Access,Automate Token Expiry Management,Automatically deactivate expired tokens and notify administrators for replacement.
+RSA SecurID Access,Automate Secure API Access,Enforce RSA SecurID authentication for accessing APIs and sensitive endpoints.
+RSA SecurID Access,Automate Secure File Transfers,Require RSA SecurID authentication for secure file transfers using SFTP or other protocols.
+RSA SecurID Access,Automate Secure Email Access,Enforce RSA SecurID MFA for accessing corporate email accounts.
+RSA SecurID Access,Automate Secure Database Access,Require RSA SecurID authentication for accessing sensitive databases.
+RSA SecurID Access,Automate Secure Application Access,Enforce RSA SecurID MFA for accessing critical business applications like Salesforce or SAP.
+RSA SecurID Access,Automate Secure Desktop Login,Require RSA SecurID authentication for logging into corporate desktops or laptops.
+RSA SecurID Access,Automate Secure Mobile Access,Enforce RSA SecurID MFA for accessing corporate resources from mobile devices.
+RSA SecurID Access,Automate Secure Cloud Storage Access,Require RSA SecurID authentication for accessing cloud storage solutions like OneDrive or Google Drive.
+RSA SecurID Access,Automate Secure Collaboration Tools,Enforce RSA SecurID MFA for accessing collaboration tools like Microsoft Teams or Slack.
+RSA SecurID Access,Automate Secure DevOps Access,Require RSA SecurID authentication for accessing DevOps tools like Jenkins or Kubernetes.
+RSA SecurID Access,Automate Secure Code Repositories,Enforce RSA SecurID MFA for accessing code repositories like GitHub or GitLab.
+RSA SecurID Access,Automate Secure IoT Device Access,Require RSA SecurID authentication for accessing IoT devices and systems.
+RSA SecurID Access,Automate Secure Healthcare Systems,Enforce RSA SecurID MFA for accessing healthcare systems to ensure HIPAA compliance.
+RSA SecurID Access,Automate Secure Financial Transactions,Require RSA SecurID authentication for approving financial transactions in banking systems.
+RSA SecurID Access,Automate Secure Manufacturing Systems,Enforce RSA SecurID MFA for accessing manufacturing systems and equipment.
+RSA SecurID Access,Automate Secure Education Platforms,Require RSA SecurID authentication for accessing education platforms and student data.
+RSA SecurID Access,Automate Secure Government Systems,Enforce RSA SecurID MFA for accessing government systems and sensitive data.
+RSA SecurID Access,Automate Secure Retail Systems,Require RSA SecurID authentication for accessing retail systems and point-of-sale devices.
+RSA SecurID Access,Automate Secure Energy Systems,Enforce RSA SecurID MFA for accessing energy systems and critical infrastructure.
+RSA SecurID Access,Automate Secure Transportation Systems,Require RSA SecurID authentication for accessing transportation systems and networks.
+RSA SecurID Access,Automate Secure Legal Systems,Enforce RSA SecurID MFA for accessing legal systems and sensitive case data.
+RSA SecurID Access,Automate Secure Research Systems,Require RSA SecurID authentication for accessing research systems and intellectual property.
+RSA SecurID Access,Automate Secure Media Platforms,Enforce RSA SecurID MFA for accessing media platforms and content management systems.
+RSA SecurID Access,Automate Secure Gaming Platforms,Require RSA SecurID authentication for accessing gaming platforms and user accounts.
+RSA SecurID Access,Automate Secure Hospitality Systems,Enforce RSA SecurID MFA for accessing hospitality systems and guest data.
+RSA SecurID Access,Automate Secure Supply Chain Systems,Require RSA SecurID authentication for accessing supply chain systems and vendor portals.
+RSA SecurID Access,Automate Secure HR Systems,Enforce RSA SecurID MFA for accessing HR systems and employee data.
+RSA SecurID Access,Automate Secure CRM Systems,Require RSA SecurID authentication for accessing CRM systems like Salesforce or HubSpot.

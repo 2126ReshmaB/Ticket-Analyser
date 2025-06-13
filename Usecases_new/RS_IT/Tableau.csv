@@ -1,0 +1,91 @@
+Category,Short Description,Description
+Tableau,Automate Data Refresh,Schedule and automate Tableau data source refreshes using Tableau Server or Tableau Prep scripts.
+Tableau,Scheduled Report Delivery,Automate the distribution of Tableau dashboards and reports via email to stakeholders.
+Tableau,Data Extraction Automation,Use scripts to automate data extraction from databases or APIs into Tableau.
+Tableau,Real-Time Data Updates,Automate real-time updates of dashboards using live connections or streaming data.
+Tableau,Custom Calculations,Use scripts to automate the creation of calculated fields for advanced metrics.
+Tableau,Data Cleaning,Automate data cleaning workflows in Tableau Prep using prewritten scripts.
+Tableau,Report Versioning,Automate the versioning of Tableau workbooks to track changes over time.
+Tableau,Role-Based Access Control,Automate role-based permissions for Tableau dashboards using Tableau Server APIs.
+Tableau,Data Source Monitoring,Use scripts to monitor the status of Tableau data sources and alert on failures.
+Tableau,KPI Dashboards,Automate the creation and updates of KPI dashboards with data from multiple sources.
+Tableau,Financial Performance Reports,Automate financial performance dashboards by integrating with accounting tools like QuickBooks.
+Tableau,Sales Pipeline Reporting,Use scripts to automate the visualization of sales pipeline data from CRM tools.
+Tableau,Marketing Campaign Analysis,Automate marketing performance analysis using Tableau's integration with Google Ads or Facebook Ads.
+Tableau,Inventory Management,Automate inventory tracking dashboards by syncing data from ERP systems.
+Tableau,Budget vs Actual Comparisons,Automate the generation of budget vs actual dashboards.
+Tableau,Real-Time KPI Alerts,Use scripts to trigger alerts when specific KPIs cross predefined thresholds.
+Tableau,Social Media Analytics,Automate the visualization of social media performance data using Tableau dashboards.
+Tableau,Website Traffic Analysis,Use scripts to pull website traffic data from Google Analytics into Tableau.
+Tableau,Customer Retention Metrics,Automate the visualization of customer retention data by integrating with CRM systems.
+Tableau,Churn Rate Analysis,Use scripts to automate churn rate dashboards for customer insights.
+Tableau,Predictive Analytics,Automate predictive models using Tableau integrations with Python or R scripts.
+Tableau,Employee Productivity Dashboards,Automate employee productivity tracking with data from HR management tools.
+Tableau,AB Testing Results,Use scripts to automate the visualization of AB testing results for marketing or product experiments.
+Tableau,Campaign ROI Analysis,Automate ROI analysis for marketing campaigns using Tableau dashboards.
+Tableau,Lead Generation Metrics,Automate dashboards to track lead generation performance from forms and landing pages.
+Tableau,Subscription Metrics,Use scripts to automate the tracking of subscription performance and recurring revenue metrics.
+Tableau,Data Quality Checks,Automate data validation and quality checks prior to Tableau data visualization.
+Tableau,Workflow Automation Insights,Use scripts to automate workflow metrics dashboards for tools like Zapier.
+Tableau,Goal Progress Dashboards,Automate dashboards that track progress on business goals in real time.
+Tableau,Team Collaboration Metrics,Track and automate insights related to team collaboration using Microsoft Teams or Slack data.
+Tableau,Multi-Language Dashboards,Automate the creation of dashboards in multiple languages for global teams.
+Tableau,Competitor Analysis,Use scripts to pull competitor data into Tableau for side-by-side comparisons.
+Tableau,Data Archiving Automation,Automate the archiving of historical data for Tableau dashboards.
+Tableau,Vendor Performance Metrics,Automate dashboards that track vendor performance KPIs.
+Tableau,Risk Management Dashboards,Use scripts to automate dashboards for risk analysis and tracking.
+Tableau,Multi-Region Reporting,Automate the visualization of regional performance metrics for global organizations.
+Tableau,Survey Data Integration,Automate the visualization of survey results from tools like SurveyMonkey or Typeform.
+Tableau,Heatmap Visualizations,"Automate the creation of heatmaps for sales, marketing, or geographic data."
+Tableau,Seasonal Trend Analysis,Automate seasonal trend analysis dashboards for sales or marketing data.
+Tableau,Data Forecasting,Use scripts to automate the creation of forecasting dashboards using historical data.
+Tableau,Customer Journey Dashboards,Automate the visualization of customer journeys using data from marketing tools.
+Tableau,SLA Monitoring,Automate dashboards for monitoring SLA compliance metrics.
+Tableau,Subscription Usage Analytics,Automate dashboards to track product or subscription usage for SaaS businesses.
+Tableau,Data Permissions Management,Use scripts to automate access permissions for Tableau dashboards.
+Tableau,Automated Data Sync,Schedule and automate data synchronization between sources and Tableau.
+Tableau,Campaign Effectiveness Analysis,Automate campaign performance dashboards with ROI and attribution metrics.
+Tableau,Funnel Analysis,Automate sales or marketing funnel dashboards for better insights.
+Tableau,Automated Benchmarking,Use scripts to automate benchmarking against competitors or industry standards.
+Tableau,Custom Data Blending,Automate the blending of data from multiple sources into Tableau dashboards.
+Tableau,Data Refresh Alerts,Use scripts to send alerts if scheduled data refreshes fail.
+Tableau,Resource Allocation Dashboards,Automate dashboards that track resource allocation for teams or projects.
+Tableau,Content Performance Metrics,Automate dashboards to track the performance of online content like blogs or videos.
+Tableau,Employee Satisfaction Surveys,Use scripts to automate survey dashboards for employee satisfaction data.
+Tableau,Fraud Detection Dashboards,Automate fraud detection dashboards using anomaly detection models.
+Tableau,IT Ticket Metrics,Automate dashboards to track IT ticket resolution times and volumes.
+Tableau,Expense Tracking Dashboards,Automate expense tracking dashboards by syncing with financial tools.
+Tableau,Data Consolidation Workflows,Automate workflows that consolidate data from multiple sources into Tableau.
+Tableau,Customer Segmentation,Use scripts to automate dashboards that segment customers based on behavior or demographics.
+Tableau,Compliance Reporting,Automate dashboards for compliance with industry regulations.
+Tableau,Data Transformation Automation,Use Tableau Prep scripts to transform raw data into usable formats.
+Tableau,Multi-Tenant Dashboards,Automate dashboards for multi-tenant SaaS applications.
+Tableau,Automated Goal Tracking,Track and automate progress toward business goals using Tableau dashboards.
+Tableau,Environmental Impact Reporting,Automate dashboards for sustainability and environmental impact data.
+Tableau,Automated SLA Dashboards,Use scripts to track SLA compliance metrics.
+Tableau,Workforce Diversity Metrics,Automate dashboards for workforce diversity and inclusion reporting.
+Tableau,IT Infrastructure Monitoring,Automate dashboards for tracking IT system performance metrics.
+Tableau,Real-Time Collaboration Dashboards,Use scripts to enable real-time collaboration on Tableau dashboards.
+Tableau,Project Milestone Dashboards,Automate dashboards that track project milestones and deadlines.
+Tableau,Data Normalization,Use Tableau Prep Builder scripts to automate data normalization workflows.
+Tableau,Automated Metric Comparisons,Automate dashboards that compare metrics across time periods or regions.
+Tableau,Budget Forecasting,Use scripts to automate budget forecasting and planning dashboards.
+Tableau,Automated Report Translation,Use scripts to translate Tableau reports into various languages.
+Tableau,Custom Branding,Automate the application of custom branding to Tableau dashboards.
+Tableau,Automated Data Aggregation,Use scripts to aggregate data from multiple sources into Tableau dashboards.
+Tableau,Automated Performance Reviews,Automate dashboards for employee performance reviews.
+Tableau,Real-Time Geospatial Analytics,Automate geospatial analytics dashboards with real-time mapping data.
+Tableau,AI-Powered Insights,Use Python or R scripts to implement AI-driven insights in Tableau dashboards.
+Tableau,Data Permissions Automation,Automate role-based permissions for Tableau dashboards.
+Tableau,Multi-Device Optimization,"Use scripts to optimize Tableau dashboards for desktop, tablet, and mobile devices."
+Tableau,Real-Time Alerts,Automate alerts for real-time changes in key business metrics.
+Tableau,Automated Data Backup,Schedule and automate backups of Tableau workbooks and data sources.
+Tableau,Data Trend Analysis,Automate dashboards for identifying data trends over time.
+Tableau,Custom Export Automation,Use scripts to automate exporting Tableau dashboards to PDF or Excel formats.
+Tableau,Supply Chain Monitoring,Automate dashboards for tracking supply chain metrics.
+Tableau,Automated Financial Dashboards,Automate the creation of financial dashboards with integrated datasets.
+Tableau,Automated Data Integration,Use Tableau's APIs to integrate data from third-party APIs.
+Tableau,Automated Forecasting Dashboards,"Automate forecasting models for sales, revenue, or inventory."
+Tableau,Energy Usage Dashboards,Automate dashboards to track energy consumption and costs.
+Tableau,Automated Anomaly Detection,Use scripts to highlight anomalies in Tableau data visualizations.
+Tableau,Real-Time Data Streaming,Automate dashboards with real-time data streaming from IoT or APIs.

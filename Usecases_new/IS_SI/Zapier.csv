@@ -1,0 +1,92 @@
+Category,Short Description,Description
+Zapier,Email Notifications for Form Submissions,Automatically send email notifications when a form is submitted.
+Zapier,Sync Contacts Between CRM Platforms,Keep contact information updated across multiple CRM systems.
+Zapier,Social Media Post Scheduling,Schedule posts to social media platforms automatically.
+Zapier,File Backup to Cloud Storage,Save files to cloud storage like Google Drive or Dropbox.
+Zapier,New Lead Notifications,Notify sales teams when a new lead is added to the CRM.
+Zapier,Task Creation in Project Management Tools,Automatically create tasks in tools like Asana or Trello.
+Zapier,Automated Invoice Generation,Create and send invoices based on form submissions.
+Zapier,Calendar Event Creation,Automatically create calendar events from form data or emails.
+Zapier,Sync Google Sheets with Airtable,Sync data between Google Sheets and Airtable in real time.
+Zapier,Send Alerts for Missed Deadlines,Notify team members when deadlines are missed.
+Zapier,Add Subscribers to Email Lists,Automatically add new contacts to email marketing platforms like Mailchimp.
+Zapier,E-Commerce Order Processing,Automate order tracking and notifications for e-commerce platforms.
+Zapier,Save Email Attachments to Cloud,Automatically save email attachments to OneDrive or Dropbox.
+Zapier,Social Media Mentions Alerts,Notify teams of brand mentions on Twitter or Instagram.
+Zapier,Send Survey Responses to Google Sheets,Collect and store survey responses in Google Sheets.
+Zapier,Create Support Tickets Automatically,Generate support tickets from form submissions or emails.
+Zapier,Sync Leads Between Facebook Ads and CRM,Automatically add Facebook Ads leads to your CRM.
+Zapier,Notify Teams About New Files,Alert teams in Slack or Microsoft Teams when new files are uploaded.
+Zapier,Post Blog Updates to Social Media,Automatically share new blog posts on social media platforms.
+Zapier,Monitor RSS Feeds for Updates,Notify teams about updates from subscribed RSS feeds.
+Zapier,Track Customer Feedback in Spreadsheets,Log customer feedback into spreadsheets for analysis.
+Zapier,Automate Welcome Emails,Send automated welcome emails to new subscribers or customers.
+Zapier,Sync Data Between ERP and CRM,Ensure data consistency between ERP and CRM platforms.
+Zapier,Notify Slack Channels About New Tasks,Post updates in Slack when new tasks are created in Trello or Asana.
+Zapier,Update CRM Records from Forms,Automatically update CRM records with data from form submissions.
+Zapier,Send Notifications for New Tickets,Notify support teams when a ticket is created in Zendesk.
+Zapier,Automate Webinar Registration,Add webinar registrants to CRM or email marketing platforms.
+Zapier,Backup Data from Spreadsheets,Automatically back up Google Sheets data to Dropbox or OneDrive.
+Zapier,Create GitHub Issues from Forms,Generate GitHub issues directly from form submissions.
+Zapier,Send Custom Thank You Emails,Automate personalized thank-you emails after customer purchases.
+Zapier,Sync Event Registrations with Calendar,Automatically add event registrations to shared calendars.
+Zapier,Update Social Media from Spreadsheets,Post content to social media platforms from a spreadsheet.
+Zapier,Send SMS Notifications for New Leads,Notify sales teams via SMS when new leads are captured.
+Zapier,Track E-Commerce Sales in Spreadsheets,Automatically log e-commerce sales in Google Sheets for reporting.
+Zapier,Generate Reports from CRM Data,Automate the generation of reports using CRM data collected.
+Zapier,Notify Slack About Calendar Changes,Post updates in Slack when calendar events are added or modified.
+Zapier,Create Expense Records from Forms,Log expense data from forms into expense management systems.
+Zapier,Update Inventory Levels Automatically,Sync inventory levels between e-commerce platforms and databases.
+Zapier,Log Customer Queries in Help Desk,Automatically create help desk tickets for customer inquiries.
+Zapier,Track Social Engagement Metrics,Send social media engagement metrics to Google Sheets or Airtable.
+Zapier,Automate Payment Confirmation Emails,Send confirmation emails after receiving payments via Stripe or PayPal.
+Zapier,Sync Data Between Marketing Tools,Share data between platforms like HubSpot and Marketo automatically.
+Zapier,Post New Products to Social Media,Share newly added products on social media automatically.
+Zapier,Create Google Tasks from Emails,Generate Google Tasks directly from flagged emails.
+Zapier,Automate Contract Approval Notifications,Notify teams when contracts are approved or rejected.
+Zapier,Track Meeting Notes in Google Docs,Save meeting notes from calendar events into Google Docs.
+Zapier,Send Alerts for Low Inventory Levels,Notify teams when inventory falls below a threshold.
+Zapier,Automate LinkedIn Job Postings,Automatically post new job openings to LinkedIn.
+Zapier,Sync Survey Data to CRM,Integrate survey responses directly into your CRM.
+Zapier,Create Google Drive Folders Automatically,Generate new Google Drive folders when projects are created.
+Zapier,Automate Time Tracking Logs,Track time entries and log them into project management tools.
+Zapier,Notify Teams About Website Downtime,Send alerts to teams when website monitoring tools detect downtime.
+Zapier,Automate Newsletter Sign-Ups,Add new newsletter sign-ups to your email marketing database.
+Zapier,Create QuickBooks Invoices from Orders,Generate QuickBooks invoices automatically from new orders.
+Zapier,Track Job Applications in Airtable,Log job application data into Airtable for easy management.
+Zapier,Sync YouTube Videos with Social Media,Post new YouTube videos to Twitter or Facebook automatically.
+Zapier,Automate CRM Record Creation,Create CRM records from form submissions or third-party apps.
+Zapier,Automate Thank You Notes,"Send thank-you notes to donors, customers, or webinar attendees."
+Zapier,Sync Files Between Cloud Platforms,"Copy files between Dropbox, Box, and Google Drive."
+Zapier,Create Calendar Reminders for Deadlines,Automatically create reminders for approaching deadlines.
+Zapier,Automate Git Commit Notifications,Notify teams of new Git commits in Slack or Teams.
+Zapier,Send Alerts for Payment Failures,Notify finance teams when payment transactions fail.
+Zapier,Automate Employee Onboarding Tasks,Trigger onboarding workflows when new employees are added.
+Zapier,Sync Airtable Records with Google Sheets,Keep Airtable and Google Sheets data synchronized.
+Zapier,Automate Daily Summary Emails,"Send daily summaries of tasks, tickets, or sales to team members."
+Zapier,Log Form Responses into Databases,Automatically store form responses in SQL or NoSQL databases.
+Zapier,Share Instagram Posts on Facebook,Automatically share Instagram posts to Facebook pages.
+Zapier,Track Marketing Campaign Leads,"Send leads from Facebook, LinkedIn, or Google Ads to your CRM."
+Zapier,Automate File Renaming,Rename uploaded files based on specific naming conventions.
+Zapier,Sync Contacts with Email Marketing Tools,Automatically update email lists with new contact data.
+Zapier,Trigger Actions Based on Weather Alerts,Automate workflows based on weather conditions using external APIs.
+Zapier,Create Projects from New Deals,Automatically create projects when new deals are closed in your CRM.
+Zapier,Automate Lead Scoring,Assign scores to leads based on form inputs or CRM data.
+Zapier,Notify Teams About Negative Feedback,Alert relevant teams when negative feedback is submitted.
+Zapier,Send Birthday Emails Automatically,Send automated birthday greetings to customers or employees.
+Zapier,Track Form Responses in Notion,Log form responses into Notion databases for tracking.
+Zapier,Sync Data Between Zoho and HubSpot,Automatically sync data between Zoho CRM and HubSpot.
+Zapier,Send SMS Confirmations for Appointments,Automate SMS confirmation messages for appointment bookings.
+Zapier,Sync Dropbox Updates with Slack,Notify teams in Slack when new files are added to Dropbox.
+Zapier,Automate Event Follow-Up Emails,Send follow-up emails to attendees after events or webinars.
+Zapier,Track Ad Performance in Google Sheets,Log ad campaign performance data into Google Sheets for analysis.
+Zapier,Send Push Notifications for New Tasks,Notify users via push notifications when tasks are created.
+Zapier,Track Expenses in Google Sheets,Automatically log expense data into Google Sheets for reporting.
+Zapier,Sync Leads Between Salesforce and HubSpot,Keep Salesforce and HubSpot lead data synchronized.
+Zapier,Trigger Workflows from Webhooks,Use webhooks to trigger workflows in other applications.
+Zapier,Sync Data Between WooCommerce and CRM,Automatically sync WooCommerce orders with your CRM.
+Zapier,Automate Feedback Collection Post-Purchase,Send feedback requests to customers after purchases.
+Zapier,Track Employee Milestones in Slack,Post milestone updates in Slack channels automatically.
+Zapier,Automate Payment Tracking,Log payment transaction details in spreadsheets or CRMs.
+Zapier,Send Alerts for New Blog Comments,Notify teams when comments are posted on your blog.
+Zapier,Automate Document Sharing in Teams,Share documents automatically in Microsoft Teams channels.

@@ -1,0 +1,74 @@
+Category,Short Description,Description
+SharePoint Migration Tool,File Share to SharePoint Migration,Automates migration of files and folders from local file shares to SharePoint Online libraries.
+SharePoint Migration Tool,Legacy SharePoint Site Upgrade,"Migrates legacy SharePoint sites (e.g., 2010 or 2013) to SharePoint Online for better performance."
+SharePoint Migration Tool,Document Library Migration,Transfers document libraries from on-premises SharePoint to SharePoint Online.
+SharePoint Migration Tool,User Permissions Mapping,Automates the mapping of user permissions during migration to ensure access levels remain the same.
+SharePoint Migration Tool,Team Collaboration Sites Migration,Migrates team collaboration sites to new SharePoint Online environments.
+SharePoint Migration Tool,OneDrive for Business Migration,Moves files and folders from personal OneDrive accounts to OneDrive for Business.
+SharePoint Migration Tool,Bulk Content Transfer,Automates the bulk transfer of large volumes of data to SharePoint Online.
+SharePoint Migration Tool,Metadata Retention,"Ensures metadata, such as author and creation date, is retained during migration."
+SharePoint Migration Tool,Content Type Migration,Migrates content types and associated settings from source to target environments.
+SharePoint Migration Tool,Folder Structure Preservation,Preserves folder structures when migrating content to SharePoint Online.
+SharePoint Migration Tool,Incremental Migration,Automates incremental migration to transfer only new or updated files to the target location.
+SharePoint Migration Tool,File Version History Migration,Retains file version history during migration to ensure all edits are saved.
+SharePoint Migration Tool,Large File Handling,Automates the migration of large files (up to 250GB) to SharePoint Online.
+SharePoint Migration Tool,SharePoint Permissions Cleanup,Automates cleanup and optimization of permissions during migration.
+SharePoint Migration Tool,Custom List Migration,Transfers custom lists from on-premises SharePoint to SharePoint Online.
+SharePoint Migration Tool,Migration of Inactive Sites,Migrates inactive SharePoint sites for archival or future use.
+SharePoint Migration Tool,Office 365 Group Integration,Automates integration of SharePoint sites with Microsoft Office 365 Groups during migration.
+SharePoint Migration Tool,External Sharing Setup,Configures external sharing settings for newly migrated SharePoint sites.
+SharePoint Migration Tool,Workflow Migration,Transfers workflows from SharePoint Designer or Nintex to Power Automate.
+SharePoint Migration Tool,List Item Permissions Migration,Ensures list item-level permissions are retained during migration.
+SharePoint Migration Tool,SharePoint to Teams Integration,Integrates migrated SharePoint sites with Microsoft Teams for collaboration.
+SharePoint Migration Tool,Retention Policy Setup,Configures retention policies for documents and libraries during migration.
+SharePoint Migration Tool,File Extension Filtering,"Filters specific file extensions (e.g., .exe, .tmp) from being migrated."
+SharePoint Migration Tool,Site Collection Consolidation,Combines multiple site collections into a single SharePoint Online environment.
+SharePoint Migration Tool,Migration Error Reporting,Automates the generation of error reports to troubleshoot failed migrations.
+SharePoint Migration Tool,Migration Scheduling,Schedules migrations to run during off-peak hours for minimal disruption.
+SharePoint Migration Tool,SharePoint Site Template Transfer,Migrates custom SharePoint site templates to new environments.
+SharePoint Migration Tool,Site Branding Migration,"Transfers custom branding, themes, and logos to the new SharePoint platform."
+SharePoint Migration Tool,User Mapping Automation,Automates mapping of users from on-premises Active Directory to Azure AD during migration.
+SharePoint Migration Tool,Security Group Migration,Transfers security group settings and permissions to SharePoint Online.
+SharePoint Migration Tool,Term Store Migration,Migrates managed metadata and term stores from on-premises SharePoint to SharePoint Online.
+SharePoint Migration Tool,SharePoint Farm Migration,Automates migration of entire SharePoint farm environments to SharePoint Online.
+SharePoint Migration Tool,File De-Duplication,Identifies and removes duplicate files before migrating to SharePoint Online.
+SharePoint Migration Tool,Multi-Language Support Migration,Migrates multilingual sites while retaining language settings in the new environment.
+SharePoint Migration Tool,Content Approval Migration,Retains content approval workflows and settings during migration.
+SharePoint Migration Tool,File Size Reduction,Compresses files exceeding size limits before migrating to SharePoint Online.
+SharePoint Migration Tool,Archived File Migration,Transfers archived files from storage systems to SharePoint.
+SharePoint Migration Tool,Audit Log Migration,Migrates audit log data for compliance purposes.
+SharePoint Migration Tool,Site Navigation Migration,Transfers custom navigation menus to the new SharePoint environment.
+SharePoint Migration Tool,Page Layout Migration,Migrates custom page layouts and web part configurations.
+SharePoint Migration Tool,Hybrid Environment Setup,Configures hybrid SharePoint environments during migration.
+SharePoint Migration Tool,Content Search Web Part Migration,Transfers content search web parts to SharePoint Online.
+SharePoint Migration Tool,Image Library Migration,Migrates image libraries to SharePoint while preserving image metadata.
+SharePoint Migration Tool,Video Content Migration,Automates the transfer of video content to Microsoft Stream or SharePoint Online.
+SharePoint Migration Tool,Secure Zone Migration,Migrates secure zones with role-based access control.
+SharePoint Migration Tool,External User Migration,Transfers data shared with external users while maintaining permissions.
+SharePoint Migration Tool,Record Center Migration,Migrates record center sites and associated retention settings.
+SharePoint Migration Tool,SharePoint Hub Site Migration,Transfers hub site associations and configurations.
+SharePoint Migration Tool,Calendar List Migration,Migrates calendar lists to SharePoint Online or Microsoft Teams.
+SharePoint Migration Tool,Task List Migration,Transfers task lists to SharePoint Online while preserving dependencies.
+SharePoint Migration Tool,Project Site Migration,Automates migration of project sites to SharePoint Online.
+SharePoint Migration Tool,Communication Site Migration,Migrates communication sites to SharePoint Online for better engagement.
+SharePoint Migration Tool,Deleted Item Recovery,Recovers and migrates deleted items during the migration process.
+SharePoint Migration Tool,Migration of Restricted Files,Identifies and safely migrates restricted files with special permissions.
+SharePoint Migration Tool,Content Database Migration,Migrates entire content databases to SharePoint Online.
+SharePoint Migration Tool,Compliance Settings Migration,Retains compliance and governance settings during migration.
+SharePoint Migration Tool,Data Encryption During Migration,Ensures data is encrypted during the migration process for security.
+SharePoint Migration Tool,PowerShell Automation,Uses PowerShell scripts to automate repetitive migration tasks.
+SharePoint Migration Tool,Staging Environment Setup,Automates migration to a staging environment for testing before full deployment.
+SharePoint Migration Tool,Social Feed Migration,Transfers social feed content and user interactions.
+SharePoint Migration Tool,Retention Labels Migration,Migrates retention labels and policies for compliance.
+SharePoint Migration Tool,Workflow History Migration,Migrates workflow history logs to the new environment.
+SharePoint Migration Tool,Sandbox Solution Migration,Converts and migrates sandbox solutions to SharePoint Online.
+SharePoint Migration Tool,Multi-Tenant Migration,Transfers data between SharePoint Online tenants.
+SharePoint Migration Tool,Site Redirect Setup,Automates redirection setup for old SharePoint URLs to the new environment.
+SharePoint Migration Tool,File Path Length Resolution,Resolves file path length issues during migration.
+SharePoint Migration Tool,InfoPath Form Migration,Migrates InfoPath forms to SharePoint Online or Power Apps.
+SharePoint Migration Tool,Shared Drive Migration,Transfers content from shared drives to SharePoint Online libraries.
+SharePoint Migration Tool,Data Loss Prevention Policies Migration,Configures DLP policies during migration for sensitive data protection.
+SharePoint Migration Tool,SharePoint Framework (SPFx) Web Part Migration,Migrates SPFx web parts to the new SharePoint environment.
+SharePoint Migration Tool,SharePoint Search Migration,Migrates custom search settings and configurations to the target environment.
+SharePoint Migration Tool,Geographic Site Migration,Moves geographically distributed SharePoint sites to centralized SharePoint Online.
+SharePoint Migration Tool,Access Database Migration,Migrates Access databases linked to SharePoint lists.

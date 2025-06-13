@@ -1,0 +1,75 @@
+Category,Short Description,Description
+Jira,Auto-assign issues to team members,"Automatically assign issues to team members based on workload, role, or expertise."
+Jira,Notify on issue creation,Send notifications to relevant team members or channels when a new issue is created.
+Jira,Auto-close inactive tickets,Automatically close tickets that have been inactive for a specified period of time.
+Jira,Transition issues based on status,Automatically transition issues to the next status in the workflow based on predefined criteria.
+Jira,Send reminders for overdue tasks,Send automated reminders for tasks that are overdue or nearing their due dates.
+Jira,Sync Jira with Confluence,Automatically link Jira issues with relevant Confluence pages for documentation.
+Jira,Notify on issue updates,Send notifications to stakeholders when an issue is updated or transitioned.
+Jira,Create sub-tasks for issues,Automatically create sub-tasks for specific issue types based on project requirements.
+Jira,Auto-prioritize issues,"Automatically set the priority of issues based on their type, severity, or other factors."
+Jira,Auto-link related issues,"Link related issues automatically based on tags, descriptions, or project rules."
+Jira,Sync Jira with Slack,"Notify team members in Slack when issues are updated, created, or assigned."
+Jira,Generate weekly progress reports,Automate the generation and distribution of weekly progress reports for projects.
+Jira,Auto-assign issues to components,Assign issues to specific components automatically based on criteria such as labels or project settings.
+Jira,Notify on critical issue creation,Send immediate alerts to relevant stakeholders when a critical or blocker issue is created.
+Jira,Sync Jira with GitHub,Automatically link Jira issues with GitHub pull requests or commits.
+Jira,Auto-reopen closed issues,Automatically reopen issues if a pull request is rejected or additional work is needed.
+Jira,Bulk update issue statuses,Update the status of multiple issues at once based on specific criteria.
+Jira,Auto-create issues from emails,Create Jira issues automatically when an email is received in a designated inbox.
+Jira,Sync Jira with Trello,Automatically sync issues between Jira and Trello for cross-platform collaboration.
+Jira,Notify on sprint completion,Send notifications to the team when a sprint is completed or closed.
+Jira,Auto-resolve duplicate issues,Identify and resolve duplicate issues automatically by linking or merging them.
+Jira,Auto-add watchers to issues,Add watchers to issues automatically based on project roles or rules.
+Jira,Generate sprint health reports,Automate the generation of sprint health reports to track progress and blockers.
+Jira,Auto-update issue descriptions,Update issue descriptions automatically with templates or additional information.
+Jira,Notify on unassigned tickets,Send alerts for tickets that remain unassigned for a specified period.
+Jira,Sync Jira with Google Sheets,Export Jira issue data to Google Sheets automatically for reporting or analysis.
+Jira,Notify on high-priority issues,Send alerts to specific team members when high-priority issues are created or updated.
+Jira,Auto-create epics for projects,Automatically create epics for new projects based on templates or predefined workflows.
+Jira,Auto-assign issues to sprints,Automatically assign issues to active sprints based on their priority or due date.
+Jira,Notify on sprint goal changes,Send alerts to the team when the sprint goal is updated or changed.
+Jira,Auto-add labels to issues,Add labels to issues automatically based on their content or metadata.
+Jira,Sync Jira with Microsoft Teams,"Send notifications to Microsoft Teams when Jira issues are created, updated, or resolved."
+Jira,Notify on blocked issues,Send alerts for issues that are marked as blocked or have dependencies.
+Jira,Auto-create tasks for recurring activities,Create recurring tasks automatically for activities like daily standups or weekly retrospectives.
+Jira,Generate issue aging reports,Automate the creation of reports that show the aging of unresolved issues.
+Jira,Notify on missed deadlines,Send alerts for issues that have missed their deadlines or SLAs.
+Jira,Auto-assign reviewers for pull requests,Assign reviewers to pull requests automatically based on the associated Jira issue.
+Jira,Auto-update due dates,Update due dates for issues automatically based on project timelines or dependencies.
+Jira,Sync Jira with Azure DevOps,Automatically sync issues between Jira and Azure DevOps for cross-platform teams.
+Jira,Auto-create issues for failed builds,Create Jira issues automatically when a build fails in CI/CD pipelines.
+Jira,Notify on issue resolution,Send notifications when issues are resolved or closed.
+Jira,Auto-assign issues to teams,Assign issues to specific teams automatically based on project or issue type.
+Jira,Notify on changes to issue watchers,Send alerts when watchers are added or removed from issues.
+Jira,Generate monthly team performance reports,Automate the generation of monthly performance reports for teams based on resolved issues.
+Jira,Auto-create issues from bug reports,Create Jira issues automatically from bug reports submitted through web forms or third-party tools.
+Jira,Sync Jira with Zendesk,Automatically create Jira issues for tickets submitted in Zendesk.
+Jira,Notify on duplicate issue creation,Send alerts when duplicate issues are detected in the system.
+Jira,Auto-trigger workflows for specific labels,Trigger specific workflows automatically when certain labels are added to issues.
+Jira,Notify on sprint goal completion,Send notifications when sprint goals are achieved or met.
+Jira,Auto-assign issues to QA,Automatically assign issues to QA team members once development is complete.
+Jira,Sync Jira with Power BI,Export Jira data to Power BI automatically for advanced analytics and reporting.
+Jira,Notify on SLA breaches,Send alerts when SLA deadlines are breached for specific issues.
+Jira,Auto-create issues for new features,Automatically create issues for new feature requests submitted by stakeholders.
+Jira,Notify on changes to epic links,Send alerts when issues are added or removed from epics.
+Jira,Auto-create release notes,Generate release notes automatically based on resolved issues in a sprint or release.
+Jira,Bulk transition issues,Transition multiple issues at once based on project or status criteria.
+Jira,Notify on reopened issues,Send alerts when resolved issues are reopened by team members.
+Jira,Auto-create tasks for onboarding,Automatically create tasks for onboarding new employees or team members.
+Jira,Auto-create tasks for offboarding,"Automatically create tasks for offboarding employees, such as deactivating accounts."
+Jira,Sync Jira with Jenkins,Automatically link Jira issues with Jenkins build pipelines and notify on build status changes.
+Jira,Notify on changes to custom fields,Send alerts when custom fields in Jira are updated or changed.
+Jira,Auto-link issues to epics,Link issues to relevant epics automatically based on labels or issue types.
+Jira,Notify on milestone completion,Send notifications when project milestones are completed.
+Jira,Sync Jira with ServiceNow,Automatically create Jira issues for incidents or requests submitted in ServiceNow.
+Jira,Notify on critical dependencies,Send alerts when critical dependencies for an issue are unresolved.
+Jira,Auto-update story points,Automatically update story points for issues based on team estimates or sprint progress.
+Jira,Notify on sprint start,Send reminders to the team when a new sprint starts.
+Jira,Auto-create checklists in tasks,Automatically add checklists to tasks based on templates or issue types.
+Jira,Notify on workflow changes,Send alerts to team members when workflows are updated or changed.
+Jira,Auto-create tasks for retrospectives,Automatically create retrospective tasks at the end of each sprint.
+Jira,Sync Jira with Tableau,Automatically export Jira data to Tableau for visualization and analysis.
+Jira,Notify on linked issue resolution,Send alerts when linked issues are resolved or closed.
+Jira,Auto-add comments to issues,Add comments to issues automatically based on triggers like status changes or updates.
+Jira,Sync Jira with Monday.com,Automatically

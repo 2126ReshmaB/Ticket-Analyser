@@ -1,0 +1,65 @@
+Category,Short Description,Description
+FlexNet Manager,Automate license compliance checks,Create a script to automatically check software license compliance across all managed devices and generate a compliance report.
+FlexNet Manager,Automate inventory data collection,Automate the collection of hardware and software inventory data from all endpoints using FlexNet inventory agents.
+FlexNet Manager,Automate Oracle database inventory collection,"Use a script to collect Oracle database inventory details, including user access and database usage, for compliance purposes."
+FlexNet Manager,Automate software usage tracking,Automate the tracking of software usage across the organization to identify underutilized licenses.
+FlexNet Manager,Automate license reclamation,Create a script to identify unused licenses and automatically reclaim them for reallocation.
+FlexNet Manager,Automate cloud subscription tracking,"Automate the tracking of cloud subscription usage and costs for services like AWS, Azure, and Google Cloud."
+FlexNet Manager,Automate license expiration alerts,Set up a script to monitor license expiration dates and send alerts to administrators before licenses expire.
+FlexNet Manager,Automate role-based access management,Automate the assignment of roles and permissions for FlexNet Manager users based on predefined policies.
+FlexNet Manager,Automate software installation tracking,Create a script to track and report on software installations across all managed devices.
+FlexNet Manager,Automate patch compliance reporting,Automate the generation of patch compliance reports to ensure all systems are up to date.
+FlexNet Manager,Automate license allocation,Use a script to allocate licenses to users or devices based on predefined rules and usage patterns.
+FlexNet Manager,Automate inventory agent deployment,Automate the deployment of FlexNet inventory agents to new devices added to the network.
+FlexNet Manager,Automate software metering,Automate the process of metering software usage to identify high-usage applications and optimize license allocation.
+FlexNet Manager,Automate contract renewal tracking,Create a script to track software contract renewal dates and send reminders to stakeholders.
+FlexNet Manager,Automate inactive device cleanup,Automate the identification and removal of inactive devices from the inventory database.
+FlexNet Manager,Automate custom report generation,Use a script to generate custom reports based on specific organizational requirements.
+FlexNet Manager,Automate license model updates,Automate the process of updating license models in the system to reflect changes in vendor agreements.
+FlexNet Manager,Automate software blacklist enforcement,Create a script to identify and remove blacklisted software from all managed devices.
+FlexNet Manager,Automate inventory reconciliation,Automate the reconciliation of inventory data from multiple sources to ensure accuracy.
+FlexNet Manager,Automate user activity tracking,Automate the tracking of user activity related to software usage and license consumption.
+FlexNet Manager,Automate software cost optimization,"Use a script to analyze software usage data and recommend cost-saving measures, such as license downgrades or cancellations."
+FlexNet Manager,Automate license pooling,Automate the pooling of licenses for shared use across multiple departments or teams.
+FlexNet Manager,Automate vendor audit preparation,Create a script to prepare for vendor audits by generating detailed compliance and usage reports.
+FlexNet Manager,Automate software request approvals,Automate the approval process for software requests based on predefined workflows.
+FlexNet Manager,Automate license usage forecasting,Use a script to forecast future license usage based on historical data and trends.
+FlexNet Manager,Automate software upgrade tracking,Automate the tracking of software upgrades and ensure compliance with upgrade policies.
+FlexNet Manager,Automate license transfer requests,Create a script to handle license transfer requests between users or devices.
+FlexNet Manager,Automate compliance policy enforcement,Automate the enforcement of compliance policies by identifying and addressing violations.
+FlexNet Manager,Automate software bundling analysis,Use a script to analyze software bundling and ensure compliance with vendor agreements.
+FlexNet Manager,Automate unused software removal,Automate the identification and removal of unused software to free up resources and reduce costs.
+FlexNet Manager,Automate license consumption analysis,Create a script to analyze license consumption patterns and identify optimization opportunities.
+FlexNet Manager,Automate software deployment tracking,Automate the tracking of software deployments to ensure compliance with deployment policies.
+FlexNet Manager,Automate hardware asset tracking,Use a script to track hardware assets and their associated software licenses.
+FlexNet Manager,Automate license compliance gap analysis,Automate the identification of compliance gaps and recommend corrective actions.
+FlexNet Manager,Automate software lifecycle management,"Create a script to manage the entire software lifecycle, from procurement to retirement."
+FlexNet Manager,Automate license usage alerts,Set up a script to send alerts when license usage exceeds predefined thresholds.
+FlexNet Manager,Automate software inventory normalization,Automate the normalization of software inventory data to ensure consistency and accuracy.
+FlexNet Manager,Automate license agreement tracking,Use a script to track license agreements and ensure compliance with their terms.
+FlexNet Manager,Automate software compliance audits,Automate the process of conducting software compliance audits and generating reports.
+FlexNet Manager,Automate license key management,Create a script to manage and track license keys for all software products.
+FlexNet Manager,Automate software usage policy enforcement,Automate the enforcement of software usage policies to prevent unauthorized usage.
+FlexNet Manager,Automate software vendor management,"Use a script to manage relationships with software vendors, including tracking contracts and agreements."
+FlexNet Manager,Automate software cost allocation,Automate the allocation of software costs to different departments or projects based on usage.
+FlexNet Manager,Automate license compliance risk assessment,Create a script to assess and report on license compliance risks.
+FlexNet Manager,Automate software inventory updates,Automate the process of updating software inventory data to reflect changes in the environment.
+FlexNet Manager,Automate license usage trend analysis,Use a script to analyze license usage trends and identify potential issues.
+FlexNet Manager,Automate software retirement tracking,Automate the tracking of software retirement and ensure proper decommissioning.
+FlexNet Manager,Automate license compliance score calculation,Create a script to calculate and report on the organization's license compliance score.
+FlexNet Manager,Automate software license optimization,Automate the optimization of software licenses to reduce costs and improve efficiency.
+FlexNet Manager,Automate software inventory gap analysis,Use a script to identify gaps in software inventory data and recommend corrective actions.
+FlexNet Manager,Automate license compliance reporting,Automate the generation of detailed license compliance reports for stakeholders.
+FlexNet Manager,Automate software usage data export,Create a script to export software usage data to external systems for analysis.
+FlexNet Manager,Automate license compliance dashboard updates,Automate the updating of license compliance dashboards to provide real-time insights.
+FlexNet Manager,Automate software inventory reconciliation,Automate the reconciliation of software inventory data with vendor records.
+FlexNet Manager,Automate license compliance exception handling,Use a script to handle exceptions in license compliance and recommend corrective actions.
+FlexNet Manager,Automate software usage policy updates,Automate the updating of software usage policies to reflect changes in organizational requirements.
+FlexNet Manager,Automate license compliance training tracking,Create a script to track and report on license compliance training for employees.
+FlexNet Manager,Automate software inventory audit preparation,Automate the preparation of software inventory data for audits.
+FlexNet Manager,Automate license compliance benchmarking,Use a script to benchmark the organization's license compliance against industry standards.
+FlexNet Manager,Automate software usage data analysis,Automate the analysis of software usage data to identify trends and patterns.
+FlexNet Manager,Automate license compliance improvement tracking,Create a script to track and report on improvements in license compliance over time.
+FlexNet Manager,Automate software inventory data validation,Automate the validation of software inventory data to ensure accuracy and completeness.
+FlexNet Manager,Automate license compliance exception reporting,Use a script to generate reports on license compliance exceptions and their resolution.
+Flex,,

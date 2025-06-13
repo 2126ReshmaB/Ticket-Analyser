@@ -1,0 +1,63 @@
+Category,Short Description,Description
+Cisco Meraki Dashboard,Automated Network Provisioning,Automate the provisioning of new networks in the Cisco Meraki Dashboard for streamlined deployment.
+Cisco Meraki Dashboard,Bulk Device Configuration,"Automate the bulk configuration of Meraki devices, such as firewalls, switches, and access points, across multiple networks."
+Cisco Meraki Dashboard,VLAN Configuration Automation,Script the creation and management of VLANs across multiple Meraki switches.
+Cisco Meraki Dashboard,SSID Configuration Automation,"Automate the creation and update of SSIDs, including security settings and traffic shaping policies."
+Cisco Meraki Dashboard,Firmware Update Scheduling,Script the scheduling of firmware updates to ensure devices are up to date without manual intervention.
+Cisco Meraki Dashboard,Device Health Monitoring,Automate the monitoring of device health and generate alerts for offline or degraded devices.
+Cisco Meraki Dashboard,Traffic Analysis Reporting,Automate the generation of traffic reports to analyze bandwidth usage and application performance.
+Cisco Meraki Dashboard,Bulk Client Blocking,Script the blocking of multiple clients from the network based on MAC address or IP address.
+Cisco Meraki Dashboard,Guest Network Automation,Automate the creation and configuration of guest Wi-Fi networks with predefined settings.
+Cisco Meraki Dashboard,Bandwidth Throttling Automation,Script bandwidth throttling rules for specific applications or users across multiple networks.
+Cisco Meraki Dashboard,Real-Time Alerts for Device Status,"Automate the configuration of alerts for device status changes, such as offline or rebooted devices."
+Cisco Meraki Dashboard,Site-to-Site VPN Configuration,Automate the setup of site-to-site VPN connections between multiple networks.
+Cisco Meraki Dashboard,Network-wide Device Tagging,Automate the tagging of devices for better organization and policy application.
+Cisco Meraki Dashboard,Custom Dashboard Creation,Script the creation of custom dashboards tailored to specific organizational needs.
+Cisco Meraki Dashboard,Application Performance Monitoring,Automate the monitoring of application performance across all networks.
+Cisco Meraki Dashboard,Bulk Device Reboot,Automate scheduled reboots for multiple Meraki devices across networks.
+Cisco Meraki Dashboard,Security Alert Configuration,"Script the creation of alerts for security events, such as failed logins or unauthorized access attempts."
+Cisco Meraki Dashboard,Access Point Channel Optimization,Automate the optimization of access point channels to reduce interference and improve Wi-Fi performance.
+Cisco Meraki Dashboard,Bulk SSID Removal,Automate the removal of SSIDs from multiple networks to maintain a streamlined wireless environment.
+Cisco Meraki Dashboard,Network Inventory Reporting,Automate the generation of inventory reports for all Meraki devices across networks.
+Cisco Meraki Dashboard,Automated Device Replacement,Script the replacement of offline devices with pre-configured settings for seamless failover.
+Cisco Meraki Dashboard,Geo-Based Client Tracking,Automate the tracking of client devices based on their geographic locations using Meraki’s location analytics.
+Cisco Meraki Dashboard,Auto Block Unauthorized Devices,Script the automatic blocking of unauthorized devices attempting to connect to the network.
+Cisco Meraki Dashboard,Firewall Rule Management,Automate the creation and management of firewall rules across all Meraki security appliances.
+Cisco Meraki Dashboard,Bulk Network Cloning,Automate the cloning of network configurations for multiple sites to maintain consistency.
+Cisco Meraki Dashboard,Dynamic VLAN Assignment,Automate the assignment of VLANs to devices based on their tags or other attributes.
+Cisco Meraki Dashboard,Bulk Port Configuration,"Automate the configuration of multiple switch ports, including speed, duplex, and VLAN assignment."
+Cisco Meraki Dashboard,Guest Portal Configuration,"Script the automation of guest portal settings, including branding and authentication options."
+Cisco Meraki Dashboard,Automated Traffic Shaping Policies,Script the creation of traffic shaping rules for specific applications or protocols.
+Cisco Meraki Dashboard,SSID Scheduling,Automate the enabling or disabling of SSIDs based on predefined schedules.
+Cisco Meraki Dashboard,Rogue Access Point Detection,Automate the detection and alerting of rogue access points within the network environment.
+Cisco Meraki Dashboard,Auto Disconnect Stale Clients,Script the disconnection of stale or idle client sessions to free up resources.
+Cisco Meraki Dashboard,VPN User Management,"Automate the creation, modification, and removal of VPN users across all networks."
+Cisco Meraki Dashboard,Real-Time Client Bandwidth Monitoring,Automate the monitoring of client bandwidth usage in real-time to detect anomalies or misuse.
+Cisco Meraki Dashboard,Event Log Export Automation,Script the export of event logs to external systems or SIEM platforms for analysis and compliance.
+Cisco Meraki Dashboard,Meraki Group Policy Automation,Automate the creation and assignment of group policies to client devices.
+Cisco Meraki Dashboard,Automated Alert Thresholds,"Script the configuration of alert thresholds for metrics like CPU utilization, bandwidth, or latency."
+Cisco Meraki Dashboard,Auto-Enable Power-Saving Mode,Automate the enabling of power-saving settings for Meraki devices during off-peak hours.
+Cisco Meraki Dashboard,Device Uptime Monitoring,Automate the monitoring of device uptime and send alerts for devices with frequent downtimes.
+Cisco Meraki Dashboard,Static Route Configuration,Automate the creation and management of static routes for Meraki security appliances.
+Cisco Meraki Dashboard,Device Firmware Compliance Reporting,Automate the generation of reports to check firmware compliance across all devices.
+Cisco Meraki Dashboard,DHCP Scope Management,Script the configuration and monitoring of DHCP scopes on Meraki security appliances.
+Cisco Meraki Dashboard,Location Analytics Reporting,Automate the collection and reporting of location analytics data from Meraki access points.
+Cisco Meraki Dashboard,Bulk Organization-Wide Settings Updates,"Automate organization-wide updates, such as time zones or contact information, across networks."
+Cisco Meraki Dashboard,Intrusion Detection and Prevention Alerts,Automate the configuration of alerts for intrusion detection and prevention systems (IDS/IPS).
+Cisco Meraki Dashboard,Automated Client Whitelisting,Script the whitelisting of trusted client devices to bypass certain network restrictions.
+Cisco Meraki Dashboard,Firmware Rollback Automation,Automate the rollback of device firmware to a previous version in case of issues.
+Cisco Meraki Dashboard,Auto Block Malicious Traffic,Automate the blocking of traffic flagged as malicious by Cisco Meraki’s threat intelligence.
+Cisco Meraki Dashboard,Auto-Generate Network Maps,Script the generation of visual network topology maps for better insights into device connections.
+Cisco Meraki Dashboard,Automated QoS Policy Updates,Automate updates to Quality of Service (QoS) policies for voice and video traffic.
+Cisco Meraki Dashboard,Switch Port Power Monitoring,Automate the monitoring of PoE (Power over Ethernet) usage on switch ports.
+Cisco Meraki Dashboard,SSID Bandwidth Limitation,Automate bandwidth limitation settings for specific SSIDs to ensure fair usage.
+Cisco Meraki Dashboard,Layer 7 Application Blocking,Automate the configuration of Layer 7 application blocking rules for specific apps or protocols.
+Cisco Meraki Dashboard,Custom Alert Webhooks,Automate the creation of custom alerts that trigger webhooks for external systems.
+Cisco Meraki Dashboard,Network Health Summary Reports,Automate the generation of daily or weekly health summary reports for all networks.
+Cisco Meraki Dashboard,Centralized Switch Stack Configuration,Automate the configuration of switch stacks across multiple networks.
+Cisco Meraki Dashboard,Automated Client Isolation,Script the isolation of specific clients to prevent them from communicating with others on the network.
+Cisco Meraki Dashboard,Real-Time WAN Performance Monitoring,"Automate the monitoring of WAN performance metrics like latency, jitter, and packet loss."
+Cisco Meraki Dashboard,Bulk Device Licensing Management,Automate the management and renewal of licenses for multiple Meraki devices.
+Cisco Meraki Dashboard,SD-WAN Policy Automation,Script the automation of SD-WAN policies for traffic prioritization and failover.
+Cisco Meraki Dashboard,Auto-Generate Audit Logs,Automate the generation of audit logs for configuration changes and user activities.
+Cisco Meraki Dashboard,Dynamic Bandwidth Allocation,Automate bandwidth allocation dynamically based on real-time network usage.

@@ -1,0 +1,74 @@
+Category,Short Description,Description
+Ansible,Automate Server Provisioning,Automate the provisioning of servers by installing operating systems and configuring initial settings.
+Ansible,Deploy Web Servers,Automate the installation and configuration of web servers like Apache or NGINX.
+Ansible,Configure Database Servers,"Automate the setup and configuration of database servers like MySQL, PostgreSQL, or MongoDB."
+Ansible,Manage User Accounts,"Automate the creation, deletion, and management of user accounts across multiple systems."
+Ansible,Enforce Security Policies,"Automate the application of security policies, such as disabling root login or enforcing password complexity."
+Ansible,Patch Management,Automate the deployment of security patches and updates to ensure systems are up to date.
+Ansible,Configure Firewalls,Automate the configuration of firewall rules using tools like iptables or firewalld.
+Ansible,Deploy Applications,"Automate the deployment of applications, including dependencies and configurations."
+Ansible,Manage Configuration Files,Automate the deployment and management of configuration files across systems.
+Ansible,Monitor System Health,Automate the setup of monitoring tools like Nagios or Zabbix to track system health.
+Ansible,Automate Backups,Automate the creation and scheduling of backups for critical data and configurations.
+Ansible,Configure Load Balancers,Automate the setup and configuration of load balancers like HAProxy or AWS ELB.
+Ansible,Manage SSL Certificates,Automate the deployment and renewal of SSL certificates using tools like Let's Encrypt.
+Ansible,Automate Cloud Resource Provisioning,"Automate the creation and management of cloud resources on AWS, Azure, or Google Cloud."
+Ansible,Configure Network Devices,Automate the configuration of network devices like routers and switches.
+Ansible,Deploy Kubernetes Clusters,Automate the deployment and configuration of Kubernetes clusters.
+Ansible,Manage Docker Containers,"Automate the creation, deployment, and management of Docker containers."
+Ansible,Automate CI/CD Pipelines,Automate the setup and management of CI/CD pipelines using tools like Jenkins or GitLab CI.
+Ansible,Configure DNS Servers,Automate the setup and management of DNS servers like BIND or PowerDNS.
+Ansible,Automate Software Installations,Automate the installation of software packages across multiple systems.
+Ansible,Configure Time Synchronization,Automate the configuration of NTP or chrony for time synchronization.
+Ansible,Automate Log Management,Automate the setup of log management tools like ELK Stack or Splunk.
+Ansible,Configure Proxy Servers,Automate the setup and configuration of proxy servers like Squid or NGINX.
+Ansible,Automate Disk Partitioning,Automate disk partitioning and formatting during server provisioning.
+Ansible,Manage Virtual Machines,Automate the creation and management of virtual machines using tools like VMware or KVM.
+Ansible,Configure Email Servers,Automate the setup and configuration of email servers like Postfix or Exim.
+Ansible,Automate Network Configuration,Automate the configuration of network interfaces and routing tables.
+Ansible,Deploy Security Baselines,Automate the deployment of security baselines to ensure compliance with organizational policies.
+Ansible,Automate Software Rollbacks,Automate the rollback of software to previous versions in case of issues.
+Ansible,Configure VPN Servers,Automate the setup and configuration of VPN servers like OpenVPN or WireGuard.
+Ansible,Automate Data Migration,Automate the migration of data between servers or storage systems.
+Ansible,Configure High Availability Clusters,Automate the setup of high availability clusters using tools like Pacemaker or Corosync.
+Ansible,Automate API Testing,Automate API testing using tools like Postman or custom scripts.
+Ansible,Configure Remote Desktop Services,Automate the setup of remote desktop services like RDP or VNC.
+Ansible,Automate Compliance Audits,Automate compliance audits by running predefined checks and generating reports.
+Ansible,Manage Software Licenses,Automate the deployment and management of software licenses.
+Ansible,Configure Storage Systems,Automate the setup and management of storage systems like NAS or SAN.
+Ansible,Automate Disaster Recovery,"Automate disaster recovery processes, including backups and failover testing."
+Ansible,Configure Application Load Testing,Automate the setup of load testing tools like JMeter or Locust.
+Ansible,Automate Service Restarts,Automate the restart of services after configuration changes or updates.
+Ansible,Configure System Hardening,Automate system hardening by applying security best practices.
+Ansible,Automate Inventory Management,Automate the creation and management of inventory files for Ansible playbooks.
+Ansible,Configure Web Application Firewalls,Automate the setup of web application firewalls like ModSecurity.
+Ansible,Automate Certificate Revocation,Automate the revocation of SSL certificates when they are no longer needed.
+Ansible,Configure Content Delivery Networks,Automate the setup of CDNs like Cloudflare or Akamai.
+Ansible,Automate Code Deployments,Automate the deployment of code to production or staging environments.
+Ansible,Configure Reverse Proxies,Automate the setup of reverse proxies for web applications.
+Ansible,Automate Test Environment Setup,Automate the creation of test environments for QA teams.
+Ansible,Configure Backup Policies,Automate the deployment of backup policies to ensure data protection.
+Ansible,Automate Load Testing,Automate load testing for applications to ensure performance under stress.
+Ansible,Configure CI/CD Tools,Automate the setup of CI/CD tools like Jenkins or Bamboo.
+Ansible,Automate Network Monitoring,Automate the deployment of network monitoring tools like Nagios or Zabbix.
+Ansible,Configure Application Scaling,Automate the scaling of applications in response to demand.
+Ansible,Automate Configuration Drift Detection,Automate the detection and remediation of configuration drift.
+Ansible,Configure Multi-Factor Authentication,Automate the setup of multi-factor authentication for secure access.
+Ansible,Automate Software Testing,Automate software testing using tools like Selenium or Pytest.
+Ansible,Configure Network Load Balancers,Automate the setup of network load balancers for high availability.
+Ansible,Automate Container Orchestration,Automate the orchestration of containers using Kubernetes or Docker Swarm.
+Ansible,Configure Identity Management Systems,Automate the setup of identity management systems like FreeIPA or Active Directory.
+Ansible,Automate Log Rotation,Automate the configuration of log rotation policies to manage disk space.
+Ansible,Configure Application Caching,Automate the setup of caching systems like Redis or Memcached.
+Ansible,Automate Software License Audits,Automate the auditing of software licenses to ensure compliance.
+Ansible,Configure Network Security Groups,Automate the setup of network security groups in cloud environments.
+Ansible,Automate Application Monitoring,Automate the deployment of application monitoring tools like New Relic or AppDynamics.
+Ansible,Configure Data Encryption,Automate the setup of data encryption for sensitive information.
+Ansible,Automate System Performance Tuning,Automate the tuning of system performance parameters for optimal operation.
+Ansible,Configure Webhooks,Automate the setup of webhooks for event-driven automation.
+Ansible,Automate Software Dependency Management,Automate the installation and management of software dependencies.
+Ansible,Configure Network ACLs,Automate the setup of network access control lists for enhanced security.
+Ansible,Automate Application Rollbacks,Automate the rollback of applications to previous versions in case of issues.
+Ansible,Configure Data Replication,Automate the setup of data replication for high availability.
+Ansible,Automate API Gateway Configuration,Automate the setup of API gateways for managing API traffic.
+Ansible,Configure Network Bandwidth Monitoring,Automate the deployment of bandwidth monitoring tools like Cacti or

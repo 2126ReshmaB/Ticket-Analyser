@@ -1,0 +1,63 @@
+Category,Short Description,Description
+AWS Database Migration Service,Migrating On-Premise Databases to AWS RDS,Migrates on-premises databases like MySQL or Oracle to Amazon RDS for better scalability and reliability.
+AWS Database Migration Service,Migrating Oracle to PostgreSQL,Automates the migration of Oracle databases to Amazon Aurora PostgreSQL for cost savings.
+AWS Database Migration Service,Replicating Databases in Real-Time,Enables continuous real-time replication of data for disaster recovery or reporting needs.
+AWS Database Migration Service,Migrating MySQL to Amazon Aurora,Moves MySQL databases to Amazon Aurora for improved performance and scalability.
+AWS Database Migration Service,Cross-Region Database Replication,Automates cross-region replication of databases for high availability and disaster recovery.
+AWS Database Migration Service,Migrating SQL Server to Amazon RDS,Transfers SQL Server databases to Amazon RDS to reduce operational overhead.
+AWS Database Migration Service,Consolidating Distributed Databases,Consolidates distributed databases into a single Amazon RDS instance for centralized management.
+AWS Database Migration Service,Migrating PostgreSQL to Amazon Aurora,Migrates PostgreSQL databases to Amazon Aurora PostgreSQL for enhanced performance.
+AWS Database Migration Service,Migrating Data Warehouses to Amazon Redshift,Transfers on-premises data warehouses like Teradata to Amazon Redshift for analytics workloads.
+AWS Database Migration Service,Replicating Oracle Databases to S3,Automates replication of Oracle data to Amazon S3 for archival and analytics purposes.
+AWS Database Migration Service,Migrating MariaDB to Amazon RDS,Moves MariaDB databases to Amazon RDS for simplified database management.
+AWS Database Migration Service,Migrating NoSQL Databases,Transfers NoSQL databases like MongoDB to DynamoDB for serverless database management.
+AWS Database Migration Service,Real-Time CDC (Change Data Capture),Captures and replicates real-time changes from source databases to target systems.
+AWS Database Migration Service,Migrating MongoDB to Amazon DocumentDB,Automates migration of MongoDB to Amazon DocumentDB for managed NoSQL services.
+AWS Database Migration Service,Migrating On-Premises DB to Amazon DynamoDB,Transfers on-premises relational or NoSQL databases to Amazon DynamoDB for scalability.
+AWS Database Migration Service,Hybrid Cloud Database Replication,Replicates databases between on-premises systems and AWS cloud for hybrid environments.
+AWS Database Migration Service,Migrating Databases to Amazon Neptune,Transfers graph databases to Amazon Neptune for graph-based applications.
+AWS Database Migration Service,Migrating Data to Amazon S3 for Analytics,Moves database data to Amazon S3 for big data analytics and machine learning workloads.
+AWS Database Migration Service,Migrating Microsoft Access Data,Transfers Microsoft Access databases to Amazon RDS for better scalability.
+AWS Database Migration Service,Migrating SQLite to Amazon RDS,Migrates SQLite databases to Amazon RDS for operational use in production.
+AWS Database Migration Service,Archiving Historical Data to Amazon S3,Automates archiving of historical database data to Amazon S3 for cost-effective storage.
+AWS Database Migration Service,Migrating Data to Amazon Keyspaces,Transfers Cassandra workloads to Amazon Keyspaces for serverless database management.
+AWS Database Migration Service,Migrating Legacy Databases,Automates migration of legacy databases like DB2 to modern AWS services like RDS or DynamoDB.
+AWS Database Migration Service,Migrating Data from AWS RDS to Redshift,Moves data from Amazon RDS to Redshift for analytical processing and reporting.
+AWS Database Migration Service,Migrating SQL Server to Aurora PostgreSQL,Transfers databases from Microsoft SQL Server to Aurora PostgreSQL to reduce licensing costs.
+AWS Database Migration Service,Migrating Data to Amazon ElastiCache,Migrates frequently accessed data to Amazon ElastiCache for improved application performance.
+AWS Database Migration Service,Continuous Data Replication to Data Lakes,Automates replication of database changes to Amazon S3 for data lake environments.
+AWS Database Migration Service,Migrating Cloud Databases to AWS,"Transfers databases from other cloud providers (e.g., GCP, Azure) to AWS databases like RDS."
+AWS Database Migration Service,Migrating MariaDB to Amazon Aurora,Moves MariaDB databases to Amazon Aurora for increased throughput and lower latency.
+AWS Database Migration Service,Migrating On-Premises MySQL to S3,Migrates MySQL databases to Amazon S3 for archival or analytics.
+AWS Database Migration Service,Migrating Cassandra to Amazon Keyspaces,Transfers Cassandra workloads to Keyspaces for a fully managed database experience.
+AWS Database Migration Service,Migrating MongoDB to DynamoDB,Automates migration of MongoDB collections to DynamoDB for serverless applications.
+AWS Database Migration Service,Migrating Oracle to DynamoDB,Transfers Oracle database tables to DynamoDB for fast NoSQL performance.
+AWS Database Migration Service,Real-Time Data Streaming to Analytics,Streams real-time transactional data from databases to analytics tools like Amazon Kinesis.
+AWS Database Migration Service,Migrating Data from Redshift to S3,Offloads data from Redshift to Amazon S3 for cost-effective long-term storage.
+AWS Database Migration Service,Migrating PostgreSQL to Redshift,Transfers PostgreSQL databases to Amazon Redshift for analytical processing.
+AWS Database Migration Service,Migrating MySQL to DynamoDB,Migrates relational MySQL data to DynamoDB for NoSQL use cases.
+AWS Database Migration Service,Migrating Oracle to Amazon ElastiCache,Moves frequently accessed Oracle data to Amazon ElastiCache for faster query response times.
+AWS Database Migration Service,Migrating Data to Amazon Timestream,Migrates time-series database workloads to Amazon Timestream for IoT or real-time data analysis.
+AWS Database Migration Service,Real-Time Data Transformation,Enables real-time transformation of data during migration to meet target schema requirements.
+AWS Database Migration Service,Migrating DynamoDB to Amazon S3,Transfers DynamoDB table data to Amazon S3 for analytics or backup.
+AWS Database Migration Service,Migrating MariaDB to PostgreSQL,Migrates MariaDB databases to PostgreSQL for better open-source compatibility.
+AWS Database Migration Service,Migrating SQL Server to Redshift,Transfers SQL Server databases to Amazon Redshift for analytical workloads.
+AWS Database Migration Service,Migrating MySQL to Amazon Neptune,Transfers MySQL data to Amazon Neptune for graph-based applications.
+AWS Database Migration Service,Migrating Cassandra to DynamoDB,Migrates Cassandra workloads to DynamoDB for serverless database management.
+AWS Database Migration Service,Migrating Oracle to Amazon Redshift,Automates migration of Oracle databases to Redshift for analytics purposes.
+AWS Database Migration Service,Continuous Replication for Disaster Recovery,Automates database replication to a different region for disaster recovery.
+AWS Database Migration Service,Migrating Data to Amazon S3 Glacier,Archives rarely accessed database data to Amazon S3 Glacier for long-term storage.
+AWS Database Migration Service,Migrating PostgreSQL to DynamoDB,Moves PostgreSQL data to DynamoDB for NoSQL workloads.
+AWS Database Migration Service,Migrating SQL Server to Amazon Neptune,Transfers SQL Server relational data to Amazon Neptune for graph use cases.
+AWS Database Migration Service,Migrating Data to Amazon OpenSearch Service,Automates migration of database data to Amazon OpenSearch Service for search and visualization.
+AWS Database Migration Service,Migrating Redis Workloads to ElastiCache,Moves Redis data to Amazon ElastiCache for reliable in-memory caching.
+AWS Database Migration Service,Migrating MongoDB to Amazon S3,Exports MongoDB data to Amazon S3 for archival and analytics.
+AWS Database Migration Service,Replicating Aurora to Redshift,Replicates Aurora data to Redshift for analytical processing.
+AWS Database Migration Service,Migrating OLTP Databases to OLAP Systems,Transfers OLTP (transactional) databases to OLAP (analytical) systems like Redshift.
+AWS Database Migration Service,Migrating MariaDB to DynamoDB,Moves MariaDB relational data to DynamoDB for NoSQL applications.
+AWS Database Migration Service,Migrating Data to Amazon Managed Blockchain,Transfers data to Amazon Managed Blockchain for distributed ledger use cases.
+AWS Database Migration Service,Migrating Data to Amazon S3 for Machine Learning,Moves data to Amazon S3 for use in Amazon SageMaker machine learning models.
+AWS Database Migration Service,Real-Time Replication for AI/ML Workloads,Replicates real-time data to support AI and machine learning applications.
+AWS Database Migration Service,Schema Conversion Automation,Automates schema conversion between incompatible databases during migration.
+AWS Database Migration Service,Migrating PostgreSQL to MySQL,Transfers PostgreSQL databases to MySQL for open-source compatibility.
+AWS Database Migration Service,Migrating On-Premises Data Lakes to AWS,Migrates on-premises data lakes to AWS services like S3 or
