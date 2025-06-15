@@ -17,7 +17,7 @@ class KeywordClassifier:
             openai_api_version="2024-02-01",
             azure_deployment="gpt-4o",
             azure_endpoint="https://mavericks-secureapi.azurewebsites.net/api/azureai",
-            api_key="fc3498dfabef692d",
+            api_key="11c02d84ed6f75e5",
             temperature=0.3,
             max_tokens=2000
         )
@@ -65,6 +65,6 @@ def get_keywords_from_llm():
     classifier = KeywordClassifier()
     keywords = get_keywords()
     actions, applications, objects = classifier.classify_keywords(keywords)
-    print(actions)
+    print(applications)
 
 get_keywords_from_llm()

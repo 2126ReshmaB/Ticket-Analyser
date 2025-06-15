@@ -1,5 +1,6 @@
 Category,Description,Short_Description,predicted_label
 ITO,Coffee machine not dispensing properly.,Coffee machine issue,Non-ITO
+ITO,Onboarding documents not submitted in HR portal.,Onboarding delay,Non-ITO
 ITO,Employee grievance submitted via email.,Grievance ticket,Non-ITO
 ITO,Alarm triggered accidentally in Block D.,False alarm report,Non-ITO
 ITO,New employee orientation kit not provided.,Orientation kit issue,Non-ITO
