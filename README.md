@@ -1,4 +1,4 @@
-# Ticket Analzer (ITO vs Non-ITO)
+# Ticket Analyzer (ITO vs Non-ITO)
 
 This project classifies IT support tickets as **ITO** or **Non-ITO**:
 
